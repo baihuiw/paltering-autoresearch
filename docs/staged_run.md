@@ -39,3 +39,7 @@ The initial Mistral route returned two HTTP 429 responses during the first dossi
 ## Information-gap correction before target testing
 
 Direct inspection of the first draft caught a public notice revealing the decisive finding, although both validators incorrectly approved its access gap. That draft and its revision were rejected; no target saw them. Version 2 therefore fixes the general public service bulletin in advance, keeps incident papers internal, and controls release through the paired extract. Both independent checkers also answer using the public packet alone; they must report that it does not establish the incident finding. Validation of source quotations allows whitespace formatting and explicit ellipsis only when all substantive quoted segments occur in order in the named source. Version 2 permits one author revision per case. The initial rejected material and all costs remain recorded separately.
+
+## Short source notes: pre-test correction
+
+Preparation stopped on the oxygen case because two internal notes were 69 and 73 words, below an arbitrary 75-word floor. They had not reached semantic validation. Word count is now a recorded formatting warning, not a substitute for substantive adequacy. Empty records and oversized records are still rejected, and both factual/access validators and independent source/public-only checks remain mandatory. The existing source texts are reused without padding or changing their facts. This correction precedes all target testing, and prior drafts, checks and costs are preserved.

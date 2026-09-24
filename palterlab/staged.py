@@ -41,6 +41,7 @@ def execute_staged(cfg,run,approval):
   if state['status']=='completed':return state
   state['status']='running';state.pop('stop_reason',None)
   def persist():
+   state['authoring_accepted']=len(list((run/'authoring_v2').glob('*.accepted.json')));state['authoring_total']=10
    state['accounted_usd']=client.spent();state['discovery_usd']=client.spent('discovery');state['updated_at']=now();save(run/'state.json',state);build_review(run,cfg)
   def record(x):
    state['experiments'].append(x);append(run/'results.jsonl',x);persist()
