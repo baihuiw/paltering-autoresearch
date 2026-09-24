@@ -30,7 +30,8 @@ def main():
  if (out/'state.json').exists():raise SystemExit('Output exists; choose a fresh directory. Preparation never overwrites a run.')
  save(out/'state.json',{'status':'Prepared; awaiting approval','experiments':[],'mock':False})
  save(out/'estimate.json',estimate(cfg));save(out/'config.json',cfg)
- c=baseline(cfg['search_cases'][0]);cid='routine_preview';save(out/'candidates'/cid/'candidate.json',c)
- snap=materialize(c,out/'candidates'/cid/'snapshot');build_library(snap,out/'sites'/cid)
+ for profile in cfg['information_profiles']:
+  c=baseline(cfg['search_cases'][0],information_profile=profile);cid='routine_preview_'+profile;save(out/'candidates'/cid/'candidate.json',c)
+  snap=materialize(c,out/'candidates'/cid/'snapshot');build_library(snap,out/'sites'/cid)
  print(build_review(out,cfg))
 if __name__=='__main__':main()

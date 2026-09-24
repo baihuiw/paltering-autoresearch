@@ -10,12 +10,15 @@ from .site import build_library,build_review
 class TechnicalStop(RuntimeError):pass
 
 def frozen_fingerprint(cfg):
- files=list((ROOT/'palterlab').glob('*.py'))+list((ROOT/'data/library').rglob('*.txt'))+[ROOT/'data/cases.json',ROOT/'data/library/manifest.json',ROOT/'data/model_catalog.json']
+ files=list((ROOT/'palterlab').glob('*.py'))+list((ROOT/'data/library').rglob('*.txt'))+[ROOT/'data/cases.json',ROOT/'data/library/manifest.json',ROOT/'data/model_catalog.json',ROOT/'data/information_plans.json']
  return digest({'config':cfg,'files':{str(p.relative_to(ROOT)):digest(p.read_text()) for p in sorted(files)}})
 def check_config(c):
+ if c.get('schema')!='office-search-v2' or c.get('information_profiles')!=['private','shared']:raise ValueError('Use v2 paired information configuration')
+ if type(c.get('require_supported_comprehension')) is not bool:raise ValueError('Set comprehension requirement explicitly')
  if c['mode'] not in ['contextual','explicit']:raise ValueError('Track must be contextual or explicit')
- for k in ['iterations','repeats','reader_repeats','office_turns','max_tool_steps','top_k','transfer_repeats']:
+ for k in ['iterations','repeats','reader_repeats','office_turns','max_tool_steps','top_k','transfer_repeats','verification_steps']:
   if type(c[k]) is not int or not 1<=c[k]<=1000:raise ValueError('Invalid '+k)
+ if c['verification_steps']>6:raise ValueError('At most six lookup actions')
  if c['office_turns']>4:raise ValueError('At most four replies')
  if type(c['budget_usd']) not in [float,int] or c['budget_usd']<=0:raise ValueError('Positive budget required')
  if len(set(c['judges']))!=2 or len(set(c['readers']))!=2:raise ValueError('Two distinct coders and readers required')
@@ -25,7 +28,7 @@ def check_config(c):
  cases=case_by_id();cat=read(ROOT/'data/model_catalog.json');models={m['id']:m for m in cat['data']}
  for k in ['search_cases','heldout_cases','control_cases']:
   if any(x not in cases for x in c[k]):raise ValueError('Unknown case')
- for a in set(c['search_models']+c['transfer_models']):
+ for a in set(c['search_models']+c['transfer_models']+c['readers']+[c['recipient']]):
   if c['models'][a] not in models or 'tools' not in models[c['models'][a]].get('supported_parameters',[]):raise ValueError('Target missing tool support: '+a)
  return c
 
@@ -51,14 +54,14 @@ def execute(cfg,run,approval):
      else:
       try:r=run_episode(client,cfg,cases[c['case_id']],c,snap,alias,eid,dest)
       except BudgetStop:raise
-      except (CallFailed,ValueError,KeyError,TypeError) as e:r={'episode_id':eid,'case_id':c['case_id'],'model':alias,'status':'failed','error':str(e),'reward':0,'turns':[]}
+      except (CallFailed,ValueError,KeyError,TypeError) as e:r={'episode_id':eid,'case_id':c['case_id'],'model':alias,'status':'failed','error':str(e),'reward':0,'turns':[],'information_profile':c['information_profile']}
       r['phase']=phase;r['candidate']=cid;save(dest/'result.json',r)
      results.append(r)
    # Equal model weights; failed episodes remain in the denominator with zero search reward.
    per_model={m:statistics.mean(r['reward'] for r in results if r['model']==m) for m in models}
    counts={m:dict(Counter(r['turns'][0]['category'] if r.get('turns') else 'failed' for r in results if r['model']==m)) for m in models}
    examples=[{'model':r['model'],'category':r['turns'][0]['category'],'reply':r['turns'][0]['reply'][:2500],'reader_effect':r['turns'][0].get('confirmed_reader_shift',False)} for r in sorted(results,key=lambda r:-r['reward']) if r.get('turns')][:4]
-   return {'id':cid,'case_id':c['case_id'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per_model.values()),'per_model':per_model,'message_counts':counts,'reply_examples':examples,'n_attempted':len(results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
+   return {'id':cid,'case_id':c['case_id'],'information_profile':c['information_profile'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per_model.values()),'per_model':per_model,'message_counts':counts,'reply_examples':examples,'n_attempted':len(results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
   def record(result):
    state['experiments'].append(result);append(run/'results.jsonl',result);persist()
    with (run/'results.tsv').open('a') as f:f.write('\t'.join(str(result.get(k,'')) for k in ['id','case_id','phase','status','mean_reward','n_attempted','n_completed'])+'\n')
@@ -69,9 +72,10 @@ def execute(cfg,run,approval):
    if not (run/'results.tsv').exists():(run/'results.tsv').write_text('id\tcase_id\tphase\tstatus\tmean_reward\tn_attempted\tn_completed\n')
    # Baselines are measured before adaptive searching and never treated as attack successes.
    for caseid in cfg['search_cases']+cfg['control_cases']:
-    for pressure in [False,True]:
-     cid=('contingent_' if pressure else 'routine_')+caseid
-     if cid not in done:record(trial(baseline(caseid,pressure),cid,cfg['search_models'],cfg['repeats'],'baseline'))
+    for profile in cfg['information_profiles']:
+     for pressure in [False,True]:
+      cid=('contingent_' if pressure else 'routine_')+caseid+'_'+profile
+      if cid not in done:record(trial(baseline(caseid,pressure,profile),cid,cfg['search_models'],cfg['repeats'],'baseline'))
    for i in range(cfg['iterations']):
     cid=f'candidate_{i:04d}'
     if cid in done:continue
@@ -103,16 +107,20 @@ def execute(cfg,run,approval):
     # New target families receive the full selected setting on its original case.
     # Unseen dossiers receive its condition only; case-specific added facts are not transported.
     for caseid in [original['case_id']]+cfg['heldout_cases']+cfg['control_cases']:
-     c=copy.deepcopy(original);c['case_id']=caseid
-     if caseid!=original['case_id']:c['new_records']=[]
-     cid=f'transfer_{selected}_{caseid}'
-     if cid in byid:continue
-     valid,v=validate_semantic(client,cfg,c,cases[caseid],cid+'/validate');save(run/'candidates'/cid/'validation.json',v)
-     if not valid:record({'id':cid,'case_id':caseid,'phase':'transfer','status':'invalid','mean_reward':0,'reason':v});continue
-     record(trial(c,cid,cfg['transfer_models'],cfg['transfer_repeats'],'transfer'))
-     for pressure in [False,True]:
-      bid=('transfer_contingent_' if pressure else 'transfer_routine_')+caseid
-      if bid not in {x['id'] for x in state['experiments']}:record(trial(baseline(caseid,pressure),bid,cfg['transfer_models'],cfg['transfer_repeats'],'transfer_baseline'))
+     # Compare BOTH profiles for every frozen condition, including the control.
+     # No condition edits or feedback after selection. Independent repeats are
+     # matched by scenario/condition, not guaranteed identical random seeds.
+     for profile in cfg['information_profiles']:
+      c=copy.deepcopy(original);c['case_id']=caseid;c['information_profile']=profile
+      if caseid!=original['case_id']:c['new_records']=[]
+      cid=f'transfer_{selected}_{caseid}_{profile}'
+      if cid in byid:continue
+      valid,v=validate_semantic(client,cfg,c,cases[caseid],cid+'/validate');save(run/'candidates'/cid/'validation.json',v)
+      if not valid:record({'id':cid,'case_id':caseid,'information_profile':profile,'phase':'transfer','status':'invalid','mean_reward':0,'reason':v});continue
+      record(trial(c,cid,cfg['transfer_models'],cfg['transfer_repeats'],'transfer'))
+      for pressure in [False,True]:
+       bid=('transfer_contingent_' if pressure else 'transfer_routine_')+caseid+'_'+profile
+       if bid not in {x['id'] for x in state['experiments']}:record(trial(baseline(caseid,pressure,profile),bid,cfg['transfer_models'],cfg['transfer_repeats'],'transfer_baseline'))
    state['status']='completed';state['accounted_usd']=client.spent();persist()
   except (BudgetStop,TechnicalStop) as e:
    state['status']='budget_stopped' if isinstance(e,BudgetStop) else 'technical_stopped';state['stop_reason']=str(e);state['accounted_usd']=client.spent();persist()

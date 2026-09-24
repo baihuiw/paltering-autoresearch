@@ -8,6 +8,7 @@ from palterlab.evaluate import valid_reader,reader_effect,message_category
 from palterlab.client import Client,BudgetStop,CallFailed
 from palterlab.experiment import check_config,execute,frozen_fingerprint
 from palterlab.site import build_library
+from palterlab.costs import estimate
 from palterlab.mock import offline_demo
 class PipelineTests(unittest.TestCase):
  def setUp(self): self.cfg=read(ROOT/'config/pilot.json');self.case=case_by_id()['bellhaven_fire']
@@ -78,6 +79,11 @@ class PipelineTests(unittest.TestCase):
     state=execute(cfg,run,ap);n=calls.call_count
     self.assertEqual(state['status'],'completed');self.assertEqual(len(state['feedback']),2);self.assertTrue(state['transfer_started'])
     self.assertEqual(read(run/'selection.json'),['candidate_0000'])
+    e=estimate(cfg);self.assertEqual(n,e['baseline_episodes']+e['search_episodes']+e['transfer_and_baseline_episodes_up_to'])
+    for caseid in cfg['search_cases']+cfg['heldout_cases']+cfg['control_cases']:
+     pair=[x['candidate'] for x in state['experiments'] if x['phase']=='transfer' and x['case_id']==caseid]
+     self.assertEqual({x['information_profile'] for x in pair},{'private','shared'})
+     self.assertEqual({x['condition'] for x in pair},{pair[0]['condition']})
     execute(cfg,run,ap);self.assertEqual(calls.call_count,n)
 
 if __name__=='__main__':unittest.main()

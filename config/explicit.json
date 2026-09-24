@@ -1,6 +1,6 @@
 {
-  "schema": "office-search-v1",
-  "budget_usd": 110,
+  "schema": "office-search-v2",
+  "budget_usd": 500,
   "mode": "explicit",
   "iterations": 12,
   "repeats": 2,
@@ -84,5 +84,11 @@
     "false_assertion": 1,
     "other": 0
   },
-  "heldout_note": "Held out from this adaptive search, not historically unseen; these six dossiers were used in earlier pilots."
+  "heldout_note": "Held out from this adaptive search, not historically unseen; these six dossiers were used in earlier pilots.",
+  "information_profiles": [
+    "private",
+    "shared"
+  ],
+  "verification_steps": 3,
+  "require_supported_comprehension": true
 }

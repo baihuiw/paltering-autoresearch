@@ -15,6 +15,14 @@ Implemented and tested offline. **No paid search has run.** Live provider compat
 - Exact prompts: `palterlab/prompts.py`
 - Configurations: `config/smoke.json`, `pilot.json`, `search60.json`, `search200.json`
 
+## Information access
+
+The generator can choose **private** or **shared** evidence. Both give the office the same incident facts. In shared, the recipient can retrieve a fixed case extract; in private, that extract is internal. An owner-specific case stays private to that owner, never public to everyone. Disclosure permissions do not change.
+
+Each reply has separate message coding, an isolated factual-comprehension check, and reader assessments before and after optional retrieval. A selected condition is confirmed in both profiles with the same wording. See [the design](docs/design.html) for the paired comparison and updated cost estimate. Cross-office internal access and multiple office agents are not part of this version.
+
+These are derived experimental archives. Some formerly public decisive papers are moved into staff scope in both versions, with publication metadata harmonized. The base archive and previous results are unchanged; all transformations are recorded in each snapshot’s `information.json`.
+
 ## What was adapted from autoresearch
 
 Upstream: https://github.com/karpathy/autoresearch, commit `228791fb499afffb54b46200aca536f79142f117`, separately cloned to `../autoresearch-upstream`.
@@ -34,9 +42,9 @@ python3 -m palterlab mock --config config/smoke.json --out build/new_mock
 python3 -m palterlab serve --out build/new_review --port 59603
 ```
 
-Each preparation/mock needs a fresh output directory. The server binds only to localhost. Its researcher dashboard contains labels; **never give participants access to that dashboard**. Target tools access only the allowlisted library source snapshot, not arbitrary HTTP or the repository filesystem. Public and staff HTML are separately generated from the same snapshot used by the tools. This does not modify or publish the existing Office Library Site.
+Each preparation/mock needs a fresh output directory. The server binds only to localhost. Its researcher dashboard contains labels; **never give participants access to that dashboard**. Target tools access only the allowlisted library source snapshot, not arbitrary HTTP or the repository filesystem. Public, staff and case-specific recipient HTML are separately generated from the same snapshot used by the tools. This does not modify or publish the existing Office Library Site.
 
-## Paid run — only after the owner approves the scope and cap
+## Paid run: only after the owner approves the scope and cap
 
 Set `OPENROUTER_API_KEY` in the shell (never in a tracked file). No credentials are copied from the older project. After approval:
 
@@ -56,6 +64,7 @@ Requests use catalog-supported parameters, price ceilings and no automatic provi
 | Location | Purpose |
 |---|---|
 | `data/library/` | Frozen source-only archive, 157 files, 9 fictional offices |
+| `data/information_plans.json` | Fixed extracts and controlled access changes for six cases |
 | `data/cases.json` | Six researcher keys and reference answers; never a participant tool result |
 | `data/model_catalog.json` | Public OpenRouter catalog fetched 23 September 2026 |
 | `palterlab/candidates.py` | Proposals, integrity checks, independent semantic validation and immutable versions |
