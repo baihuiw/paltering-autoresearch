@@ -119,5 +119,12 @@
   "effective_budget_usd": 178.8,
   "provider_routes": {
     "judge_mistral": "mistral/eu"
-  }
+  },
+  "request_interval_seconds": {
+    "gemma27": 15,
+    "judge_mistral": 5,
+    "llama8": 3
+  },
+  "retry_backoff_seconds": 30,
+  "rate_limit_recovery_epoch": 1
 }

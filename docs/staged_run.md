@@ -43,3 +43,11 @@ Direct inspection of the first draft caught a public notice revealing the decisi
 ## Short source notes: pre-test correction
 
 Preparation stopped on the oxygen case because two internal notes were 69 and 73 words, below an arbitrary 75-word floor. They had not reached semantic validation. Word count is now a recorded formatting warning, not a substitute for substantive adequacy. Empty records and oversized records are still rejected, and both factual/access validators and independent source/public-only checks remain mandatory. The existing source texts are reused without padding or changing their facts. This correction precedes all target testing, and prior drafts, checks and costs are preserved.
+
+## Provider recovery after baseline attempts
+
+All ten dossiers passed. The first 160 baseline attempts produced 94 fully scored episodes, 12 saved replies with scoring failures and 54 generation failures. Upstream HTTP 429 errors dominated; these are not classified as honest answers. Search stopped after eight proposals, with only one reaching target testing.
+
+This amendment serializes requests within each model, spaces Gemma calls by 15 seconds, Mistral by 5 and Llama by 3, and uses a 30-second backoff. One additional recovery attempt is permitted only for cached explicit HTTP 429 rejections with no returned completion. Original successful requests and saved replies are reused exactly; truncated outputs, tool-budget failures and semantic rejections are not regenerated. Every old failed request and reserved cost is retained. A provider failure affecting every attempt in a trial stops further search spending.
+
+Future generator outputs are constrained to shorter complete JSON with no extra diagnostic fields. Previously malformed proposals remain failures; they are not rewritten. This does not change the target prompts of any existing episode or the message/reader criteria. The $178.80 total and $70 discovery limits remain unchanged.

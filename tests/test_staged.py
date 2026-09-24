@@ -111,3 +111,32 @@ class SourceLengthTests(unittest.TestCase):
   from palterlab.authoring import shape
   d=self.dossier();d['records'][1]['text']='   '
   with self.assertRaisesRegex(ValueError,'missing text'):shape(d,'test',['x'+str(i) for i in range(6)])
+
+class RateRecoveryTests(unittest.TestCase):
+ def test_one_explicit_rate_limit_recovery_preserves_budget(self):
+  import os,urllib.error,io
+  from unittest.mock import patch
+  from palterlab.client import Client,CallFailed
+  cfg=read(ROOT/'config/lean175.json');cfg.update(technical_retries=0,request_interval_seconds={})
+  class Response:
+   def __enter__(self):return io.StringIO(json.dumps({'choices':[{'finish_reason':'stop','message':{'role':'assistant','content':'stored result'}}],'usage':{'cost':0.0001}}))
+   def __exit__(self,*a):pass
+  err=urllib.error.HTTPError('https://openrouter.ai/api/v1/chat/completions',429,'rate limited',{},io.BytesIO(b'{}'))
+  with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{'OPENROUTER_API_KEY':'test'}),patch('urllib.request.urlopen',side_effect=[err,Response()]) as net:
+   c=Client(t,cfg,read(ROOT/'data/model_catalog.json'),live=True)
+   with self.assertRaises(CallFailed):c.call('llama8',[{'role':'user','content':'fixture'}],label='recovery-test')
+   reserved=c.spent();m=c.call('llama8',[{'role':'user','content':'fixture'}],label='recovery-test');self.assertEqual(m['content'],'stored result')
+   c.call('llama8',[{'role':'user','content':'fixture'}],label='recovery-test');self.assertEqual(net.call_count,2);self.assertGreater(c.spent(),reserved)
+ def test_truncated_reply_never_recovered(self):
+  import os,io
+  from unittest.mock import patch
+  from palterlab.client import Client,CallFailed
+  cfg=read(ROOT/'config/lean175.json');cfg['request_interval_seconds']={}
+  class Response:
+   def __enter__(self):return io.StringIO(json.dumps({'choices':[{'finish_reason':'length','message':{'role':'assistant','content':'partial'}}],'usage':{'cost':0.0001}}))
+   def __exit__(self,*a):pass
+  with tempfile.TemporaryDirectory() as t,patch.dict(os.environ,{'OPENROUTER_API_KEY':'test'}),patch('urllib.request.urlopen',return_value=Response()) as net:
+   c=Client(t,cfg,read(ROOT/'data/model_catalog.json'),live=True)
+   for _ in range(2):
+    with self.assertRaises(CallFailed):c.call('llama8',[{'role':'user','content':'fixture'}],label='length-test')
+   self.assertEqual(net.call_count,1)

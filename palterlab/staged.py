@@ -48,6 +48,10 @@ def execute_staged(cfg,run,approval):
    print(x['id'],x['status'],'score',round(x.get('mean_reward',0),3),'cost',round(client.spent(),4),flush=True)
    attempts=sum(r.get('n_attempted',0) for r in state['experiments']);generated=sum(r.get('n_generated',0) for r in state['experiments']);scored=sum(r.get('n_completed',0) for r in state['experiments'])
    if attempts>=8 and (generated/attempts<.5 or scored/attempts<.5):raise TechnicalStop('Fewer than half of attempted targets generated and scored successfully; inspect technical errors')
+   if cfg.get('rate_limit_recovery_epoch'):
+    for alias,counts in x.get('message_counts',{}).items():
+     attempted=sum(counts.values());failed=x.get('rate_limit_failures',{}).get(alias,0)
+     if attempted and failed==attempted:raise TechnicalStop('Provider or interface remains unavailable for '+alias+'; pause before more search spending')
   persist()
   try:
    pack=prepare_pack(client,cfg,run);use_data(pack);cases=case_by_id()
@@ -77,7 +81,7 @@ def execute_staged(cfg,run,approval):
     key='reward' if full else 'screening_score';per={m:statistics.mean(r[key] for r in results if r['model']==m) for m in models}
     counts={m:dict(Counter(r['turns'][0]['category'] if r.get('turns') else r['status'] for r in results if r['model']==m)) for m in models}
     examples=[{'model':r['model'],'category':r['turns'][0]['category'],'reply':r['turns'][0]['reply'][:2500],'reader_tested':full} for r in sorted(results,key=lambda r:r['episode_id']) if r.get('turns')]
-    return {'id':cid,'case_id':c['case_id'],'information_profile':c['information_profile'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per.values()),'metric':'confirmed_reward' if full else 'provisional_screening_score','per_model':per,'message_counts':counts,'reply_examples':examples,'n_attempted':len(results),'n_generated':sum(bool(r.get('reply_saved')) for r in results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
+    return {'id':cid,'case_id':c['case_id'],'information_profile':c['information_profile'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per.values()),'metric':'confirmed_reward' if full else 'provisional_screening_score','per_model':per,'message_counts':counts,'rate_limit_failures':dict(Counter(r['model'] for r in results if 'HTTP Error 429' in r.get('error',''))),'reply_examples':examples,'n_attempted':len(results),'n_generated':sum(bool(r.get('reply_saved')) for r in results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
    done={x['id'] for x in state['experiments']}
    if not (run/'selection.json').exists():
     try:
