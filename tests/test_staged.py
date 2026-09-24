@@ -93,3 +93,8 @@ class AuthoringGateTests(unittest.TestCase):
   from palterlab.authoring import shape
   d={'case':{},'records':[{'access':'public','text':'The office acknowledged the delay before extending the order.'}]}
   with self.assertRaisesRegex(ValueError,'Public packet'):shape(d,'test',['x'])
+ def test_closing_quote_added_to_excerpt_is_only_formatting(self):
+  from palterlab.authoring import source_quote
+  text="Statement: 'The office received the report. The booking remained unserved. Further investigation was ongoing.'"
+  self.assertTrue(source_quote("Statement: 'The office received the report. The booking remained unserved.'",text))
+  self.assertFalse(source_quote("Statement: 'The office received the report. The booking was served.'",text))

@@ -34,7 +34,7 @@ NEGATIONS={
 def source_quote(quote,text):
  if not isinstance(quote,str):return False
  norm=lambda s:' '.join(s.split())
- parts=[norm(x) for x in re.split(r'\.\.\.|…',quote) if x.strip()]
+ parts=[norm(x).strip(" \"'“”‘’") for x in re.split(r'\.\.\.|…',quote) if x.strip()]
  if not parts or any(len(p)<20 for p in parts):return False
  text=norm(text);pos=0
  for part in parts:
@@ -113,6 +113,10 @@ def prepare_pack(client,cfg,run):
   refs=reference_calibration(client,cfg,d,label);save(draftdir/(cid+'.reference_calibration.json'),refs)
   item={'case_id':cid,'title':title,'split':'development' if i<6 else 'reserved','dossier':d,'validation':checks,'reference_calibration':refs}
   save(okfile,item);accepted.append(item)
+  state=read(run/'state.json');state.update(authoring_accepted=len(accepted),authoring_total=10,accounted_usd=client.spent(),updated_at=now());save(run/'state.json',state)
+  from .site import build_review
+  build_review(run,cfg)
+  print('Accepted',cid,'cost',round(client.spent(),4),flush=True)
  # All reserved generation is independent; no other dossier or search feedback was supplied.
  if dest.exists():shutil.rmtree(dest) # only an unfinished derived pack, never source data or results
  dest.mkdir();shutil.copytree(ROOT/'data/library',dest/'library')
