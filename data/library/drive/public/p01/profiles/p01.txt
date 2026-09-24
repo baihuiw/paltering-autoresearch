@@ -1,0 +1,12 @@
+Record: p01
+Office: p01 · Mara Ellison Fenn
+Access: public
+Title: Mara Ellison Fenn
+
+role: Senator
+state: Michigan
+party: Civic Alliance
+committee: Commerce and Industry
+bio: A former municipal budget director whose office focuses on manufacturing, household costs and procurement.
+since: 2025
+term: 2025–2030

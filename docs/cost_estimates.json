@@ -1,0 +1,310 @@
+{
+  "smoke": {
+    "search_candidates": 6,
+    "baseline_episodes": 32,
+    "search_episodes": 24,
+    "transfer_and_baseline_episodes_up_to": 72,
+    "typical_usd": 13.81,
+    "heavy_context_usd": 29.5,
+    "with_25pct_contingency_usd": 36.88,
+    "hard_cap_usd": 40,
+    "assumptions": {
+      "target_total_input_tokens_per_reply": [
+        40000,
+        120000
+      ],
+      "target_total_output_tokens_per_reply": [
+        6000,
+        15000
+      ],
+      "reader_calls_per_reply": 24,
+      "coder_calls_per_reply": 2,
+      "pricing": "Maximum listed rate over catalog overrides; no cache/batch/free-tier discounts; not a completion guarantee.",
+      "errors": "No automatic retries; all attempted calls count. Failed or invalid candidates can reduce realized spend.",
+      "learning": "Adaptive prompt/environment search, not gradient RL or fine-tuning; no GPU training cost."
+    },
+    "models": {
+      "attacker": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "llama8": {
+        "id": "meta-llama/llama-3.1-8b-instruct",
+        "input_per_million": 0.049999999999999996,
+        "output_per_million": 0.08
+      },
+      "gemma27": {
+        "id": "google/gemma-3-27b-it",
+        "input_per_million": 0.08,
+        "output_per_million": 0.44999999999999996
+      },
+      "qwen9": {
+        "id": "qwen/qwen3.5-9b",
+        "input_per_million": 0.09999999999999999,
+        "output_per_million": 0.15
+      },
+      "deepseek": {
+        "id": "deepseek/deepseek-v4.1-flash",
+        "input_per_million": 0.3,
+        "output_per_million": 1.2
+      },
+      "sonnet": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "gpt": {
+        "id": "openai/gpt-5.6-luna",
+        "input_per_million": 0.39999999999999997,
+        "output_per_million": 1.7999999999999998
+      },
+      "gemini": {
+        "id": "google/gemini-3.8-flash",
+        "input_per_million": 0.75,
+        "output_per_million": 3.75
+      },
+      "judge_qwen": {
+        "id": "qwen/qwen3.7-plus",
+        "input_per_million": 0.96,
+        "output_per_million": 3.84
+      },
+      "judge_mistral": {
+        "id": "mistralai/mistral-small-2603",
+        "input_per_million": 0.15,
+        "output_per_million": 0.6
+      }
+    }
+  },
+  "pilot": {
+    "search_candidates": 12,
+    "baseline_episodes": 64,
+    "search_episodes": 96,
+    "transfer_and_baseline_episodes_up_to": 216,
+    "typical_usd": 40.46,
+    "heavy_context_usd": 87.08,
+    "with_25pct_contingency_usd": 108.85,
+    "hard_cap_usd": 110,
+    "assumptions": {
+      "target_total_input_tokens_per_reply": [
+        40000,
+        120000
+      ],
+      "target_total_output_tokens_per_reply": [
+        6000,
+        15000
+      ],
+      "reader_calls_per_reply": 24,
+      "coder_calls_per_reply": 2,
+      "pricing": "Maximum listed rate over catalog overrides; no cache/batch/free-tier discounts; not a completion guarantee.",
+      "errors": "No automatic retries; all attempted calls count. Failed or invalid candidates can reduce realized spend.",
+      "learning": "Adaptive prompt/environment search, not gradient RL or fine-tuning; no GPU training cost."
+    },
+    "models": {
+      "attacker": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "llama8": {
+        "id": "meta-llama/llama-3.1-8b-instruct",
+        "input_per_million": 0.049999999999999996,
+        "output_per_million": 0.08
+      },
+      "gemma27": {
+        "id": "google/gemma-3-27b-it",
+        "input_per_million": 0.08,
+        "output_per_million": 0.44999999999999996
+      },
+      "qwen9": {
+        "id": "qwen/qwen3.5-9b",
+        "input_per_million": 0.09999999999999999,
+        "output_per_million": 0.15
+      },
+      "deepseek": {
+        "id": "deepseek/deepseek-v4.1-flash",
+        "input_per_million": 0.3,
+        "output_per_million": 1.2
+      },
+      "sonnet": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "gpt": {
+        "id": "openai/gpt-5.6-luna",
+        "input_per_million": 0.39999999999999997,
+        "output_per_million": 1.7999999999999998
+      },
+      "gemini": {
+        "id": "google/gemini-3.8-flash",
+        "input_per_million": 0.75,
+        "output_per_million": 3.75
+      },
+      "judge_qwen": {
+        "id": "qwen/qwen3.7-plus",
+        "input_per_million": 0.96,
+        "output_per_million": 3.84
+      },
+      "judge_mistral": {
+        "id": "mistralai/mistral-small-2603",
+        "input_per_million": 0.15,
+        "output_per_million": 0.6
+      }
+    }
+  },
+  "search60": {
+    "search_candidates": 60,
+    "baseline_episodes": 64,
+    "search_episodes": 480,
+    "transfer_and_baseline_episodes_up_to": 288,
+    "typical_usd": 79.5,
+    "heavy_context_usd": 160.66,
+    "with_25pct_contingency_usd": 200.83,
+    "hard_cap_usd": 210,
+    "assumptions": {
+      "target_total_input_tokens_per_reply": [
+        40000,
+        120000
+      ],
+      "target_total_output_tokens_per_reply": [
+        6000,
+        15000
+      ],
+      "reader_calls_per_reply": 24,
+      "coder_calls_per_reply": 2,
+      "pricing": "Maximum listed rate over catalog overrides; no cache/batch/free-tier discounts; not a completion guarantee.",
+      "errors": "No automatic retries; all attempted calls count. Failed or invalid candidates can reduce realized spend.",
+      "learning": "Adaptive prompt/environment search, not gradient RL or fine-tuning; no GPU training cost."
+    },
+    "models": {
+      "attacker": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "llama8": {
+        "id": "meta-llama/llama-3.1-8b-instruct",
+        "input_per_million": 0.049999999999999996,
+        "output_per_million": 0.08
+      },
+      "gemma27": {
+        "id": "google/gemma-3-27b-it",
+        "input_per_million": 0.08,
+        "output_per_million": 0.44999999999999996
+      },
+      "qwen9": {
+        "id": "qwen/qwen3.5-9b",
+        "input_per_million": 0.09999999999999999,
+        "output_per_million": 0.15
+      },
+      "deepseek": {
+        "id": "deepseek/deepseek-v4.1-flash",
+        "input_per_million": 0.3,
+        "output_per_million": 1.2
+      },
+      "sonnet": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "gpt": {
+        "id": "openai/gpt-5.6-luna",
+        "input_per_million": 0.39999999999999997,
+        "output_per_million": 1.7999999999999998
+      },
+      "gemini": {
+        "id": "google/gemini-3.8-flash",
+        "input_per_million": 0.75,
+        "output_per_million": 3.75
+      },
+      "judge_qwen": {
+        "id": "qwen/qwen3.7-plus",
+        "input_per_million": 0.96,
+        "output_per_million": 3.84
+      },
+      "judge_mistral": {
+        "id": "mistralai/mistral-small-2603",
+        "input_per_million": 0.15,
+        "output_per_million": 0.6
+      }
+    }
+  },
+  "search200": {
+    "search_candidates": 200,
+    "baseline_episodes": 64,
+    "search_episodes": 1600,
+    "transfer_and_baseline_episodes_up_to": 288,
+    "typical_usd": 165.26,
+    "heavy_context_usd": 310.77,
+    "with_25pct_contingency_usd": 388.46,
+    "hard_cap_usd": 400,
+    "assumptions": {
+      "target_total_input_tokens_per_reply": [
+        40000,
+        120000
+      ],
+      "target_total_output_tokens_per_reply": [
+        6000,
+        15000
+      ],
+      "reader_calls_per_reply": 24,
+      "coder_calls_per_reply": 2,
+      "pricing": "Maximum listed rate over catalog overrides; no cache/batch/free-tier discounts; not a completion guarantee.",
+      "errors": "No automatic retries; all attempted calls count. Failed or invalid candidates can reduce realized spend.",
+      "learning": "Adaptive prompt/environment search, not gradient RL or fine-tuning; no GPU training cost."
+    },
+    "models": {
+      "attacker": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "llama8": {
+        "id": "meta-llama/llama-3.1-8b-instruct",
+        "input_per_million": 0.049999999999999996,
+        "output_per_million": 0.08
+      },
+      "gemma27": {
+        "id": "google/gemma-3-27b-it",
+        "input_per_million": 0.08,
+        "output_per_million": 0.44999999999999996
+      },
+      "qwen9": {
+        "id": "qwen/qwen3.5-9b",
+        "input_per_million": 0.09999999999999999,
+        "output_per_million": 0.15
+      },
+      "deepseek": {
+        "id": "deepseek/deepseek-v4.1-flash",
+        "input_per_million": 0.3,
+        "output_per_million": 1.2
+      },
+      "sonnet": {
+        "id": "anthropic/claude-sonnet-5",
+        "input_per_million": 2.0,
+        "output_per_million": 10.0
+      },
+      "gpt": {
+        "id": "openai/gpt-5.6-luna",
+        "input_per_million": 0.39999999999999997,
+        "output_per_million": 1.7999999999999998
+      },
+      "gemini": {
+        "id": "google/gemini-3.8-flash",
+        "input_per_million": 0.75,
+        "output_per_million": 3.75
+      },
+      "judge_qwen": {
+        "id": "qwen/qwen3.7-plus",
+        "input_per_million": 0.96,
+        "output_per_million": 3.84
+      },
+      "judge_mistral": {
+        "id": "mistralai/mistral-small-2603",
+        "input_per_million": 0.15,
+        "output_per_million": 0.6
+      }
+    }
+  }
+}

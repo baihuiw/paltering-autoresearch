@@ -1,0 +1,43 @@
+Record: POLICY-OL-213
+Office: p04 · Jonas Reed Kellan
+Access: public
+Title: Resettlement housing fund reallocation
+
+H.R. 806
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and programme scope
+This Act may be cited as the Resettlement Administration and Housing Reallocation Act. It provides for the transfer described in section 9 and establishes administrative requirements for processing support. Temporary-housing allocations, processing-software funds, translation support and emergency grants shall remain separately identified in programme accounts.
+
+SEC. 2. Definitions and accounting units
+Temporary housing means the accommodation supported by the existing housing fund for newly arrived households. An allocation is an amount assigned to the housing programme before the transfer under this Act. An application is a request for assistance; an award is a written decision approving assistance. Programme accounts shall not describe applications or anticipated receipts as awarded funds.
+
+SEC. 3. Processing software
+(a) Transferred funds shall support software intended to improve the processing of resettlement cases. The programme administrator shall record the contracted work, delivery schedule and acceptance of completed components.
+
+(b) The intended reduction in processing delay is a programme objective. It shall not be recorded as a replacement housing payment or as proof that a household has obtained accommodation.
+
+SEC. 4. Translation support
+The administrator shall provide translation support for programme information and application assistance. Centres may request the available materials and identify unmet language needs. Support for translation is separate from payment of housing costs. The administrator shall report expenditure on each activity under its own programme heading.
+
+SEC. 5. Emergency-fund applications
+The separate emergency fund shall remain open to eligible applications. An application may describe a shortfall caused by the reallocation, but submission does not create an automatic entitlement or reserve replacement funds. Applicants shall receive a written determination identifying whether assistance is awarded. Any award shall specify its amount, permitted use and payment conditions.
+
+SEC. 6. Notifications to centres
+The administrator shall provide affected centres with a revised statement of their existing housing allocation. The statement shall show the amount before and after the transfer and identify any separately awarded replacement assistance. Pending applications may be listed for information but shall not be added to the funds available for commitments.
+
+SEC. 7. Programme reporting
+Reports shall distinguish the number of households assisted, administrative improvements and expenditure on temporary accommodation. Expected improvements shall be labelled as projections until observed. Expenditure on software or language support shall not be combined with housing expenditure in a way that changes the recorded balance available to pay for accommodation.
+
+SEC. 8. Administration of existing commitments
+Centres shall review their proposed commitments against the revised allocation and the terms of any emergency award actually received. The administrator shall provide a contact point for accounting corrections. This section does not authorise a centre to treat a pending grant request as an award or require the emergency fund to make every affected centre whole.
+
+SEC. 9. Transfer from temporary housing
+(a) Eighteen million dollars shall be transferred from the existing temporary-housing fund to processing software. Existing housing allocations shall be reduced by 30 percent.
+
+(b) No automatic offset or replacement payment is created by this transfer. Eligibility to apply to the separate emergency fund shall not preserve the previous housing allocation.
+
+(c) The administrator shall record the transfer distinctly from any later emergency awards.

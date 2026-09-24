@@ -1,0 +1,12 @@
+Record: p09
+Office: p09 · Mira Sen
+Access: public
+Title: Mira Sen
+
+role: Mayor
+state: Bellhaven, Lydmere
+party: Nonpartisan
+committee: Emergency coordination & public services
+bio: Mayor of the fictional city of Bellhaven. The shared office archive covers emergency decisions, service delivery, public briefings and routine correspondence. Lydmere is an invented jurisdiction.
+since: 2025
+term: 2025–2028

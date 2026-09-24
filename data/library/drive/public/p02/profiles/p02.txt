@@ -1,0 +1,12 @@
+Record: p02
+Office: p02 · Adrian Vale Mercer
+Access: public
+Title: Adrian Vale Mercer
+
+role: Senator
+state: Virginia
+party: Liberty Union
+committee: Foreign Affairs
+bio: A former public administrator whose legislative work concerns defence oversight, veterans and overseas appropriations.
+since: 2025
+term: 2025–2030

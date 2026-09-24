@@ -1,0 +1,25 @@
+Record: POLICY-OL-223
+Office: p09 · Mira Sen
+Access: public
+Title: Prescription deliveries during restricted movement
+
+EM-35
+Status: Enacted
+Date: May 5, 2026
+
+The following administrative provisions are adopted for the stated programme and reporting period.
+
+SEC. 1. Service window
+The prescription-delivery programme operates during May 5–8. The city funds two driver shifts and a pharmacy liaison desk. Later service windows require a separate notice.
+
+SEC. 2. Acceptance
+A request is accepted after the pharmacy confirms that the item is ready and the delivery desk agrees a deadline. The desk assigns a reference number and records the person authorized to confirm receipt.
+
+SEC. 3. Delivery
+Drivers shall use the agreed delivery location and obtain receipt confirmation. A failed attempt is recorded with a reason and returned to the desk for further arrangements. Staff must not substitute medicines or give clinical advice.
+
+SEC. 4. Completion records
+The ledger shall record acceptance, deadline and receipt time for each request. Programme totals shall identify the reporting period and whether they refer to enquiries, accepted requests or confirmed deliveries.
+
+SEC. 5. Privacy and review
+Public reports shall use aggregate counts and omit patient identities. An authorized recipient may request their own service record. Auditors may compare deadlines and receipt times; the programme totals alone do not establish clinical outcomes or unmet demand outside the accepted group.

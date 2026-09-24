@@ -1,0 +1,37 @@
+Record: POLICY-OL-216
+Office: p07 · Elena Rae Sutter
+Access: public
+Title: Contaminated batch notification
+
+S. 1184
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and programme purpose
+This Act may be cited as the Medicine Batch Verification and Notification Act. It provides funding for confirmatory laboratory capacity and retains the notification interval specified in section 4. Batch-specific findings shall be recorded separately from aggregate inspection statistics and from decisions about products not included in the finding.
+
+SEC. 2. Batch records
+An identified batch means the batch designated in a laboratory finding using its batch identifier. The administering authority shall preserve the identifier, test date, recorded result and any request for confirmatory work. A statistical pass rate across other tested batches shall not replace the finding for the identified batch. A finding shall not be extended to other batches without evidence concerning those batches.
+
+SEC. 3. Confirmatory laboratory capacity
+(a) Programme funds shall support confirmatory testing, laboratory equipment and the processing of batch records. The administrator shall publish the procedures for submitting material for confirmation.
+
+(b) A request for further testing shall identify the finding to be examined. Pending confirmation shall be recorded as pending, rather than as a completed result clearing the batch. Programme capacity figures shall be reported separately from findings about any particular batch.
+
+SEC. 4. Notification interval
+(a) The ten-day hold for confirmatory checks beginning March 18, 2026 is retained for the identified batch Q17. Public notification under this programme may be withheld during that interval.
+
+(b) Q17 is included in the hold although it has already been identified in the laboratory record. No removal from distribution during the hold is required by this measure.
+
+(c) At the end of the interval the authority shall issue the batch notice, identifying the result then available and any outstanding confirmation work.
+
+SEC. 5. Contents of the batch notice
+The notice shall identify the batch, the date of the recorded finding and the date of notification. It shall distinguish the batch-specific result from general inspection data and state the status of confirmatory testing. The notice may explain the purpose of further testing but shall preserve the recorded chronology. A later notice shall not change the date on which a finding was first entered.
+
+SEC. 6. Aggregate inspection information
+Programme reports may state the proportion of tested batches meeting the specification, including the recorded overall pass rate of 98 percent. Such reports shall identify the population and testing period used. The overall rate is not a certification that Q17 met the specification, nor a finding that every product on the market was tested. Other batches shall not be described as implicated solely because Q17 was identified.
+
+SEC. 7. Distribution and exposure records
+The administrator shall retain available distribution information relevant to the identified batch. This Act does not determine whether a particular person received a product from that batch or whether a particular illness was caused by it. Questions about individual exposure require the relevant distribution and clinical records. The programme chronology shall record the identification, hold and notification as distinct events.

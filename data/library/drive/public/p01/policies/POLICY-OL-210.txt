@@ -1,0 +1,48 @@
+Record: POLICY-OL-210
+Office: p01 · Mara Ellison Fenn
+Access: public
+Title: Hospital equipment tariff waivers
+
+S. 482
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and purpose
+This Act may be cited as the Hospital Equipment and Domestic Production Act. Its purposes are to establish a schedule for specified imported medical equipment, provide a limited exemption for diagnostic scanners, and support domestic production through a competitive grant programme. The exemptions and grants created by this Act shall be administered separately.
+
+SEC. 2. Definitions
+(a) Covered equipment means imported medical equipment entered for domestic use on or after the date specified in section 8, including dialysis machines and their dedicated operating assemblies.
+
+(b) Diagnostic scanner means an imaging device whose primary purpose is diagnostic scanning. A device whose primary purpose is dialysis treatment shall not be classified as a diagnostic scanner merely because it incorporates a sensor or display.
+
+(c) Small clinic means a provider eligible under the published grant programme rules.
+
+SEC. 3. Domestic manufacturing programme
+(a) The administering agency shall establish a programme to support domestic production capacity for medical equipment and publish its application criteria. Applications shall identify the equipment to be manufactured, the proposed production schedule and the anticipated users.
+
+(b) In selecting projects, the agency shall consider supply continuity, capacity to complete the project and access for smaller providers. A statement of programme purpose does not constitute an award to an individual applicant.
+
+SEC. 4. Applications by small clinics
+(a) Small clinics may apply for assistance under the programme. Each application shall identify the proposed purchase and any other assistance requested for the same cost.
+
+(b) Awards shall be competitive and subject to available programme funds. Eligibility to apply shall not create an automatic entitlement to payment. The agency shall give each applicant a written decision specifying whether assistance has been awarded and its permitted use.
+
+SEC. 5. Administration of awards
+The agency shall keep an award register and distinguish applications received from awards approved and payments made. A recipient shall retain purchase records and report material changes to an approved project. Assistance shall be used only for the purposes stated in an award. No application, pending decision or programme announcement shall suspend the tariff imposed by section 6.
+
+SEC. 6. Tariff on covered imports
+(a) A tariff of 12 percent shall apply to the entered value of covered equipment, except equipment qualifying for the exemption in section 7.
+
+(b) The importer shall identify the equipment category and retain the classification documents used for the entry. The administering agency may request clarification where equipment includes several functions. This section establishes the import charge; it does not fix the retail price charged by a supplier to a clinic.
+
+SEC. 7. Medical exemption
+(a) Diagnostic scanners, as defined in section 2, are exempt from the tariff imposed by section 6.
+
+(b) Dialysis equipment is not included in this exemption. Use of such equipment for a medical purpose, or purchase by a small clinic, shall not independently establish an exemption.
+
+(c) A request to expand the exempt categories shall be recorded for consideration. The filing or endorsement of a request shall not amend the categories in force.
+
+SEC. 8. Effective date and reporting
+The tariff schedule and exemption shall apply from July 1, 2026. The agency shall publish implementation guidance identifying the covered and exempt categories, together with information about grant applications. Its programme report shall list awarded grants separately from the number of applicants. A subsequent change in the schedule must identify the legal authority, amended categories and effective date of that change.

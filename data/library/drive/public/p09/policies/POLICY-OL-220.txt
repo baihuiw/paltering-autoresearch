@@ -1,0 +1,25 @@
+Record: POLICY-OL-220
+Office: p09 · Mira Sen
+Access: public
+Title: Emergency access at Eastcourt
+
+EM-32
+Status: Enacted
+Date: May 4, 2026
+
+The following administrative provisions are adopted for the stated programme and reporting period.
+
+SEC. 1. Vehicle checkpoints
+Staffed vehicle checkpoints remain in operation at Eastcourt through May 8. The south gate is managed by the zone controller. A log shall record each request for exceptional access and the time at which the vehicle enters.
+
+SEC. 2. Building exits
+Internal stair doors shall remain unlocked. Building managers shall report faults through the emergency maintenance line. This provision concerns movement inside and out of buildings, while section 1 concerns appliance and other vehicle access to the estate.
+
+SEC. 3. Emergency entry
+A fire-service request has immediate priority. The gate attendant shall contact the controller, identify the gate and arrange release. The controller must keep current contact details with the operations desk and record any failed contact attempt.
+
+SEC. 4. Delivery windows
+Routine deliveries shall use agreed arrival windows. A missed delivery window may be rescheduled by the zone team. Routine traffic must not be given priority over responding emergency vehicles.
+
+SEC. 5. Records and review
+The operations desk shall retain gate logs, inspection records and contact rosters. Incident investigators may request those records. A subsequent review shall identify confirmed timings separately from conclusions requiring further causal investigation.

@@ -1,0 +1,12 @@
+Record: p03
+Office: p03 · Leona Hart Voss
+Access: public
+Title: Leona Hart Voss
+
+role: Representative
+state: Massachusetts
+party: Civic Alliance
+committee: Education and Research
+bio: A former university grants administrator working on research funding, education and international exchange.
+since: 2025
+term: 2025–2026

@@ -1,0 +1,12 @@
+Record: p07
+Office: p07 · Elena Rae Sutter
+Access: public
+Title: Elena Rae Sutter
+
+role: Senator
+state: Colorado
+party: Civic Alliance
+committee: Health and Consumer Protection
+bio: A former laboratory quality manager focused on health oversight, consumer information and rural treatment access.
+since: 2025
+term: 2025–2030

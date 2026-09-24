@@ -1,0 +1,9 @@
+Record: OL-219-5
+Office: p09 · Mira Sen
+Access: public
+Title: Food deliveries during movement restrictions · Programme summary
+
+Date: May 7, 2026
+Source: Bellhaven public archive
+
+The delivery programme covers registered households in restricted zones. A parcel contains several days of staple foods; dietary substitutions are requested separately. Dispatch assignment is not proof of receipt. The logistics return records receipt by household and date. The city maintains one published aggregate dashboard and ward-level service returns.

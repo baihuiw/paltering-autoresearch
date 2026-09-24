@@ -1,0 +1,16 @@
+Record: BH-register
+Office: p09 · Mira Sen
+Access: public
+Title: May decision register
+
+Date: May 20, 2026
+Source: Bellhaven office archive
+
+date,item,subject,result
+2026-05-02,33,Temporary animal care,Approved
+2026-05-02,34,Spring fair arrangements,Approved
+2026-05-04,32,Eastcourt checkpoint arrangement,Retained
+2026-05-05,35,Prescription delivery shifts,Approved
+2026-05-09,31,Cedar restriction extension,Approved
+2026-05-12,36,Library replacement shelving,Approved
+2026-05-14,37,Riverside park lighting repair,Approved

@@ -1,0 +1,9 @@
+Record: OL-221-5
+Office: p09 · Mira Sen
+Access: public
+Title: Animal care during isolation transfers · Programme summary
+
+Date: May 3, 2026
+Source: Bellhaven public archive
+
+Animal enquiries are matched to an owner and case number before a case outcome is released. Aggregate care figures can be discussed publicly. Another owner’s individual record must not be provided. A placement, a feeding visit and an animal’s final outcome are separate fields in the register.

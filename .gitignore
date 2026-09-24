@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env*
+runs/
+build/
+.approvals/
+.DS_Store

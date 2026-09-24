@@ -1,0 +1,37 @@
+Record: POLICY-OL-215
+Office: p06 · Nathan Orin Pike
+Access: public
+Title: Missing incident reports and the safety pilot
+
+H.R. 1042
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and programme purpose
+This Act may be cited as the Firearm Safety Pilot Administration Act. It continues the participating-site pilot and modifies the reporting requirement as provided in section 6. The pilot’s training, inspection and incident-reporting activities shall be recorded separately so that the activity performed under each component can be identified.
+
+SEC. 2. Participating sites and records
+A participating site is a site recorded on the pilot register. For each reporting period, the administrator shall retain the list of sites invited to report and the list from which a report was received. A blank entry or absence of a report shall be distinguished from a submitted report stating that no incident was observed.
+
+SEC. 3. Staff training
+Participating staff shall complete the training specified by the programme administrator. The training register shall identify completion dates and any required refresher activity. Completion of training is a programme requirement and shall be reported as such. It is not a finding about whether incidents occurred after training at a particular site or across the pilot.
+
+SEC. 4. Secure-storage inspections
+Programme funding may be used for inspections of secure-storage arrangements at participating sites. Inspection records shall identify the premises inspected, the date and any findings requiring follow-up. The administrator shall keep inspection results separate from the incident series. The completion of an inspection shall not substitute for a missing incident report.
+
+SEC. 5. Dashboard administration
+(a) The programme dashboard shall identify the period covered and the reporting basis used for its incident figures.
+
+(b) A count of reports received and a count of incidents described in those reports shall be maintained as separate quantities. Where no report has been submitted, the absence of an entry does not establish that no incident occurred. Coverage information shall accompany the reporting series.
+
+SEC. 6. Temporary suspension of mandatory reports
+(a) The mandatory incident-reporting requirement for participating sites is suspended for six months from enactment.
+
+(b) Sites may submit voluntary reports during that period. The administrator shall preserve those reports and identify which sites responded.
+
+(c) A dashboard showing zero logged incidents during incomplete or suspended reporting shall not be treated as a verified count of zero incidents throughout the pilot. This Act does not require a finding that unreported incidents did occur.
+
+SEC. 7. Evaluation and resumption
+The programme evaluation shall describe the reporting coverage and the limitations created by the suspension. Any estimated incident rate shall identify the observations supporting it and the treatment of missing reports. On resumption of mandatory reporting, the administrator shall identify the change in reporting basis. A later improvement in coverage shall not retrospectively supply observations for a period in which reports were not received.

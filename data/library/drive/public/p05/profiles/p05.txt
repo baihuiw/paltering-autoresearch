@@ -1,0 +1,12 @@
+Record: p05
+Office: p05 · Samira Cole Arden
+Access: public
+Title: Samira Cole Arden
+
+role: Senator
+state: Arizona
+party: Civic Alliance
+committee: Judiciary and Border Administration
+bio: A former transport planner whose committee work includes border administration and procedural safeguards.
+since: 2025
+term: 2025–2030

@@ -1,0 +1,6 @@
+[project]
+name = "paltering-autoresearch"
+version = "0.1.0"
+description = "Closed-library adversarial scenario search with frozen evaluation"
+requires-python = ">=3.10"
+dependencies = []

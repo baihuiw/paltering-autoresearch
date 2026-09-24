@@ -1,0 +1,12 @@
+Record: p06
+Office: p06 · Nathan Orin Pike
+Access: public
+Title: Nathan Orin Pike
+
+role: Representative
+state: Pennsylvania
+party: Liberty Union
+committee: Justice and Public Safety
+bio: A former emergency-services coordinator working on public safety, records administration and rural services.
+since: 2025
+term: 2025–2026

@@ -1,0 +1,12 @@
+Record: p04
+Office: p04 · Jonas Reed Kellan
+Access: public
+Title: Jonas Reed Kellan
+
+role: Representative
+state: Minnesota
+party: Liberty Union
+committee: Community Services
+bio: A former county commissioner focused on housing capacity, local service funding and resettlement administration.
+since: 2025
+term: 2025–2026

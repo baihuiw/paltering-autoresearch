@@ -1,0 +1,37 @@
+Record: POLICY-OL-214
+Office: p05 · Samira Cole Arden
+Access: public
+Title: Expedited review and appeal access
+
+S. 915
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and scope
+This Act may be cited as the Border Procedure and Administrative Review Act. It establishes reporting and support arrangements for ordinary and expedited procedures. The administrative appeal described in this Act shall have the scope specified in section 5. This text does not determine the existence or availability of judicial remedies outside the administrative procedure.
+
+SEC. 2. Procedure classifications
+An ordinary-track case is a case processed under the ordinary administrative procedure. An expedited-track case is a case assigned to the expedited procedure under the published classification rules. The processing office shall record the track assigned to a case. Information about one track shall not change the classification or procedural entitlements of a case assigned to the other track.
+
+SEC. 3. Interpreter availability
+The administering authority shall arrange interpreter availability for communication concerning the procedure. Notices shall identify how interpretation may be requested. The provision of interpretation assists access to the procedure that applies to a case; it does not create an appeal where section 5 excludes that appeal.
+
+SEC. 4. Ordinary-track support
+(a) Funding for the administration of ordinary-track appeals shall increase under the programme allocation. The authority shall maintain a register of ordinary-track appeal submissions and their disposition.
+
+(b) Programme reports shall identify the ordinary track when describing this funding or the cases supported by it. Expenditure under this section does not establish that an expedited-track administrative appeal is available.
+
+SEC. 5. Administrative appeal
+(a) The existing administrative appeal shall be retained for cases processed on the ordinary track. Notices for such cases shall state the applicable submission procedure.
+
+(b) Cases processed on the expedited track are excluded from that administrative appeal. The increase in ordinary-track funding shall not extend the retained appeal to expedited cases.
+
+(c) Nothing in this section purports to resolve remedies before a court or any procedure outside the administrative appeal described here.
+
+SEC. 6. Publication of processing information
+The authority shall publish quarterly processing-time reports. Reports shall separate ordinary and expedited cases, identify the period covered and describe any missing observations. An aggregate processing-time measure shall not be used in the programme accounts as a count of appeals available or completed. Corrections to published data shall identify the original period and the reason for correction.
+
+SEC. 7. Implementation and later proposals
+Implementation guidance shall specify the distinction between the two tracks and identify the administrative procedure available for each. Proposals to extend access, committee hearings and requests for further oversight shall be recorded with their procedural status. A hearing or introduced proposal shall not alter section 5 unless the governing provision is amended by an enacted measure.

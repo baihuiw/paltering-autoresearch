@@ -1,0 +1,38 @@
+Record: POLICY-OL-217
+Office: p08 · Theodore Marin Hale
+Access: public
+Title: Release of inquiry records
+
+H.R. 1256
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and scope
+This Act may be cited as the Inquiry Records Release and Protected Information Act. It establishes a public release of specified administrative material and a restricted review process for the full inquiry record. The public release and restricted review are different forms of access and shall be recorded separately.
+
+SEC. 2. Categories of material
+Administrative material includes cover sheets, routing records and other documents recording the handling of the inquiry. Decision memoranda are documents setting out the consideration or decisions of officials concerning the inquiry. A page count shall identify the categories included in it. The release of administrative material shall not reclassify that material as a decision memorandum.
+
+SEC. 3. Protection of identities
+Survivor names and other identifying personal details shall be removed from material released publicly. Redaction shall remove identifying information while preserving a record of the material withheld. The protection of identities is distinct from the treatment of officials’ decision memoranda under section 8. An individual’s identity shall not be inferred from the existence or description of a withheld record.
+
+SEC. 4. Public release register
+The records office shall publish an inventory of the categories released and the number of pages in each category. The initial administrative release comprises 900 pages. The inventory shall not describe the number of released pages as a measure of the completeness of the substantive decision record. Corrections shall identify the affected category and the date of revision.
+
+SEC. 5. Independent restricted review
+An independent reviewer may inspect the full record under restricted access. The reviewer shall observe the applicable protections for identifying information and preserve an audit record of access. Permission for the reviewer to inspect a memorandum shall not make that memorandum publicly available. Reports about the review shall state whether the underlying material is public or restricted.
+
+SEC. 6. Requests for additional release
+The records office shall register requests for additional disclosure and identify the material sought. A request or an endorsement by an official shall not itself authorise release of material withheld under this Act. If additional material is later released under valid authority, the public inventory shall identify that release and the applicable date.
+
+SEC. 7. Record preservation
+Withheld records shall be preserved for the restricted review and any later authorised disclosure. The office shall retain the category, date and access status of each item. The existence of a document or a decision to withhold it shall not, without further evidence, establish guilt or wrongdoing by any named person in the underlying inquiry.
+
+SEC. 8. Decision memoranda
+(a) The public release authorised by this Act excludes the memoranda concerning officials’ decisions, including memoranda from which survivor identities could be removed by redaction.
+
+(b) The exclusion is therefore broader than removal of identifying personal details alone. Redactability does not bring a decision memorandum into the administrative release.
+
+(c) The restricted reviewer’s access under section 5 is preserved. It shall not be described in the release register as public access to those memoranda.

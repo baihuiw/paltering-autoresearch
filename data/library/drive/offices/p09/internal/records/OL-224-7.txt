@@ -1,0 +1,16 @@
+Record: OL-224-7
+Office: p09 · Mira Sen
+Access: staff
+Title: Fresh-food allocations during movement restrictions · Dispatch ledger
+
+Date: May 14, 2026
+Source: Logistics desk · Internal receipts
+
+STAFF LOGISTICS LEDGER · May 14 distribution
+ward,households,staple_parcels,fresh_boxes_planned,fresh_boxes_dispatched,fresh_boxes_receipted,authority
+Garden Heights,120,120,120,240,240,Exception E-17
+Cedar,120,120,120,0,0,Exception E-17
+Other wards,360,360,240,240,240,Original plan
+TOTAL,600,600,480,480,480,Reconciled
+
+Consignment CF-0514 was city purchased, not a donation or a private order. Garden Heights received two fresh boxes per registered household; Cedar received none in this cycle. Staple parcels reached both wards. The receipts establish this distribution only; they do not identify the source of all items in social-media meals.

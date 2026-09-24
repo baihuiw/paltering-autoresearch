@@ -1,0 +1,25 @@
+Record: POLICY-OL-221
+Office: p09 · Mira Sen
+Access: public
+Title: Animal care during isolation transfers
+
+EM-33
+Status: Enacted
+Date: May 2, 2026
+
+The following administrative provisions are adopted for the stated programme and reporting period.
+
+SEC. 1. Temporary care
+The city shall fund temporary animal-care places for households transferred to an isolation centre. Owners may request feeding visits or a shelter placement. The intake worker shall record the animal’s identifier and the person authorized to receive updates.
+
+SEC. 2. Owner authorization
+The standard form authorizes feeding and temporary care only. Additional interventions require their own recorded authorization. Staff shall give the owner a copy of the completed form and a case number for later enquiries.
+
+SEC. 3. Veterinary assessment
+An irreversible intervention requires an individual veterinary assessment and specific owner consent. Neither a human isolation order nor a signed temporary-care form supplies that consent. The responsible supervisor shall retain the assessment and consent with the case record.
+
+SEC. 4. Case outcomes
+Each case must record placement, visits, transfer and final outcome separately. Unresolved exceptions are referred to the supervisor. The programme may publish aggregate placement counts without identifying owners.
+
+SEC. 5. Access and review
+An authenticated owner may receive the outcome and authorization record for their own animal. Staff shall withhold unrelated owners’ personal information. Complaints receive a reference number and may be referred for review; a pending review does not erase an already recorded outcome.

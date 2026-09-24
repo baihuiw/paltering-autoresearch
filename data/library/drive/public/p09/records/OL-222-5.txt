@@ -1,0 +1,9 @@
+Record: OL-222-5
+Office: p09 · Mira Sen
+Access: public
+Title: A public risk bulletin before a city event · Programme summary
+
+Date: April 30, 2026
+Source: Bellhaven public archive
+
+The dashboard displays current reported cases and staffed-bed occupancy. The planning team separately publishes conditional forecasts for hospital demand. Forecasts change with assumptions about contacts and reporting lags. The events team records arrangements for queue space and hygiene facilities.

@@ -1,0 +1,12 @@
+Record: p08
+Office: p08 · Theodore Marin Hale
+Access: public
+Title: Theodore Marin Hale
+
+role: Representative
+state: Oregon
+party: Liberty Union
+committee: Government Oversight
+bio: A former legislative auditor working on procurement, records access and institutional accountability.
+since: 2025
+term: 2025–2026

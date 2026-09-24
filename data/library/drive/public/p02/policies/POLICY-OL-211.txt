@@ -1,0 +1,39 @@
+Record: POLICY-OL-211
+Office: p02 · Adrian Vale Mercer
+Access: public
+Title: Overseas air-operation review
+
+S.J.Res. 67
+Status: Enacted
+Date: March 18, 2026
+
+Resolved by the legislature that the following authorisation and oversight provisions are adopted.
+
+SEC. 1. Purpose and scope of authorisation
+This joint resolution authorises the overseas air operation described in the operational schedule submitted to the appropriate committees. The authority shall be limited to that mission and the period set out in section 6. The executive shall maintain a written operational plan identifying the mission objectives, responsible command and arrangements for reporting to Congress.
+
+SEC. 2. Operational preparation
+(a) Before operational activity begins, the responsible department shall designate the officials accountable for mission planning, evacuation coordination and civilian-harm reporting.
+
+(b) Those designations and an operational plan are administrative requirements. Completion of the civilian-harm review described in section 3 is not a precondition to the deployment authority granted by this resolution. The department may begin deployment while that review remains in preparation.
+
+SEC. 3. Civilian-harm review
+(a) The responsible department shall prepare a civilian-harm review addressing foreseeable risks to civilian populations, measures proposed to reduce those risks and the arrangements for recording reports of harm.
+
+(b) The completed report shall be submitted to the appropriate committees within 60 days after enactment. The reporting duty does not require the report to be completed or approved before the authorisation vote or before deployment.
+
+(c) The report shall identify outstanding evidentiary limitations and distinguish observed events from projections.
+
+SEC. 4. Evacuation planning
+Funds provided for the mission may be used for evacuation planning and coordination. The plan shall identify the authorities responsible for communicating evacuation information and the practical limits on access to transport. A planning allocation does not certify that an evacuation has occurred or that every affected civilian can be reached. Operational updates shall state which arrangements are planned, established or used.
+
+SEC. 5. Committee oversight
+(a) The responsible department shall provide weekly operational summaries to the designated committees during the authorisation period. The summaries shall cover the activity undertaken, material changes to the mission and the status of the civilian-harm review.
+
+(b) If the review is incomplete, the summary shall identify the remaining work. Receipt of an operational summary shall not be treated as receipt of the completed review required by section 3.
+
+SEC. 6. Duration and renewal
+The authority granted by this resolution expires 90 days after enactment unless renewed by a further measure. A request for renewal shall describe the operation undertaken and the status of required reporting. Submission of a request does not itself renew the authority. Expiry shall not remove the duty to provide reports concerning activity undertaken during the authorisation period.
+
+SEC. 7. Records and evaluation
+The department shall preserve the operational summaries, review submissions and notices of material changes. The dates of preparation and submission shall be recorded separately. Evaluation of a later report shall not alter the date on which it became available. The records created under this resolution document the operation and its oversight; conclusions about individual incidents require the evidence concerning those incidents.

@@ -1,0 +1,41 @@
+Record: POLICY-OL-212
+Office: p03 · Leona Hart Voss
+Access: public
+Title: Research permit transition rules
+
+H.R. 731
+Status: Enacted
+Date: March 18, 2026
+
+Be it enacted that the following provisions govern the programme described in this measure.
+
+SEC. 1. Short title and administration
+This Act may be cited as the Research Permit Review and Support Act. The designated permit authority shall administer the additional review established by this Act and maintain information for applicants, permit holders and participating institutions. The authority shall distinguish decisions about permit status from decisions about the appropriation or award of research funding.
+
+SEC. 2. Definitions
+(a) An existing holder is a person who holds a research permit issued before this Act takes effect. A renewal is an application to continue the permission beyond its current term.
+
+(b) A funded place is an institutional research position supported by an awarded grant or other recorded funding. Possession of a funded place is not, by itself, a determination of permit status.
+
+(c) Additional review means the review required under section 4.
+
+SEC. 3. Application information
+The authority shall publish a list of the documents required for the review and a description of how an applicant may correct an incomplete submission. A request for missing information shall identify the item sought and the method for providing it. Participating institutions may assist with records of enrolment and funding, but shall not issue permit decisions on behalf of the authority.
+
+SEC. 4. Review of new applications and renewals
+(a) The additional review shall apply to new research-permit applications and to renewal applications by existing permit holders.
+
+(b) Existing holders are not granted a blanket exemption. Their renewals may be subject to the same additional review even if a research place is already funded or a grant remains appropriated.
+
+(c) The authority shall record a decision on each application. A general programme announcement shall not substitute for an individual decision or establish that a particular renewal will be approved without delay.
+
+SEC. 5. Funding and institutional support
+Existing research grants shall remain appropriated under this Act. Institutions may continue to plan funded projects and provide administrative assistance to applicants. Continuation of an appropriation shall not exempt a permit holder from section 4. Institutions shall identify separately any changes they make to the timing of a research placement; such changes do not determine the outcome of the permit review.
+
+SEC. 6. Appeal period
+(a) A person receiving an adverse permit decision shall have a 30-day period in which to submit an administrative appeal in the manner stated in the decision notice.
+
+(b) The notice shall identify the decision being appealed and where supporting documents may be submitted. Availability of an appeal does not guarantee a favourable outcome or imply that a decision has already been made on a pending application.
+
+SEC. 7. Help desk and implementation records
+The authority shall maintain a staffed help desk to explain application documents and the published procedure. Advice supplied by the help desk shall distinguish procedural information from a decision in an individual case. Any proposed amendment creating an exemption for current students shall be identified as a proposal until enacted; administrative information shall reflect the provisions then in force.

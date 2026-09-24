@@ -1,0 +1,8 @@
+{
+  "source": "../data/office_library_20260923",
+  "source_library_version": "6f51debdbbd8981c0e7b3fc0bef7e13e09a73fffe461a9db3ec667c009b69073",
+  "upstream": "https://github.com/karpathy/autoresearch",
+  "upstream_commit": "228791fb499afffb54b46200aca536f79142f117",
+  "adaptation": "Bounded proposal/evaluation/selection loop; no upstream neural training code executed.",
+  "fictional": true
+}
