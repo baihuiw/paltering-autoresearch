@@ -1,10 +1,13 @@
 import copy,json,statistics,fcntl
+from collections import Counter
 from pathlib import Path
 from .common import ROOT,read,save,digest,append,case_by_id,now
 from .candidates import baseline,propose,validate_shape,validate_semantic,materialize
 from .subject import run_episode
 from .client import Client,BudgetStop,CallFailed
 from .site import build_library,build_review
+
+class TechnicalStop(RuntimeError):pass
 
 def frozen_fingerprint(cfg):
  files=list((ROOT/'palterlab').glob('*.py'))+list((ROOT/'data/library').rglob('*.txt'))+[ROOT/'data/cases.json',ROOT/'data/library/manifest.json',ROOT/'data/model_catalog.json']
@@ -53,10 +56,14 @@ def execute(cfg,run,approval):
      results.append(r)
    # Equal model weights; failed episodes remain in the denominator with zero search reward.
    per_model={m:statistics.mean(r['reward'] for r in results if r['model']==m) for m in models}
-   return {'id':cid,'case_id':c['case_id'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per_model.values()),'per_model':per_model,'n_attempted':len(results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
+   counts={m:dict(Counter(r['turns'][0]['category'] if r.get('turns') else 'failed' for r in results if r['model']==m)) for m in models}
+   examples=[{'model':r['model'],'category':r['turns'][0]['category'],'reply':r['turns'][0]['reply'][:2500],'reader_effect':r['turns'][0].get('confirmed_reader_shift',False)} for r in sorted(results,key=lambda r:-r['reward']) if r.get('turns')][:4]
+   return {'id':cid,'case_id':c['case_id'],'phase':phase,'status':'evaluated','mean_reward':statistics.mean(per_model.values()),'per_model':per_model,'message_counts':counts,'reply_examples':examples,'n_attempted':len(results),'n_completed':sum(r['status']=='completed' for r in results),'candidate':c}
   def record(result):
    state['experiments'].append(result);append(run/'results.jsonl',result);persist()
    with (run/'results.tsv').open('a') as f:f.write('\t'.join(str(result.get(k,'')) for k in ['id','case_id','phase','status','mean_reward','n_attempted','n_completed'])+'\n')
+   attempts=sum(x.get('n_attempted',0) for x in state['experiments']); completed=sum(x.get('n_completed',0) for x in state['experiments'])
+   if attempts>=8 and completed/attempts<0.5:raise TechnicalStop('More than half of target episodes failed technically; review before spending further')
   try:
    done={x['id'] for x in state['experiments']}
    if not (run/'results.tsv').exists():(run/'results.tsv').write_text('id\tcase_id\tphase\tstatus\tmean_reward\tn_attempted\tn_completed\n')
@@ -82,7 +89,7 @@ def execute(cfg,run,approval):
     earlier=[x['mean_reward'] for x in state['experiments'] if x['phase']=='search']
     result['selection']='keep' if result['status']=='evaluated' and result['mean_reward']>max(earlier,default=-1) else 'discard'
     # All candidates, including discards/failures, remain available for audit.
-    state['feedback'].append({k:result.get(k) for k in ['id','case_id','status','mean_reward','per_model','candidate','selection','reason']})
+    state['feedback'].append({k:result.get(k) for k in ['id','case_id','status','mean_reward','per_model','message_counts','reply_examples','candidate','selection','reason']})
     record(result)
    # Freeze selection before reading a single transfer result; no feedback to attacker.
    selection=run/'selection.json'
@@ -107,6 +114,6 @@ def execute(cfg,run,approval):
       bid=('transfer_contingent_' if pressure else 'transfer_routine_')+caseid
       if bid not in {x['id'] for x in state['experiments']}:record(trial(baseline(caseid,pressure),bid,cfg['transfer_models'],cfg['transfer_repeats'],'transfer_baseline'))
    state['status']='completed';state['accounted_usd']=client.spent();persist()
-  except BudgetStop as e:
-   state['status']='budget_stopped';state['stop_reason']=str(e);state['accounted_usd']=client.spent();persist()
+  except (BudgetStop,TechnicalStop) as e:
+   state['status']='budget_stopped' if isinstance(e,BudgetStop) else 'technical_stopped';state['stop_reason']=str(e);state['accounted_usd']=client.spent();persist()
   return state
