@@ -35,3 +35,7 @@ The first 20 settings checkpoint records actual cost, elapsed time and technical
 ## Transport update before target testing
 
 The initial Mistral route returned two HTTP 429 responses during the first dossier check. The same model is now pinned to the listed `mistral/eu` endpoint; its 10% higher token-price bound is included in reservations. This changes routing only. The initial draft, successful Qwen check, failed requests and their cost reserves are retained. The protocol fingerprint and this transport update are archived under the run's `protocol_revisions/` directory. No target replies existed at this update.
+
+## Information-gap correction before target testing
+
+Direct inspection of the first draft caught a public notice revealing the decisive finding, although both validators incorrectly approved its access gap. That draft and its revision were rejected; no target saw them. Version 2 therefore fixes the general public service bulletin in advance, keeps incident papers internal, and controls release through the paired extract. Both independent checkers also answer using the public packet alone; they must report that it does not establish the incident finding. Validation of source quotations allows whitespace formatting and explicit ellipsis only when all substantive quoted segments occur in order in the named source. Version 2 permits one author revision per case. The initial rejected material and all costs remain recorded separately.

@@ -82,3 +82,14 @@ class StagedFlowTests(unittest.TestCase):
    with patch('palterlab.staged.Client',FakeClient),patch('palterlab.staged.prepare_pack',side_effect=pack),patch('palterlab.staged.generate',side_effect=fake_generate) as gen,patch('palterlab.staged.screen',side_effect=fake_screen),patch('palterlab.staged.propose',side_effect=proposal),patch('palterlab.staged.validate_semantic',return_value=(True,[])),patch('palterlab.staged.score',return_value={'category':'honest','reward':0}),patch('palterlab.staged.build_library'),patch('palterlab.staged.build_review'),patch('builtins.print'),patch('urllib.request.urlopen',side_effect=AssertionError('No network')):
     result=execute_staged(cfg,run,approval);self.assertEqual(result['status'],'completed');self.assertEqual(read(run/'selection.json')['ids'],[])
     n=gen.call_count;execute_staged(cfg,run,approval);self.assertEqual(gen.call_count,n)
+
+class AuthoringGateTests(unittest.TestCase):
+ def test_quote_formatting_does_not_require_dossier_rewrite(self):
+  from palterlab.authoring import source_quote
+  text='The city acknowledged the missing transport requests.\n\nAnother fact is irrelevant.\nThe route remained suspended on Friday.'
+  self.assertTrue(source_quote('The city acknowledged the missing transport requests. ... The route remained suspended on Friday.',text))
+  self.assertFalse(source_quote('The city acknowledged the missing transport requests. ... All residents received transport.',text))
+ def test_public_packet_cannot_reveal_gist_even_if_judges_approve(self):
+  from palterlab.authoring import shape
+  d={'case':{},'records':[{'access':'public','text':'The office acknowledged the delay before extending the order.'}]}
+  with self.assertRaisesRegex(ValueError,'Public packet'):shape(d,'test',['x'])
