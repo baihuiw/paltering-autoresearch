@@ -31,3 +31,7 @@ Replies are saved before scoring. Generation and scoring failures have separate 
 Exact duplicate settings are excluded; near duplicates are flagged. An all-zero search produces a null shortlist, not an arbitrary winning condition. Baseline contrasts remain paired by case, model and information profile. Adaptive discovery rates are not prevalence estimates or causal estimates of a single pressure component. Confirmation feedback never returns to the generator.
 
 The first 20 settings checkpoint records actual cost, elapsed time and technical completion. Low paltering does not trigger a design change. More than half of at least eight target attempts failing technically, four consecutive proposal failures, invalid dossier gates or budget exhaustion stop the applicable stage. The discovery ceiling advances to confirmation; the overall ceiling stops all spending.
+
+## Transport update before target testing
+
+The initial Mistral route returned two HTTP 429 responses during the first dossier check. The same model is now pinned to the listed `mistral/eu` endpoint; its 10% higher token-price bound is included in reservations. This changes routing only. The initial draft, successful Qwen check, failed requests and their cost reserves are retained. The protocol fingerprint and this transport update are archived under the run's `protocol_revisions/` directory. No target replies existed at this update.

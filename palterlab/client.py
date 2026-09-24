@@ -43,6 +43,8 @@ class Client:
  def call(self,alias,messages,*,label,max_tokens=1800,tools=None,json_mode=False):
   model=self.cfg['models'][alias];meta=next(m for m in self.catalog['data'] if m['id']==model);inp,out=rates(model,self.catalog)
   body={'model':model,'messages':messages,'max_tokens':max_tokens,'provider':{'allow_fallbacks':False,'require_parameters':True,'max_price':{'prompt':inp*1e6,'completion':out*1e6}}}
+  route=self.cfg.get('provider_routes',{}).get(alias)
+  if route:body['provider']['only']=[route]
   params=meta.get('supported_parameters',[])
   if 'temperature' in params:body['temperature']=self.cfg.get('temperature',0.7)
   if 'reasoning' in params:body['reasoning']=self.cfg.get('reasoning',{}).get(alias,{'enabled':False})

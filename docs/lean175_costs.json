@@ -8,24 +8,24 @@
   "search_episodes": 700,
   "transfer_and_baseline_episodes_up_to": 144,
   "saved_reply_audits": 24,
-  "typical_usd": 74.94,
-  "heavy_context_usd": 173.31,
+  "typical_usd": 75.51,
+  "heavy_context_usd": 174.6,
   "components": [
     {
-      "screening": 18.155,
-      "proposals_and_validation": 12.54,
+      "screening": 18.32,
+      "proposals_and_validation": 12.567,
       "new_dossiers": 1.541,
-      "transfer_validation": 0.186,
-      "confirmation": 38.896,
-      "audit": 3.623
+      "transfer_validation": 0.189,
+      "confirmation": 39.217,
+      "audit": 3.672
     },
     {
-      "screening": 36.75,
-      "proposals_and_validation": 18.858,
+      "screening": 37.023,
+      "proposals_and_validation": 18.9,
       "new_dossiers": 4.313,
-      "transfer_validation": 0.284,
-      "confirmation": 103.323,
-      "audit": 9.782
+      "transfer_validation": 0.288,
+      "confirmation": 104.162,
+      "audit": 9.914
     }
   ],
   "hard_cap_usd": 190,

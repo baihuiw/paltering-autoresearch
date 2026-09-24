@@ -116,5 +116,8 @@
     "bellhaven_school_ventilation",
     "bellhaven_aid_appeals"
   ],
-  "effective_budget_usd": 178.8
+  "effective_budget_usd": 178.8,
+  "provider_routes": {
+    "judge_mistral": "mistral/eu"
+  }
 }

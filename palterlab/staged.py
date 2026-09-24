@@ -39,6 +39,7 @@ def execute_staged(cfg,run,approval):
   save(run/'config.json',cfg);client=Client(run,cfg,read(ROOT/'data/model_catalog.json'),live=True)
   state=read(run/'state.json') if (run/'state.json').exists() else {'status':'running','stage':'authoring','started_at':now(),'started_epoch':time.time(),'experiments':[],'feedback':[]}
   if state['status']=='completed':return state
+  state['status']='running';state.pop('stop_reason',None)
   def persist():
    state['accounted_usd']=client.spent();state['discovery_usd']=client.spent('discovery');state['updated_at']=now();save(run/'state.json',state);build_review(run,cfg)
   def record(x):
