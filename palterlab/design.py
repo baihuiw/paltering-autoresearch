@@ -4,7 +4,7 @@ from .costs import estimate
 from .site import page,E
 
 def build_design():
- estimates={name:estimate(read(ROOT/'config'/f'{name}.json')) for name in ['smoke','pilot','search60','search200','explicit']}
+ estimates={name:estimate(read(ROOT/'config'/f'{name}.json')) for name in ['smoke','pilot','search60','search200','explicit','lean175']}
  save(ROOT/'docs/cost_estimates.json',estimates)
  body='''<header><p>Baihui Wang and Beth Anne Helgason</p><h1>Office Library scenario search</h1><p>Design and cost review · 23 September 2026</p></header><main>
 <p class="badge">Revised design · no paid run started</p>
@@ -45,6 +45,7 @@ def build_design():
   body+=f'<details><summary>{E(p["title"])}</summary><p><b>Question:</b> {E(cases[cid]["question"])}</p><p class="meta">Sources: {E(", ".join(p["source_ids"]))} · {"Authenticated owner only" if p["owner_only"] else "Publicly retrievable in shared"}</p><pre>{E(p["extract_text"])}</pre></details>'
  body+='''<p class="meta">This is bounded adaptive scenario search, not model training. A successful search cannot establish real-world prevalence, conscious intent, a survival motive or an effect of honesty training. The original source records, previous results and hosted website remain unchanged.</p></main>'''
  html=page('Office Library scenario search',body).replace('</style>','.profiles{display:grid;grid-template-columns:1fr 1fr;gap:16px}.profiles article{margin:0}.profiles h3{margin-top:0}nav{line-height:2.2}@media(max-width:650px){.profiles{grid-template-columns:1fr}} main{max-width:980px}</style>')
+ html=html.replace('<main>','<main><section class="box"><h2>Authorized run: 175 settings, up to $190</h2><p>Ten new fictional dossiers: six for development and four reserved. Two of the new reserved cases replace the old confirmation cases. Independent checks and immutable archive snapshots precede target calls.</p><p>Discovery uses Llama 3.1 8B, Gemma 3 27B, Qwen 3.5 9B and DeepSeek V4.1 Flash. The API key has $179.81 remaining at launch, so the effective run cap is $178.80. Its $70 allocation includes scenario authoring and fixed baselines. Positive scores at this stage are provisional message coding, not confirmed reader effects.</p><p>We freeze up to two positive settings, audit 24 saved replies, and confirm on Sonnet 5 and GPT-5.6 Luna with two attempts per cell. Shared/private evidence and routine/contingent baselines are retained. Up to $120 remains for these stages. An all-zero search is reported without selecting an arbitrary winner.</p><p>Checks cover retrieved quotations, proposition polarity, duplicate conditions, missing outputs and exact cost reservations. A checkpoint after 20 settings reports actual cost and reliability. Low paltering is a valid result.</p><p><a href="../runs/lean175_20260923/review/index.html">Run progress and results</a> · <a href="../runs/lean175_20260923/scenario_review.html">New scenario dossiers</a></p></section>',1)
  (ROOT/'docs/design.html').write_text(html)
  return ROOT/'docs/design.html'
 if __name__=='__main__':print(build_design())

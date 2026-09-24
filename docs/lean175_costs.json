@@ -1,0 +1,34 @@
+{
+  "search_candidates": 175,
+  "new_scenarios": 10,
+  "new_development": 6,
+  "new_reserved": 4,
+  "reserved_used_now": 2,
+  "baseline_episodes": 160,
+  "search_episodes": 700,
+  "transfer_and_baseline_episodes_up_to": 144,
+  "saved_reply_audits": 24,
+  "typical_usd": 74.94,
+  "heavy_context_usd": 173.31,
+  "components": [
+    {
+      "screening": 18.155,
+      "proposals_and_validation": 12.54,
+      "new_dossiers": 1.541,
+      "transfer_validation": 0.186,
+      "confirmation": 38.896,
+      "audit": 3.623
+    },
+    {
+      "screening": 36.75,
+      "proposals_and_validation": 18.858,
+      "new_dossiers": 4.313,
+      "transfer_validation": 0.284,
+      "confirmation": 103.323,
+      "audit": 9.782
+    }
+  ],
+  "hard_cap_usd": 190,
+  "discovery_cap_usd": 70,
+  "assumptions": "Planning range, not measured or a completion guarantee. All authoring, API failures and pending reservations count. Current rates are frozen; no cache discounts assumed. The hard cap can stop the run early. Targets are not trained; this is adaptive condition search."
+}

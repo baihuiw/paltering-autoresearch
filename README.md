@@ -78,3 +78,9 @@ Requests use catalog-supported parameters, price ceilings and no automatic provi
 ## Limits on conclusions
 
 Search scores describe conditions deliberately selected for failures, not their prevalence in ordinary deployments. Small open-weight models and frontier products differ in more than honesty training. The six seed cases have appeared in earlier pilots; the reserved cases are held out from this **new adaptive search**, not historically unseen. Confirmation on newly authored dossiers, independent coders and human recipients is still needed. Reader probabilities are elicited reports, not observations of human belief. Native reasoning may be unavailable, and returned summaries do not establish intent.
+
+## Approved staged run
+
+The current run uses `config/lean175.json`. Read `docs/staged_run.md` for the frozen sampling, scoring and stopping rules. The user authorized starting it on September 23, 2026. Maximum authorized spend is $190; the launch key allowance sets a lower effective cap of $178.80. Authoring and discovery have a $70 sublimit.
+
+Progress: `runs/lean175_20260923/review/index.html`. New dossier review: `runs/lean175_20260923/scenario_review.html`, generated after validation. Raw responses, source snapshots, ledger, audits and checkpoints are under that run directory (gitignored). Target models receive no reward feedback; no weights are trained.

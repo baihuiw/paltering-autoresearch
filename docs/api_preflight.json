@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-24T01:56:12.953888+00:00",
+  "models_available": [
+    "anthropic/claude-sonnet-5",
+    "meta-llama/llama-3.1-8b-instruct",
+    "google/gemma-3-27b-it",
+    "qwen/qwen3.5-9b",
+    "deepseek/deepseek-v4.1-flash",
+    "anthropic/claude-sonnet-5",
+    "openai/gpt-5.6-luna",
+    "google/gemini-3.8-flash",
+    "qwen/qwen3.7-plus",
+    "mistralai/mistral-small-2603"
+  ],
+  "key_allowance_remaining": 179.807135853,
+  "effective_run_cap": 178.8,
+  "authorized_maximum": 190,
+  "no_paid_requests": true
+}

@@ -16,7 +16,11 @@ def main():
  if a.command=='authorize':
   save(a.approval,{'approved':True,'at':now(),'fingerprint':frozen_fingerprint(cfg),'budget_usd':cfg['budget_usd'],'run':str(out),'note':'Create only after the project owner approves this scope and cap.'});print('Authorization recorded for',out);return
  if a.command=='run':
-  print(json.dumps(execute(cfg,out,a.approval),indent=2));return
+  if cfg.get('workflow')=='staged':
+   from .staged import execute_staged
+   state=execute_staged(cfg,out,a.approval)
+  else:state=execute(cfg,out,a.approval)
+  print(json.dumps({k:v for k,v in state.items() if k not in ['experiments','feedback']},indent=2));return
  if a.command=='serve':
   # This serves the researcher review directory. Participants only use bound library tools.
   handler=functools.partial(http.server.SimpleHTTPRequestHandler,directory=str(out))

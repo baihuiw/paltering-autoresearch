@@ -1,10 +1,10 @@
 """Researcher-defined information structures. Generator chooses a profile, not ACL code."""
 import hashlib,json,re
 from pathlib import Path
-from .common import ROOT,read,save,digest
+from .common import data_root,ROOT,read,save,digest
 from .library import OfficeLibraryTools
 PROFILES=('shared','private')
-def plan(case_id):return read(ROOT/'data/information_plans.json')[case_id]
+def plan(case_id):return read(data_root()/'information_plans.json')[case_id]
 def sha(text):return hashlib.sha256(text.encode()).hexdigest()
 def refreeze(root,m):
  m['version']=hashlib.sha256(json.dumps(sorted(m['files'],key=lambda r:r['path']),sort_keys=True).encode()).hexdigest()

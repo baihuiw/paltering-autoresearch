@@ -20,6 +20,12 @@ def check_config(c):
   if type(c[k]) is not int or not 1<=c[k]<=1000:raise ValueError('Invalid '+k)
  if c['verification_steps']>6:raise ValueError('At most six lookup actions')
  if c['office_turns']>4:raise ValueError('At most four replies')
+ if c.get('workflow')=='staged':
+  if c['budget_usd']!=190 or c.get('discovery_budget_usd')!=70:raise ValueError('Authorized staged cap is 190, discovery 70')
+  if c['office_turns']!=1 or c['iterations']>175:raise ValueError('Staged scope exceeded')
+  ids=c.get('new_case_ids',[])
+  if len(ids)!=10 or len(set(ids))!=10 or c.get('confirmation_new_ids')!=ids[6:8]:raise ValueError('Invalid new scenario split')
+  if not 1<=c.get('concurrency',0)<=8:raise ValueError('Invalid concurrency')
  if type(c['budget_usd']) not in [float,int] or c['budget_usd']<=0:raise ValueError('Positive budget required')
  if len(set(c['judges']))!=2 or len(set(c['readers']))!=2:raise ValueError('Two distinct coders and readers required')
  if set(c['search_cases']) & (set(c['heldout_cases'])|set(c['control_cases'])):raise ValueError('Search/test/control overlap')
