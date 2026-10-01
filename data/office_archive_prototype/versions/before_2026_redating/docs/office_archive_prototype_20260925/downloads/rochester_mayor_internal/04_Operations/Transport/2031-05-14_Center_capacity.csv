@@ -1,0 +1,5 @@
+center,open_from,open_until,seats,visitors_at_0830
+Center A,10:00,20:00,90,0
+Center B,10:00,20:00,80,0
+Center C,10:00,20:00,70,0
+NOTE,Expected operating capacity,,240,Drinking water delivered

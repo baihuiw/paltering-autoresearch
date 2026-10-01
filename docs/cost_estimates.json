@@ -4,9 +4,9 @@
     "baseline_episodes": 64,
     "search_episodes": 24,
     "transfer_and_baseline_episodes_up_to": 144,
-    "typical_usd": 52.69,
-    "heavy_context_usd": 138.37,
-    "with_25pct_contingency_usd": 172.96,
+    "typical_usd": 53.21,
+    "heavy_context_usd": 139.72,
+    "with_25pct_contingency_usd": 174.65,
     "hard_cap_usd": 175,
     "assumptions": {
       "target_total_input_tokens_per_reply": [
@@ -78,8 +78,8 @@
       },
       "judge_mistral": {
         "id": "mistralai/mistral-small-2603",
-        "input_per_million": 0.15,
-        "output_per_million": 0.6
+        "input_per_million": 0.165,
+        "output_per_million": 0.66
       }
     }
   },
@@ -88,9 +88,9 @@
     "baseline_episodes": 128,
     "search_episodes": 96,
     "transfer_and_baseline_episodes_up_to": 432,
-    "typical_usd": 150.76,
-    "heavy_context_usd": 396.66,
-    "with_25pct_contingency_usd": 495.83,
+    "typical_usd": 152.23,
+    "heavy_context_usd": 400.49,
+    "with_25pct_contingency_usd": 500.61,
     "hard_cap_usd": 500,
     "assumptions": {
       "target_total_input_tokens_per_reply": [
@@ -162,8 +162,8 @@
       },
       "judge_mistral": {
         "id": "mistralai/mistral-small-2603",
-        "input_per_million": 0.15,
-        "output_per_million": 0.6
+        "input_per_million": 0.165,
+        "output_per_million": 0.66
       }
     }
   },
@@ -172,9 +172,9 @@
     "baseline_episodes": 128,
     "search_episodes": 480,
     "transfer_and_baseline_episodes_up_to": 576,
-    "typical_usd": 257.49,
-    "heavy_context_usd": 671.43,
-    "with_25pct_contingency_usd": 839.28,
+    "typical_usd": 260.15,
+    "heavy_context_usd": 678.34,
+    "with_25pct_contingency_usd": 847.93,
     "hard_cap_usd": 850,
     "assumptions": {
       "target_total_input_tokens_per_reply": [
@@ -246,8 +246,8 @@
       },
       "judge_mistral": {
         "id": "mistralai/mistral-small-2603",
-        "input_per_million": 0.15,
-        "output_per_million": 0.6
+        "input_per_million": 0.165,
+        "output_per_million": 0.66
       }
     }
   },
@@ -256,9 +256,9 @@
     "baseline_episodes": 128,
     "search_episodes": 1600,
     "transfer_and_baseline_episodes_up_to": 576,
-    "typical_usd": 460.24,
-    "heavy_context_usd": 1185.82,
-    "with_25pct_contingency_usd": 1482.28,
+    "typical_usd": 465.42,
+    "heavy_context_usd": 1199.28,
+    "with_25pct_contingency_usd": 1499.1,
     "hard_cap_usd": 1510,
     "assumptions": {
       "target_total_input_tokens_per_reply": [
@@ -330,8 +330,8 @@
       },
       "judge_mistral": {
         "id": "mistralai/mistral-small-2603",
-        "input_per_million": 0.15,
-        "output_per_million": 0.6
+        "input_per_million": 0.165,
+        "output_per_million": 0.66
       }
     }
   },
@@ -340,9 +340,9 @@
     "baseline_episodes": 128,
     "search_episodes": 96,
     "transfer_and_baseline_episodes_up_to": 432,
-    "typical_usd": 150.76,
-    "heavy_context_usd": 396.66,
-    "with_25pct_contingency_usd": 495.83,
+    "typical_usd": 152.23,
+    "heavy_context_usd": 400.49,
+    "with_25pct_contingency_usd": 500.61,
     "hard_cap_usd": 500,
     "assumptions": {
       "target_total_input_tokens_per_reply": [
@@ -414,39 +414,39 @@
       },
       "judge_mistral": {
         "id": "mistralai/mistral-small-2603",
-        "input_per_million": 0.15,
-        "output_per_million": 0.6
+        "input_per_million": 0.165,
+        "output_per_million": 0.66
       }
     }
   },
   "lean175": {
-    "search_candidates": 175,
+    "search_candidates": 200,
     "new_scenarios": 10,
     "new_development": 6,
     "new_reserved": 4,
     "reserved_used_now": 2,
     "baseline_episodes": 160,
-    "search_episodes": 700,
+    "search_episodes": 800,
     "transfer_and_baseline_episodes_up_to": 144,
-    "saved_reply_audits": 24,
-    "typical_usd": 74.94,
-    "heavy_context_usd": 173.31,
+    "saved_reply_audits": 0,
+    "typical_usd": 51.26,
+    "heavy_context_usd": 108.1,
     "components": [
       {
-        "screening": 18.155,
-        "proposals_and_validation": 12.54,
+        "screening": 18.288,
+        "proposals_and_validation": 14.363,
         "new_dossiers": 1.541,
-        "transfer_validation": 0.186,
-        "confirmation": 38.896,
-        "audit": 3.623
+        "transfer_validation": 0.189,
+        "confirmation": 16.881,
+        "audit": 0
       },
       {
-        "screening": 36.75,
-        "proposals_and_validation": 18.858,
+        "screening": 37.73,
+        "proposals_and_validation": 21.6,
         "new_dossiers": 4.313,
-        "transfer_validation": 0.284,
-        "confirmation": 103.323,
-        "audit": 9.782
+        "transfer_validation": 0.288,
+        "confirmation": 44.172,
+        "audit": 0
       }
     ],
     "hard_cap_usd": 190,

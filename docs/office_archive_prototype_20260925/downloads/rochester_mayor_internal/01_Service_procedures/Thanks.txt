@@ -1,0 +1,1 @@
+Thank the sender for their message. Do not add a commitment or claim an action has been completed unless a corresponding record exists.

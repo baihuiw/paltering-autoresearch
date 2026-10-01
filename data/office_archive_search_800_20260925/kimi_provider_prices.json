@@ -1,0 +1,550 @@
+{
+  "source": "https://openrouter.ai/api/v1/models/moonshotai/kimi-k3/endpoints",
+  "data": [
+    {
+      "tag": "sail-research/fp4",
+      "pricing": {
+        "prompt": "0.0000010301",
+        "completion": "0.000009043",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "top_k",
+        "frequency_penalty",
+        "presence_penalty",
+        "stop",
+        "seed",
+        "max_tokens",
+        "tools",
+        "tool_choice",
+        "response_format",
+        "structured_outputs",
+        "logprobs",
+        "top_logprobs",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "inference-net/fp4",
+      "pricing": {
+        "prompt": "0.0000013",
+        "completion": "0.0000114",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "seed",
+        "top_k",
+        "min_p",
+        "logit_bias",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "wafer",
+      "pricing": {
+        "prompt": "0.00000199",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "top_k",
+        "min_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "stop",
+        "seed",
+        "max_tokens",
+        "logit_bias",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "makora",
+      "pricing": {
+        "prompt": "0.00000204",
+        "completion": "0.00001275",
+        "input_cache_read": "0.000000204",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "structured_outputs",
+        "response_format",
+        "temperature",
+        "top_p",
+        "top_k",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "stop",
+        "max_tokens",
+        "seed",
+        "tools",
+        "logprobs",
+        "top_logprobs",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "morph/fp8",
+      "pricing": {
+        "prompt": "0.0000020965",
+        "completion": "0.0000117404",
+        "input_cache_read": "0.000000243194",
+        "discount": 0.1614
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "stop",
+        "response_format",
+        "structured_outputs",
+        "logprobs",
+        "top_logprobs",
+        "tools",
+        "tool_choice",
+        "top_p",
+        "top_k",
+        "min_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "seed",
+        "logit_bias",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "relace/fp4",
+      "pricing": {
+        "prompt": "0.0000021",
+        "completion": "0.0000105",
+        "input_cache_read": "0.00000021",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "top_k",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "max_tokens",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "phala",
+      "pricing": {
+        "prompt": "0.00000255",
+        "completion": "0.00001275",
+        "input_cache_read": "0.000000255",
+        "discount": 0.15
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "seed",
+        "top_k",
+        "min_p",
+        "repetition_penalty",
+        "response_format",
+        "structured_outputs",
+        "logprobs",
+        "top_logprobs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "digitalocean",
+      "pricing": {
+        "prompt": "0.00000255",
+        "completion": "0.00001295",
+        "input_cache_read": "0.000000255",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "max_tokens",
+        "response_format",
+        "logprobs",
+        "top_logprobs",
+        "tools",
+        "tool_choice",
+        "structured_outputs",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "deepinfra/bf16",
+      "pricing": {
+        "prompt": "0.00000285",
+        "completion": "0.00001425",
+        "input_cache_read": "0.000000285",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 16384,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "top_k",
+        "seed",
+        "min_p",
+        "logit_bias",
+        "structured_outputs",
+        "response_format",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "chutes/mxfp4",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 65535,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "seed",
+        "top_k",
+        "repetition_penalty",
+        "response_format",
+        "structured_outputs",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "parasail/fp4",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "repetition_penalty",
+        "seed",
+        "stop",
+        "top_k",
+        "logit_bias",
+        "logprobs",
+        "top_logprobs",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "modal/mxfp4",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "temperature",
+        "top_p",
+        "stop",
+        "max_tokens",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "together",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "top_k",
+        "repetition_penalty",
+        "logit_bias",
+        "min_p",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "fireworks",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "top_k",
+        "repetition_penalty",
+        "logit_bias",
+        "logprobs",
+        "top_logprobs",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "baseten/fp8",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 262144,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "moonshotai/mxfp4",
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "structured_outputs",
+        "response_format",
+        "tool_choice",
+        "tools",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "fireworks/us",
+      "pricing": {
+        "prompt": "0.0000033",
+        "completion": "0.0000165",
+        "input_cache_read": "0.00000033",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "top_k",
+        "repetition_penalty",
+        "logit_bias",
+        "logprobs",
+        "top_logprobs",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "alibaba",
+      "pricing": {
+        "prompt": "0.00000345",
+        "completion": "0.00001725",
+        "input_cache_read": "0.000000345",
+        "discount": 0
+      },
+      "status": -2,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "seed",
+        "presence_penalty",
+        "response_format",
+        "structured_outputs",
+        "tools",
+        "logprobs",
+        "top_logprobs",
+        "tool_choice",
+        "reasoning_effort"
+      ]
+    },
+    {
+      "tag": "fireworks/fast",
+      "pricing": {
+        "prompt": "0.0000045",
+        "completion": "0.0000225",
+        "input_cache_read": "0.00000045",
+        "discount": 0
+      },
+      "status": 0,
+      "max_completion_tokens": 943718,
+      "supported_parameters": [
+        "reasoning",
+        "include_reasoning",
+        "max_tokens",
+        "temperature",
+        "top_p",
+        "stop",
+        "frequency_penalty",
+        "presence_penalty",
+        "top_k",
+        "repetition_penalty",
+        "logit_bias",
+        "logprobs",
+        "top_logprobs",
+        "response_format",
+        "structured_outputs",
+        "reasoning_effort"
+      ]
+    }
+  ]
+}

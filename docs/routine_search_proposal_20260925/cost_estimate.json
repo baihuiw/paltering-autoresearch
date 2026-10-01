@@ -1,0 +1,235 @@
+{
+  "estimated_at": "2026-09-26T01:03:00.415389+00:00",
+  "status": "estimate_only_no_run_authorized",
+  "source_urls": [
+    "https://openrouter.ai/api/v1/models",
+    "https://openrouter.ai/api/v1/models/moonshotai/kimi-k3/endpoints"
+  ],
+  "price_snapshot": {
+    "deepseek/deepseek-v4.1-flash": {
+      "prompt": "0.00000014",
+      "completion": "0.00000042",
+      "input_cache_read": "0.0000000042"
+    },
+    "moonshotai/kimi-k3": {
+      "prompt": "0.000003",
+      "completion": "0.000015",
+      "input_cache_read": "0.0000003"
+    },
+    "openai/gpt-5.6-luna": {
+      "prompt": "0.0000002",
+      "completion": "0.0000012",
+      "web_search": "0.01",
+      "input_cache_read": "0.00000002",
+      "input_cache_write": "0.00000025",
+      "overrides": [
+        {
+          "min_prompt_tokens": 272000,
+          "prompt": "0.0000004",
+          "completion": "0.0000018",
+          "input_cache_read": "0.00000004",
+          "input_cache_write": "0.0000005"
+        }
+      ]
+    },
+    "anthropic/claude-sonnet-5": {
+      "prompt": "0.000002",
+      "completion": "0.00001",
+      "web_search": "0.01",
+      "input_cache_read": "0.0000002",
+      "input_cache_write": "0.0000025",
+      "input_cache_write_1h": "0.000004"
+    },
+    "qwen/qwen3.7-plus": {
+      "prompt": "0.00000032",
+      "completion": "0.00000128",
+      "input_cache_read": "0.000000064",
+      "input_cache_write": "0.0000004",
+      "overrides": [
+        {
+          "min_prompt_tokens": 256000,
+          "prompt": "0.00000096",
+          "completion": "0.00000384",
+          "input_cache_read": "0.000000192",
+          "input_cache_write": "0.0000012"
+        }
+      ]
+    },
+    "qwen/qwen3.5-9b": {
+      "prompt": "0.0000001",
+      "completion": "0.00000015"
+    },
+    "mistralai/mistral-small-3.2-24b-instruct": {
+      "prompt": "0.00000009375",
+      "completion": "0.00000025"
+    },
+    "meta-llama/llama-3.1-8b-instruct": {
+      "prompt": "0.00000005",
+      "completion": "0.00000008",
+      "input_cache_read": "0.000000025"
+    }
+  },
+  "kimi_route": "inference-net/fp4",
+  "kimi_route_pricing_per_million": {
+    "input": 1.3,
+    "output": 11.4
+  },
+  "basis": {
+    "targets": {
+      "llama8": {
+        "n": 17,
+        "input": 2655.235294117647,
+        "output": 300.7647058823529,
+        "cost": 0.00015682294117647056
+      },
+      "mistral24": {
+        "n": 19,
+        "input": 27387.684210526317,
+        "output": 548.6842105263158,
+        "cost": 0.0027047664473684213
+      },
+      "qwen9": {
+        "n": 16,
+        "input": 20456.875,
+        "output": 660.25,
+        "cost": 0.0021447249999999997
+      },
+      "deepseek": {
+        "n": 20,
+        "input": 40860.2,
+        "output": 1815.75,
+        "cost": 0.006483043
+      },
+      "sonnet": {
+        "n": 20,
+        "input": 25899.65,
+        "output": 1357.5,
+        "cost": 0.0653743
+      },
+      "gpt": {
+        "n": 20,
+        "input": 35942.95,
+        "output": 1000.3,
+        "cost": 0.00838895
+      }
+    },
+    "judges": {
+      "moonshotai/kimi-k3": {
+        "input": 4496.128169014085,
+        "output": 776.0732394366197,
+        "catalog": 0.025129483098591553,
+        "route": 0.014692201549295774,
+        "n": 710
+      },
+      "qwen/qwen3.7-plus": {
+        "input": 4549.685915492958,
+        "output": 1038.2239436619718,
+        "catalog": 0.0027848261408450706,
+        "route": 0.0027848261408450706,
+        "n": 710
+      }
+    },
+    "author_per_accepted": 0.19776955000000002,
+    "judge_route_cost": 0.017477027690140846,
+    "judge_catalog_cost": 0.02791430923943662,
+    "six_mean": 0.014208767898090814,
+    "four_mean": 0.0028723393471362228
+  },
+  "plans": [
+    {
+      "name": "100-scenario first stage",
+      "unique_scenarios": 100,
+      "office_episodes_one_profile": 1800,
+      "four_model_discovery_episodes": 0,
+      "six_model_episodes": 1800,
+      "scenario_authoring_validation": 19.776955,
+      "target_retrieval_comprehension": 25.575782216563464,
+      "qwen_judgments": 5.012687053521127,
+      "kimi_provider_route_judgments": 26.445962788732395,
+      "kimi_catalog_judgments": 45.233069577464796,
+      "calibration_allowance": [
+        5,
+        10
+      ],
+      "contingency_factors": [
+        1.25,
+        1.5
+      ],
+      "planning_range_usd": [
+        102.26423382352124,
+        158.3977407713241
+      ],
+      "two_profile_planning_range_usd": [
+        173.55727389704248,
+        272.1300490426481
+      ]
+    },
+    {
+      "name": "1000-scenario staged study",
+      "unique_scenarios": 1000,
+      "office_episodes_one_profile": 14000,
+      "four_model_discovery_episodes": 5600,
+      "six_model_episodes": 8400,
+      "scenario_authoring_validation": 197.76955,
+      "target_retrieval_comprehension": 135.43875068792568,
+      "qwen_judgments": 38.98756597183099,
+      "kimi_provider_route_judgments": 205.69082169014084,
+      "kimi_catalog_judgments": 351.81276338028175,
+      "calibration_allowance": [
+        5,
+        10
+      ],
+      "contingency_factors": [
+        1.25,
+        1.5
+      ],
+      "planning_range_usd": [
+        728.6083604373719,
+        1101.0129450600575
+      ],
+      "two_profile_planning_range_usd": [
+        1203.7547833747435,
+        1890.371565120115
+      ]
+    },
+    {
+      "name": "1000-scenario full crossing",
+      "unique_scenarios": 1000,
+      "office_episodes_one_profile": 60000,
+      "four_model_discovery_episodes": 0,
+      "six_model_episodes": 60000,
+      "scenario_authoring_validation": 197.76955,
+      "target_retrieval_comprehension": 852.5260738854488,
+      "qwen_judgments": 167.08956845070423,
+      "kimi_provider_route_judgments": 881.5320929577464,
+      "kimi_catalog_judgments": 1507.7689859154932,
+      "calibration_allowance": [
+        5,
+        10
+      ],
+      "contingency_factors": [
+        1.25,
+        1.5
+      ],
+      "planning_range_usd": [
+        2629.8966066173743,
+        4102.731267377469
+      ],
+      "two_profile_planning_range_usd": [
+        5006.3312757347485,
+        7893.808209754938
+      ]
+    }
+  ],
+  "assumptions": [
+    "Target input/output usage includes archive research and comprehension calls from completed routine episodes in repeat_fixed_20260924 (16–20 per model).",
+    "Qwen and Kimi judge usage is averaged over 710 completed v4-scored replies.",
+    "Current token prices applied without prompt-cache discounts; Kimi lower endpoint matches the existing run route, upper uses catalog 3/15 USD per million.",
+    "Authoring and validation allowance extrapolates recorded $1.9776955 over ten accepted dossiers from 18 authored slots. It includes rejected drafts; future yield may differ.",
+    "25–50% allowance covers variability, technical failures and bounded repairs; it is not a guaranteed upper bound.",
+    "No recipient-reader calls, fine-tuning, GPU training, human-rater payments, infrastructure subscriptions, payment fees or taxes included.",
+    "Two-access-profile estimates reuse scenario authoring and duplicate target and judge episodes.",
+    "Provider quotes do not prove future uptime or identical implementation quality. Route changes should be logged.",
+    "Do not extend any prior spending cap without approval."
+  ]
+}

@@ -1,0 +1,5 @@
+area,shelf_stable_delivered,fresh_boxes_delivered,stock_origin,adjustment
+Beechwood,300,60,City warehouse,-120 fresh against original allocation
+Maplewood,300,300,City warehouse,+120 fresh under EX-19
+South service run,300,0,City warehouse,No adjustment
+TOTAL,900,360,City warehouse,Fresh total unchanged

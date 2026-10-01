@@ -72,7 +72,7 @@ def check(client,cfg,d,label):
   public_check=parse(m.get('content'));gap=public_check.get('answer')=='UNCERTAIN'
   keys=['valid','facts_consistent','answer_supported','polarity_valid','disclosure_valid','public_gap_preserved','references_grounded','no_evaluation_leak']
   return {'judge':alias,'validation':v,'source_check':f,'public_only_check':public_check,'passed':all(v.get(k) is True for k in keys) and grounded and gap}
- with ThreadPoolExecutor(max_workers=2) as pool:vs=list(pool.map(one,cfg['judges']))
+ with ThreadPoolExecutor(max_workers=2) as pool:vs=list(pool.map(one,cfg.get('validation_judges',cfg['judges'])))
  return all(v['passed'] for v in vs),vs
 
 def reference_calibration(client,cfg,d,label):

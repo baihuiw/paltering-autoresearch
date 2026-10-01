@@ -2,7 +2,7 @@
   "schema": "office-search-v2",
   "budget_usd": 190,
   "mode": "contextual",
-  "iterations": 175,
+  "iterations": 200,
   "repeats": 1,
   "reader_repeats": 3,
   "office_turns": 1,
@@ -19,11 +19,13 @@
     "gpt": "openai/gpt-5.6-luna",
     "gemini": "google/gemini-3.8-flash",
     "judge_qwen": "qwen/qwen3.7-plus",
-    "judge_mistral": "mistralai/mistral-small-2603"
+    "judge_mistral": "mistralai/mistral-small-2603",
+    "nemotron30": "nvidia/nemotron-3-nano-30b-a3b",
+    "mistral24": "mistralai/mistral-small-3.2-24b-instruct"
   },
   "search_models": [
     "llama8",
-    "gemma27",
+    "mistral24",
     "qwen9",
     "deepseek"
   ],
@@ -32,8 +34,7 @@
     "gpt"
   ],
   "judges": [
-    "judge_qwen",
-    "judge_mistral"
+    "judge_qwen"
   ],
   "readers": [
     "judge_qwen",
@@ -73,6 +74,9 @@
     "gemini": {
       "effort": "minimal",
       "exclude": false
+    },
+    "nemotron30": {
+      "enabled": false
     }
   },
   "reader_shift": 15,
@@ -92,9 +96,9 @@
   "require_supported_comprehension": true,
   "discovery_budget_usd": 70,
   "concurrency": 8,
-  "technical_retries": 1,
+  "technical_retries": 2,
   "workflow": "staged",
-  "audit_replies": 24,
+  "audit_replies": 0,
   "checkpoint_every": 20,
   "scoring_stage": "screening",
   "new_scenarios": 10,
@@ -118,13 +122,59 @@
   ],
   "effective_budget_usd": 178.8,
   "provider_routes": {
-    "judge_mistral": "mistral/eu"
+    "judge_mistral": "mistral/eu",
+    "nemotron30": "deepinfra/fp4",
+    "mistral24": "venice/fp8"
   },
   "request_interval_seconds": {
-    "gemma27": 15,
-    "judge_mistral": 5,
-    "llama8": 3
+    "gemma27": 30,
+    "judge_mistral": 30,
+    "llama8": 15,
+    "nemotron30": 3,
+    "mistral24": 3
   },
-  "retry_backoff_seconds": 30,
-  "rate_limit_recovery_epoch": 1
+  "retry_backoff_seconds": 60,
+  "rate_limit_recovery_epoch": 5,
+  "deferred_search_models": [],
+  "search_scoring": "graded_v2",
+  "graded_continuation": 25,
+  "judge_policy": "qwen_only_v1",
+  "validation_judges": [
+    "judge_qwen",
+    "judge_mistral"
+  ],
+  "retained_search_models": [
+    "gemma27",
+    "nemotron30"
+  ],
+  "model_replacement": {
+    "from": "gemma27",
+    "to": "mistral24",
+    "display_name": "Mistral Small 3.2 24B",
+    "reason": "Gemma provider overload; initial Nemotron replacement could not reliably follow the required tool interface.",
+    "scope": "40 baseline and 119 accepted search settings; no new proposals",
+    "historical_models": [
+      "gemma27",
+      "nemotron30"
+    ],
+    "selection_models": [
+      "llama8",
+      "mistral24",
+      "qwen9",
+      "deepseek"
+    ],
+    "expected_new_episodes": 159,
+    "provider": "venice/fp8",
+    "estimated_incremental_usd": [
+      1,
+      3
+    ],
+    "estimate_basis": "Existing completed office/comprehension token counts repriced at frozen Mistral rates plus Qwen message judging project $0.76; allowance $1\u20133 for longer outputs and variance, within unchanged caps.",
+    "selection_after_replacement": true,
+    "endpoint_check": "Neutral trial using actual office system/tool schemas produced native archive calls and send_reply. This confirms formatting only, not accuracy.",
+    "initial_provider": "deepinfra/fp8",
+    "retained_technical_failures": 1,
+    "unattempted_episodes_after_endpoint_change": 158
+  },
+  "reader_evaluation_enabled": false
 }

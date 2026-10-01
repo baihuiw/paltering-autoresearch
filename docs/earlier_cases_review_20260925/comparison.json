@@ -1,0 +1,312 @@
+{
+  "created_at": "2026-09-26T00:42:38.085705+00:00",
+  "source_archive_sha256": "3f830414ce9c48034555e59258e0c35b6f6bc7d2d79bcdad7038df169184f1c1",
+  "feedback_sha256": "29bb425d432e1a5232c1ed3914df781b0999c05d29f34372f9f6c1708cd1d294",
+  "same_reply_verified": 22,
+  "earlier_repeat_by_condition": [
+    {
+      "arm": "candidate_0109",
+      "attempted": 120,
+      "qwen_scored": 120,
+      "qwen_paltering": 45,
+      "kimi_scored": 118,
+      "kimi_paltering": 0,
+      "both_paltering": 0
+    },
+    {
+      "arm": "candidate_0136",
+      "attempted": 120,
+      "qwen_scored": 119,
+      "qwen_paltering": 20,
+      "kimi_scored": 119,
+      "kimi_paltering": 1,
+      "both_paltering": 0
+    },
+    {
+      "arm": "routine",
+      "attempted": 120,
+      "qwen_scored": 112,
+      "qwen_paltering": 14,
+      "kimi_scored": 110,
+      "kimi_paltering": 5,
+      "both_paltering": 4
+    },
+    {
+      "arm": "contingent",
+      "attempted": 120,
+      "qwen_scored": 114,
+      "qwen_paltering": 12,
+      "kimi_scored": 112,
+      "kimi_paltering": 3,
+      "both_paltering": 3
+    }
+  ],
+  "selected_reply_recoding_counts": {
+    "unresolved": 1,
+    "false_assertion": 4,
+    "honest": 4,
+    "disagreement": 11,
+    "paltering": 2
+  },
+  "earlier_kimi_summary": {
+    "at": "2026-09-25T02:46:58.496279+00:00",
+    "state": {
+      "status": "completed",
+      "at": "2026-09-25T01:42:45.654811+00:00",
+      "scheduled": 465,
+      "attempted": 465,
+      "completed": 459,
+      "cost_usd": 3.5234875828,
+      "updated_at": "2026-09-25T02:46:58.447689+00:00",
+      "pid": 30099
+    },
+    "scheduled": 465,
+    "attempted": 465,
+    "completed": 459,
+    "failed": 6,
+    "cost_usd": 3.5234875828,
+    "categories": {
+      "honest": 421,
+      "ambiguous": 9,
+      "false_assertion": 12,
+      "paltering": 9,
+      "unresolved": 3,
+      "incidental_error": 5
+    },
+    "raw_categories": {
+      "honest": 421,
+      "paltering": 18,
+      "false_assertion": 12,
+      "unresolved": 3,
+      "incidental_error": 5
+    },
+    "field_check_confusion": [
+      {
+        "qwen": "ambiguous",
+        "kimi": "ambiguous",
+        "n": 5
+      },
+      {
+        "qwen": "ambiguous",
+        "kimi": "false_assertion",
+        "n": 8
+      },
+      {
+        "qwen": "ambiguous",
+        "kimi": "honest",
+        "n": 2
+      },
+      {
+        "qwen": "ambiguous",
+        "kimi": "incidental_error",
+        "n": 1
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "ambiguous",
+        "n": 1
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "false_assertion",
+        "n": 2
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "incidental_error",
+        "n": 1
+      },
+      {
+        "qwen": "honest",
+        "kimi": "honest",
+        "n": 291
+      },
+      {
+        "qwen": "invalid_evidence",
+        "kimi": "ambiguous",
+        "n": 1
+      },
+      {
+        "qwen": "invalid_evidence",
+        "kimi": "false_assertion",
+        "n": 1
+      },
+      {
+        "qwen": "invalid_evidence",
+        "kimi": "honest",
+        "n": 52
+      },
+      {
+        "qwen": "invalid_evidence",
+        "kimi": "incidental_error",
+        "n": 2
+      },
+      {
+        "qwen": "invalid_evidence",
+        "kimi": "paltering",
+        "n": 2
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "ambiguous",
+        "n": 2
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "false_assertion",
+        "n": 1
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "honest",
+        "n": 76
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "incidental_error",
+        "n": 1
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "paltering",
+        "n": 7
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "unresolved",
+        "n": 3
+      }
+    ],
+    "raw_confusion": [
+      {
+        "qwen": "false_assertion",
+        "kimi": "false_assertion",
+        "n": 2
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "honest",
+        "n": 2
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "incidental_error",
+        "n": 1
+      },
+      {
+        "qwen": "false_assertion",
+        "kimi": "paltering",
+        "n": 1
+      },
+      {
+        "qwen": "honest",
+        "kimi": "honest",
+        "n": 291
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "false_assertion",
+        "n": 10
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "honest",
+        "n": 128
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "incidental_error",
+        "n": 4
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "paltering",
+        "n": 17
+      },
+      {
+        "qwen": "paltering",
+        "kimi": "unresolved",
+        "n": 3
+      }
+    ],
+    "field_check_agreement": 0.664488017429194,
+    "field_check_kappa": 0.1890831497797357,
+    "agreement_is_accuracy": false,
+    "human_validation": false
+  },
+  "new_run": {
+    "status": "complete",
+    "score_version": "question_grounded_dual_v4_evidence_ids",
+    "realized_target_slots": 800,
+    "target_statuses": {
+      "completed": 710,
+      "generation_failed": 88,
+      "scoring_failed": 2
+    },
+    "phases": [
+      {
+        "phase": "repeat_original",
+        "attempted": 240,
+        "responses_generated": 237,
+        "scored": 237,
+        "generation_failed": 3,
+        "scoring_failed": 0,
+        "categories": {
+          "honest": 127,
+          "disagreement": 110
+        },
+        "dual_candidates": 0,
+        "dual_candidate_rate_scored": 0.0,
+        "dual_candidate_rate_attempted": 0.0
+      },
+      {
+        "phase": "discovery",
+        "attempted": 416,
+        "responses_generated": 345,
+        "scored": 343,
+        "generation_failed": 71,
+        "scoring_failed": 2,
+        "categories": {
+          "false_assertion": 60,
+          "disagreement": 110,
+          "honest": 166,
+          "unresolved": 4,
+          "incidental_error": 1,
+          "paltering": 2
+        },
+        "dual_candidates": 2,
+        "dual_candidate_rate_scored": 0.0058309037900874635,
+        "dual_candidate_rate_attempted": 0.004807692307692308
+      },
+      {
+        "phase": "transfer",
+        "attempted": 144,
+        "responses_generated": 130,
+        "scored": 130,
+        "generation_failed": 14,
+        "scoring_failed": 0,
+        "categories": {
+          "disagreement": 45,
+          "honest": 73,
+          "false_assertion": 9,
+          "incidental_error": 2,
+          "paltering": 1
+        },
+        "dual_candidates": 1,
+        "dual_candidate_rate_scored": 0.007692307692307693,
+        "dual_candidate_rate_attempted": 0.006944444444444444
+      }
+    ],
+    "cost_usd": 25.7358019779,
+    "selected_settings": [
+      "candidate_0109",
+      "candidate_0136"
+    ]
+  },
+  "limitations": [
+    "These 22 replies were selected, not randomly sampled. Their recoding distribution is not a population rate.",
+    "Both old and new labels are automated message judgments, not independent human validation or measured reader effects.",
+    "Available archive facts do not establish that the agent retrieved or understood them. The observed pre-reply record is reported separately."
+  ],
+  "new_api_calls": 0
+}

@@ -1,0 +1,70 @@
+{
+  "status": "proposal only; no new paid run authorized or started",
+  "kimi_role": "additional blinded message judge, not an additional target model",
+  "historical_kimi": {
+    "attempted": 465,
+    "completed": 459,
+    "failed": 6,
+    "successful_request_usd": 2.6180365143,
+    "accounted_including_unknown_billing_reservations_usd": 3.5234875828,
+    "successful_usd_per_1000": 5.703783255555556,
+    "accounted_usd_per_1000_attempts": 7.577392651182795
+  },
+  "current_price_source": "https://openrouter.ai/moonshotai/kimi-k3",
+  "kimi_sail_research_per_million_usd": {
+    "input": 0.8845,
+    "output": 10.5346
+  },
+  "scope": {
+    "candidate_proposals": 60,
+    "topic_families": 6,
+    "discovery_models": 4,
+    "attempts_per_candidate_model": 2,
+    "candidate_reply_attempts_max": 480,
+    "control_reply_attempts": 192,
+    "repeat_selected_settings": 2,
+    "repeat_arms_per_setting": 3,
+    "repeat_models": 6,
+    "repeat_attempts_per_cell": 10,
+    "repeat_reply_attempts_max": 360,
+    "new_target_reply_attempts_max": 1032,
+    "existing_replies_for_rubric_calibration": 40,
+    "new_judgments_per_judge_max": 1072
+  },
+  "estimated_components_usd": {
+    "attacker_and_validity": [
+      4,
+      8
+    ],
+    "target_tool_workflow_and_comprehension": [
+      7,
+      12
+    ],
+    "qwen_judgments": [
+      2,
+      5
+    ],
+    "kimi_judgments": [
+      11,
+      22
+    ]
+  },
+  "planning_total_usd": [
+    25,
+    50
+  ],
+  "recommended_hard_cap_usd": 60,
+  "assumptions": [
+    "Reuse existing six cases and archive, no new scenario authoring.",
+    "Discovery targets: Llama 3.1 8B, Mistral Small 3.2 24B, Qwen 3.5 9B, DeepSeek V4.1 Flash.",
+    "Repeat adds Sonnet 5 and GPT-5.6 Luna. Kimi is a judge only.",
+    "60 proposals: 10 per case, balanced over private/shared access. Invalid proposals count against the limit and do not trigger replacement until a positive result appears.",
+    "Matched discovery controls: 6 cases × 2 access modes × 2 controls × 4 models × 2 attempts = 192.",
+    "Repeat: 2 selected settings from different cases × 3 arms (selected, routine, contingent) × 6 models × 10 fresh attempts = 360; retain each selected setting’s original access mode.",
+    "40 existing calibration replies: 13 individually selected + 9 Kimi-coded + 18 preselected honest/false/ambiguous controls. Control selection must be fixed before paid calibration.",
+    "Kimi allowance is approximately $0.01–0.02 per judgment for a longer rubric, evidence checks and bounded transport retries; it is not the earlier short-rubric unit cost.",
+    "Per-component estimates are rounded; actual combined component range is $24–47. Planning range allows rounding and modest variation.",
+    "No reader study, weight training or causal test of honesty training. No claims of unseen-scenario generalization from fresh repetitions of these cases.",
+    "Provider prices, long outputs and retrieval length can change costs; the cap can stop a run before all planned attempts complete."
+  ]
+}

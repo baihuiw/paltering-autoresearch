@@ -15,6 +15,8 @@ def frozen_fingerprint(cfg):
 def check_config(c):
  if c.get('schema')!='office-search-v2' or c.get('information_profiles')!=['private','shared']:raise ValueError('Use v2 paired information configuration')
  if type(c.get('require_supported_comprehension')) is not bool:raise ValueError('Set comprehension requirement explicitly')
+ if type(c.get('reader_evaluation_enabled',True)) is not bool:raise ValueError('Reader evaluation flag must be boolean')
+ if c.get('reader_evaluation_enabled',True) is False and c.get('workflow')!='staged':raise ValueError('Message-only continuation requires the staged workflow')
  if c['mode'] not in ['contextual','explicit']:raise ValueError('Track must be contextual or explicit')
  for k in ['iterations','repeats','reader_repeats','office_turns','max_tool_steps','top_k','transfer_repeats','verification_steps']:
   if type(c[k]) is not int or not 1<=c[k]<=1000:raise ValueError('Invalid '+k)
@@ -22,15 +24,27 @@ def check_config(c):
  if c['office_turns']>4:raise ValueError('At most four replies')
  if c.get('workflow')=='staged':
   if c['budget_usd']!=190 or c.get('discovery_budget_usd')!=70:raise ValueError('Authorized staged cap is 190, discovery 70')
-  if c['office_turns']!=1 or c['iterations']>175:raise ValueError('Staged scope exceeded')
+  extension=c.get('graded_continuation',0)
+  if type(extension) is not int or not 0<=extension<=25:raise ValueError('Invalid graded continuation scope')
+  if extension and c.get('search_scoring')!='graded_v2':raise ValueError('Graded continuation requires versioned scoring')
+  if c.get('search_scoring','strict_v1') not in ['strict_v1','graded_v2']:raise ValueError('Unknown search score version')
+  if c['office_turns']!=1 or c['iterations']>175+extension:raise ValueError('Staged scope exceeded')
+  deferred=c.get('deferred_search_models',[])
+  if not isinstance(deferred,list) or len(deferred)!=len(set(deferred)) or not set(deferred)<=set(c['search_models']) or not set(c['search_models'])-set(deferred):raise ValueError('Invalid deferred search models')
   ids=c.get('new_case_ids',[])
   if len(ids)!=10 or len(set(ids))!=10 or c.get('confirmation_new_ids')!=ids[6:8]:raise ValueError('Invalid new scenario split')
   if not 1<=c.get('concurrency',0)<=8:raise ValueError('Invalid concurrency')
  if type(c['budget_usd']) not in [float,int] or c['budget_usd']<=0:raise ValueError('Positive budget required')
- if len(set(c['judges']))!=2 or len(set(c['readers']))!=2:raise ValueError('Two distinct coders and readers required')
+ policy=c.get('judge_policy','paired_v1')
+ if policy not in ['paired_v1','qwen_only_v1']:raise ValueError('Unknown judge policy')
+ if policy=='qwen_only_v1' and (c['judges']!=['judge_qwen'] or c['models']['judge_qwen']!='qwen/qwen3.7-plus' or c.get('search_scoring')!='graded_v2'):raise ValueError('Qwen-only amendment requires configured Qwen judge and graded scoring')
+ expected=1 if policy=='qwen_only_v1' else 2
+ if len(c['judges'])!=expected or len(set(c['judges']))!=expected or len(set(c['readers']))!=2:raise ValueError('Configured judge count or reader panel invalid')
+ validators=c.get('validation_judges',c['judges'])
+ if len(validators)!=2 or len({c['models'][a] for a in validators})!=2:raise ValueError('Two independent scenario validators required')
  if set(c['search_cases']) & (set(c['heldout_cases'])|set(c['control_cases'])):raise ValueError('Search/test/control overlap')
  if set(c['search_models']) & set(c['transfer_models']):raise ValueError('Search and transfer target models overlap')
- if len({c['models'][a] for a in c['judges']})!=2:raise ValueError('Two distinct judge model IDs required')
+ if len({c['models'][a] for a in c['judges']})!=expected:raise ValueError('Distinct configured judge model IDs required')
  cases=case_by_id();cat=read(ROOT/'data/model_catalog.json');models={m['id']:m for m in cat['data']}
  for k in ['search_cases','heldout_cases','control_cases']:
   if any(x not in cases for x in c[k]):raise ValueError('Unknown case')

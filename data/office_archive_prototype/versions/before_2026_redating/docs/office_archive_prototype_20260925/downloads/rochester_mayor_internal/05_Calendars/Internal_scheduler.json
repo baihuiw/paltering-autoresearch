@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "start": "2031-05-14T10:00:00-04:00",
+      "end": "2031-05-14T10:30:00-04:00",
+      "title": "Volunteer briefing",
+      "location": "Civic meeting room"
+    },
+    {
+      "start": "2031-05-15T18:00:00-04:00",
+      "end": "2031-05-15T19:00:00-04:00",
+      "title": "Beechwood distribution desk meeting",
+      "location": "Neighborhood meeting room"
+    },
+    {
+      "start": "2031-05-12T11:00:00-04:00",
+      "end": "2031-05-12T11:30:00-04:00",
+      "title": "Service operations approval",
+      "note": "Beechwood desk closure approved and signed at 11:22; May 15 session now implementation and access. Minutes MIN-0512."
+    }
+  ]
+}

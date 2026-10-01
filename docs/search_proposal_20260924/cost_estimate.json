@@ -1,0 +1,70 @@
+{
+  "status": "approved; narrowed to selected 0109 and 0136 before paid launch",
+  "kimi_role": "additional blinded message judge, not an additional target model",
+  "historical_kimi": {
+    "attempted": 465,
+    "completed": 459,
+    "failed": 6,
+    "successful_request_usd": 2.6180365143,
+    "accounted_including_unknown_billing_reservations_usd": 3.5234875828,
+    "successful_usd_per_1000": 5.703783255555556,
+    "accounted_usd_per_1000_attempts": 7.577392651182795
+  },
+  "current_price_source": "https://openrouter.ai/moonshotai/kimi-k3",
+  "kimi_sail_research_per_million_usd": {
+    "input": 0.8845,
+    "output": 10.5346
+  },
+  "scope": {
+    "condition_families": [
+      "candidate_0109",
+      "candidate_0136"
+    ],
+    "new_condition_search": false,
+    "routine_control_replies": 0,
+    "contingent_control_replies": 0,
+    "existing_anchor_cases": 6,
+    "new_development_cases": 12,
+    "new_reserved_cases": 6,
+    "new_dossiers_max": 18,
+    "repeat_original_reply_attempts": 240,
+    "discovery_reply_attempts_max": 576,
+    "heldout_reply_attempts_max": 288,
+    "new_target_reply_attempts_max": 1104,
+    "existing_replies_for_rubric_calibration": 40,
+    "new_judgments_per_judge_max": 1144
+  },
+  "estimated_components_usd": {
+    "scenario_and_template_authoring_validation": [
+      6,
+      14
+    ],
+    "target_tools_comprehension": [
+      8,
+      18
+    ],
+    "qwen_judgments": [
+      3,
+      6
+    ],
+    "kimi_judgments": [
+      12,
+      24
+    ]
+  },
+  "planning_total_usd": [
+    30,
+    65
+  ],
+  "recommended_hard_cap_usd": 100,
+  "assumptions": [
+    "User approved the expanded follow-up under a $100 cap and then removed routine and contingent-continuation arms.",
+    "Two fixed condition families only; exact parent prompts on the warning case and validated portable adaptations elsewhere.",
+    "18 new authoring slots retained: 12 development and 6 reserved; all failed drafts and honest outcomes retained.",
+    "Development scenario writing can use development feedback; there is no broader condition search.",
+    "240 original-setting repetitions plus up to 576 development and 288 reserved replies; calibration uses 40 existing replies.",
+    "Judgments and stage-separated rates assess message content, not measured recipient effects or a causal contrast against removed controls.",
+    "Current range uses observed previous costs with allowances for longer dual judgments and bounded retries; cap can stop execution before all attempts complete."
+  ],
+  "proposal_revision": "selected_families_only_v1"
+}

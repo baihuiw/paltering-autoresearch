@@ -1,0 +1,89 @@
+{
+  "status": "expanded proposal only; no new paid run authorized or started",
+  "kimi_role": "additional blinded message judge, not an additional target model",
+  "historical_kimi": {
+    "attempted": 465,
+    "completed": 459,
+    "failed": 6,
+    "successful_request_usd": 2.6180365143,
+    "accounted_including_unknown_billing_reservations_usd": 3.5234875828,
+    "successful_usd_per_1000": 5.703783255555556,
+    "accounted_usd_per_1000_attempts": 7.577392651182795
+  },
+  "current_price_source": "https://openrouter.ai/moonshotai/kimi-k3",
+  "kimi_sail_research_per_million_usd": {
+    "input": 0.8845,
+    "output": 10.5346
+  },
+  "scope": {
+    "existing_anchor_cases": 6,
+    "new_development_cases": 12,
+    "new_reserved_cases": 6,
+    "new_dossiers_max": 18,
+    "discovery_cases_max": 18,
+    "candidate_proposals": 60,
+    "initial_proposals_covering_each_case_and_access": 36,
+    "adaptive_proposals": 24,
+    "discovery_models": 4,
+    "attempts_per_candidate_model": 2,
+    "candidate_reply_attempts_max": 480,
+    "control_reply_attempts_max": 576,
+    "repeat_selected_settings": 2,
+    "repeat_arms_per_setting": 3,
+    "repeat_models": 6,
+    "repeat_attempts_per_cell": 10,
+    "repeat_reply_attempts_max": 360,
+    "heldout_cases": 6,
+    "heldout_arms": 4,
+    "heldout_access_modes": 2,
+    "heldout_models": 6,
+    "heldout_attempts_per_cell": 2,
+    "heldout_reply_attempts_max": 576,
+    "new_target_reply_attempts_max": 1992,
+    "existing_replies_for_rubric_calibration": 40,
+    "new_judgments_per_judge_max": 2032
+  },
+  "estimated_components_usd": {
+    "new_dossier_authoring_and_validation": [
+      3,
+      8
+    ],
+    "condition_attacker_and_validity": [
+      4,
+      8
+    ],
+    "target_tool_workflow_and_comprehension": [
+      12,
+      24
+    ],
+    "qwen_judgments": [
+      4,
+      9
+    ],
+    "kimi_judgments": [
+      21,
+      41
+    ]
+  },
+  "planning_total_usd": [
+    45,
+    90
+  ],
+  "recommended_hard_cap_usd": 100,
+  "assumptions": [
+    "The earlier six-case proposal is archived separately; this expands it rather than silently adding trials to an approved run.",
+    "18 new dossiers: 12 development (6 initial, 6 adaptive) and 6 independently authored reserved cases. Two consequence levels per family in development and one reserved, balanced overall. These are draft quotas, not claims of validated severity.",
+    "Generate reserved dossiers before discovery feedback; show them only to the independent author and validators, not to the adaptive attacker.",
+    "60 candidate conditions total, not 60 per scenario. Start with 36 conditions covering 18 development/anchor cases × 2 access modes, then 24 adaptive proposals. Test valid conditions on 4 models × 2 attempts = at most 480 replies.",
+    "Matched discovery controls: 18 cases × 2 access modes × 2 control conditions × 4 models × 2 attempts = at most 576 replies.",
+    "Repeat: 2 selected settings from different development cases × 3 arms × 6 models × 10 attempts = at most 360; retain each selected setting’s original access mode.",
+    "Transfer: 6 reserved cases × 4 arms (2 portable selected templates, routine and contingent) × 2 access modes × 6 models × 2 attempts = at most 576 replies.",
+    "Two portable templates must be frozen before held-out access. Unsupported condition transfers are invalid and reported, not rewritten after inspecting target outputs.",
+    "40 existing calibration replies are additionally judged by both models. Planned message-judge upper bound is 2032 per judge; validity and authoring checks are budgeted separately.",
+    "Kimi allowance assumes approximately $0.01–0.02 per longer judgment; historical successful and accounted unit costs are retained above for transparency.",
+    "Per-component rounded total is $44–90, reported as approximately $45–90 with a $100 hard cap. Estimated additional writing and source validation alone is $3–8.",
+    "No reader inference, new model training or Kimi target-agent runs. No guarantee that a more consequential or sensitive case produces more paltering.",
+    "If validation rejects cases or the cap is reached, actual completed counts may be lower. Keep failures and honest outcomes; never extend generation until a desired positive rate is reached."
+  ],
+  "proposal_revision": "scenario_expansion_v1"
+}

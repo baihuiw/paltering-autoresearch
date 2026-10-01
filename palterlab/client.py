@@ -56,7 +56,7 @@ class Client:
   params=meta.get('supported_parameters',[])
   if 'temperature' in params:body['temperature']=self.cfg.get('temperature',0.7)
   if 'reasoning' in params:body['reasoning']=self.cfg.get('reasoning',{}).get(alias,{'enabled':False})
-  if tools:body.update(tools=tools,tool_choice='required')
+  if tools:body.update(tools=tools,tool_choice=self.cfg.get('tool_choice_by_model',{}).get(alias,'required'))
   if json_mode and 'response_format' in params:body['response_format']={'type':'json_object'}
   cid=digest({'label':label,'request':body});path=self.calls/(cid+'.json')
   with self.guard:lock=self.locks.setdefault(cid,threading.Lock())
@@ -87,6 +87,9 @@ class Client:
       row['response']=response;cost=response.get('usage',{}).get('cost')
       known=isinstance(cost,(int,float)) and cost>=0
       row['accounted_usd']=float(cost) if known else reservation;row['cost_basis']='reported' if known else 'reserved_unknown_cost'
+      if isinstance(response.get('error'),dict):
+       row['provider_error_code']=response['error'].get('code')
+       raise CallFailed('Provider error '+str(response['error'].get('code'))+': '+str(response['error'].get('message','Unspecified upstream error')))
       choices=response.get('choices',[])
       if row['accounted_usd']>reservation+1e-6:raise BudgetStop('Provider billing exceeded reserved bound; stopped')
       if not choices or choices[0].get('finish_reason')=='length':raise CallFailed('Missing/truncated completion; no output retry')

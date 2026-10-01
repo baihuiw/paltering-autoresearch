@@ -1,5 +1,8 @@
 # Protocol for the information-access search
 
+> **Current run update (24 September 2026):** Reader evaluation is deferred. The remaining Sonnet/GPT trials use message-level coding and separate comprehension checks. Previously collected reader records are preserved. See [the current amendment](staged_run.md) for the active protocol; earlier reader plans below are historical.
+
+
 ## Question
 
 When does an office assistant with access to relevant records communicate misleadingly? Does its behaviour change when a recipient can independently retrieve the decisive evidence? How much of a misleading impression remains after optional verification?

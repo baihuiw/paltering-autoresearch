@@ -60,13 +60,19 @@ from collections import Counter
 
 class StagedFlowTests(unittest.TestCase):
  def test_null_search_freezes_empty_selection_and_resumes_without_calls(self):
+  self.run_flow(False)
+ def test_deferred_model_never_called_or_selected_and_resume_reuses_calls(self):
+  self.run_flow(True)
+ def test_deferred_readers_skip_saved_audit_and_all_transfer_reader_calls(self):
+  self.run_flow(False,message_only=True)
+ def run_flow(self,deferred,message_only=False):
   import shutil
   from palterlab.staged import execute_staged
   from palterlab.experiment import frozen_fingerprint
   class FakeClient:
    def __init__(self,*a,**k):self.stage='discovery'
    def spent(self,*a):return 0
-  cfg=read(ROOT/'config/lean175.json');cfg.update(iterations=1,search_models=['llama8'],transfer_models=['gpt'],transfer_repeats=1,audit_replies=0)
+  cfg=read(ROOT/'config/lean175.json');cfg.update(iterations=1,search_models=['llama8','gemma27'] if deferred else ['llama8'],deferred_search_models=['gemma27'] if deferred else [],transfer_models=['gpt'],transfer_repeats=1,audit_replies=0,reader_evaluation_enabled=not message_only)
   def pack(client,cfg,run):
    dest=Path(run)/'pack';shutil.copytree(ROOT/'data',dest,dirs_exist_ok=True)
    cases=read(dest/'cases.json');plans=read(dest/'information_plans.json');source=cases[0]
@@ -79,8 +85,33 @@ class StagedFlowTests(unittest.TestCase):
    c=baseline(case['case_id']);c['condition']='A distinct fictional condition.';return c
   with tempfile.TemporaryDirectory() as t:
    run=Path(t)/'run';approval=Path(t)/'approved.json';save(approval,{'approved':True,'budget_usd':190,'run':str(run.resolve()),'fingerprint':frozen_fingerprint(cfg)})
-   with patch('palterlab.staged.Client',FakeClient),patch('palterlab.staged.prepare_pack',side_effect=pack),patch('palterlab.staged.generate',side_effect=fake_generate) as gen,patch('palterlab.staged.screen',side_effect=fake_screen),patch('palterlab.staged.propose',side_effect=proposal),patch('palterlab.staged.validate_semantic',return_value=(True,[])),patch('palterlab.staged.score',return_value={'category':'honest','reward':0}),patch('palterlab.staged.build_library'),patch('palterlab.staged.build_review'),patch('builtins.print'),patch('urllib.request.urlopen',side_effect=AssertionError('No network')):
-    result=execute_staged(cfg,run,approval);self.assertEqual(result['status'],'completed');self.assertEqual(read(run/'selection.json')['ids'],[])
+   if message_only:
+    c=proposal(None,cfg,{'case_id':cfg['search_cases'][0]},[],0)
+    save(run/'selection.json',{'ids':['frozen_candidate'],'criterion':'historical selection'})
+    save(run/'state.json',{'status':'running','experiments':[{'id':'frozen_candidate','phase':'search','status':'evaluated','candidate':c,'case_id':c['case_id'],'mean_reward':1,'scoring_models':['llama8']}],'feedback':[]})
+    save(run/'audit_selection.json',{'ids':['unfinished_audit','old_audit']})
+    save(run/'audit/old_audit/result.json',{'status':'completed','historical':True})
+    old_audit=(run/'audit/old_audit/result.json').read_bytes()
+    old_selection=(run/'selection.json').read_bytes()
+   with patch('palterlab.staged.Client',FakeClient),patch('palterlab.staged.prepare_pack',side_effect=pack),patch('palterlab.staged.generate',side_effect=fake_generate) as gen,patch('palterlab.staged.screen',side_effect=fake_screen),patch('palterlab.staged.propose',side_effect=proposal),patch('palterlab.staged.validate_semantic',return_value=(True,[])),patch('palterlab.staged.score',side_effect=AssertionError('Reader evaluation must not run') if message_only else None,return_value={'category':'honest','reward':0}) as reader_score,patch('palterlab.staged.build_library'),patch('palterlab.staged.build_review'),patch('builtins.print'),patch('urllib.request.urlopen',side_effect=AssertionError('No network')):
+    result=execute_staged(cfg,run,approval)
+    if deferred:
+     self.assertEqual(result['status'],'waiting_deferred_models');self.assertFalse((run/'selection.json').exists())
+     self.assertTrue(all(c.args[5]=='llama8' for c in gen.call_args_list))
+     self.assertTrue(all(set(x.get('per_model',{}))=={'llama8'} for x in result['experiments'] if x['status']=='evaluated'))
+    else:
+     self.assertEqual(result['status'],'completed');self.assertEqual(read(run/'selection.json')['ids'],['frozen_candidate'] if message_only else [])
+    if message_only:
+     reader_score.assert_not_called()
+     self.assertEqual(result['confirmation_measure'],'message_only')
+     transfers=[r for r in result['experiments'] if r['phase'] in ['transfer','transfer_baseline']]
+     self.assertTrue(any(r['phase']=='transfer' for r in transfers));self.assertTrue(any(r['phase']=='transfer_baseline' for r in transfers))
+     self.assertTrue(all(r['n_completed']>0 for r in transfers))
+     self.assertTrue(all(r['metric']=='graded_message_score' for r in transfers))
+     self.assertEqual((run/'audit/old_audit/result.json').read_bytes(),old_audit)
+     self.assertEqual((run/'selection.json').read_bytes(),old_selection)
+     self.assertFalse((run/'audit/unfinished_audit').exists())
+     self.assertEqual(read(run/'reader_deferral.json')['status'],'deferred_by_user')
     n=gen.call_count;execute_staged(cfg,run,approval);self.assertEqual(gen.call_count,n)
 
 class AuthoringGateTests(unittest.TestCase):
@@ -140,3 +171,41 @@ class RateRecoveryTests(unittest.TestCase):
    for _ in range(2):
     with self.assertRaises(CallFailed):c.call('llama8',[{'role':'user','content':'fixture'}],label='length-test')
    self.assertEqual(net.call_count,1)
+
+class DeferredScopeTests(unittest.TestCase):
+ def test_four_model_backfill_recomputes_three_model_summary(self):
+  from palterlab.staged import trial_scope_matches
+  row={'status':'evaluated','scoring_models':['llama8','qwen9','deepseek']}
+  self.assertTrue(trial_scope_matches(row,['llama8','qwen9','deepseek']))
+  self.assertFalse(trial_scope_matches(row,['llama8','qwen9','deepseek','gemma27']))
+ def test_cannot_defer_every_model(self):
+  cfg=read(ROOT/'config/lean175.json');cfg['deferred_search_models']=cfg['search_models'][:]
+  with self.assertRaises(ValueError):check_config(cfg)
+
+class ProviderAttributionTests(unittest.TestCase):
+ def test_scorer_failure_does_not_mark_target_unavailable(self):
+  from palterlab.staged import rate_limit_counts
+  rows=[{'model':'deepseek','status':'scoring_failed','error':'HTTP Error 429'},{'model':'llama8','status':'generation_failed','error':'HTTP Error 429'}]
+  self.assertEqual(rate_limit_counts(rows,'generation_failed'),{'llama8':1})
+  self.assertEqual(rate_limit_counts(rows,'scoring_failed'),{'deepseek':1})
+
+class ReaderDeferralTests(unittest.TestCase):
+ def test_reader_entry_point_blocks_calls_when_deferred(self):
+  from palterlab.evaluate import score
+  with self.assertRaisesRegex(ValueError,'Reader evaluation is deferred'):
+   score(None,{'reader_evaluation_enabled':False},None,None,None,None,None,None,None,None)
+ def test_unmeasured_effect_is_not_rendered_as_false(self):
+  from palterlab.site import reader_summary
+  text=reader_summary({'reader_tested':False,'reward':0})
+  self.assertIn('not measured',text);self.assertNotIn('False',text)
+ def test_cost_estimate_excludes_all_future_reader_calls(self):
+  from palterlab.costs import staged_estimate
+  cfg=read(ROOT/'config/lean175.json');cfg.update(reader_evaluation_enabled=False,audit_replies=24)
+  estimate=staged_estimate(cfg)
+  self.assertEqual(estimate['saved_reply_audits'],0)
+  self.assertTrue(all(c['audit']==0 for c in estimate['components']))
+  enabled=staged_estimate({**cfg,'reader_evaluation_enabled':True})
+  self.assertGreater(enabled['typical_usd'],estimate['typical_usd'])
+ def test_reader_flag_must_be_boolean(self):
+  cfg=read(ROOT/'config/lean175.json');cfg['reader_evaluation_enabled']='false'
+  with self.assertRaisesRegex(ValueError,'Reader evaluation flag'):check_config(cfg)

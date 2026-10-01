@@ -1,0 +1,11 @@
+Office records workspace
+01_Service_procedures — contact routing, standard acknowledgments and service notes.
+02_Correspondence — operational staff email exports, grouped by service.
+03_Decisions — approved minutes and decision registers.
+04_Operations — dispatch sheets, inventories, transport logs and needs assessments.
+05_Calendars — public events and internal scheduler exports.
+06_Budget — approved allocations and expenditure extracts.
+07_Publications — publication register and communications drafts.
+08_Background — earlier service reports and related reference material.
+
+Dates in file names are record dates, not guarantees that a proposal took effect. Decision registers identify approvals. A publication log records when a page became available externally. Use current records, while retaining earlier versions as historical context.

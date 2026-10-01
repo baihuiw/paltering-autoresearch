@@ -1,0 +1,135 @@
+{
+  "status": "estimate_not_run_authorization",
+  "price_date": "2026-09-25",
+  "rates_per_million": {
+    "mistral24": [
+      0.09375,
+      0.25
+    ],
+    "deepseek": [
+      0.14,
+      0.42
+    ],
+    "sonnet": [
+      2.0,
+      10.0
+    ],
+    "gpt": [
+      0.19999999999999998,
+      1.2
+    ],
+    "judge_qwen": [
+      0.32,
+      1.28
+    ],
+    "kimi": [
+      1.3,
+      11.399999999999999
+    ],
+    "llama70": [
+      0.1,
+      0.32
+    ],
+    "qwen122": [
+      0.26,
+      2.08
+    ]
+  },
+  "assumptions": {
+    "summed_input_tokens_per_target_session": [
+      75000,
+      150000
+    ],
+    "summed_output_tokens_per_target_session": [
+      4000,
+      10000
+    ],
+    "routine_replies_included": 4,
+    "judge_input_per_target": [
+      8000,
+      12000
+    ],
+    "judge_output_per_target": [
+      1000,
+      2000
+    ],
+    "authoring_and_revision_input_per_target": [
+      15000,
+      30000
+    ],
+    "authoring_and_revision_output_per_target": [
+      4000,
+      8000
+    ],
+    "common_archive_authoring_input_per_office": [
+      100000,
+      200000
+    ],
+    "common_archive_authoring_output_per_office": [
+      64000,
+      120000
+    ],
+    "reader_calls": 0,
+    "cache_discount": 0,
+    "contingency": 0.25,
+    "note": "Output includes billed reasoning. Sum tokens across calls, not per-call context size. Larger shared archives allow bounded excerpts but do not guarantee cache savings. Provider rate limits and invalid drafts may reduce completed trials before a cap."
+  },
+  "sources": [
+    "https://openrouter.ai/api/v1/models",
+    "https://openrouter.ai/api/v1/models/moonshotai/kimi-k3/endpoints",
+    "https://openrouter.ai/api/v1/models/qwen/qwen3.5-122b-a10b/endpoints",
+    "https://openrouter.ai/api/v1/models/meta-llama/llama-3.3-70b-instruct/endpoints"
+  ],
+  "provider_requirements": {
+    "llama70": "deepinfra/turbo",
+    "qwen122": "alibaba",
+    "kimi": "inference-net/fp4"
+  },
+  "full_dual_judging": [
+    124.94,
+    246.88
+  ],
+  "qwen_all_kimi_25_percent": [
+    100.42,
+    203.68
+  ],
+  "components": [
+    {
+      "subject_models": {
+        "llama70": 1.756,
+        "qwen122": 5.564,
+        "mistral24": 1.60625,
+        "deepseek": 2.4360000000000004,
+        "sonnet": 38.0,
+        "gpt": 3.96
+      },
+      "subject_total": 53.32225,
+      "qwen_all": 4.608,
+      "kimi_all": 26.16,
+      "scenario_authoring": 14.0,
+      "validity_checks": 1.024,
+      "shared_office_background": 0.84,
+      "full_dual_including_25_percent_allowance": 124.9428125,
+      "kimi_25_percent_including_allowance": 100.41781250000001
+    },
+    {
+      "subject_models": {
+        "llama70": 3.64,
+        "qwen122": 11.96,
+        "mistral24": 3.3125,
+        "deepseek": 5.040000000000001,
+        "sonnet": 80.0,
+        "gpt": 8.4
+      },
+      "subject_total": 112.3525,
+      "qwen_all": 7.68,
+      "kimi_all": 46.08,
+      "scenario_authoring": 28.0,
+      "validity_checks": 1.792,
+      "shared_office_background": 1.6,
+      "full_dual_including_25_percent_allowance": 246.880625,
+      "kimi_25_percent_including_allowance": 203.68062500000002
+    }
+  ],
+  "warning": "Provider choices, billed reasoning and retrieval depth affect actual cost. A $200 hard cap may stop the run before all cells finish. The 25% Kimi audit is an alternative, not a selected change to the two-judge rule."
+}

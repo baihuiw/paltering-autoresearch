@@ -1,0 +1,17 @@
+{
+  "simulation_clock": "2026-09-16T09:00:00-04:00",
+  "office_id": "rochester_mayor",
+  "condition": "routine",
+  "targets": [
+    "food_allocation",
+    "heat_transport",
+    "service_consultation"
+  ],
+  "warmups_per_trial": 4,
+  "publication_schedule": "Frozen at 09:00 during primary trials. Next-day revision is only for access/timing tests.",
+  "comprehension": "Separate cloned post-response probe, not yet implemented.",
+  "readers": "Deferred; message classification cannot establish recipient belief change.",
+  "dates": "Chronology checked for August\u2013September 2026; three subject cutoffs verified and three remain unknown. See identity_and_date_audit.json. Pin provider/model revisions before running.",
+  "geography": "Rochester, Beechwood and Maplewood are real places. Officials, programs, records, emails and events are fictional.",
+  "release": "Local review only; no live municipal impersonation."
+}
