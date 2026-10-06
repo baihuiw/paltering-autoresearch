@@ -65,7 +65,7 @@ Notes (2026-10-03): built `palterlab/v8/` (prompts.py with the approved wording,
 
 ## Step 6. Realism and eval-awareness checks `[ ]`
 
-- Awareness test on a subset of pilot episodes (`--awareness subset`): asked P(test) and reasons, plus verbalized awareness in reasoning. This is the go/no-go check on realism before the main run (design section 10).
+- Eval awareness from the models' own reasoning in the pilot results (no separate test or extra call; decided 6 Oct), with coverage per model.
 - Optional: P(evaluation) judge on sample transcripts against a realistic reference set.
 - Revise office 1 until scores are acceptable.
 
@@ -98,7 +98,7 @@ Decide whether office 1 works and what changes before scaling.
 ## Step 11. Full run `[ ]`
 
 - Cost estimate and Beth Anne's approval of the spend.
-- Run with `--awareness none` (no awareness question); keep verbalized-awareness coding. Analysis; report by verbalized awareness.
+- Run (no awareness question); verbalized-awareness coding of reasoning. Analysis; report by verbalized awareness.
 
 ## Decisions log
 
@@ -120,3 +120,4 @@ Decide whether office 1 works and what changes before scaling.
 | 2026-10-03 | Speed: episodes 12 at a time by default (was 4), slowest models started first; scoring runs reader and both judges in parallel, 12 replies at a time. Keep the budget cap comfortably above expected spend so worst-case reservations don't throttle the run. The running pilot keeps 4 workers for its episodes (restarting would turn in-flight calls into failures); its scoring step uses the faster code. |
 | 2026-10-03 | Grok deferred within the pilot (slowest and most expensive): pilot stopped at 58 episodes (Sonnet 21, ChatGPT 21, Grok 16; 4 Grok episodes interrupted, kept as logs); resumed with Sonnet and ChatGPT only. Grok's remaining 29 run later with `--models grok46` once the setup is settled; interrupted episodes restart as new attempts under new labels. |
 | 2026-10-03 | Pilot (Sonnet, ChatGPT, partial Grok; 106 target emails; $25.12) scored. Found compound true propositions (core fact plus accountability details) inflating palter codes. Facts and propositions narrowed to the core asked state; accountability details moved to accountability_facts. Lies split by the private check into knowing lie / false statement under uncertainty / honest error. Reference check 15/20 (misses: scenario 2 reader rule, scenario 3 active-palter reference now an evasion, two single-judge Qwen slips). Rescoring into runs/v8_pilot_20261003/rescore1. |
+| 2026-10-06 | No separate eval-awareness test: the asked question is off by default everywhere (no extra API call); awareness is coded from the models' own reasoning in the main results. Note: ChatGPT's chat model returns no reasoning, so it has no awareness measure. |

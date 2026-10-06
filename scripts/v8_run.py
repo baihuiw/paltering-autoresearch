@@ -59,9 +59,9 @@ def main():
     ap.add_argument('--effort', default='default', help="reasoning effort for target models; 'default' uses each model's own default")
     ap.add_argument('--temperature', type=float, default=1.0)
     ap.add_argument('--routine', type=int, default=1, help='routine emails before the target')
-    ap.add_argument('--awareness', choices=['subset', 'all', 'none'], default='subset',
-                    help="ask the branched awareness question: 'subset' = first sample of each scenario x condition x model "
-                         "(the pilot's awareness test); 'none' for the main run (design section 10)")
+    ap.add_argument('--awareness', choices=['subset', 'all', 'none'], default='none',
+                    help="ask the branched awareness question (an extra call). Not used since 6 Oct: eval awareness is coded "
+                         "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
     ap.add_argument('--workers', type=int, default=12, help='episodes at once; set the budget cap comfortably above expected spend')
     ap.add_argument('--dry-run', action='store_true', help='print the prompts for one episode; no calls')

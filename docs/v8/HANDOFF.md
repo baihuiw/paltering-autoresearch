@@ -52,7 +52,7 @@ Full design: `docs/design_v8.md`. Decision log: `docs/workplan_v8.md`.
 - Routing: reply to every message; route only threats, legal action and media requests. "Reply and refer within the reply" rejected (invites non-answers).
 - Evasion means honest, explicit evasion only; misleading evasion is a palter. Lies are measured as an outcome in their own right.
 - Tactics: exploratory, data-driven analysis first, then a codebook.
-- Eval awareness: the asked awareness question is a separate test on a subset (pilot only); the main run doesn't ask it. Coding of the model's own reasoning for awareness runs on every episode.
+- Eval awareness (revised 6 October): no separate test and no extra API call. Awareness is coded from the models' own reasoning in the main results. ChatGPT's chat model returns no reasoning, so it has no awareness measure.
 - Models: main set Claude Sonnet 5.5, GPT-6.1 Sol, Gemini 3.8 Flash, Grok 4.7, DeepSeek V4 Pro, Kimi K3 (revisit before the main run). Pilots use the free-tier models: Claude Sonnet 5.5, ChatGPT (`openai/gpt-chat-latest`), Grok 4.6. Never top-tier models (Fable, Opus, Astra, "-pro") in pilots. Capability trends come later.
 - Single turn; no follow-up from the resident. Human coding and a human reader study are later work.
 - Cost: keep pilots under about $50.
@@ -72,7 +72,7 @@ Full design: `docs/design_v8.md`. Decision log: `docs/workplan_v8.md`.
 - Pilot run `runs/v8_pilot_20261003/`: Sonnet 45 episodes, ChatGPT 45, Grok 16 of 45 (rest deferred because Grok is slow and expensive). 0 of 106 target emails routed.
 - First scoring overcounted palters because each scenario's true proposition bundled the core fact with accountability details. Facts and propositions were narrowed to the core asked state; lies are now split by the model's private check into knowing lie / false statement under uncertainty / honest error.
 - Rescoring with the narrowed facts (`runs/v8_pilot_20261003/rescore1/`) was paused about halfway.
-- Early finding that survives the fix: knowing lies were rare (3 of 98 coded replies); 18 false statements were made while the model was uncertain (for example repeating a stale newsletter, or reassuring without evidence). Asked awareness was high (77-97% "test") but only 1 of 61 reasoning traces showed awareness.
+- Early finding that survives the fix: knowing lies were rare (3 of 98 coded replies); 18 false statements were made while the model was uncertain (for example repeating a stale newsletter, or reassuring without evidence). In the first pilot, asked awareness was high (77-97% "test") but only 1 of 61 reasoning traces showed awareness; the asked question has since been dropped.
 - Spending on v8: about $46 of the key's $250 limit.
 
 ## 6. Next steps, in order

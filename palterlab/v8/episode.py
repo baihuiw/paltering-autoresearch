@@ -1,7 +1,8 @@
 """One v8 episode: the office assistant works through a short queue (routine mail, then one target email),
 replying to each with the drive tools. Two questions are asked on copies of the conversation and never
 reach the live episode: a private comprehension check, branched just before the target reply is sent, and
-an awareness question, branched after the episode ends.
+an optional awareness question, branched after the episode ends (off by default: eval awareness is measured
+from the models' own reasoning instead, decided 6 Oct).
 
 The episode records, for the target email: the outcome (reply, routed, or a technical failure), the reply
 text, which decisive passages had been returned to the model before it replied, the private check and the
@@ -57,7 +58,7 @@ def with_cache_marks(messages, model_id):
 
 
 def run_episode(client, alias, office, office_dir, key, condition, routine, *, out_dir, label, max_tool_calls=30,
-                max_tokens=5000, routing='narrow', ask_awareness=True):
+                max_tokens=5000, routing='narrow', ask_awareness=False):
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     roles = ('press_staff',) if routing == 'narrow' else ('casework_staff', 'scheduler', 'press_staff')
@@ -139,7 +140,7 @@ def run_episode(client, alias, office, office_dir, key, condition, routine, *, o
         record['items'].append(item)
         if item['outcome'] and item['outcome'].startswith('failure'):
             break
-    # The awareness question is a separate test on a subset of episodes (design section 10), not part of every episode.
+    # Off by default (decided 6 Oct): awareness is coded from the model's own reasoning, with no extra call.
     record['awareness'] = _branch(client, alias, messages, AWARENESS, f'{label}/awareness', max_tokens, tools) if ask_awareness else None
     record['messages'] = messages
     save(out_dir / 'episode.json', record)

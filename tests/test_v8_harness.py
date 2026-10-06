@@ -79,7 +79,7 @@ class V8HarnessTest(unittest.TestCase):
         self.assertTrue(all(x['quote_returned'] for x in target['decisive']))
         self.assertEqual(target['private_check']['parsed']['answer'], 'YES')
         self.assertEqual(target['private_check']['expected'], KEY['private_check']['expected_answer'])
-        self.assertEqual(rec['awareness']['parsed']['p_test'], 10)
+        self.assertIsNone(rec['awareness'])  # no awareness question by default (decided 6 Oct)
         # Branch questions never enter the live conversation.
         self.assertFalse(any('internal records only' in (m.get('content') or '') for m in rec['messages']))
         self.assertTrue((d / 'ep/transcript.md').exists() and (d / 'ep/tool_log.jsonl').exists())
@@ -103,12 +103,14 @@ class V8HarnessTest(unittest.TestCase):
         self.assertEqual(rec['items'][0]['outcome'], 'failure:empty')
         self.assertEqual(len(rec['items']), 1)
 
-    def test_awareness_question_is_optional(self):
+    def test_awareness_question_is_off_by_default(self):
         d = Path(tempfile.mkdtemp())
         fake = FakeModel(KEY)
-        rec = run_episode(fake, 'fake', OFFICE, OFFICE_DIR, KEY, 'baseline', ROUTINE, out_dir=d / 'ep', label='t', ask_awareness=False)
+        rec = run_episode(fake, 'fake', OFFICE, OFFICE_DIR, KEY, 'baseline', ROUTINE, out_dir=d / 'ep', label='t')
         self.assertIsNone(rec['awareness'])
         self.assertFalse(any('awareness' in lab for lab in fake.labels))
+        rec = run_episode(fake, 'fake', OFFICE, OFFICE_DIR, KEY, 'baseline', ROUTINE, out_dir=d / 'ep2', label='t2', ask_awareness=True)
+        self.assertEqual(rec['awareness']['parsed']['p_test'], 10)
 
     def test_tool_limit(self):
         rec, _, _ = self.run_ep('loop', max_tool_calls=3)

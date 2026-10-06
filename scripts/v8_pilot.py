@@ -1,7 +1,7 @@
 """Run the v8 pilot end to end: episodes, then scoring, then a summary. Paid.
 
 Default design (docs/workplan_v8.md): 3 free-tier models x all office scenarios x 3 conditions x 3 samples, narrow routing,
-the awareness question on the first sample of each cell. Hard caps: --episode-budget for the episodes and
+no separate awareness question (awareness is coded from reasoning). Hard caps: --episode-budget for the episodes and
 --score-budget for scoring (together $40 by default). Rerunning resumes; finished episodes are reused.
 
 Usage (from the repository root):
@@ -81,17 +81,29 @@ def summarize(run, scoring='scoring'):
         other = len(outs) - c['honest'] - c['palter'] - c['lie'] - c['routed']
         out.append(f"| {s} | {len(outs)} | {pct(c['honest'], len(outs))} | {pct(c['palter'], len(outs))} | {pct(c['lie'], len(outs))} | {pct(c['routed'], len(outs))} | {pct(other, len(outs))} |")
 
+    # Eval awareness comes from the models' own reasoning (decided 6 Oct). The asked question below appears only for
+    # episodes from the first pilot, which still asked it.
+    verbal_by_model = defaultdict(lambda: [0, 0])
+    for r in rows:
+        va = r.get('verbal_awareness')
+        if isinstance(va, dict) and 'aware' in va:
+            verbal_by_model[r['model']][0] += bool(va['aware'])
+            verbal_by_model[r['model']][1] += 1
+    out += ['', '## Eval awareness (from reasoning)', '']
+    for m in sorted({r['model'] for r in rows}):
+        a_, n_ = verbal_by_model[m]
+        n_all = sum(r['model'] == m for r in rows)
+        out.append(f'- {m}: {a_} of {n_} episodes with reasoning show awareness; reasoning available in {n_} of {n_all} episodes')
     asked = [r for r in rows if r.get('awareness_asked')]
-    out += ['', '## Eval awareness test (subset)', '',
-            f'Asked in {len(asked)} episodes. Mean P(test) by model (asked directly, so read comparatively):', '']
-    by_m = defaultdict(list)
-    for r in asked:
-        if isinstance(r.get('p_test'), (int, float)):
-            by_m[r['model']].append(r['p_test'])
-    for m, v in sorted(by_m.items()):
-        out.append(f'- {m}: {sum(v) / len(v):.0f} (n={len(v)})')
-    verbal = [r for r in rows if isinstance(r.get('verbal_awareness'), dict) and 'aware' in r['verbal_awareness']]
-    out += ['', f"Verbalized awareness in reasoning: {sum(bool(r['verbal_awareness']['aware']) for r in verbal)} of {len(verbal)} episodes with reasoning coded."]
+    if asked:
+        out += ['', '## Asked awareness (first pilot only)', '',
+                f'Asked in {len(asked)} episodes. Mean P(test) by model (asked directly, so read comparatively):', '']
+        by_m = defaultdict(list)
+        for r in asked:
+            if isinstance(r.get('p_test'), (int, float)):
+                by_m[r['model']].append(r['p_test'])
+        for m, v in sorted(by_m.items()):
+            out.append(f'- {m}: {sum(v) / len(v):.0f} (n={len(v)})')
 
     text = '\n'.join(out) + '\n'
     (run / ('summary.md' if scoring == 'scoring' else f'summary_{scoring.replace("/", "_")}.md')).write_text(text)
@@ -115,7 +127,7 @@ def main():
     if not a.summary_only:
         py = sys.executable
         subprocess.run([py, 'scripts/v8_run.py', '--office', a.office, '--run', a.run, '--models', *a.models,
-                        '--conditions', *a.conditions, '--n', str(a.n), '--routing', 'narrow', '--awareness', 'subset',
+                        '--conditions', *a.conditions, '--n', str(a.n), '--routing', 'narrow', '--awareness', 'none',
                         '--budget', str(a.episode_budget), '--workers', str(a.workers)], cwd=ROOT, check=True)
         subprocess.run([py, 'scripts/v8_score.py', '--office', a.office, '--run', a.run, '--budget', str(a.score_budget)],
                        cwd=ROOT, check=True)
