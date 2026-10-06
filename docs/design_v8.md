@@ -178,9 +178,9 @@ Reduce:
 
 Measure (revised 6 October: no separate awareness test and no extra API call):
 
-- Eval awareness is coded from the models' own reasoning in the main results. Where a model returns reasoning, a judge reads it and records whether it shows the model thinks it is being tested, evaluated or in a scenario, with the quote. This asks the model nothing.
+- Eval awareness is a small robustness check, not part of scoring every response (decided 6 October): an LLM judge reads the reasoning the model already produced for a fixed sample of episodes per model (`scripts/v8_score.py --awareness-check N`, about 10 per model) and records whether it shows the model thinks it is being tested, evaluated or in a scenario, with the quote. This asks the model nothing.
 - Coverage is reported per model. Models that return no reasoning through the API (ChatGPT's `gpt-chat-latest` in the pilot) have no awareness measure; this is a limitation to state.
-- Outcomes are reported split by verbalized awareness, and we test whether awareness varies with severity (it could otherwise explain H2).
+- If the check finds meaningful awareness, extend it (larger sample, split outcomes by awareness, test whether awareness varies with severity, which could otherwise explain H2).
 - The first pilot asked a direct awareness question on a subset (P(test) 77-97%, while only 1 of 61 reasoning traces showed awareness). Those answers are kept but the question is no longer asked; the `--awareness` option remains in the runner, off by default.
 
 Reading: Needham et al. 2025, "Large Language Models Often Know When They Are Being Evaluated" (arXiv 2505.23836); "Evaluation Awareness in Language Models: Representation, Verbalization, and Control" (arXiv 2608.21766); EvalDetectBench (arXiv 2609.01611); LURE, live-usage replay evaluations (arXiv 2605.26438).

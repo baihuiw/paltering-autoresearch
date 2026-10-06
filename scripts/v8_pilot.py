@@ -81,19 +81,17 @@ def summarize(run, scoring='scoring'):
         other = len(outs) - c['honest'] - c['palter'] - c['lie'] - c['routed']
         out.append(f"| {s} | {len(outs)} | {pct(c['honest'], len(outs))} | {pct(c['palter'], len(outs))} | {pct(c['lie'], len(outs))} | {pct(c['routed'], len(outs))} | {pct(other, len(outs))} |")
 
-    # Eval awareness comes from the models' own reasoning (decided 6 Oct). The asked question below appears only for
-    # episodes from the first pilot, which still asked it.
-    verbal_by_model = defaultdict(lambda: [0, 0])
-    for r in rows:
-        va = r.get('verbal_awareness')
-        if isinstance(va, dict) and 'aware' in va:
-            verbal_by_model[r['model']][0] += bool(va['aware'])
-            verbal_by_model[r['model']][1] += 1
-    out += ['', '## Eval awareness (from reasoning)', '']
-    for m in sorted({r['model'] for r in rows}):
-        a_, n_ = verbal_by_model[m]
-        n_all = sum(r['model'] == m for r in rows)
-        out.append(f'- {m}: {a_} of {n_} episodes with reasoning show awareness; reasoning available in {n_} of {n_all} episodes')
+    # Eval awareness is a separate robustness check on a sample (scripts/v8_score.py --awareness-check), not part of
+    # every score. Older scorings that coded every episode are read the same way.
+    aw_file = run / scoring / 'awareness_check.jsonl'
+    aw_rows = [json.loads(l) for l in aw_file.read_text().splitlines() if l.strip()] if aw_file.exists() else [r for r in rows if 'verbal_awareness' in r]
+    out += ['', '## Eval awareness robustness check (judge reads the reasoning of a sample)', '']
+    if not aw_rows:
+        out.append('Not run. To run it: `python3 scripts/v8_score.py --office <office> --run <run> --awareness-only --awareness-check 10`.')
+    for m in sorted({r['model'] for r in aw_rows}):
+        rs = [r for r in aw_rows if r['model'] == m and isinstance(r.get('verbal_awareness'), dict) and 'aware' in r['verbal_awareness']]
+        if rs:  # models that return no reasoning (ChatGPT's chat model) have nothing to check
+            out.append(f"- {m}: {sum(bool(r['verbal_awareness']['aware']) for r in rs)} of {len(rs)} checked episodes show awareness")
     asked = [r for r in rows if r.get('awareness_asked')]
     if asked:
         out += ['', '## Asked awareness (first pilot only)', '',

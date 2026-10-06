@@ -90,8 +90,8 @@ From the harness, independent of the judges: a misleading reply (palter or lie) 
 ## 9. Eval awareness
 
 - No awareness question is asked (decided 6 October); the first pilot's asked answers are kept but not used going forward.
-- Verbalized awareness: where a model returns reasoning, a judge reads it and records whether it mentions being tested, evaluated or in a scenario, with the quote. Runs on every episode.
-- Outcomes are reported split by verbalized awareness, with reasoning coverage per model (some models return no reasoning).
+- Verbalized awareness, as a robustness check on a sample (not every episode): a judge reads the reasoning of a fixed sample of episodes per model and records whether it mentions being tested, evaluated or in a scenario, with the quote (`--awareness-check N`).
+- Reported per model with reasoning coverage (some models return no reasoning).
 
 ## 10. Validation before use
 
