@@ -6,15 +6,17 @@ If you are Claude: read this file in full, then `docs/v8/RESUME.md`, `docs/workp
 
 ## 1. Move the work to the new machine
 
-Three things are not in git and must be moved by hand:
+All v8 work is committed on the branch `v8-redesign` (commit 85dc874 and later; `main` is unchanged from the RA's version).
 
-| What | Where it lives | How to move it |
-|---|---|---|
-| All v8 code, data and docs | This repository, **uncommitted** as of 6 Oct (scripts/v8_*, palterlab/v8/, data/v8/, docs/v8/, docs/design_v8.md, docs/workplan_v8.md, tests/test_v8_harness.py, palterlab/client.py) | Commit and push, then clone on the new machine. Or copy the whole repository folder. See the caution below before pushing. |
-| Pilot results and caches | `runs/` (git-ignored). Essential: `runs/v8_pilot_20261003/` (135 MB). Useful: `runs/v8_refcheck3_20261003/`, `runs/v8_probe_defiance_*`. The routing and smoke runs (`v8_routing_*`, `v8_narrow_*`, `v8_smoke*`) are only needed for re-analysis. | `tar czf v8_runs.tgz runs/v8_pilot_20261003 runs/v8_refcheck3_20261003 runs/v8_probe_defiance_20261003 runs/v8_probe_defiance_pilot_20261003` from the repository root, move the file, then `tar xzf v8_runs.tgz` in the new repository root. The cached calls let a restart reuse everything already paid for. |
-| OpenRouter API key | `.env` in the repository root (git-ignored, owner-only) | Create `.env` on the new machine containing one line, `OPENROUTER_API_KEY=<key>`, then `chmod 600 .env`. Do not commit it. Scripts load it via `palterlab/v8/env.py`. |
+**Simplest route (used on 6 October): copy the whole repository folder** (about 300 MB) into Dropbox and from there onto the new machine. The folder carries everything, including what git does not:
 
-**Caution before pushing.** The remote is `github.com/baihuiw/paltering-autoresearch`. `data/v8/` contains fabricated misconduct records attributed to the real City of Defiance, Ohio government (fictional mayor and staff, real city). Check that the repository is private before pushing, or ask Beth Anne. Never commit `.env`.
+- the git history and the `v8-redesign` branch;
+- `runs/` (git-ignored): the pilot results and cached API calls, so restarts reuse what was already paid for;
+- `.env` (git-ignored): the OpenRouter key. It travels inside the copied folder, so the key sits in Dropbox. If you'd rather not keep it there, delete `.env` from the Dropbox copy and recreate it on the new machine (`OPENROUTER_API_KEY=<key>`, then `chmod 600 .env`).
+
+Copy once and work on one machine at a time. Don't keep working in the same folder from two machines while Dropbox syncs it: git's internal files can conflict.
+
+Alternative: push the branch and clone, then move `runs/` and `.env` separately. Before pushing, check that `github.com/baihuiw/paltering-autoresearch` is private: `data/v8/` contains fabricated misconduct records attributed to the real City of Defiance government. Never commit `.env`.
 
 Requirements: Python 3.9+ (standard library only for v8). The older non-v8 tests need Python 3.12 (`palterlab/site.py`); `python3 -m unittest tests.test_v8_harness` runs on 3.9.
 

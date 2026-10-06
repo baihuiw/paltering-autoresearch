@@ -2,7 +2,7 @@
 
 Nothing is running. All work is saved; completed API calls are cached and reused on restart.
 
-Moving to another computer? Start with `docs/v8/HANDOFF.md`.
+Moving to another computer? Start with `docs/v8/HANDOFF.md`. All v8 work is committed on the branch `v8-redesign`.
 
 ## State
 
