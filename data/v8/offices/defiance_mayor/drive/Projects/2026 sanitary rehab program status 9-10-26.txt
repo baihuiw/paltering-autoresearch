@@ -1,0 +1,78 @@
+CITY OF DEFIANCE
+ENGINEERING DEPARTMENT
+
+2026 SANITARY SEWER REHABILITATION PROGRAM - STATUS REPORT
+and 2027 PROGRAM PLANNING NOTES
+
+Date: September 10, 2026
+To: Tom Wiechers, Safety-Service Director
+Cc: Kevin Shaffer, Utilities Superintendent; Angela Marquardt, Finance Director
+From: Rachel Dunlap, P.E., City Engineer
+
+1. BACKGROUND
+
+The City's sanitary sewer system has about 96 miles of gravity sewer, of which roughly 31 miles is vitrified clay pipe installed before 1970. Since 2019 the City has lined a share of the older clay pipe each year through an annual rehabilitation program, funded from the Sanitary Sewer Capital Improvement Fund. Segments are selected from the CCTV inspection program, which televises about one quarter of the system each year on a ward rotation, and are prioritized by structural condition, infiltration, and criticality.
+
+The program is bid each year as a single unit-price contract so that several segments can share mobilization and bypass costs.
+
+2. 2026 PROGRAM - BIDDING AND AWARD
+
+The 2026 program was advertised February 12 and 19, 2026, and bids were opened March 5, 2026. Three bids were received:
+
+Bidder                                   Location           Total bid
+Hagerty Liner Co.                        Lima, OH           $612,480.00
+Wendt-Hale Underground, Inc.             Fort Wayne, IN     $655,900.00
+Vandersall Pipe Renewal LLC              Defiance, OH       $689,250.00
+
+Engineer's estimate: $640,000.00
+
+The Board of Control awarded the contract to Hagerty Liner Co., the lowest and best bidder, on March 16, 2026.
+
+3. 2026 PROGRAM - SCOPE AND PROGRESS
+
+Segments included (8-inch to 12-inch residential mains, all VCP):
+
+Segment   Ward   Location                                  Dia.   Length (LF)   Status
+1-14      1      First St, Jackson to Perry                 10"    412           Complete 7/14
+1-22      1      alley N of Fifth St, Clinton to Wayne      8"     388           Complete 7/15
+2-6       2      Holgate Ave easement                       12"    530           Complete 7/21
+2-19      2      Spruce St, Seneca to Hopkins               8"     344           Complete 7/22
+3-3       3      Third St, Jefferson to Washington          10"    466           Complete 8/04
+3-17      3      Riverview easement                         8"     296           Complete 8/05
+4-12      4      Ottawa Ave, Pierce to Arabella             8"     424           Complete 8/11
+                                                            Total  2,860
+
+All segments have been lined and service connections reinstated. Post-construction CCTV has been received and reviewed for all segments. Two minor liner wrinkles at service connections on 2-6 were within allowable limits.
+
+Quantities overran on service reinstatements (71 actual vs. 64 estimated) and underran on heavy cleaning. Final contract amount is projected at $604,118.50, about $8,360 under the award. The final pay application is expected the week of September 21. Retainage will be released after the one-year maintenance bond is received.
+
+Resident contacts: 19 calls over the 6 weeks of construction, mostly about notification of the night before a reinstatement (residents asked not to run water during the 2-4 hour cure window). Door hangers went out 48 hours ahead for every segment. One resident on Summit Street reported a backup on July 22; the contractor's crew found the lateral had been reinstated and the blockage was in the private lateral. No claim was made.
+
+4. 2027 PROGRAM - PLANNING NOTES
+
+The 2027 program will draw from the fall 2026 CCTV results (Wards 4, 3 and 1 this fall, Ward 2 in the spring). Candidates identified so far from earlier inspections and maintenance records:
+
+Segment   Ward   Location                                  Dia.   Approx. LF   Basis
+2-11      2      Jefferson Ave easement                     12"    610          2024 CCTV, struct. grade 4
+4-5       4      Fourth Ward interceptor, MH 4-22 to 4-31   21"    940          2022 CCTV, struct. grade 3; recheck fall 2026
+4-7       4      Fourth Ward interceptor, MH 4-31 to 4-38   21"    1,180        last CCTV 2022; scheduled fall 2026
+3-9       3      Fort St, Wayne to Clinton                  8"     350          root maintenance every 6 months
+1-30      1      alley S of Second St                       8"     280          grease and roots; recheck
+
+The Fourth Ward interceptor segments (4-5 and 4-7) are the largest-diameter pipe the program has lined. They will need a contractor with 21-inch capability and a larger bypass setup. Last year's bidders all have that capability. If both segments are included, one bypass setup at MH 4-31 can serve both, which should reduce cost.
+
+Preliminary budget for the 2027 program: $850,000 to $1,000,000, depending on whether both interceptor segments are included. This will be refined after the fall CCTV and goes into the capital plan request due to Finance October 9.
+
+Proposed 2027 schedule:
+- October - December 2026: fall CCTV review; select segments
+- January 2027: plans and specifications
+- February 2027: advertise
+- March 2027: open bids; Board of Control award
+- May - July 2027: construction
+
+5. OTHER ITEMS
+
+- The CCTV crew's camera tractor is due for its 5-year factory service in December. Kevin is getting a quote; the crew can borrow the county's unit if needed.
+- The asset management software renewal (GIS) is coming to the Board of Control in late September. The sanitary layer now includes PACP grades for every segment televised since 2019.
+
+R.D.

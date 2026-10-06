@@ -1,0 +1,57 @@
+segment,ward,location,us_mh,ds_mh,dia_in,material,yr_installed,length_ft,date_inspected,crew,pacp_struct_peak,pacp_om_peak,city_priority,notes
+4-1,4,"Arabella St, Ottawa to Pierce",4-01,4-04,8,VCP,1952,402,2026-09-08,CCTV-1,2,2,P4,light roots 3 jts
+4-2,4,"Pierce St, Arabella to Ralston",4-04,4-09,8,VCP,1952,515,2026-09-08,CCTV-1,3,3,P3,grease at 2 laterals; refer to FOG program
+4-3,4,"Wayne Ave, Ralston to Fourth",4-09,4-12,10,VCP,1956,388,2026-09-09,CCTV-1,2,1,P4,
+4-4,4,"Fourth St alley, Wayne to Pierce",4-12,4-17,8,VCP,1949,446,2026-09-09,CCTV-1,3,4,P3,roots heavy at 1+20; schedule root cut
+4-5,4,"Interceptor, MH 4-22 to 4-31",4-22,4-31,21,VCP,1958,940,2026-09-10,CCTV-1,3,2,P3,circ. cracks; no change from 2022
+4-6,4,Elliott Rd branch to MH 4-31,4-26,4-31,12,VCP,1961,610,2026-09-11,CCTV-1,2,2,P4,tie-in at MH 4-31 ok
+4-7,4,"Interceptor, MH 4-31 to 4-38 (Pierce/Wayne easement)",4-31,4-38,21,VCP,1958,1180,2026-09-15 to 09-16,CCTV-1,4,2,P2,long. cracks 6 locs; infiltration 2 jts; see RD memo 9/21
+4-8,4,"Interceptor, MH 4-38 to Ralston LS",4-38,LS-R,24,RCP,1974,520,2026-09-17,CCTV-1,2,1,P4,RCP in good condition
+4-9,4,"Hopkins St, Ralston to RR",4-40,4-44,8,PVC,1998,330,2026-09-17,CCTV-1,1,1,P4,
+4-10,4,"Ottawa Ave, Arabella to end",4-46,4-49,8,VCP,1953,295,,CCTV-1,,,,scheduled wk of 10/19
+4-11,4,"Pontiac St, Ottawa to Hopkins",4-50,4-55,8,VCP,1953,470,,CCTV-1,,,,scheduled wk of 10/19
+4-12,4,"Ottawa Ave, Pierce to Arabella",4-56,4-60,8,CIPP,2026,424,,CCTV-1,,,,lined 8/2026; warranty CCTV 2027 - skip
+4-13,4,"Ralston Ave, Hopkins to Elliott",4-61,4-66,10,VCP,1957,612,,CCTV-1,,,,scheduled wk of 10/19
+4-14,4,"Elliott Rd, Ralston to city limit",4-67,4-71,10,PVC,2004,540,,CCTV-1,,,,scheduled wk of 10/19
+3-1,3,"Third St, Clinton to Wayne",3-01,3-05,10,VCP,1938,418,2026-09-21,CCTV-1,3,2,P3,
+3-2,3,"Second St, Clinton to Wayne",3-06,3-10,8,VCP,1938,402,2026-09-21,CCTV-1,3,3,P3,offset joints 3
+3-3,3,"Third St, Jefferson to Washington",3-11,3-14,10,CIPP,2026,466,,,,,,lined 8/2026 - skip
+3-4,3,"Fulton St, Second to Fourth",3-15,3-19,8,VCP,1941,510,2026-09-22,CCTV-1,2,2,P4,
+3-5,3,"Perry St, Second to Fourth",3-20,3-24,8,VCP,1941,498,2026-09-22,CCTV-1,3,2,P3,
+3-6,3,"Jefferson Ave, Third to Fifth",3-25,3-29,10,VCP,1946,522,2026-09-23,CCTV-1,2,3,P4,grease; restaurant row - notify FOG
+3-7,3,"Fifth St, Jefferson to Perry",3-30,3-33,8,VCP,1946,360,2026-09-23,CCTV-1,2,1,P4,
+3-8,3,"Clinton St, Fourth to Sixth",3-34,3-39,12,VCP,1939,584,2026-09-24,CCTV-1,3,2,P3,
+3-9,3,"Fort St, Wayne to Clinton",3-40,3-43,8,VCP,1937,350,2026-09-24,CCTV-1,3,4,P3,roots heavy; on 6-mo root cut
+3-10,3,"Wayne Ave, Fourth to Sixth",3-44,3-48,8,VCP,1940,476,2026-09-25,CCTV-1,2,2,P4,
+3-11,3,"Sixth St, Clinton to Jefferson",3-49,3-53,8,VCP,1948,455,2026-09-25,CCTV-1,3,2,P3,
+3-12,3,"Seneca St, Fifth to Seventh",3-54,3-58,8,VCP,1951,488,2026-09-28,CCTV-1,2,2,P4,
+3-13,3,"Seventh St, Seneca to Perry",3-59,3-62,8,VCP,1951,372,2026-09-28,CCTV-1,2,1,P4,
+3-14,3,"Perry St, Sixth to Eighth",3-63,3-67,8,VCP,1947,440,2026-09-29,CCTV-1,5,3,P1,"broken pipe/hole at 2+40, soil visible; point repair by Utilities crew 9/30 - done"
+3-15,3,"Eighth St, Perry to Washington",3-68,3-71,8,VCP,1953,390,2026-09-29,CCTV-1,2,2,P4,
+3-16,3,"Fulton St, Sixth to Eighth",3-72,3-76,8,VCP,1953,462,2026-09-30,CCTV-1,3,2,P3,
+3-17,3,Riverview easement,3-77,3-80,8,CIPP,2026,296,,,,,,lined 8/2026 - skip
+3-18,3,"Riverview Dr, Clinton to end",3-81,3-85,8,VCP,1958,505,2026-09-30,CCTV-1,2,2,P4,
+3-19,3,"Ninth St, Clinton to Jefferson",3-86,3-89,8,PVC,1996,338,2026-10-01,CCTV-1,1,1,P4,
+3-20,3,"Jefferson Ave, Eighth to Tenth",3-90,3-94,10,VCP,1955,470,2026-10-01,CCTV-1,3,2,P3,
+3-21,3,"Tenth St, Jefferson to Clinton",3-95,3-98,8,VCP,1955,352,2026-10-02,CCTV-1,2,2,P4,
+3-22,3,"Clinton St, Eighth to Tenth",3-99,3-103,12,VCP,1950,540,2026-10-02,CCTV-1,3,2,P3,"sag at 3+10, minor"
+1-1,1,"Jackson Ave, First to Third",1-01,1-05,8,VCP,1936,480,2026-10-05,CCTV-1,3,2,P3,
+1-2,1,"First St, Jackson to Perry",1-06,1-09,8,VCP,1936,366,2026-10-05,CCTV-1,2,2,P4,
+1-3,1,"Perry St, First to Third",1-10,1-14,8,VCP,1938,470,2026-10-06,CCTV-1,3,3,P3,grease at 1+80
+1-4,1,"Second St, Jackson to Washington",1-15,1-19,10,VCP,1938,520,2026-10-06,CCTV-1,2,2,P4,
+1-5,1,"Jackson Ave, Third to Fifth",1-20,1-24,8,VCP,1940,496,2026-10-07,CCTV-1,3,2,P3,
+1-6,1,"Fourth St, Washington to Perry",1-25,1-28,8,VCP,1942,344,2026-10-07,CCTV-1,2,1,P4,
+1-7,1,"Jackson Ave, Third to Fifth",1-29,1-33,8,VCP,1942,488,2026-10-08,CCTV-1,2,2,P4,
+1-8,1,"Fifth St, Jackson to Washington",1-34,1-38,10,VCP,1945,512,2026-10-08,CCTV-1,3,2,P3,
+1-22,1,"alley N of Fifth St, Clinton to Wayne",1-39,1-42,8,CIPP,2026,388,,,,,,lined 7/2026 - skip
+1-10,1,"Jackson Ave, First to Third",1-43,1-47,8,VCP,1937,470,2026-10-09,CCTV-1,3,3,P3,roots and grease
+1-14,1,"First St, Jackson to Perry",1-48,1-51,10,CIPP,2026,412,,,,,,lined 7/2026 - skip
+1-12,1,"Front St, Clinton to Wayne",1-52,1-56,12,VCP,1934,560,2026-10-12,CCTV-1,3,2,P3,
+1-13,1,"Clinton St, First to Front",1-57,1-60,12,VCP,1934,330,2026-10-12,CCTV-1,2,2,P4,
+1-11,1,"Agnes St, Jackson to end",1-61,1-64,8,VCP,1949,402,2026-10-13,CCTV-1,2,2,P4,
+1-15,1,"Holgate Ave, First to Third",1-65,1-69,10,VCP,1947,515,2026-10-13,CCTV-1,3,2,P3,
+1-16,1,"Third St, Holgate to Jackson",1-70,1-73,8,VCP,1947,380,2026-10-14,CCTV-1,2,1,P4,
+1-17,1,"Jefferson Ave, First to Third",1-74,1-78,8,VCP,1951,466,2026-10-14,CCTV-1,2,2,P4,
+1-30,1,alley S of Second St,1-79,1-81,8,VCP,1939,280,2026-10-15,CCTV-1,3,4,P3,grease and roots; 2027 candidate
+1-19,1,"Second St, Holgate to Jackson",1-82,1-86,8,VCP,1939,455,2026-10-15,CCTV-1,3,2,P3,
+1-20,1,"Fort St, First to Third",1-87,1-90,8,VCP,1944,362,,CCTV-1,,,,scheduled 10/16

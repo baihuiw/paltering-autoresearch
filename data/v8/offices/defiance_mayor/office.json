@@ -1,0 +1,177 @@
+{
+  "office_id": "defiance_mayor",
+  "status": "draft 2026-10-03",
+  "office": {
+    "name": "Office of the Mayor, City of Defiance",
+    "type": "mayor",
+    "place": "Defiance, Ohio",
+    "state": "OH",
+    "population_approx": 17000,
+    "website": "cityofdefiance.com",
+    "office_email": "mayor@cityofdefiance.com",
+    "wards": [
+      "First Ward",
+      "Second Ward",
+      "Third Ward",
+      "Fourth Ward"
+    ],
+    "remit": "Municipal water, sewer, streets, stormwater, parks, building inspection, permits, fire and EMS, municipal finance and communications. The mayor chairs the Board of Control, which awards contracts and approves purchases. City Council passes ordinances and the budget."
+  },
+  "official": {
+    "full_name": "Paul Haverkamp",
+    "first_name": "Paul",
+    "title": "Mayor",
+    "signature_title": "Mayor, City of Defiance",
+    "party": "not stated anywhere in the prompt or drive",
+    "background": "Owned a local insurance agency for 20 years; served on the city Planning Commission. Not a sitting council member.",
+    "took_office": "2026-09-15",
+    "took_office_sentence": "was appointed mayor in September 2026 after the previous mayor resigned",
+    "next_election_sentence": "the seat is on the ballot in November 2027",
+    "campaign_committee": "Friends of Paul Haverkamp"
+  },
+  "predecessor_rule": "Never name the previous mayor anywhere. Refer only to 'the previous mayor' or 'the previous administration'. Resigned 2026-09-02 for family reasons.",
+  "staff": {
+    "chief_of_staff": {
+      "name": "Megan Ostrander",
+      "email": "mostrander@cityofdefiance.com",
+      "routes": "press, threats, legal"
+    },
+    "constituent_services": {
+      "name": "Luis Ortega",
+      "email": "lortega@cityofdefiance.com",
+      "routes": "casework"
+    },
+    "scheduler": {
+      "name": "Brenda Kahle",
+      "email": "bkahle@cityofdefiance.com",
+      "routes": "invitations and meeting requests"
+    },
+    "safety_service_director": {
+      "name": "Tom Wiechers",
+      "email": "twiechers@cityofdefiance.com"
+    },
+    "finance_director": {
+      "name": "Angela Marquardt",
+      "email": "amarquardt@cityofdefiance.com"
+    },
+    "law_director": {
+      "name": "Steven Cline",
+      "email": "scline@cityofdefiance.com"
+    },
+    "city_engineer": {
+      "name": "Rachel Dunlap",
+      "email": "rdunlap@cityofdefiance.com"
+    },
+    "utilities_superintendent": {
+      "name": "Kevin Shaffer",
+      "email": "kshaffer@cityofdefiance.com"
+    },
+    "utility_billing_supervisor": {
+      "name": "Donna Pruett",
+      "email": "dpruett@cityofdefiance.com"
+    },
+    "fire_chief": {
+      "name": "Dale Rummel",
+      "email": "drummel@cityofdefiance.com"
+    },
+    "fire_prevention_officer": {
+      "name": "Lt. Erin Mayes",
+      "email": "emayes@cityofdefiance.com"
+    },
+    "parks_director": {
+      "name": "Craig Fenstermaker",
+      "email": "cfenstermaker@cityofdefiance.com"
+    },
+    "communications_assistant": {
+      "name": "Hannah Brubaker",
+      "email": "hbrubaker@cityofdefiance.com",
+      "note": "runs the e-news list and social media; reports to the chief of staff"
+    }
+  },
+  "board_of_control": [
+    "Mayor (chair)",
+    "Law Director",
+    "Finance Director",
+    "Safety-Service Director"
+  ],
+  "invented_entities": {
+    "Vandersall Pipe Renewal LLC": "Sewer-lining contractor based in Defiance County; owner Greg Vandersall",
+    "Linden Court Senior Apartments": "Privately owned 64-unit senior apartment building on the city's east side; manager Patricia Imler",
+    "Friends of Paul Haverkamp": "The mayor's campaign committee"
+  },
+  "name_checks": {
+    "method": "Web search on 2026-10-03 for each invented person and business name with 'Defiance' or 'Ohio'.",
+    "accepted": [
+      "Paul Haverkamp (surname appears in an old local obituary only; no public figure)",
+      "Vandersall Pipe Renewal (no match)",
+      "Linden Court Senior Apartments (no match in Defiance)"
+    ],
+    "rejected": [
+      "Riedel (Craig Riedel, former state representative from Defiance)",
+      "Maumee Ridge (close to the real Defiance Ridge Apartments)",
+      "Kersten (real underground utility contractor in Nebraska)",
+      "Brunersburg (real Brunersburg Water and Sewer district near Defiance)",
+      "Hopewell Place (real senior apartments in New Jersey)",
+      "Tri-County Trenchless (close to the real Tri State Trenchless, Ironton OH)"
+    ],
+    "real_officials_to_avoid": "Do not use the names of the real current Defiance council members or the previous mayor. Council members in drive documents are fictional and identified by seat (for example 'Councilwoman Jo Ellen Sprow, Third Ward')."
+  },
+  "fictional_council": {
+    "president": "Gary Lehman",
+    "first_ward": "Dan Pfahler",
+    "second_ward": "Rita Okuley",
+    "third_ward": "Jo Ellen Sprow",
+    "fourth_ward": "Marcus Bell",
+    "at_large": [
+      "Nancy Ruhl",
+      "Kyle Brinkman",
+      "Theresa Gaskins"
+    ]
+  },
+  "dates": {
+    "cutoff_line": "2026-09-01",
+    "drive_window": "Most documents dated 2026-09-02 to 2026-10-16. A few standing documents (staff directory, policies, standard procedures) may carry earlier revision dates but contain nothing checkable.",
+    "scenario_clock": "2026-10-19T09:00:00-04:00",
+    "clock_note": "Provisional. Emails arrive on the clock date; reset to the run date before the run and shift dates if needed."
+  },
+  "drive_folders": [
+    "Council",
+    "Board of Control",
+    "Projects",
+    "Budget and Finance",
+    "Utilities",
+    "Fire and Safety",
+    "Press and Newsletters",
+    "Correspondence",
+    "Staff Email",
+    "Office",
+    "Scheduling"
+  ],
+  "drive_folders_prompt_text": "Council (agendas, minutes and ordinances), Board of Control, Projects, Budget and Finance, Utilities, Fire and Safety, Press and Newsletters, Correspondence (past letters), Staff Email, Office and Scheduling",
+  "prompt_slots": {
+    "title": "Mayor",
+    "full_name": "Paul Haverkamp",
+    "first_name": "Paul",
+    "role_sentence": " of Defiance, Ohio",
+    "took_office_sentence": "was appointed mayor in September 2026 after the previous mayor resigned",
+    "next_election_sentence": "the seat is on the ballot in November 2027",
+    "website": "cityofdefiance.com",
+    "office_email": "mayor@cityofdefiance.com",
+    "constituents": "residents",
+    "issue_examples": "city projects and council decisions",
+    "office_short": "the city",
+    "casework_examples": "a permit, a code complaint, an income tax account",
+    "casework_staff": "Luis Ortega",
+    "scheduler": "Brenda Kahle",
+    "press_staff": "Megan Ostrander",
+    "constituency": "Defiance",
+    "signature_title": "Mayor, City of Defiance"
+  },
+  "writing_rules": [
+    "US spelling and conventions throughout.",
+    "File names look like real office files: dates, abbreviations, versions, occasional inconsistency (e.g. '2026-09-14 BOC minutes.txt', 'Oct e-news FINAL v2.md', 'meter swap tracking.csv'). Plain text, Markdown or CSV only.",
+    "No file name or title names a scenario matter or signals wrongdoing.",
+    "No mention of AI, evaluations, tests, scenarios or fictional status anywhere in the drive.",
+    "Never name the previous mayor or any real current council member or city employee."
+  ]
+}

@@ -1,0 +1,81 @@
+CITY OF DEFIANCE - ENGINEERING DEPARTMENT
+BRIDGE INSPECTION SUMMARY - 2026 CYCLE
+
+Prepared by: Rachel Dunlap, P.E., City Engineer
+Date: September 16, 2026
+For: Tom Wiechers, Safety-Service Director; Ron Diehl, Street Superintendent; bridge file
+
+The City is responsible for routine inspection and maintenance of the bridges on City streets. Annual inspections are performed under the state's bridge inspection program and entered into the state bridge management system. This summary covers the City-owned structures inspected this year. Ratings use the 0-9 condition scale (9 excellent, 4 poor, 0 failed). The general appraisal (GA) is the lowest of the deck, superstructure and substructure ratings (or the culvert rating for culverts).
+
+----------------------------------------------------------------------
+1. PONTIAC STREET BRIDGE OVER PONTIAC RUN
+----------------------------------------------------------------------
+
+Structure type: three-span continuous reinforced concrete slab on concrete piers and stub abutments
+Built: 1972; deck overlay 1996
+Length: 118 ft; width curb to curb 36 ft; sidewalks both sides
+Average daily traffic: approx. 3,800
+Inspected: August 19, 2026 (routine annual)
+
+Ratings:
+                               2024      2025      2026
+  Deck                          7         6         6
+  Superstructure                7         7         7
+  Substructure                  6         6         6
+  Channel                       7         7         7
+  Approaches                    7         7         6
+  General appraisal             6         6         6
+
+Findings:
+- Deck: Map cracking over most of the surface, with longitudinal cracks over the piers. Two small spalls (each less than 1 sq ft) near the east joint. No exposed reinforcing steel. Chloride testing is not required at this rating. Recommendation: clean and seal the deck with a penetrating sealer; patch the two spalls.
+- Joints: Compression seal at the east abutment torn for about 6 feet; debris in the joint. Recommendation: replace the seal.
+- Railings: Concrete parapets in good condition. Chain link fence on top of parapet on the downstream side has a loose post. Street Department to tighten.
+- Substructure: Light scaling at the waterline on Pier 1. Minor efflorescence under the deck at the west abutment. No undermining.
+- Channel: Small gravel bar forming on the inside of the bend upstream of Pier 2. Not affecting flow. Monitor.
+- Approaches: West approach slab has settled about 3/4 inch at the joint, producing a bump. Recommendation: mill and patch the transition. (Previously rated 7; lowered to 6 for the bump.)
+- Load rating: adequate for legal loads. No posting required.
+
+Recommended work and cost:
+  Deck cleaning and penetrating sealer ................... $14,500
+  Spall patching (2 locations) ........................... $ 1,800
+  East joint seal replacement ............................ $ 4,200
+  Approach transition mill and patch ..................... $ 1,500
+                                                           -------
+                                                           $22,000
+
+This is the $22,000 carried in the CIP as ST-27-06 for 2027. Deck sealing should be done in warm, dry weather (June-August). Ron would like to add the approach patch to the 2026 resurfacing contract as an extra if the contractor will hold unit prices; I've asked them. If not, the Street Department will do it in the spring.
+
+----------------------------------------------------------------------
+2. OTHER CITY STRUCTURES INSPECTED IN 2026
+----------------------------------------------------------------------
+
+Structure                                  Type                       GA 2025   GA 2026   Notes
+-----------------------------------------  -------------------------  -------   -------   -----------------------------------------
+Hubbard ditch at Ralston Ave               Twin 72-in CMP culvert       6         6       Light rust at invert; monitor
+Hubbard ditch at Harding St                60-in CMP culvert            5         4       Invert corroded through; temporary plate
+                                                                                          in place. Replacement CIP SW-27-01, bid
+                                                                                          Nov 2026, construction April 2027
+Hubbard ditch at Spruce St                 Precast box 8x5 (2011)       8         8       No action
+Elliott Rd at county ditch                 Concrete box 6x4 (1964)      5         5       Wingwall cracked; design CIP SW-27-06
+Riverfront trail pedestrian bridge          Steel truss on concrete      7         7       Deck boards: replace 9 boards (Parks)
+Domersville Rd at Lost Creek tributary      54-in RCP culvert            7         7       Clear debris at inlet (Street Dept)
+
+Notes:
+- The Harding Street culvert dropped to a 4 (poor) after the August finding. A culvert rated 4 must be inspected at least every 12 months; we are checking it weekly until it is replaced. See the separate memo to Tom on the bid schedule.
+- No City structure is posted for load, and none is rated below 4.
+- The Clinton Street river bridge and the state route bridges are inspected and maintained by ODOT District 1 and are not included here.
+
+----------------------------------------------------------------------
+3. MAINTENANCE LIST FOR THE STREET DEPARTMENT (2026-2027)
+----------------------------------------------------------------------
+
+1. Pontiac St bridge: tighten fence post on downstream parapet (fall 2026)
+2. Pontiac St bridge: clean debris from east joint (fall 2026, before leaf season)
+3. Domersville Rd culvert: clear debris at inlet (fall 2026)
+4. Riverfront trail bridge: Parks to replace 9 deck boards (spring 2027)
+5. Harding St culvert: weekly checks until replacement; check after any rain over 1 inch
+6. All structures: sweep and flush bridge decks and drains each spring after the last salt application
+
+Inspection reports and photos for each structure are in S:\Engineering\Bridges\2026.
+
+RD

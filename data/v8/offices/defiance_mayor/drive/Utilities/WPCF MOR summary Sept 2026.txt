@@ -1,0 +1,117 @@
+CITY OF DEFIANCE - WATER POLLUTION CONTROL FACILITY (WPCF)
+MONTHLY OPERATING SUMMARY - SEPTEMBER 2026
+
+Prepared by: WPCF Chief Operator - D. Hagans
+Reviewed: Kevin Shaffer, Utilities Superintendent
+Date: October 12, 2026
+(eDMR submitted to Ohio EPA October 9.)
+
+Sorry this one is a couple days behind the usual. The lab was short a person the first week of October and the DMR took priority. - DH
+
+----------------------------------------------------------------------
+1. FLOWS
+----------------------------------------------------------------------
+
+                                     Sept 2026   Aug 2026    Sept 2025
+Total plant influent (MG)               72.6        79.1        73.8
+Average daily flow (MGD)                2.42        2.55        2.46
+Peak day (MGD)                          5.21        5.84        4.77
+  date                                 Sept 18     Aug 24      Sept 26
+Minimum day (MGD)                       2.02        2.11        2.05
+Rainfall at plant gauge (in)            1.86        3.42        2.12
+Days with bypass or overflow            0           0           0
+
+The September 18 rain (1.3 in. in about 4 hours) produced a peak hourly flow of 8.7 MGD. Because Secondary Clarifier No. 2 is running at reduced torque (see section 4), operators put the plant on its wet-weather step-feed mode at 6:40 p.m. and held it until 3:00 a.m. Effluent TSS on the composite for Sept 18-19 was 11.2 mg/L, under the weekly limit of 18 but the highest single day this year. All other days normal.
+
+----------------------------------------------------------------------
+2. EFFLUENT QUALITY (Outfall 001)
+----------------------------------------------------------------------
+
+Parameter                     Monthly avg    Weekly max    Permit (mo / wk)     Result
+CBOD5 (mg/L)                  2.8            4.1           10 / 15              OK
+Total suspended solids (mg/L) 5.9            8.6           12 / 18              OK
+Ammonia-N (mg/L)              0.18           0.37          1.5 / 2.3 (summer)   OK
+Total phosphorus (mg/L)       0.61           0.88          1.0 / 1.5            OK
+E. coli (#/100 mL, geomean)   27             84            126 / 284            OK
+Dissolved oxygen (mg/L)       7.6 (min 6.8)                6.0 min              OK
+pH (s.u.)                     7.0 - 7.5                    6.5 - 9.0            OK
+
+Removal efficiency: CBOD 98.8%, TSS 97.8%.
+
+No permit exceedances. Year-to-date exceedances: 0.
+
+Note on weekly TSS: the weekly average for the week of Sept 13-19 was 8.6 mg/L, which includes the 11.2 mg/L day.
+
+----------------------------------------------------------------------
+3. INFLUENT
+----------------------------------------------------------------------
+
+                         Avg      Max
+CBOD5 (mg/L)             244      301
+TSS (mg/L)               262      371
+Ammonia-N (mg/L)         25.1     30.4
+Total P (mg/L)           5.4      6.6
+
+----------------------------------------------------------------------
+4. PROCESS NOTES
+----------------------------------------------------------------------
+
+Secondary Clarifier No. 2 drive:
+- The Aug 28 oil sample was inconclusive. At the Sept 9 oil change the drained oil had visible bronze particles (gear wear), and we found a crack at one mounting ear on the gearbox housing. Vibration at 0.29 in/sec by Sept 10.
+- Torque alarm setpoint lowered and the drive is running at reduced torque. Sludge blanket checked twice per shift; target under 2 ft.
+- Replacement gearbox ($41,780 from the manufacturer's representative, 9-week lead time) approved by the Board of Control September 28. PO issued September 29. Delivery expected the first week of December; installation by plant staff with the manufacturer's rep, about 3 days with the clarifier drained.
+- Until then: Clarifier No. 1 carries average flow without trouble. Wet-weather peaks are handled with step-feed and by holding the return rate steady. Kevin has asked operators to call him for any forecast over 1.5 inches.
+
+Aeration: Blowers 1 and 3 in service. Blower 3 tripped on high temperature twice (Sept 4 and Sept 5, both afternoons over 88F). Reset; cooling fan cleaned. Average DO 1.9 mg/L.
+
+Phosphorus: ferric dose 10.1 mg/L as Fe. The new annual chemical contract starts November 1 (ferric at $612.00/dry ton from Lakeshore Water Products, awarded Oct 12).
+
+UV: Bank A lamp hours at 11,900. Will run through end of disinfection season Oct 31 and replace over the winter.
+
+----------------------------------------------------------------------
+5. SOLIDS AND LAND APPLICATION
+----------------------------------------------------------------------
+
+Sludge wasted (dry tons, est.)          46.2
+Volatile solids reduction 51%.
+Biosolids in storage at month end: approx. 455,000 gal (82% of capacity).
+
+Fall land application: Domersville Road field. The tenant (D. Wittenmyer) expects to finish soybean harvest on the north 24 acres by about October 10 and the south 17 acres by October 20, weather permitting. Application to the north section can start after harvest. Hauler has been told to plan on mid-October. Storage will be at about 90 percent by then, which is fine - the tank does not get tight until about 95 percent.
+
+The farm lease renewal for 2027-2029 ($142/acre on 41 acres) was approved by the Board of Control Sept 28. Signed copy is with the Law Director.
+
+Sludge hauling agreement: current agreement expires December 31, 2026. Memo on the renewal is separate.
+
+----------------------------------------------------------------------
+6. COLLECTION SYSTEM AND LIFT STATIONS
+----------------------------------------------------------------------
+
+- Lift stations: all checked twice weekly. Ralston Avenue LS ran both pumps for about 5 hours on Sept 18 (normal for that rain). Lift station #4: pump 1 impeller cleared of rags Sept 24.
+- Sewer jetting: 27,900 LF. Root cutting 1,640 LF.
+- Customer backup calls: 6 (City-side 1, cleared same day; customer-side 5).
+- Fall CCTV: Ward 3 Sept 21-Oct 2. Camera tractor cable repair cost $1,140 (two days lost). Ward 1 begins Oct 5. Point repair on Perry St (Segment 3-14) completed Sept 30.
+- Manhole adjustments for the fall resurfacing program (Holgate, Jefferson, Hopkins, Washington): crew raised 9 sanitary castings during paving; the paving contractor handled the rest.
+
+----------------------------------------------------------------------
+7. LABORATORY
+----------------------------------------------------------------------
+
+- Pretreatment sample results from Aug 12-13 received; both industrial users in compliance.
+- New BOD incubator in service as of Sept 2. Old unit surplused.
+
+----------------------------------------------------------------------
+8. PERMIT / REGULATORY
+----------------------------------------------------------------------
+
+- NPDES renewal application: data summary 80 percent assembled. Draft to Tom by about Oct 23.
+- Biosolids annual report due to Ohio EPA by Feb 19, 2027.
+- One odor call Sept 26 (south wind, digester cleanout). Called the resident back the same afternoon.
+
+----------------------------------------------------------------------
+9. SAFETY AND STAFFING
+----------------------------------------------------------------------
+
+No injuries. Confined space entries: 8 (all permitted). Safety meeting Sept 30: confined space refresher with the WTP crew. Operator vacancy: two interviews held Sept 22; offer accepted, start date Oct 19 (pending pre-employment physical).
+
+D. Hagans
+Chief Operator, WPCF

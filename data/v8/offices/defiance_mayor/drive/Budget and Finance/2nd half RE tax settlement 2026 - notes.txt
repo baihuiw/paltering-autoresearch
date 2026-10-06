@@ -1,0 +1,43 @@
+2nd HALF REAL ESTATE TAX SETTLEMENT - TAX YEAR 2025 / COLLECTION YEAR 2026
+Finance working notes (A. Marquardt). Saved 9/14/26, updated 10/2 (added items for the 10/6 meeting).
+
+Settlement sheet received from the Defiance County Auditor's office Friday 9/11/26. Funds wired to the City's operating account at Harmon State Bank the same day. Posted 9/14.
+
+City's share by levy (net of county deductions):
+
+                                  Gross         Auditor fee   Treasurer fee   Advert./other    Net to City
+General Fund (inside millage)   397,164.37       5,242.57       3,892.21          516.31       387,513.28
+Street Levy                     669,099.11       8,832.11       6,557.17          869.83       652,840.00
+Fire/EMS Levy                   732,717.43       9,671.87       7,180.63          952.53       714,912.40
+Police and Fire Pension          42,385.70         559.49         415.38           55.10        41,355.73
+                              ------------    -----------    ------------    ------------    ------------
+Total                         1,841,366.61      24,306.04      18,045.39        2,393.77     1,796,621.41
+
+Check: net total matches the wire amount on the bank statement for 9/11 ($1,796,621.41). OK.
+
+Posting:
+  101.0000.41110  Real estate tax - GF            387,513.28
+  203.0000.41110  Real estate tax - Street Levy   652,840.00
+  210.0000.41110  Real estate tax - Fire/EMS      714,912.40
+  290.0000.41110  Real estate tax - P&F Pension    41,355.73
+Deductions (auditor/treasurer fees, advertising) are recorded gross and net per AOS guidance. Journal entry JE 26-0914-01.
+
+Compared with 2nd half 2025 (collection year 2025):
+  - Total net up 1.8%. Mostly new construction in the Northtowne area and a few residential additions. No reappraisal or update this year.
+  - Delinquencies are slightly higher than last year (County Treasurer's report shows 4.1% of the current charge unpaid at settlement, vs. 3.8%). Normal. Most of it comes in with the next settlement.
+
+Remaining 2026 property tax receipts:
+  - Homestead and rollback reimbursements from the state, distributed by the county in December (est. GF $14,000; Street Levy $21,000; Fire/EMS $23,000).
+  - Manufactured home and delinquent collections, small.
+After the December distribution, each fund should finish at or slightly above its estimate. GF property tax is at 99.3% after this posting.
+
+For the Mayor's meeting with the County Auditor on 10/6:
+  1. Ask when the county's next reappraisal or update is scheduled and when preliminary values would be public. Council members will get calls.
+  2. Confirm the fire/EMS levy renewal certification timing: what the County Auditor needs from us and by when, if Council decides to place the renewal on the ballot.
+  3. Thank them. Their office turned the settlement around faster than last year.
+  4. The Budget Commission certificate for tax year 2026 / collection year 2027 was accepted by Council on Sept 8 (Resolution No. 2026-14). Nothing else is needed from us on that.
+
+Notes for the Sept monthly report:
+  - Use the net figures above in the summary.
+  - Explain that the jump in Street Levy and Fire/EMS Levy revenue in September is the settlement and not a change in the levies.
+  - Remind Council that "renewal, no increase in the rate" is the wording for the levy discussion. Dale and Megan already know.

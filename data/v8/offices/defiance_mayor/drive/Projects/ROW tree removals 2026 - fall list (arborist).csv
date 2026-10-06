@@ -1,0 +1,45 @@
+Work Order,Address (tree lawn),Ward,Species,DBH (in),Condition / Reason,Priority,Crew,Status,Removal Date,Stump Ground,Replacement
+ROW-26-118,670 Seneca St,Third,Green ash,28,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-09-08,2026-10-13,Yes - spring 2027
+ROW-26-119,963 Elliott Rd,Fourth,Green ash,20,EAB - dead top,1,Contract - Schwiebert Tree Service,Removed,2026-09-08,2026-10-13,Owner declined
+ROW-26-120,1230 Seneca St,Third,White ash,17,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-09-09,2026-10-14,Yes - spring 2027
+ROW-26-121,1843 Fifth St,Second,Black locust,23,Dead,1,City crew,Removed,2026-09-09,2026-10-14,Yes - spring 2027
+ROW-26-122,1621 Fifth St,Second,Siberian elm,18,"Lean toward house, decay",1,Contract - Schwiebert Tree Service,Removed,2026-09-10,2026-10-15,Owner declined
+ROW-26-123,597 Jefferson Ave,Second,Green ash,20,"EAB - dead, bark sloughing",1,Contract - Schwiebert Tree Service,Removed,2026-09-10,2026-10-15,Yes - spring 2027
+ROW-26-124,1708 Ninth St,Second,Green ash,18,EAB - dead top,1,City crew,Removed,2026-09-14,2026-10-16,Yes - spring 2027
+ROW-26-125,1283 Jefferson Ave,Second,Green ash,19,EAB - dead top,1,Contract - Schwiebert Tree Service,Removed,2026-09-15,2026-10-16,Owner declined
+ROW-26-126,1744 Holgate Ave,Fourth,Green ash,29,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-09-15,2026-10-16,Yes - spring 2027
+ROW-26-127,427 Riverview Dr,First,Callery pear,18,Split crotch - storm damage,1,Contract - Schwiebert Tree Service,Removed,2026-09-16,2026-10-05,Yes - spring 2027
+ROW-26-128,1810 Jackson Ave,Second,Norway maple,28,Dead >60%,1,Contract - Schwiebert Tree Service,Removed,2026-09-16,2026-10-05,Owner declined
+ROW-26-129,1117 Seventh St,First,White ash,27,"EAB - dead, bark sloughing",1,Contract - Schwiebert Tree Service,Removed,2026-09-17,2026-10-06,Yes - spring 2027
+ROW-26-130,1487 Spruce St,Second,Green ash,17,EAB - >50% canopy loss,2,City crew,Removed,2026-10-15,,Owner declined
+ROW-26-131,728 Perry St,First,Green ash,10,EAB - dead top,1,City crew,Removed,2026-09-22,2026-10-11,Yes - spring 2027
+ROW-26-132,1200 Ottawa Ave,Fourth,Green ash,23,"EAB - dead, bark sloughing",1,Contract - Schwiebert Tree Service,Removed,2026-09-22,2026-10-11,Owner declined
+ROW-26-133,1978 Summit St,First,Callery pear,28,"Split, half crown down Aug",1,Contract - Schwiebert Tree Service,Removed,2026-09-23,2026-10-12,Yes - spring 2027
+ROW-26-134,1550 Jackson Ave,Second,Green ash,25,EAB - dead top,1,City crew,Removed,2026-09-23,2026-10-12,Yes - spring 2027
+ROW-26-135,527 Fulton St,First,Green ash,15,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-09-24,2026-10-13,Owner declined
+ROW-26-136,412 Elliott Rd,Fourth,Siberian elm,32,"Dead limbs over street, decay",1,Contract - Schwiebert Tree Service,Removed,2026-09-29,2026-10-16,Yes - spring 2027
+ROW-26-137,646 Seventh St,First,Silver maple,16,"Trunk decay, cavity at base",2,Contract - Schwiebert Tree Service,Scheduled - Nov,,,TBD
+ROW-26-138,1145 Summit St,First,Green ash,25,EAB - dead,1,City crew,Removed,2026-09-29,2026-10-16,Yes - spring 2027
+ROW-26-139,1761 Riverview Dr,First,Silver maple,23,"Trunk decay, cavity at base",2,City crew,Scheduled - Nov,,,TBD
+ROW-26-140,1395 Ralston Ave,Second,White ash,25,EAB - >50% canopy loss,2,City crew,Scheduled - Nov,,,TBD
+ROW-26-141,1946 Fulton St,First,Green ash,27,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-09-30,2026-10-16,Owner declined
+ROW-26-142,1282 Fifth St,Second,White ash,18,"EAB - dead, bark sloughing",1,City crew,Removed,2026-09-30,,Yes - spring 2027
+ROW-26-143,1069 Seneca St,Third,Green ash,30,EAB - >50% canopy loss,2,Contract - Schwiebert Tree Service,Scheduled - Nov,,,TBD
+ROW-26-144,931 Elliott Rd,Fourth,Silver maple,37,"Trunk decay, cavity at base",2,Contract - Schwiebert Tree Service,Scheduled - Nov,,,TBD
+ROW-26-145,1963 Fulton St,First,Silver maple,37,"Trunk decay, cavity at base",2,Contract - Schwiebert Tree Service,Scheduled - Nov,,,TBD
+ROW-26-146,1161 Holgate Ave,Fourth,Silver maple,20,Root plate lifting walk,2,Contract - Schwiebert Tree Service,Scheduled - Nov,,,TBD
+ROW-26-147,1446 Harding St,Second,Green ash,17,EAB - dead,1,City crew,Removed,2026-10-01,,Yes - spring 2027
+ROW-26-148,942 Riverview Dr,First,Green ash,25,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-10-06,,Owner declined
+ROW-26-149,1482 Ayersville Ave,Fourth,Green ash,13,EAB - dead top,1,City crew,Removed,2026-10-06,,Yes - spring 2027
+ROW-26-150,855 Riverview Dr,First,Norway maple,16,Dead >60%,1,Contract - Schwiebert Tree Service,Removed,2026-10-07,,Yes - spring 2027
+ROW-26-151,592 Jackson Ave,Second,White ash,15,EAB - >50% canopy loss,2,City crew,Scheduled - Nov,,,TBD
+ROW-26-152,1782 Summit St,First,Green ash,29,EAB - dead top,1,Contract - Schwiebert Tree Service,Removed,2026-10-07,,Owner declined
+ROW-26-153,1418 Front St,First,Callery pear,14,Split crotch - storm damage,1,City crew,Removed,2026-10-08,,Yes - spring 2027
+ROW-26-154,754 Fifth St,Second,Green ash,16,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-10-13,,Yes - spring 2027
+ROW-26-155,1264 Fulton St,First,Green ash,28,"EAB - dead, bark sloughing",1,Contract - Schwiebert Tree Service,Removed,2026-10-13,,Owner declined
+ROW-26-156,1616 Ottawa Ave,Fourth,White ash,21,EAB - dead top,1,Contract - Schwiebert Tree Service,Removed,2026-10-14,,Yes - spring 2027
+ROW-26-157,768 Fifth St,Second,Green ash,26,EAB - dead,1,Contract - Schwiebert Tree Service,Removed,2026-10-14,,Yes - spring 2027
+ROW-26-158,876 Harding St,Second,Green ash,14,EAB - >50% canopy loss,2,City crew,Scheduled - Nov,,,TBD
+
+Totals,41 trees,,Ash: 28 (green 22 / white 6),,,,,Removed 32 / scheduled 9,,,
+Note,"Contract crew used for trees 26 in. DBH and up or over wires. Schwiebert Tree Service annual contract NTE $34,500 (BOC 9/21). Stump grinding by City crew. Replacement planting list goes to Parks for spring order - City Arborist."

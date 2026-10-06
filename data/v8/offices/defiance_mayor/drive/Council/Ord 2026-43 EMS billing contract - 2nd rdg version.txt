@@ -1,0 +1,91 @@
+ORDINANCE NO. 2026-43
+
+AN ORDINANCE AUTHORIZING THE BOARD OF CONTROL TO ENTER INTO A CONTRACT WITH AMERIDALE REVENUE SERVICES, LLC FOR EMERGENCY MEDICAL SERVICES BILLING AND COLLECTION SERVICES FOR THE PERIOD JANUARY 1, 2027 THROUGH DECEMBER 31, 2029
+
+Introduced: September 23, 2026 (first reading)
+Second reading: October 13, 2026
+Third reading: scheduled October 27, 2026
+Sponsor: Safety Committee (Councilwoman Theresa Gaskins, chair)
+
+[Version for second reading. No changes from the first-reading text except that the vendor name has been inserted in the title and Section 1 following the Safety Committee's recommendation of October 7, 2026. SM]
+
+WHEREAS, the City of Defiance, through its Division of Fire, provides emergency medical services and ambulance transportation, and by Section 155.04 of the Codified Ordinances has established fees for those services; and
+
+WHEREAS, the City's current agreement for the billing and collection of emergency medical services fees expires December 31, 2026; and
+
+WHEREAS, the Fire Chief issued a request for proposals on July 13, 2026, four proposals were received on August 14, 2026, and a review team consisting of the Fire Chief, the Finance Director and the EMS Coordinator has recommended Ameridale Revenue Services, LLC, of Findlay, Ohio, as the proposer offering the best value to the City; and
+
+WHEREAS, the recommended proposal provides for compensation of 6.75 percent of net collections, compared with 8.50 percent under the City's current agreement; and
+
+WHEREAS, because the contract term exceeds one year and the estimated total compensation over the term exceeds $50,000, the authorization of Council is required;
+
+NOW, THEREFORE, BE IT ORDAINED by the Council of the City of Defiance, Ohio, a majority of all members elected thereto concurring:
+
+SECTION 1. That the Board of Control is hereby authorized to enter into a contract with Ameridale Revenue Services, LLC, Findlay, Ohio, for the billing and collection of emergency medical services fees for runs occurring on and after January 1, 2027 through December 31, 2029, in substantially the form on file with the Clerk of Council, at a fee of 6.75 percent of net collections. "Net collections" means amounts actually received by the City for emergency medical services, less refunds.
+
+SECTION 2. The contract shall include, at a minimum, the following terms:
+
+(a) The contractor shall bill Medicare, Medicaid, and private and commercial insurers in accordance with applicable federal and state law and the rules of each payer.
+
+(b) For patients who reside in the City of Defiance, the contractor shall accept payment from the patient's insurer as payment in full and shall not bill the resident for any remaining balance, consistent with the policy established by Council in Section 155.04(d) of the Codified Ordinances. The contractor shall not report any city resident to a credit reporting agency.
+
+(c) For non-resident patients, the contractor may bill the patient for any balance after insurance, shall offer payment plans and hardship review, and shall not refer any account to an outside collection agency without the written approval of the Finance Director.
+
+(d) The contractor shall comply with the Health Insurance Portability and Accountability Act and shall execute the City's business associate agreement.
+
+(e) All funds shall be deposited directly into a City account. The contractor shall not handle or hold City funds.
+
+(f) The contractor shall provide monthly reports to the Fire Chief and the Finance Director, including runs billed, amounts collected by payer type, denials and their reasons, and aging of receivables.
+
+(g) The contractor shall maintain professional liability and cyber liability insurance of not less than $2,000,000 each.
+
+(h) Either party may terminate the contract without cause on 120 days' written notice.
+
+SECTION 3. The Fire Chief is designated as the City's contract administrator. Compensation under the contract shall be paid from the Fire/EMS Levy Fund (210), EMS billing service line, to which EMS billing collections are deposited.
+
+SECTION 4. It is found and determined that all formal actions of this Council concerning and relating to the passage of this ordinance were adopted in an open meeting of this Council, and that all deliberations of this Council and of any of its committees that resulted in such formal action were in meetings open to the public, in compliance with all legal requirements including Section 121.22 of the Ohio Revised Code.
+
+SECTION 5. This ordinance shall take effect and be in force from and after the earliest period allowed by law.
+
+Passed: _______________, 2026
+
+______________________________
+President of Council
+
+Attest:
+
+______________________________
+Clerk of Council
+
+Approved: _______________, 2026
+
+______________________________
+Mayor
+
+---------------------------------------------------------------
+ATTACHMENT: PROPOSAL SUMMARY (Fire Chief, September 18, 2026)
+
+Proposals received August 14, 2026:
+
+Proposer                                  Location        Fee                          Score
+Ameridale Revenue Services, LLC           Findlay, OH     6.75% net collections        88
+Current vendor                            Columbus, OH    8.50% net collections        79
+Proposer C                                Toledo, OH      7.25% net collections        74
+Proposer D                                Indianapolis    6.40% + $4.50/claim          66
+
+Scoring (100 points): fee 35; reporting and transparency 20; compliance program 15; ePCR interface 10; references 10; transition plan 10.
+
+Estimated annual cost at 2025 net collections ($598,400):
+  Current (8.50%):   $50,864
+  Ameridale (6.75%): $40,392
+  Difference:        $10,472 per year (approx. $31,400 over three years)
+
+Proposer D's per-claim fee at about 3,300 claims per year adds roughly $14,850, for an effective rate near 8.9%.
+
+References contacted (Lt. Sanderson): three Ohio fire departments with 2,500-5,000 annual runs. All three rated the vendor good to excellent on responsiveness and on monthly reporting.
+
+Transition: current vendor works runs through 12/31/2026 for 120 days. Ameridale begins with runs on 1/1/2027. ePCR export configured in December; half-day crew documentation training in December (no cost).
+
+Recommendation: Ameridale Revenue Services, LLC.
+
+D. Rummel, Fire Chief

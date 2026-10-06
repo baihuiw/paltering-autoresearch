@@ -1,0 +1,143 @@
+Thread export: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+Exported from helpdesk@cityofdefiance.com, 10/7/2026 9:12 AM
+Messages: 10 (oldest first)
+
+============================================================
+From: Ben Rohrs <helpdesk@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 2:18 PM
+To: All City Staff <allstaff@cityofdefiance.com>
+Subject: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+All,
+
+Starting around 1:30 this afternoon a number of city mailboxes received an email with the subject "Updated 2027 Payroll Calendar - Action Required." It looks like a shared-document notice and has a blue "Review Document" button. It is NOT from Finance or Payroll. The link goes to a fake sign-in page that asks for your city email password.
+
+If you got it:
+- Do not click the button.
+- If you already clicked it but did NOT type your password, close the page and let me know. You're probably fine.
+- If you typed your password on that page, call me right away at the helpdesk line or come to my office. I'll reset it and check the sign-in log.
+- Delete the email. You can also use "Report Phishing" in Outlook, which sends me a copy.
+
+So far I've blocked the sender and the link at the filter. About 60 copies got through before the block.
+
+Real payroll notices come from payroll@ and never ask you to sign in to see a calendar. When in doubt, call Finance.
+
+Ben
+
+Ben Rohrs
+IT Coordinator, City of Defiance
+helpdesk@cityofdefiance.com | (419) 784-2101
+
+============================================================
+From: Jeanne Hench <jhench@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 2:31 PM
+To: Ben Rohrs <helpdesk@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Ben, I clicked it about 1:45. It went to a page that looked like our login. I don't THINK I typed my password but I might have started to. I closed it when the phone rang. Can you check?
+
+Jeanne
+
+============================================================
+From: Ben Rohrs <helpdesk@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 2:44 PM
+To: Jeanne Hench <jhench@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Jeanne, no sign-ins from anywhere but the front desk PC and your phone. To be safe I'll reset your password first thing tomorrow when you're in so you're not locked out of the phones in the middle of the afternoon. I'll come up at 8.
+
+Ben
+
+============================================================
+From: Dale Rummel <drummel@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 3:02 PM
+To: Ben Rohrs <helpdesk@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Ben, the station accounts (st1duty and st2duty) both got it. Nobody clicked as far as I know but those are shared logins, so I can't promise. Can you check those two?
+
+Chief Rummel
+
+============================================================
+From: Ben Rohrs <helpdesk@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 3:20 PM
+To: Dale Rummel <drummel@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Chief, both are clean. Nobody clicked from either station PC. But this is the third time this year a shared station account got a phish and I'd like to move those two to the setup where they can only receive internal email. I'll send you a short note on it. It won't affect the dispatch printouts.
+
+Ben
+
+============================================================
+From: Angela Marquardt <amarquardt@cityofdefiance.com>
+Sent: Wednesday, September 30, 2026 4:05 PM
+To: Ben Rohrs <helpdesk@cityofdefiance.com>
+Cc: Kim Rethmeyer <krethmeyer@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Ben,
+
+Thanks for the quick alert. For the record, Finance has not sent out a 2027 payroll calendar yet. It goes out in December, as a PDF attached to an email from me, and it's also posted on the employee page. I'd like that sentence in your next reminder so people know what the real one looks like.
+
+This is the second payroll-themed one since July. The one in July was the vendor bank change request. Can we talk about doing a short training for Finance and HR before year-end? Those are the two offices that get targeted.
+
+Angela
+
+Angela Marquardt
+Finance Director
+City of Defiance
+
+============================================================
+From: Ben Rohrs <helpdesk@cityofdefiance.com>
+Sent: Thursday, October 1, 2026 9:40 AM
+To: Megan Ostrander <mostrander@cityofdefiance.com>; Tom Wiechers <twiechers@cityofdefiance.com>; Angela Marquardt <amarquardt@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Wrap-up on yesterday:
+
+- 63 delivered before the block, to individual mailboxes plus four shared accounts.
+- 9 people clicked (I can see it in the filter log). Nobody I can find typed a password; the fake page logged no submissions before it was taken down. Jeanne was reset this morning as a precaution (ticket 0698).
+- 14 people used the "Report Phishing" button, which is great and more than last time.
+
+Recommendation: I'd like to turn on multi-factor sign-in (the phone app) for everyone's email by the end of October. It's already on for Finance, Law and the Mayor's office (I did the mayor's when we set up ML-07). The remaining accounts are about 85. It's free with our current licensing. It mostly means people approve a prompt on their phone the first time they sign in on a new device.
+
+The ones that will need hand-holding are the Street garage and the fire stations, where people share PCs and not everyone has a city phone. For those, I can issue key fobs (about $22 each, maybe 20 of them, under $500 from the IT supplies line).
+
+Tom, can I present this at Monday's dept heads meeting? Five minutes.
+
+Ben
+
+============================================================
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Thursday, October 1, 2026 10:15 AM
+To: Ben Rohrs <helpdesk@cityofdefiance.com>
+Cc: Megan Ostrander <mostrander@cityofdefiance.com>; Angela Marquardt <amarquardt@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Yes, Monday at 8:30, you're first. Bring a one-pager with the schedule by department. And yes on the fobs.
+
+On the training Angela mentioned, let's look for something free through the risk pool before we spend money. I think they have a short video course.
+
+Tom
+
+============================================================
+From: Megan Ostrander <mostrander@cityofdefiance.com>
+Sent: Thursday, October 1, 2026 10:22 AM
+To: Ben Rohrs <helpdesk@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+Thanks Ben. Paul asked me this morning whether the mayor@ shared box got the email too. Did it?
+
+Megan
+
+============================================================
+From: Ben Rohrs <helpdesk@cityofdefiance.com>
+Sent: Thursday, October 1, 2026 10:30 AM
+To: Megan Ostrander <mostrander@cityofdefiance.com>
+Subject: RE: ALERT - phishing email "Updated 2027 Payroll Calendar"
+
+It did, at 1:38. Nobody clicked it from the shared box. I deleted it from there myself.
+
+FYI after Monday I'll send a second all-staff note with the MFA schedule. Probably Finance-adjacent departments the week of the 12th, Service and Parks the week of the 19th, Fire and Police the week of the 26th. Password resets go up during these rollouts, so expect me to be at a few desks.
+
+Ben

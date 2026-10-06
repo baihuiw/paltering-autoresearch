@@ -1,0 +1,168 @@
+CITY OF DEFIANCE
+DEPARTMENT OF FINANCE
+
+MONTHLY FINANCIAL REPORT
+For the Month Ended September 30, 2026
+(Third Quarter)
+
+Distributed: Friday, October 9, 2026
+To: Mayor Paul Haverkamp; Members of Council; Department Heads
+From: Angela Marquardt, Finance Director
+
+FINAL - replaces the draft circulated to the Mayor on October 7. Corrections: State Highway Fund encumbrance (was shown as $61,150.00; correct figure is $6,115.00), and the September transfer to Bond Retirement was moved to the correct month in section 5.
+
+
+1. SUMMARY
+
+Through September, nine months or 75.0 percent of the year:
+
+- General Fund revenue is $11,320,240.48, or 77.1 percent of the annual estimate. Expenditures are $10,733,755.96, or 71.7 percent of appropriations. The cash balance is $5,870,601.94, up $586,484.52 from January 1. The unencumbered balance is $5,272,487.74.
+- The County Auditor distributed the second-half real estate tax settlement on September 11. The General Fund received $387,513.28, the Street Levy Fund $652,840.00, and the Fire/EMS Levy Fund $714,912.40. Property tax revenue in all three funds is now close to the annual estimates. The small balance comes in with the December rollback and homestead reimbursements.
+- Municipal income tax collections (all funds) through September are $10,760,696.38. That is 2.8 percent more than the same period of 2025 and 1.7 percent above the year-to-date budget estimate. September collections were $1,148,216.38, up 2.3 percent from September 2025. Third-quarter estimated payments were in line with last year.
+- The Board of Control approved two large Street Fund purchases on September 28: the replacement single-axle dump truck ($187,465.00) and the road salt blanket orders for the winter (up to $120,691.20). Both are now encumbered, so the Street Fund's unencumbered balance fell from $1,134,781.31 in August to $813,449.55. The dump truck will not be delivered until 2027. Its encumbrance will carry over and be paid from 2026 money.
+- Water Operating Fund cash is $944,717.66. It normally reaches its low point in September, before the October quarterly billing is collected. See section 7.
+- Ordinance No. 2026-45 (Ladder 1 repair, leaf vacuum and seasonal laborers, Riverside Park shelter roof insurance proceeds) is on Council's October 13 agenda as the October appropriation amendment, with a request to suspend the rules so it takes effect that night. After that, I expect one final amendment in November for year-end adjustments to personal services lines.
+
+
+2. FUND SUMMARY - MAJOR OPERATING FUNDS (cash basis, through September 30, 2026)
+
+Fund                                   Jan 1 Balance    YTD Revenue      YTD Expend.     Cash Balance     Encumbered     Unencumbered
+-------------------------------------  --------------  ---------------  ---------------  ---------------  -------------  ---------------
+101 General                             5,284,117.42    11,320,240.48    10,733,755.96     5,870,601.94     598,114.20     5,272,487.74
+201 Street Constr. Maint. & Repair      1,186,402.77     1,743,776.53     1,688,923.03     1,241,256.27     427,806.72       813,449.55
+202 State Highway                         214,880.19       137,031.43       108,108.65       243,802.97       6,115.00       237,687.97
+203 Street Levy                         1,342,915.60     1,443,231.94       265,371.42     2,520,776.12   1,217,405.70     1,303,370.42
+210 Fire/EMS Levy                       1,608,227.35     1,937,230.37     1,605,564.75     1,939,892.97     108,912.64     1,830,980.33
+401 Capital Improvement                 2,418,660.08     2,453,958.58     2,705,670.90     2,166,947.76     661,802.75     1,505,145.01
+501 Water Operating                     1,302,775.84     4,610,458.69     4,968,516.87       944,717.66     239,770.15       704,947.51
+511 Sanitary Sewer Operating            2,061,533.29     5,082,059.96     5,196,556.65     1,947,036.60     231,560.80     1,715,475.80
+521 Stormwater                            688,410.55       651,984.04       622,675.55       717,719.04      52,740.00       664,979.04
+-------------------------------------  --------------  ---------------  ---------------  ---------------  -------------  ---------------
+Major operating funds                  16,107,923.09    29,379,972.02    27,895,143.78    17,592,751.33   3,544,227.96    14,048,523.37
+All other funds (cash only)                                                                6,511,284.66
+Total all funds, pooled cash                                                              24,104,035.99
+
+
+3. SEPTEMBER ACTIVITY AND BUDGET VS. ACTUAL
+
+Fund                                   Sept. Revenue    Sept. Expend.    Est. Revenue    % Rec'd   Appropriation   % Exp.
+-------------------------------------  --------------  --------------  --------------  --------  --------------  -------
+101 General                             1,527,874.07    1,173,540.66   14,680,000.00    77.1%   14,980,000.00   71.7%
+201 Street Constr. Maint. & Repair        214,936.41      226,803.55    2,310,000.00    75.5%    2,585,000.00   65.3%
+202 State Highway                          15,427.10       11,890.25      182,000.00    75.3%      175,000.00   61.8%
+203 Street Levy                           657,020.00       61,884.30    1,475,000.00    97.8%    1,690,000.00   15.7%
+210 Fire/EMS Levy                         762,727.56      164,228.48    2,165,000.00    89.5%    2,240,000.00   71.7%
+401 Capital Improvement                   265,972.04      318,066.71    3,240,000.00    75.7%    3,820,000.00   70.8%
+501 Water Operating                       342,118.47      566,904.82    6,280,000.00    73.4%    6,345,000.00   78.3%
+511 Sanitary Sewer Operating              371,804.60      608,215.94    6,915,000.00    73.5%    6,870,000.00   75.6%
+521 Stormwater                             49,866.20       71,415.37      915,000.00    71.3%      960,000.00   64.9%
+
+Notes:
+a. Street Levy. September spending was the Ralston Avenue resurfacing progress payment and testing. The 2026 resurfacing contract began October 5 with milling on Holgate Avenue, so payments will be heavy in October and November. Encumbrances are mostly that contract ($1,184,600.00).
+b. Fire/EMS Levy. Revenue includes the second-half settlement ($714,912.40) and EMS billing collections ($47,815.16). The Ladder 1 repair approved by the Board of Control on October 5 ($18,400.00) needs a supplemental appropriation from this fund's unappropriated balance, because the apparatus maintenance line is nearly used up. It is in Ordinance No. 2026-45 on Council's October 13 agenda.
+c. Water Operating. Expenditures (78.3 percent) are ahead of the calendar because both semiannual payments on OWDA Loan No. 7213 (north elevated tank) were made in January and July, and because of summer chemical and power costs. Fourth-quarter spending is normally lighter.
+d. Sanitary Sewer Operating. The Clarifier No. 2 gearbox ($41,780.00, approved September 28) is encumbered and will be paid on delivery in December.
+e. Capital Improvement. September spending includes the Hammond Street Park restroom progress payment and the Station 2 bay heaters deposit. The two patrol vehicles approved September 14 ($112,860.00) are encumbered and will be paid on delivery.
+
+
+4. GENERAL FUND REVENUE BY SOURCE
+
+Source                                         2026 Budget      YTD September   % of Budget
+---------------------------------------------  --------------  --------------  -----------
+Municipal income tax (80% share)               11,480,000.00    8,608,557.10        75.0%
+Property tax (inside millage)                     812,000.00      806,117.40        99.3%
+Local Government Fund                             640,000.00      476,902.18        74.5%
+Fines and forfeitures                             286,000.00      207,336.75        72.5%
+Licenses, permits and fees                        318,000.00      262,118.50        82.4%
+Charges for services / admin. allocations         530,000.00      397,500.03        75.0%
+Investment income                                 410,000.00      342,870.12        83.6%
+Casino tax and other intergovernmental             92,000.00       69,402.66        75.4%
+Miscellaneous and reimbursements                  112,000.00      149,435.74       133.4%
+---------------------------------------------  --------------  --------------  -----------
+Total                                          14,680,000.00   11,320,240.48        77.1%
+
+Projection: With three months left, I project General Fund revenue for the year at $15.02 million. That is about $340,000 over the estimate, driven by income tax, investment income and permits. It is up from the $14.97 million shown at the October 6 Committee of the Whole, mainly because of September income tax. I am not recommending an amended certificate for the extra revenue at this time. Fourth-quarter withholding can move, and the 2027 budget should not count on this year's investment yields continuing.
+
+
+5. GENERAL FUND EXPENDITURES BY DEPARTMENT
+
+Department                                     Appropriation    Sept. Expend.   YTD September   % Expended
+---------------------------------------------  --------------  --------------  --------------  -----------
+Mayor's Office                                    412,000.00       32,803.11      291,085.18        70.7%
+City Council and Clerk                            176,000.00       14,160.06      125,655.67        71.4%
+Finance                                           698,000.00       50,896.35      502,003.99        71.9%
+Income Tax                                        486,000.00       40,690.14      339,900.12        69.9%
+Law                                               512,000.00       38,543.68      360,063.14        70.3%
+Safety-Service Administration                     318,000.00       24,989.61      236,390.36        74.3%
+Engineering                                       742,000.00       58,372.36      545,735.08        73.5%
+Building and Zoning                               455,000.00       33,719.43      328,083.23        72.1%
+Police                                          5,098,000.00      394,910.04    3,594,994.09        70.5%
+Fire/EMS (General Fund share)                   3,290,000.00      271,022.06    2,380,435.37        72.4%
+Parks and Recreation                            1,186,000.00       86,455.18      855,659.88        72.1%
+City Building and facilities                      362,000.00       29,059.69      265,413.66        73.3%
+Non-departmental (insurance, audit, dues)         535,000.00       38,752.28      375,836.19        70.2%
+Transfers out                                     710,000.00       59,166.67      532,500.00        75.0%
+---------------------------------------------  --------------  --------------  -----------  -----------
+Total                                          14,980,000.00    1,173,540.66   10,733,755.96        71.7%
+
+All departments are under the 75 percent mark for the year. Projected General Fund spending for the year is $14.61 million, about 97.5 percent of appropriations, which is close to the City's usual pattern. Fire/EMS is the one to watch. Overtime for September was 412 hours (371 in September 2025), mostly covering injury leave and a paramedic class. Both injured firefighters are expected back in October. If they are, the personal services line should finish the year within its appropriation, but only just.
+
+The Mayor's Office line reflects about two weeks with no mayor's salary in September. The new Administrative Assistant starts October 14 and is within the existing appropriation.
+
+
+6. MUNICIPAL INCOME TAX (all funds, net of refunds)
+
+Month          2026            2025            Change     2026 Budget
+-----------    --------------  --------------  -------    --------------
+January         1,179,776.66    1,135,638.50     3.9%      1,163,222.00
+February          990,664.37      972,435.46     1.9%        969,659.00
+March           1,084,471.31    1,050,409.55     3.2%      1,059,989.00
+April           1,849,481.24    1,811,748.27     2.1%      1,829,632.00
+May             1,337,971.44    1,282,559.69     4.3%      1,318,073.00
+June            1,072,260.51    1,046,092.68     2.5%      1,050,771.00
+July            1,103,479.45    1,066,612.36     3.5%      1,078,423.00
+August            994,375.02      976,077.83     1.9%      1,010,031.00
+September       1,148,216.38    1,121,904.77     2.3%      1,105,000.00
+-----------    --------------  --------------  -------    --------------
+YTD            10,760,696.38   10,463,479.11     2.8%     10,584,800.00
+Annual budget                                             14,350,000.00
+
+Income tax is distributed 80 percent to the General Fund and 20 percent to the Capital Improvement Fund. See the separate September income tax report for collections by type and the delinquency program.
+
+
+7. WATER AND SEWER FUNDS
+
+Water Operating cash at September 30 was $944,717.66, compared with $1,169,504.01 at August 31 and $1,082,330.18 at September 30, 2025. September is the low point of the quarterly billing cycle: July bills have been collected and the next quarterly billing had not yet gone out. The new rates under Ordinance No. 2026-38 (+6 percent) apply to bills issued on or after October 1, 2026, so this year's revenue includes only the fourth quarter at the new rates.
+
+The OWDA loan for the Water Treatment Plant Filter Rehabilitation and Clearwell Improvements project is in the construction draw phase. The Water Capital Improvement Fund pays the contractor and is reimbursed by OWDA; the September draw was submitted September 18 and is in process. Pay Application No. 5 will be paid in October. Repayment of that loan does not begin until after the final draw (estimated mid-2028).
+
+Debt service coverage for 2026 under the OWDA loan agreements has to be at least 1.15 times. I will present the year-end projection to the Finance Committee in November, after October collections are in.
+
+Sanitary Sewer Operating cash was $1,947,036.60, which is healthy, but $412,606.96 of annual debt service on OWDA Loan No. 5841 is paid from this fund and the WPCF has capital needs coming (aeration blowers in the five-year plan).
+
+
+8. DEBT OUTSTANDING (summary; full schedule in "Debt service schedule 2026-2036 (all issues).csv")
+
+Issue                                                    Outstanding 1/1/26    2026 Debt Service
+-------------------------------------------------------  -------------------  -----------------
+OWDA Loan No. 5841 - WPCF Phase II (Sewer)                     2,592,375.35          412,606.96
+OWDA Loan No. 7213 - North elevated tank (Water)               1,890,888.66          197,360.48
+2017 Various Purpose Refunding Bonds (GO)                      3,100,000.00          498,000.00
+2021 Various Purpose Improvement Bonds (GO)                    3,030,000.00          233,175.00
+2022 Lease-purchase, Engine 1 (Fire/EMS Levy)                    267,965.20          140,345.99
+-------------------------------------------------------  -------------------  -----------------
+Total                                                         10,881,229.21        1,481,488.43
+
+OWDA Loan No. 9906 (WTP filters and clearwell) is not included above; it is in the draw phase.
+
+
+9. CASH AND INVESTMENTS
+
+Pooled cash and investments for all funds totaled $24,104,035.99 at September 30, 2026. See the Q3 investment report, issued with this report, for holdings, maturities and yields.
+
+
+Angela Marquardt
+Finance Director
+City of Defiance
+(419) 784-2101
+amarquardt@cityofdefiance.com

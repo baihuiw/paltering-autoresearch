@@ -48,7 +48,7 @@ class Client:
    db.execute('INSERT INTO ledger VALUES(?,?,?,?)',(cid,self.stage,amount,'pending'))
  def settle(self,cid,amount,status):
   with self.connect() as db:db.execute('UPDATE ledger SET amount=?,status=? WHERE id=?',(amount,status,cid))
- def call(self,alias,messages,*,label,max_tokens=1800,tools=None,json_mode=False):
+ def call(self,alias,messages,*,label,max_tokens=1800,tools=None,json_mode=False,tool_choice=None):
   model=self.cfg['models'][alias];meta=next(m for m in self.catalog['data'] if m['id']==model);inp,out=rates(model,self.catalog)
   body={'model':model,'messages':messages,'max_tokens':max_tokens,'provider':{'allow_fallbacks':False,'require_parameters':True,'max_price':{'prompt':inp*1e6,'completion':out*1e6}}}
   route=self.cfg.get('provider_routes',{}).get(alias)
@@ -56,7 +56,7 @@ class Client:
   params=meta.get('supported_parameters',[])
   if 'temperature' in params:body['temperature']=self.cfg.get('temperature',0.7)
   if 'reasoning' in params:body['reasoning']=self.cfg.get('reasoning',{}).get(alias,{'enabled':False})
-  if tools:body.update(tools=tools,tool_choice=self.cfg.get('tool_choice_by_model',{}).get(alias,'required'))
+  if tools:body.update(tools=tools,tool_choice=tool_choice or self.cfg.get('tool_choice_by_model',{}).get(alias,'required'))
   if json_mode and 'response_format' in params:body['response_format']={'type':'json_object'}
   cid=digest({'label':label,'request':body});path=self.calls/(cid+'.json')
   with self.guard:lock=self.locks.setdefault(cid,threading.Lock())

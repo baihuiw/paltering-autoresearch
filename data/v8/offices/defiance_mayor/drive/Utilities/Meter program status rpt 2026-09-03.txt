@@ -1,0 +1,102 @@
+CITY OF DEFIANCE - DIVISION OF UTILITIES
+RESIDENTIAL METER REPLACEMENT PROGRAM
+STATUS REPORT TO THE UTILITIES COMMITTEE OF COUNCIL
+
+Prepared by: Kevin Shaffer, Utilities Superintendent
+With: Donna Pruett, Utility Billing Supervisor
+Date: September 3, 2026
+For the Utilities Committee meeting of September 14, 2026
+
+1. PURPOSE
+
+This report summarizes the results of phase 1 of the residential meter replacement program, the start of phase 2 on September 1, and planning for phase 3. It also responds to questions raised by committee members in August about meter accuracy, customer complaints and the program budget.
+
+2. PROGRAM BACKGROUND
+
+Council authorized the residential meter replacement program in the 2025 capital improvement plan. The program replaces approximately 6,300 residential meters (5/8 x 3/4 inch and 3/4 inch) installed mostly between 1988 and 2001, and installs a fixed radio reading system for residential accounts. Brandt Metering Services, LLC of Lima, Ohio was awarded the installation contract by the Board of Control in January 2026 following competitive bidding. Meters and radio endpoints are purchased by the City under a separate supply contract.
+
+Program budget (all phases):
+- Meters and radio endpoints: $1,512,000
+- Installation contract (Brandt): $598,500
+- Reading equipment and software interface: $86,400
+- Contingency: $95,000
+- Total: $2,291,900
+
+Funding: Water Capital Improvement Fund. No separate charge to customers.
+
+3. PHASE 1 RESULTS (MARCH 16 - JULY 24, 2026)
+
+Meters replaced: 3,410
+Meter model installed: PD-58T (5/8 x 3/4 inch) and PD-34T (3/4 inch), positive displacement, with radio endpoint
+Areas: First Ward; Second Ward west of Clinton Street (reading routes 1 through 13)
+Accounts not completed and carried to phase 2 or 3: 61 (no access, refused, or plumbing repairs needed by owner)
+
+Installation quality:
+- Callbacks for leaks at the meter setting within 30 days: 38 (1.1 percent). All repaired by Brandt at no cost to the City or customer.
+- Property damage claims: 4 (two lawns, one pit lid, one basement floor drain cover). All resolved.
+- Customer complaints about installer conduct: 2. Both addressed with Brandt's project manager.
+
+Billing:
+- Phase 1 meters were set up in the billing system as meter classes PD58 and PD34 in March 2026, before the first installations.
+- The first full quarter billed on phase 1 meters was the July 1, 2026 billing for most routes.
+- Utility Billing reviewed every phase 1 account whose July consumption was more than 50 percent above or below the same quarter in 2025 (412 accounts). Of these, most were explained by seasonal use, vacancies, new occupants, or leaks. Twenty-two accounts had keying errors in the final reading of the old meter and were corrected before bills were mailed.
+- High-bill inquiries from phase 1 customers in July: 57, compared with a typical 30 to 40 per quarter citywide. Staff attributed most of the increase to customers noticing the new meter and calling to ask about it.
+
+Meter accuracy:
+Utilities bench tested a random sample of 150 removed phase 1 meters. Results:
+- Within AWWA accuracy limits at all test flows: 71 percent
+- Under-registering at low flow by more than 5 percent: 24 percent
+- Not registering at all at low flow: 5 percent
+- Over-registering: none
+
+Based on the sample, staff estimate that the old meters in the phase 1 area were recording on average 3 to 4 percent less water than was actually used. Recorded consumption on phase 1 accounts for the July billing was up about 3.6 percent compared with the same quarter in 2025, consistent with that estimate after allowing for weather.
+
+4. PHASE 2 (SEPTEMBER 2026)
+
+Start date: September 1, 2026
+Planned meters: approximately 1,190
+Areas: reading routes 14 through 21 (Second Ward east of Clinton Street, Third Ward, and the southern part of the Fourth Ward)
+Meter model: HRE-58 (5/8 x 3/4 inch) and HRE-34 (3/4 inch). These are the supplier's current model; the PD series used in phase 1 was discontinued by the manufacturer in the spring. The HRE series has the same dimensions and uses the same radio endpoints, so no changes are needed to the meter settings or the reading equipment.
+Crews: four two-person crews
+Target completion: September 18, ahead of the reads for the October 1 billing (scheduled September 21 - 24)
+
+Customer notice: Letters mailed August 21 to all phase 2 addresses. Door hangers distributed the week of August 24. Notice posted on the City website and social media.
+
+Billing setup: Utility Billing will set up meter classes for the HRE-58 and HRE-34 in the billing system before installations begin. Brandt will send daily install files (old meter final read, new meter serial number, endpoint ID, install date) for upload, as in phase 1.
+
+5. PHASE 3 (PLANNED SPRING 2027)
+
+Estimated meters: 1,700
+Areas: remainder of the Fourth Ward and the north side (routes 22 through 30)
+Proposed start: early April 2027
+Staff will bring a schedule and any contract amendment to the Board of Control in the first quarter of 2027.
+
+Rachel Dunlap, City Engineer, has asked whether installers could record the material of the customer-side service line at each stop in phase 3 to support the lead service line inventory. Staff will discuss pricing with Brandt.
+
+6. BUDGET STATUS (THROUGH AUGUST 31, 2026)
+
+- Meters and endpoints purchased to date (phases 1 and 2): $961,400
+- Installation paid to date (phase 1): $321,800
+- Reading equipment and software interface: $86,400 (complete)
+- Contingency used: $12,650 (additional meter setters and pit lids)
+- Remaining: $909,650
+
+Program costs are tracking about 2 percent under budget.
+
+7. QUESTIONS FROM THE AUGUST COMMITTEE MEETING
+
+Q: Will customers' bills go up because of the new meters?
+A: Rates do not change because of the meter. Customers whose old meters were under-recording will see recorded usage closer to their actual usage. Based on the phase 1 bench tests, the average effect is a few percent. Customers should also be aware of the separate 6 percent rate increase proposed for October 1.
+
+Q: How will customers know if they have a leak?
+A: For now, billing staff can look at hourly readings for any phase 1 or phase 2 account on request. Once all phases are complete, the City plans to offer an online portal where customers can view their own usage and sign up for leak alerts.
+
+Q: What happens if a new meter is defective?
+A: The supplier warrants the meters for 10 years. Any customer who believes their meter is wrong can request a field test at no charge.
+
+Q: Are phase 1 bills being checked?
+A: Yes. See section 3. Utility Billing will apply the same high/low consumption review to the October 1 billing for phase 2 accounts.
+
+8. RECOMMENDATION
+
+Information only. No committee action required.

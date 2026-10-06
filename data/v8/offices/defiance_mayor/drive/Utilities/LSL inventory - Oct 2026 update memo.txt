@@ -1,0 +1,92 @@
+CITY OF DEFIANCE
+DIVISION OF UTILITIES / ENGINEERING
+
+MEMORANDUM
+
+TO:      Tom Wiechers, Safety-Service Director
+FROM:    Kevin Shaffer, Utilities Superintendent; Rachel Dunlap, P.E., City Engineer
+CC:      Angela Marquardt, Finance Director; Megan Ostrander, Chief of Staff (public information)
+DATE:    October 14, 2026
+RE:      Lead service line inventory - status update and next steps after Amendment No. 1
+
+----------------------------------------------------------------------
+1. WHERE THE INVENTORY STANDS
+----------------------------------------------------------------------
+
+Federal and Ohio EPA rules require every public water system to keep an inventory of the material of every service line, both the City-owned portion (main to curb stop) and the customer-owned portion (curb stop to the building), and to update it each year. The City's initial inventory was submitted in October 2024. The most recent annual update was submitted in 2025. The next update is due to Ohio EPA with the 2026 report.
+
+Current inventory (both sides of the curb stop classified together, as the state requires):
+
+  Classification                              Service lines    Percent
+  -----------------------------------------   -------------    -------
+  Non-lead (verified)                               4,912         68.6%
+  Non-lead (records / age-based)                      986         13.8%
+  Galvanized requiring replacement (GRR)               94          1.3%
+  Lead                                                 71          1.0%
+  Lead status unknown                               1,097         15.3%
+  -----------------------------------------   -------------    -------
+  Total service lines                               7,160        100.0%
+
+Since the 2025 update:
+- Unknowns reduced from 1,422 to 1,097 (325 resolved), mostly by staff records review and crew observations during repairs.
+- Of the 325 resolved: 301 non-lead, 15 GRR, 9 lead.
+- 12 lead or GRR lines were replaced in 2026, all in connection with main replacements or leak repairs (Washington Avenue waterline: 7; leak repairs: 5). These 12 are counted as non-lead above.
+
+----------------------------------------------------------------------
+2. AMENDMENT NO. 1 (approved by the Board of Control October 12)
+----------------------------------------------------------------------
+
+Amendment No. 1 to the engineering services agreement for the inventory adds field verification at up to 220 lines classified as "unknown," at $26,400 (about $120 per location) from the Water Capital Improvement Fund.
+
+Method: For each line, the consultant will (a) use a camera or visual check at the curb box where possible, and (b) where that does not work, excavate a small test pit (about 1 ft by 1 ft, by vacuum excavation) on each side of the curb stop. Locations are restored the same day with topsoil and seed or a temporary patch in pavement.
+
+Selection of the 220: We are using the state's guidance to pick a statistically valid sample of unknowns from homes built before 1950, which is where nearly all the known lead lines are. The sample is spread across all four wards in proportion to the number of unknowns:
+
+  Ward      Unknowns    Sample
+  First        312         63
+  Second       298         60
+  Third        281         56
+  Fourth       206         41
+  Total      1,097        220
+
+If the sample shows a very low rate of lead, the state guidance allows the remaining unknowns in the same age group to be reclassified with fewer field checks. That would save money in 2027.
+
+Schedule: Notices to the 220 property owners go out about October 26. Field work November 2 through December 11, weather permitting. Results to the City by January 15. Inventory update to Ohio EPA on the state schedule.
+
+----------------------------------------------------------------------
+3. CUSTOMER NOTICES
+----------------------------------------------------------------------
+
+The rules require the City to notify every customer whose service line is lead, GRR or unknown, and to repeat the notice each year. The 2026 annual notices were mailed in September (first-class mail, 1,262 letters). The letters explain what the classification means, steps to reduce exposure, and how to have the line checked. We received 38 calls and 14 emails after the mailing. The most common questions were "How do I find out what my line is made of?" and "Who pays to replace it?"
+
+Draft answer we have been using (Megan, please let us know if you want this changed for the website):
+
+> You can check the pipe where it enters your home, usually in the basement next to the water meter. If it is dull gray, soft and a key scratches it to a shiny silver, it may be lead. If it is copper-colored, or plastic, it is not lead. You can send us a photo through the City website and staff will review it. The City replaces the City-owned portion of lead and galvanized lines when it replaces water mains or repairs leaks. The City is working on a program for the customer-owned portion and expects to apply for state principal forgiveness funding in 2027.
+
+Photo submissions so far: 47 received, 41 resolved (39 copper, 2 plastic), 6 unclear and added to the field list.
+
+----------------------------------------------------------------------
+4. REPLACEMENT PROGRAM (2027 and after)
+----------------------------------------------------------------------
+
+The CIP carries WA-27-07, lead service line replacements, $80,000 per year from the Water Fund and Ohio EPA principal forgiveness. That amount covers about 15 to 20 full replacements per year at current prices ($4,500 to $5,500 each for both sides).
+
+Known lead plus GRR lines: 165. At 20 per year that's eight years, which is longer than the rules allow (generally 10 years from 2027 for all lead and GRR lines, but the unknowns found to be lead will add to the count). We recommend:
+
+1. Applying in the 2027 Ohio EPA funding cycle for principal forgiveness to do a larger batch (target 80 lines).
+2. Drafting an ordinance for Council early next year that sets out how the City will handle the customer-owned side (access agreements, cost share if any, what happens if an owner refuses). Steve Cline has a sample from another city.
+3. Continuing to replace lines whenever we have a main replacement (Fifth St, WA-27-01, has 23 known or suspected lead/GRR services).
+
+----------------------------------------------------------------------
+5. SCHOOLS AND CHILD CARE
+----------------------------------------------------------------------
+
+The rules also require sampling at schools and licensed child care facilities served by the system, 20 percent per year. Defiance City Schools buildings were sampled in 2025. For 2026 we sampled 4 child care facilities in August; all results were below the action level. Two more are scheduled in November.
+
+----------------------------------------------------------------------
+6. ACTION REQUESTED
+----------------------------------------------------------------------
+
+None at this time; for information. We'll bring the results and a recommendation on the funding application to you in late January.
+
+KS / RD

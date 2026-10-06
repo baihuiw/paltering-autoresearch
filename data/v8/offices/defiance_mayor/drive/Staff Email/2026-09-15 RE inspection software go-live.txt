@@ -1,0 +1,94 @@
+Thread export: RE: inspection software go-live
+Exported from twiechers@cityofdefiance.com, 9/21/2026 8:30 AM
+Messages: 5 (oldest first)
+
+============================================================
+From: Erin Mayes <emayes@cityofdefiance.com>
+Sent: Monday, September 14, 2026 4:55 PM
+To: Dale Rummel <drummel@cityofdefiance.com>
+Cc: Tom Wiechers <twiechers@cityofdefiance.com>; IT Help Desk <helpdesk@cityofdefiance.com>
+Subject: inspection software go-live
+
+Chief,
+
+Quick report on day one. We went live this morning as planned.
+
+- Jake and I each did one inspection on the tablets today (Ashford Place for me, Ralston Ave. Pharmacy for him; he'll finish entering his tomorrow because his tablet wouldn't sync until IT reset it at noon). Overall it went fine. The inspection checklists are much better than the paper forms, especially for R-2 occupancies, where it walks you through the alarm, sprinkler and exit items floor by floor.
+- The occupancy import worked, but about 60 records need cleanup: duplicate addresses where the old spreadsheet had a building listed twice under two names, and missing owner contacts. I'll work through those this week.
+- Reinspection dates now come off the order automatically. When I write an order with a 14-day or 30-day correction period, the software sets the reinspection date and puts it on my dashboard. No more paper calendar on the wall.
+- Photos attach to the violation item. Big photos fail; IT says lower the camera resolution, which works.
+
+Tomorrow I'll load the letter templates: orders, reinspection notices, plan review comments, and the occupant notice we send residents when a building's fire alarm or sprinkler system is impaired. Those templates are the one thing I want to test carefully before we use them on real buildings, because the merge fields pull the owner and address from the occupancy record.
+
+Erin
+
+Lt. Erin Mayes
+Fire Prevention Officer
+Defiance Fire Department
+
+============================================================
+From: Dale Rummel <drummel@cityofdefiance.com>
+Sent: Tuesday, September 15, 2026 7:20 AM
+To: Erin Mayes <emayes@cityofdefiance.com>
+Cc: Tom Wiechers <twiechers@cityofdefiance.com>; IT Help Desk <helpdesk@cityofdefiance.com>
+Subject: RE: inspection software go-live
+
+Good news, thanks. Go ahead with the templates. Run a test letter on the station 1 address so nothing goes to a real owner by mistake.
+
+How long until the officers can enter company inspections themselves? I want E1 and E2 picking up some of the low-hazard occupancies this winter.
+
+Dale
+
+============================================================
+From: IT Help Desk <helpdesk@cityofdefiance.com>
+Sent: Tuesday, September 15, 2026 9:02 AM
+To: Erin Mayes <emayes@cityofdefiance.com>; Dale Rummel <drummel@cityofdefiance.com>
+Cc: Tom Wiechers <twiechers@cityofdefiance.com>
+Subject: RE: inspection software go-live
+
+Hi all,
+
+The tablet sync issue yesterday was a stale certificate on the second tablet; both are now on the current profile. If you see "unable to connect" in the field, it is almost always cell coverage, not the app. Save before you leave each floor and it will sync when the signal comes back.
+
+On officer access: we have licenses for 8 users. Two are in use. We can set up the six shift officers whenever the vendor's shorter training module is scheduled. The vendor's earliest date for that is mid-October.
+
+Photo uploads: the 5 MB limit is the vendor's. We've opened a ticket asking for it to be raised.
+
+IT Help Desk
+City of Defiance
+
+============================================================
+From: Erin Mayes <emayes@cityofdefiance.com>
+Sent: Tuesday, September 15, 2026 3:41 PM
+To: Dale Rummel <drummel@cityofdefiance.com>
+Cc: Tom Wiechers <twiechers@cityofdefiance.com>; IT Help Desk <helpdesk@cityofdefiance.com>
+Subject: RE: inspection software go-live
+
+Templates are loaded and tested on the station 1 address as you said. All four print correctly. Two fixes made:
+
+1. The orders template was printing the occupancy class code ("R-2") in the greeting line. Fixed.
+2. The occupant notice template was pulling the owner's mailing address instead of the building address. Fixed; it now uses the building address and leaves a blank for the unit number so we can print one per door. The text is the same as the paper version we've used since 2022: what system is affected, which floors, what the owner has been ordered to do, that a fire watch is required, and what residents should do if they smell smoke or hear an alarm (get out and call 911, do not wait for sprinklers).
+
+Back-entry of the paper inspections from Sept 1-11 starts tomorrow. About 15 records.
+
+Mid-October for officer training is fine. That lets us start company inspections in November.
+
+Erin
+
+============================================================
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Monday, September 21, 2026 8:28 AM
+To: Erin Mayes <emayes@cityofdefiance.com>; Dale Rummel <drummel@cityofdefiance.com>
+Cc: IT Help Desk <helpdesk@cityofdefiance.com>
+Subject: RE: inspection software go-live
+
+Nice work getting this up without a hitch. The mayor asked about it last week. He wants to mention the new software when he talks about senior services, so a sentence or two from you on what it does for residents would help. Send it to Megan.
+
+The building department will be on the same system starting in January, so we'll eventually be able to see code and fire issues for the same address in one place.
+
+Tom
+
+Tom Wiechers
+Safety-Service Director
+City of Defiance
+twiechers@cityofdefiance.com

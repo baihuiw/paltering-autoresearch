@@ -1,0 +1,36 @@
+occ_id,occupancy,address,occ_class,units_or_beds,last_annual_2025,result_2025,sched_2026,insp,contact,notes
+R-0112,Elm Grove Apartments,410 Elm Grove Dr,R-2,24 units,2025-09-04,Pass,2026-09-03,JH,Elm Grove Mgmt LLC,New FA panel plan review pending
+R-0118,Kingsley Terrace Apts,1525 Kingsley Rd,R-2,36 units,2025-09-10,Pass,2026-09-09,EM,K. Duerk (mgr),
+R-0121,Fort Street Commons,302 Fort St,R-2/M,8 apts + 2 retail,2025-09-12,Viol - corrected,2026-09-11,JH,Fort St Holdings,2025: blocked rear exit (recurring?)
+R-0130,Brookside Townhomes,77 Brookside Ln,R-2,30 units,2025-09-26,Pass,2026-09-25,EM,Brookside HOA,
+R-0134,Elmwood Plaza Apts,900 Elmwood Ave,R-2,40 units,2025-11-05,Pass,2026-11-04,EM,Elmwood Plaza Partners,
+R-0139,Riverbend Flats,215 W River Dr,R-2,48 units,2025-10-08,Pass,2026-10-07,JH,Riverbend Flats LLC,
+R-0141,Carlisle Court Apts,1630 Carlisle St,R-2,16 units,2025-10-15,Viol - closed,2026-10-14,JH,owner (J. Ankney),2025: ext. tags
+R-0145,Northpointe Apartments,2210 N Clinton St,R-2,72 units,2025-10-21,Pass,2026-10-20,EM,Northpointe Residential,Largest R-2 in city; sprinklered
+R-0150,Summit Street Apts,508 Summit St,R-2,12 units,2025-10-29,Pass,2026-10-27,JH,owner,
+R-0153,Westfield Apartments,1105 Westfield Ave,R-2,32 units,2025-11-12,Pass,2026-11-10,EM,Westfield Prop. Mgmt,
+R-0158,Jefferson Lofts,600 Jefferson Ave,R-2,20 units,2025-11-18,Viol - closed,2026-11-17,JH,Jefferson Lofts LLC,2025: FA trouble signal
+R-0162,Prairie View Townhomes,48 Prairie View Ct,R-2,24 units,2025-11-20,Pass,2026-11-19,JH,Prairie View HOA,
+S-0201,Ashford Place Senior Apts,1340 Ashford Dr,R-2 senior,40 units,2025-09-15,Pass,2026-09-14,EM,Ashford Place Assoc.,Community room talk 9/17
+S-0204,Oakwood Senior Villas,25 Oakwood Ct,R-2 senior,18 units,2025-09-16,Pass,2026-09-16,EM,Oakwood Villas Inc.,Duplexes; no sprinkler (not required)
+S-0207,Heritage House Apts,815 Heritage Way,R-2 senior,52 units,2025-09-19,Pass,2026-09-18,EM,Heritage House Board,Community room talk 9/23
+S-0210,Linden Court Senior Apts,1200 Linden Ct,R-2 senior,64 units,2025-09-17,Pass,2026-09-22,EM,P. Imler (mgr),3 floors; wet sys 1st fl / dry sys 2nd-3rd fl
+S-0213,Maplewood Senior Apts,440 Maplewood Ave,R-2 senior,28 units,2025-09-29,Pass,2026-09-28,EM,Maplewood Senior Housing Corp.,
+S-0216,Parkview Senior Apts,1012 Parkview Dr,R-2 senior,24 units,2025-10-01,Pass,2026-09-30,JH,Parkview Mgmt,
+S-0219,Willow Bend Senior Apts,2300 Willow Bend Rd,R-2 senior,36 units,2025-10-14,Pass,2026-10-13,EM,Willow Bend Senior Living,
+S-0222,Cedar Hollow Senior Apts,560 Cedar Hollow Ln,R-2 senior,30 units,2025-10-23,Viol - closed,2026-10-22,EM,Cedar Hollow LP,2025: corridor storage
+S-0225,Grandview Terrace Senior Apts,95 Grandview Terr,R-2 senior,44 units,2025-11-06,Pass,2026-11-05,EM,Grandview Terrace Mgmt,
+I-0301,Brookview Assisted Living,1800 Brookview Ln,I-1,48 beds,2025-09-09,Pass,2026-09-08,EM,Administrator,State licensed; drill review 9/26
+I-0304,Hilltop Manor Nursing & Rehab,2050 Hilltop Rd,I-2,92 beds,2025-09-16,Pass,2026-09-15,EM,Administrator,Coordinate w/ state survey
+I-0307,Riverside Memory Care,330 E River Dr,I-2,24 beds,2025-10-20,Pass,2026-10-19,EM,Administrator,
+I-0310,Fairhaven Group Home,1418 Fairhaven St,R-4,8 beds,2025-10-27,Pass,2026-10-26,JH,Operator,
+I-0312,Meadowbrook Group Home,82 Meadowbrook Dr,R-4,6 beds,2025-11-13,Pass,2026-11-12,JH,Operator,
+D-0401,Westgate Day Care Center,1440 Westgate Dr,E/I-4 day care,64 children,2025-09-03,Pass,2026-09-02,EM,Director,License renewal Nov
+D-0404,Faith Community Preschool,720 Washington Ave,E,40 children,2025-09-12,Pass,2026-09-11,EM,Director,
+D-0407,Children's Learning Tree,2015 Ralston Ave,E/I-4 day care,52 children,2025-09-24,Pass,2026-09-23,EM,Director,
+D-0410,Sunrise Child Development Center,300 Sunrise Blvd,E/I-4 day care,88 children,2025-09-30,Pass,2026-09-29,EM,Director,
+D-0413,Little Acorns Learning Center,1150 Holgate Ave,E/I-4 day care,46 children,2025-10-09,Pass,2026-10-08,JH,Director,
+D-0416,Kids Corner Child Care,215 Fifth St,E,30 children,2025-10-16,Viol - closed,2026-10-15,JH,Director,2025: ext. mounting
+D-0419,Happy Trails Before/After School,Hopkins St (school bldg),E,60 children,2025-10-30,Pass,2026-10-29,JH,Director,Shares bldg w/ school - coordinate
+D-0422,Bright Beginnings Home Day Care,1832 Pontiac St,Type A home,12 children,2025-11-11,Pass,2026-11-09,JH,Owner,
+D-0425,Grace Weekday Preschool,505 Third St,E,24 children,2025-11-19,Pass,2026-11-16,EM,Director,

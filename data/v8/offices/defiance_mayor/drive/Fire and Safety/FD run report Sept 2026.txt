@@ -1,0 +1,118 @@
+DEFIANCE FIRE DEPARTMENT
+MONTHLY RUN REPORT - SEPTEMBER 2026
+
+Prepared by: Capt. M. Schaefer, Training/Records
+For: Chief Dale Rummel
+Date: October 3, 2026
+
+------------------------------------------------------------
+RUN TOTALS
+------------------------------------------------------------
+
+                                   Sept 2026   Sept 2025   YTD 2026   YTD 2025
+Total runs                             392         361       3,447      3,198
+  EMS                                  284         259       2,489      2,301
+  Fire / other                         108         102         958        897
+EMS transports                         231         214       2,018      1,880
+Simultaneous calls (2+ at once)         97          81         826        702
+Mutual aid given                         3           2          21         19
+Mutual aid received                      2           1          14         12
+
+EMS share of total runs, September: 72.4 percent.
+Projected 2026 total at the current pace: approximately 4,600 runs.
+
+------------------------------------------------------------
+RESPONSE TIMES (inside city limits, dispatch to arrival)
+------------------------------------------------------------
+
+                              Median     90th percentile
+EMS, priority 1               4:41       8:22
+Fire, structure               4:55       7:48
+All emergency responses       4:48       8:40
+
+The 90th percentile for all emergency responses was 8:40, up from 8:05 in September 2025. Nearly all calls over 8 minutes were second or third calls received while the first-due unit was committed. Seventeen EMS calls were answered by the third medic unit or a cross-staffed engine while both front-line medics were out.
+
+------------------------------------------------------------
+FIRE / OTHER INCIDENTS BY TYPE (NFIRS series)
+------------------------------------------------------------
+
+100 Fire ......................................... 9
+  Structure fires (111-123) ....................... 3
+  Cooking fire, confined (113) .................... 2
+  Vehicle fires (131) ............................. 2
+  Brush/grass (140s) .............................. 2
+300 Rescue and EMS assist (non-transport) ........ 18
+  Motor vehicle accidents with injury ............. 11
+  Lift assists ................................... 7
+400 Hazardous condition, no fire ................. 12
+  Gas leak (natural gas/LP) ....................... 6
+  Power line down ................................ 4
+  Carbon monoxide incident ........................ 2
+500 Service call ................................. 21
+  Lockout ......................................... 5
+  Water problem ................................... 4
+  Smoke or odor removal ........................... 3
+  Public service assistance ....................... 9
+600 Good intent call ............................. 14
+700 False alarm / false call ..................... 34
+  Alarm system activation, no fire (malfunction) .. 16
+  Unintentional (cooking, steam, testing) ......... 13
+  Sprinkler activation or supervisory, no fire .... 3
+  Malicious/false call ............................ 2
+                                                  ----
+Total fire / other                                108
+
+------------------------------------------------------------
+SELECTED INCIDENTS
+------------------------------------------------------------
+
+Date   Time   Location / occupancy                        Units          Type / summary
+-----  -----  ------------------------------------------  -------------  ------------------------------------------
+09/02  14:12  Rte. 24 eastbound near city limits          E1, M1         MVA with injuries, 2 transported
+09/04  22:47  Third Ward, single-family                   E2             CO detector activation; 18 ppm, furnace flue; gas co. notified
+09/06  17:35  Second Ward, single-family                  E1, E2, L1, M2 Kitchen fire, confined to range/cabinets. FPB investigated
+09/08  03:10  Northtown Fitness                           E1             Alarm activation, smoke detector malfunction
+09/09  11:52  Holgate Ave. at Fifth St.                   E1             Gas line struck by contractor; area secured, gas co. repaired
+09/11  19:20  Brookview Assisted Living                   E2, M1         Lift assist + resident transport
+09/13  08:05  Kessler Tool & Die                          E1             Sprinkler flow alarm, no fire (contractor testing w/o notice)
+09/14  15:40  River Dr. boat launch                       E1, M2         Water rescue standby, subject self-rescued
+09/16  21:58  Ashford Place Senior Apts                   E1             Unintentional alarm, burnt food 1st fl
+09/19  06:44  Linden Court Senior Apts                    E2             Sprinkler supervisory (low air), no fire. Mgmt notified; referred to FPB
+09/20  13:15  Fourth Ward, grass fire behind garage       E2             Burn barrel extended to grass, extinguished
+09/22  02:30  Eastside Plaza                              E1             Alarm system malfunction, panel trouble
+09/24  10:20  Ladder 1 placed out of service              --             Aerial hydraulic leak (main lift cylinder)
+09/25  16:48  Elmwood Plaza Apts                          E2             CO alarm, 0 ppm on arrival, detector expired
+09/26  18:02  Fourth Ward, detached garage                E1, E2, M1     Garage fire, contained to structure. FPB investigated. Aerial requested via mutual aid, cancelled en route
+09/27  23:14  Heritage House Apts                         E1, M2         Lift assist, no transport
+09/29  07:31  Maplewood Senior Apts                       E2             Unintentional alarm, shower steam 2nd fl
+09/30  12:10  Pontiac Park ballfields                     M1             Heat exhaustion, 1 transported
+
+------------------------------------------------------------
+APPARATUS STATUS (as of 09/30)
+------------------------------------------------------------
+
+Engine 1 ......... In service
+Engine 2 ......... In service
+Ladder 1 ......... OUT OF SERVICE since 09/24 (aerial hydraulic; repair quote received, awaiting approval). Mutual aid aerial on structure fire assignments. E1 carries ground ladders.
+Medic 1 .......... In service
+Medic 2 .......... In service
+Medic 3 .......... In service (cross-staffed when staffing at minimum)
+Utility 1 ........ In service
+Car 1, Car 2 ..... In service
+
+------------------------------------------------------------
+STAFFING AND OVERTIME
+------------------------------------------------------------
+
+Minimum staffing was met on all 30 days. Overtime hours: 412 (September 2025: 371), mainly covering two firefighters on injury leave and one paramedic class. Both injured firefighters are expected back in October.
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+
+- Alarm activations with no fire (700 series) remain about one-third of all fire-side runs. Repeat locations are being shared with the Fire Prevention Bureau so that owners can be contacted about maintenance.
+- The new inspection software and the records system now share the occupancy list, so incident locations can be matched to inspection records.
+- Fire Prevention Week runs October 4-10. Crews are assigned to school visits per the FPW plan.
+
+Capt. M. Schaefer
+Training and Records

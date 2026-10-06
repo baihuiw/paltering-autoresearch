@@ -1,0 +1,61 @@
+2027 BUDGET REQUEST - INFORMATION TECHNOLOGY
+(Finance Dept., IT sub-account 101.0130.53200 / 55100)
+Ben Rohrs, IT Coordinator
+10/2/26
+
+Angela,
+
+Here's the IT piece. Same format as last year: one table plus notes on anything that moved. The department shares I promised by 9/30 went out 9/30 at 4:50 PM. Sorry they were late. A few departments asked why software is in their budget at all and not mine. Short answer: the General Fund pieces sit here, and the utility funds pay their own shares directly, per the allocation.
+
+GENERAL FUND IT COSTS
+
+                                                       2026 Budget     2027 Request
+Office productivity / email licenses (GF share)            31,240          32,500
+Accounting/financial system support                        38,600          40,100
+Income tax system support                                  18,200          18,900
+Endpoint protection                                         9,800          10,300
+Backup and offsite replication                             12,400          12,900
+Website hosting and content management                      8,900           9,200
+Inspection software (Fire now, Building added 2027)        11,800          17,700
+GIS / asset management (GF share)                           6,870           7,080
+Internet and network circuits                              21,600          22,200
+Contract tech support (hourly)                             24,000          26,000
+Hardware replacement (PC rotation + tablets)               27,000          31,500
+Phone system maintenance                                    7,400           7,600
+Training                                                    2,000           2,500
+------------------------------------------------------------------------------------
+Total                                                     219,810         238,480     (+18,670, +8.5%)
+
+NOTES
+
+1. Licensing. The renewal approved by the Board on 9/21 was $31,240 for 186 users. We're down four licenses after I cleaned out inactive accounts in August. Next year's price goes up about 4% per the reseller. The new admin assistant in the Mayor's Office (starts 10/14) and the part-time Income Tax clerk are covered within the 186. I'm assuming no new positions. If Council adds any, add $170 per user.
+
+2. Financial system. Support for the current accounting system goes up 3.9% in 2027. We're replacing it (CIP IT-27-01, $220,000 over 2027-28, $110,000 each year), so ideally 2027 is the last full year of support. Realistically we'll run both systems for 3-4 months during cutover in 2028, so don't drop the old support line to zero for 2028. The year-end rollover in the budget module is fragile, so expect a ticket or two when Finance opens the 2027 draft.
+
+3. Inspection software. The Fire Prevention Bureau went live 9/14 with about 1,140 occupancies. The Building and Zoning module goes to the Board 10/5 ($16,800 one-time for license, setup, data import and training in 2026 money). After the first year, the Building module support is $5,900/year. That's the jump from $11,800 to $17,700 in 2027. Photo upload limit is still 5 MB. We have a ticket open with the vendor.
+
+4. Hardware. Normal rotation is about 18 PCs/year. Last year I did 15 and pushed 3 to this year, so this year is 19. Also included:
+   - Two rugged tablets for the building inspectors to use with the new module ($2,400 total).
+   - Replacement for the Police records desk PC. It has had three tickets since July, and the SSD swap only bought time.
+   - Two docking stations for Finance.
+   The loaner laptops (ML-03 and one spare) are in good shape and stay in service.
+
+5. Contract tech support. We're running ahead of budget this year: switch problems at the Police records desk, the Windows update that broke the Income Tax scanner, and the phishing incident in August (no compromise, password reset only). $26,000 assumes a similar year.
+
+6. Training. One security course for me. I'd also like to run 30-minute phishing awareness sessions for all departments in the spring. The material is free; the $500 increase is for lunch for the sessions at the stations and the WTP. Feel free to cut the lunch.
+
+NOT IN THIS REQUEST (capital or other funds)
+
+- IT-27-01 Financial software replacement, $110,000 in 2027 (capital request, Capital Improvement Fund / GF).
+- IT-27-02 Network switches and firewall refresh, $45,000 in 2028. The firewall support contract ends in June 2028, so don't let this slip past 2028.
+- IT-27-03 Engineering GIS and plan review workstations, $26,000 in 2027. That's Rachel's request, but I'll do the setup.
+- FA-27-03 Council chambers audio/video, $58,000 in 2027. Safety-Service is carrying this one. I support it: the chambers microphones are failing, and the livestream drops audio about once a meeting.
+- Utility-fund shares of licensing and GIS are budgeted in the Water, Sewer and Stormwater funds.
+
+Generator for the City Building server room: the County EMA cost share ($6,000) was awarded in June. The other half is in Tom's capital request. I still need a quote. On my list for October.
+
+Ben
+
+Ben Rohrs
+IT Coordinator, City of Defiance
+helpdesk@cityofdefiance.com

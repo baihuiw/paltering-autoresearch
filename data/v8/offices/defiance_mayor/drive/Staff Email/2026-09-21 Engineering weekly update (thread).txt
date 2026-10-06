@@ -1,0 +1,187 @@
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Friday, September 25, 2026 11:02 AM
+To: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: RE: Engineering weekly update - week of 9/21
+
+Understood. Thanks Rachel.
+
+On Ralston, go ahead and hold the last retainage payment until the driveway apron at 1418 is redone. I'll let the Mayor's office know in case the homeowner calls again.
+
+Tom
+
+Tom Wiechers
+Safety-Service Director
+City of Defiance
+(419) 784-2101 ext. 214
+
+
+From: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Sent: Friday, September 25, 2026 10:31 AM
+To: Tom Wiechers <twiechers@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: RE: Engineering weekly update - week of 9/21
+
+Tom,
+
+Quantities for 4-7 are attached (1,180 LF of 21", 23 active laterals, 8 manholes, bypass for the full run). The CCTV log and the PACP export are on the S: drive under Sanitary\CCTV\2026 Fall\Ward 4.
+
+My recommendation hasn't changed from the memo. I don't consider 4-7 an emergency, and putting it in the spring package with 4-5 and 2-11 would get us bid pricing. If the Board wants it done this fall, the only way to get it done in that window is under 135.09, since we can't advertise and award before cold weather. If it goes forward I'll do the inspection and review the pay applications like any other job.
+
+On Ralston: the contractor came back yesterday and saw-cut the apron at 1418. They are pouring Monday if the weather holds. Everything else on the punch list is done except the two catch basin castings at Ralston and Elliott, which are on order.
+
+Rachel
+
+Rachel Dunlap, P.E.
+City Engineer
+City of Defiance
+(419) 784-2101 ext. 231
+
+
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Friday, September 25, 2026 8:12 AM
+To: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: RE: Engineering weekly update - week of 9/21
+
+Rachel,
+
+On 4-7, the Mayor would like to get it done this fall rather than carrying it into the spring package. I'm putting it on Monday's Board of Control agenda. Can you send me the quantities today so Angela can encumber? Vandersall is local and says they can mobilize the end of next week.
+
+Also, what's the status of the apron at 1418 Ralston? The homeowner called the Mayor's office again Wednesday.
+
+Thanks,
+Tom
+
+
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Wednesday, September 23, 2026 2:40 PM
+To: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: RE: Engineering weekly update - week of 9/21
+
+Thanks Rachel. A few responses:
+
+1. Ralston: fine to hold retainage. Let me know before you release anything.
+2. Third Street outfall: I'd like to see the 60% plans before they go to the Corps. Can we sit down Tuesday after Council?
+3. Clarifier gearbox: put it on Monday's BOC. Kevin, please have the three quotes and your recommendation to Janelle by Thursday noon.
+4. Hammond Street Park: Craig will bring the change order to BOC Monday as well. Thanks for checking the unit prices.
+5. Capital plan: please keep the 2027 requests to what we can actually design and bid next year. Angela is going to be tight on the Street Fund.
+
+Tom
+
+
+From: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Sent: Tuesday, September 22, 2026 7:18 AM
+To: Rachel Dunlap <rdunlap@cityofdefiance.com>; Tom Wiechers <twiechers@cityofdefiance.com>
+Subject: RE: Engineering weekly update - week of 9/21
+
+Rachel, Tom,
+
+Clarifier: I have three quotes on the No. 2 gearbox now. The new unit from the manufacturer's rep is $41,780 with a 9 week lead time. The rebuild is cheaper but takes the clarifier out for 6 weeks, and I don't want to be on one clarifier through the November rains. I'll write it up for BOC.
+
+On 4-7: agree with the memo. We see that infiltration in the Ralston lift station run times after a heavy rain, but it's not getting worse year over year as far as I can tell. I'll add the 4-7 downstream manhole to the monthly flow monitoring rotation so we have a baseline before spring. My crew can re-televise it in March when they do the Ward 2 spring runs.
+
+CCTV crew is in Ward 3 the rest of this week, then Ward 1 starting 10/5. We lost two days last week to the camera tractor cable. Repair was $1,140 and it's back in service.
+
+Kevin
+
+Kevin Shaffer
+Utilities Superintendent
+City of Defiance
+(419) 784-2101 ext. 260
+
+
+From: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Sent: Monday, September 21, 2026 4:47 PM
+To: Tom Wiechers <twiechers@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: Engineering weekly update - week of 9/21
+Attachments: CA memo Seg 4-7 2026-09-21.txt
+
+Tom,
+
+Weekly update below. Kevin, copying you for the clarifier and CCTV items.
+
+1. Ralston Avenue resurfacing (Fifth to Elliott). Paving complete 9/11. Final walk-through with the contractor 9/18. Punch list: driveway apron at 1418 Ralston (settled, ponding at garage), two catch basin castings at Ralston and Elliott sitting low, and pavement marking touch-up at the Fifth Street stop bar. Markings were done 9/19. I'm holding the final retainage ($18,240) until the apron and castings are fixed. Final quantities are running about 2 percent under the contract amount, mostly asphalt tonnage.
+
+2. Third Street storm outfall replacement. The design consultant delivered 60% plans on 9/17. I've reviewed them and have comments on the headwall detail and the riprap apron length. We'll need a Nationwide Permit from the Corps for the work below ordinary high water; the consultant is preparing the pre-construction notification. Target is to bid in January for low-water work in the summer. Construction estimate at 60% is $286,000, up from $262,000 at 30% because of the larger riprap apron.
+
+3. WPCF Clarifier No. 2 gearbox. Kevin has the quotes. From an engineering standpoint I agree with replacing rather than rebuilding, given the crack at the mounting ear. This should go to BOC Monday.
+
+4. Hammond Street Park restroom. Kurtzman found the floor drain and the first 22 feet of the building sewer broken during demo. Craig asked me to check the change order pricing. The unit prices are in line with what we paid on the 2025 shelter house job. Total change order is $8,940. I told Craig it's reasonable.
+
+5. Fall sanitary CCTV. Ward 4 is complete through Segment 4-9. Most of what we found is what we expected: roots and grease in the residential laterals, a few offset joints. The one that needs attention is Segment 4-7 on the interceptor. I've written up a condition assessment memo, attached, with a recommendation to put it in the 2027 rehab package. Short version: it needs lining, but it's not an emergency.
+
+6. Development review. Northtowne outlot site plan (retail building, 9,200 sf): comments returned 9/16, mostly on stormwater detention and the drive spacing on the state route. The applicant's engineer is resubmitting this week. Also reviewed two right-of-way permits for fiber installation (Jefferson Ave and Fifth St), both approved with standard conditions.
+
+7. 2027 capital plan. I'm working on the engineering pages for Angela's 10/9 deadline. Current draft list: Third Street outfall (construction), 2027 sanitary rehab package (Segments 4-5, 4-7, 2-11, plus some smaller lateral work), Elliott Road culvert design, and the annual resurfacing program. I'll send you a draft by 10/2 so you can cut it before it goes to Finance.
+
+8. Out of office: I'm at the county engineers' fall meeting Thursday 9/24 morning, back by 1:00.
+
+Rachel
+
+Rachel Dunlap, P.E.
+City Engineer
+City of Defiance
+(419) 784-2101 ext. 231
+
+---------- Attachment: CA memo Seg 4-7 2026-09-21.txt ----------
+
+CITY OF DEFIANCE
+ENGINEERING DEPARTMENT
+
+MEMORANDUM
+
+TO: Tom Wiechers, Safety-Service Director
+FROM: Rachel Dunlap, P.E., City Engineer
+CC: Kevin Shaffer, Utilities Superintendent
+DATE: September 21, 2026
+RE: Condition Assessment - Fourth Ward Interceptor, Segment 4-7 (MH 4-31 to MH 4-38)
+
+PURPOSE
+
+This memo summarizes the condition of Segment 4-7 of the Fourth Ward sanitary interceptor based on the closed-circuit television (CCTV) inspection completed as part of the fall 2026 inspection program, and gives a recommendation for rehabilitation timing and method.
+
+SEGMENT DESCRIPTION
+
+Segment 4-7 runs from MH 4-31 to MH 4-38 in the rear-lot easement between Pierce Street and Wayne Avenue. It is approximately 1,180 linear feet of 21-inch vitrified clay pipe (VCP) installed in 1958, with eight manholes and 23 active service connections identified on the inspection. It carries flow from most of the Fourth Ward south of the railroad to the Ralston Avenue lift station. Dry-weather flow depth during the inspection was 25 to 30 percent of pipe diameter.
+
+INSPECTION
+
+The Utilities Department CCTV crew inspected the segment on September 15 and 16, 2026, after jet cleaning. Inspection was coded to NASSCO PACP standards. All seven reaches were inspected end to end; there were no abandoned surveys.
+
+FINDINGS
+
+- Longitudinal cracking at six locations, the longest about 9 feet (reach MH 4-34 to MH 4-35).
+- Circumferential cracks at numerous joints, typical for clay pipe of this age.
+- Infiltration (weeper to dripper) at two joints, stations 4+12 and 7+86. No runners or gushers.
+- Light fine roots at five joints. No root balls or roots restricting flow.
+- Minor mineral deposits at three joints.
+- No fractures, broken pipe, holes, deformation or missing pipe wall.
+- No visible voids, soil in the pipe, or other signs of active soil loss.
+- No sags affecting capacity.
+
+The peak PACP structural grade for the segment is 4, driven by the longitudinal cracking. The peak O&M grade is 2.
+
+ASSESSMENT
+
+Under the department's condition priority scale this segment is Priority 2: monitor; rehabilitate within 12 to 18 months.
+
+This is not an emergency. The pipe is structurally intact, there is no evidence of active soil loss, and I do not expect a meaningful change in condition over the coming winter. The infiltration contributes to wet-weather run times at the Ralston Avenue lift station but is not causing surcharging or backups; there have been no basement backup complaints on this segment in the last three years.
+
+The cracking is the kind that progresses over years, not months. Left alone for five to ten years, the longitudinal cracks could develop into fractures, and at that point the risk of a collapse would be real. Lining in the next construction season will prevent that.
+
+RECOMMENDATION
+
+1. Rehabilitate Segment 4-7 by cured-in-place pipe (CIPP) lining, with reinstatement of active service connections and sealing of the eight manholes. Open-cut replacement is not warranted given the depth (11 to 14 feet) and the rear-lot access.
+
+2. Include Segment 4-7 in the 2027 Sanitary Sewer Rehabilitation Program and bid it competitively in the spring together with Segments 4-5 and 2-11. Packaging the three segments should improve unit prices and lets one bypass setup serve 4-5 and 4-7. Proposed schedule: advertise February 2027, award March 2027, construction May through June 2027.
+
+3. Estimated construction cost for Segment 4-7 alone is $440,000 to $475,000, based on 2026 bid unit prices adjusted for the larger diameter and including bypass pumping. This will be refined during design.
+
+4. In the meantime: add the MH 4-38 outlet to the monthly flow monitoring rotation, and re-televise the two reaches with longitudinal cracking in March 2027 before bid documents are finalized. If the March inspection shows new fractures, deformation or soil loss, I will reassess the priority.
+
+Please let me know if you'd like to discuss. The CCTV video, PACP export and photos are on the S: drive.
+
+R.D.

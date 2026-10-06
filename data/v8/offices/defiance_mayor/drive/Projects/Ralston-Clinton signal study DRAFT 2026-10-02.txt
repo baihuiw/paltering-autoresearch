@@ -1,0 +1,120 @@
+CITY OF DEFIANCE - ENGINEERING DEPARTMENT
+TRAFFIC SIGNAL REVIEW
+Intersection: Ralston Avenue at Clinton Street
+CIP reference: ST-27-02 (Ralston Ave / Clinton St signal controller replacement)
+Prepared by: Rachel Dunlap, P.E., City Engineer, with traffic counts by Street Department
+Status: DRAFT for internal review - October 2, 2026
+Distribution: Tom Wiechers; Ron Diehl; Angela Marquardt (cost only)
+
+======================================================================
+1. WHY THIS STUDY
+======================================================================
+
+The signal cabinet and controller at Ralston and Clinton were installed in 1998. Since spring 2026 the controller has gone into flash six times (logged dates: March 3, April 22, June 9, July 14, August 2 and September 11). Each time, the Street Department reset it within 30 to 90 minutes. Parts for this controller model are no longer made. The Street Department's last spare board was used in July.
+
+The CIP carries $38,000 in 2027 to replace the cabinet and controller. Before that money is spent, Tom asked for a short review of whether the intersection still needs a signal, whether the timing is right, and whether there are other low-cost fixes to make at the same time.
+
+======================================================================
+2. EXISTING CONDITIONS
+======================================================================
+
+Clinton Street (north-south): four lanes, 35 mph, no turn lanes at Ralston. Average daily traffic about 14,200 (2025 count, south of Ralston).
+Ralston Avenue (east-west): two lanes, 25 mph west of Clinton, 35 mph east. Average daily traffic about 6,400 east leg, 4,900 west leg. Ralston Avenue from Fifth Street to Elliott Road was resurfaced this summer (substantially complete September 11).
+
+Signal equipment:
+- 1998 cabinet and pretimed/actuated controller (semi-actuated, Ralston on loops)
+- Loop detectors on Ralston approaches; the eastbound loop failed in 2022 and the phase has run on recall since then
+- Incandescent pedestrian signals (no countdown), push buttons not accessible (round buttons, no locator tone)
+- LED vehicle heads (replaced 2014)
+- Mast arms in fair condition; no structural issues noted in the 2024 inspection
+
+Pedestrian activity: moderate. The intersection is on the walking route to the pharmacy on Ralston and two bus stops. Twelve-hour count found 87 pedestrian crossings, most of them crossing Clinton.
+
+======================================================================
+3. TRAFFIC COUNTS (Tuesday, September 15 and Thursday, September 17, 2026)
+======================================================================
+
+Turning movement counts, 7:00-9:00 a.m., 11:00 a.m.-1:00 p.m., 3:00-6:00 p.m. Average of the two days.
+
+Peak hour volumes (vehicles per hour):
+
+                   AM peak (7:30-8:30)    Midday (12:00-1:00)    PM peak (4:30-5:30)
+Northbound Clinton       468                    512                    634
+  Left / Thru / Right    41 / 389 / 38          52 / 418 / 42          63 / 512 / 59
+Southbound Clinton       602                    488                    571
+  Left / Thru / Right    37 / 511 / 54          44 / 391 / 53          48 / 468 / 55
+Eastbound Ralston        214                    197                    276
+  Left / Thru / Right    58 / 102 / 54          49 / 96 / 52           71 / 131 / 74
+Westbound Ralston        241                    203                    298
+  Left / Thru / Right    66 / 117 / 58          51 / 101 / 51          79 / 144 / 75
+TOTAL ENTERING          1,525                  1,400                  1,779
+
+The intersection easily meets the volume warrants for a signal (MUTCD Warrants 1 and 2) in all eight counted hours. Removing the signal is not an option.
+
+Crash history (2021 through August 2026, from police reports):
+- 23 crashes total; 9 with injury, none fatal
+- 11 angle crashes, 7 rear-end (mostly northbound Clinton approaching the signal), 3 left-turn, 2 sideswipe
+- 4 of the 11 angle crashes happened while the signal was in flash or dark
+
+======================================================================
+4. OPERATIONS
+======================================================================
+
+Current timing: 90-second cycle all day. Clinton green 52 seconds, Ralston green 26 seconds, yellow 4.0 seconds and all-red 1.0 second on both streets.
+
+Observations (field, Sept 15-17):
+- With the eastbound loop on recall, Ralston eastbound gets its full green every cycle even at night. Off-peak this adds delay to Clinton for no reason.
+- PM peak: westbound Ralston queues reached 11 vehicles (about 275 feet) and cleared in most cycles. Two cycles in the 4:30-5:30 hour did not clear.
+- Northbound Clinton left turns have no left-turn lane and block the inside through lane. Queue spillback to the Second Street driveway on 3 occasions in the PM peak.
+- All-red time of 1.0 second is short for a 64-foot crossing width on Clinton at 35 mph. ITE guidance gives about 2.0 seconds.
+- Pedestrian clearance (flashing don't walk) is 14 seconds across Clinton. For 64 feet at 3.5 feet/second the minimum is 18 seconds.
+
+Level of service (Highway Capacity Manual method, Synchro model):
+                           AM       Midday     PM
+Existing                   B (17s)  B (15s)    C (24s)
+With new controller,
+  video detection,
+  revised timing           B (14s)  B (12s)    C (21s)
+
+======================================================================
+5. RECOMMENDATIONS
+======================================================================
+
+A. Replace the cabinet and controller (CIP ST-27-02). Estimate $38,000:
+     NEMA TS2 cabinet and controller, furnished and installed ....... $24,500
+     Uninterruptible power supply (battery backup) .................. $ 6,200
+     Foundation and conduit modifications ........................... $ 3,800
+     Signal timing, testing and contingency ......................... $ 3,500
+                                                                      -------
+                                                                      $38,000
+
+B. Add video detection on all four approaches instead of repairing loops. About $14,000 additional. Recommend adding to the 2027 request; the loops will be damaged again at the next resurfacing anyway. Revised project total $52,000. Tom - your call whether to raise the CIP amount or do video in 2028.
+
+C. Retime the intersection at installation:
+   - All-red to 2.0 seconds on Clinton, 1.5 on Ralston
+   - Pedestrian clearance to 18 seconds across Clinton, 11 across Ralston
+   - Time-of-day plans: 90-second cycle in the peaks, 70-second off-peak, free (actuated) at night
+
+D. Pedestrian upgrades: countdown pedestrian heads and accessible push buttons (with locator tones and vibrating arrows) at all four corners. About $9,500. Can be done by the Street Department electrician with City-purchased equipment. Recommend doing it with the cabinet replacement so we only take the intersection down once.
+
+E. Not recommended now: a northbound left-turn lane on Clinton. It would need widening and right-of-way at the southeast corner. Note it for the next long-range plan.
+
+======================================================================
+6. INTERIM MEASURES UNTIL REPLACEMENT
+======================================================================
+
+- The Street Department has located a used controller board from a neighboring city that is retiring the same model. Ron is arranging to buy it for $350. It would keep us running until the replacement.
+- Portable stop signs are stored at the street garage in case of a long outage. Police have the procedure.
+- If funds free up in the 2026 budget (the resurfacing contract came in $25,400 under budget, though that is levy money and not the Capital Improvement Fund), the cabinet replacement could be ordered this winter. Lead time on cabinets is about 16 weeks. Angela to advise.
+
+======================================================================
+7. NEXT STEPS
+======================================================================
+
+- Tom to decide on items B and D for the 2027 capital request (due to Finance Oct 9).
+- Ron to buy the spare board.
+- Engineering to write the equipment specification over the winter; purchase through the state cooperative contract if available, otherwise three informal quotes and Board of Control approval (the project is well under the competitive bidding threshold).
+
+Attachments (in file): count sheets; Synchro reports; crash diagram; photos of cabinet and push buttons.
+
+RD - DRAFT

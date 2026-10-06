@@ -1,0 +1,109 @@
+CITY OF DEFIANCE - WATER POLLUTION CONTROL FACILITY (WPCF)
+MONTHLY OPERATING SUMMARY - AUGUST 2026
+
+Prepared by: WPCF Chief Operator - D. Hagans
+Reviewed: Kevin Shaffer, Utilities Superintendent
+Date: September 11, 2026
+(eDMR submitted to Ohio EPA September 10. This is the internal summary for the Superintendent and the Safety-Service Director.)
+
+----------------------------------------------------------------------
+1. FLOWS
+----------------------------------------------------------------------
+
+                                     Aug 2026    Jul 2026    Aug 2025
+Total plant influent (MG)               79.1        83.4        81.8
+Average daily flow (MGD)                2.55        2.69        2.64
+Peak day (MGD)                          5.84        4.92        6.10
+  date                                 Aug 24      Jul 9       Aug 6
+Minimum day (MGD)                       2.11        2.20        2.16
+Rainfall at plant gauge (in)            3.42        2.61        4.05
+Days with bypass or overflow            0           0           0
+
+Design average flow: 4.6 MGD. Design peak hourly: 12.0 MGD.
+
+The August 24 storm (1.9 in. overnight) pushed the plant to 5.84 MGD for the day with a peak hourly of 9.6 MGD. Both secondary clarifiers were in service. No sanitary sewer overflows were reported in the collection system.
+
+----------------------------------------------------------------------
+2. EFFLUENT QUALITY (Outfall 001)
+----------------------------------------------------------------------
+
+Parameter                     Monthly avg    Weekly max    Permit (mo / wk)     Result
+CBOD5 (mg/L)                  3.1            4.8           10 / 15              OK
+Total suspended solids (mg/L) 5.4            9.1           12 / 18              OK
+Ammonia-N (mg/L)              0.21           0.44          1.5 / 2.3 (summer)   OK
+Total phosphorus (mg/L)       0.58           0.81          1.0 / 1.5            OK
+E. coli (#/100 mL, geomean)   38             112           126 / 284            OK
+Dissolved oxygen (mg/L)       7.2 (min 6.4)                6.0 min              OK
+pH (s.u.)                     7.1 - 7.6                    6.5 - 9.0            OK
+Total residual chlorine       not used - UV disinfection
+
+Removal efficiency: CBOD 98.7%, TSS 97.9%.
+
+No permit exceedances in August. Year-to-date exceedances: 0.
+
+----------------------------------------------------------------------
+3. INFLUENT
+----------------------------------------------------------------------
+
+                         Avg      Max
+CBOD5 (mg/L)             238      312
+TSS (mg/L)               256      398
+Ammonia-N (mg/L)         24.6     31.2
+Total P (mg/L)           5.2      6.8
+
+----------------------------------------------------------------------
+4. PROCESS NOTES
+----------------------------------------------------------------------
+
+- Aeration: Blowers 1 and 3 in service, Blower 2 standby. Blower 1 (1997) needed a new inlet filter and belt set Aug 13. Average DO in aeration basins 1.8-2.2 mg/L. Energy use for aeration 61 percent of plant total. (Blower replacement is CIP WW-27-01.)
+- MLSS averaged 2,850 mg/L; SRT about 14 days.
+- Phosphorus removal: ferric chloride feed at the primary clarifier effluent; dose averaged 9.8 mg/L as Fe. Ferric is purchased under the City's annual water and wastewater chemical contract.
+- Secondary Clarifier No. 2: drive vibration readings continue to rise (from 0.18 in/sec in July to 0.26 in/sec at month end). Gearbox oil sample taken Aug 28, results pending. Running both clarifiers.
+- UV disinfection: Bank B lamp replacement (64 lamps) completed Aug 18. Lamp hours on Bank A at 11,200 of 12,000 rated; replacement planned for spring before the disinfection season.
+
+----------------------------------------------------------------------
+5. SOLIDS
+----------------------------------------------------------------------
+
+Sludge wasted (dry tons, est.)          48.6
+Anaerobic digesters: Primary 1 and 2 in service. Volatile solids reduction 52%.
+Digester gas used for boiler heat; flare ran 19 hours.
+Biosolids (Class B, liquid) in storage tank at month end: approx. 410,000 gal (storage at 74% of capacity).
+Land application: none in August (crop in field). Fall application at the Domersville Road field planned after harvest, late September/October, subject to soil conditions. Hauler notified.
+
+----------------------------------------------------------------------
+6. COLLECTION SYSTEM AND LIFT STATIONS
+----------------------------------------------------------------------
+
+- Lift stations: all 7 stations checked twice weekly. Details in the lift station maintenance log.
+- Ralston Avenue lift station: pump 2 run time up during the Aug 24 storm (normal for wet weather). No alarms.
+- Lift station #4 (Third Ward): float switch replaced Aug 20 after a false high-level alarm at 2:10 a.m. on Aug 19. Call-out 1.5 hrs.
+- Sewer jetting: 31,400 LF cleaned. Root cutting: 2,180 LF.
+- Customer calls for backups: 9. City-side: 2 (both cleared within 2 hours; roots). Customer-side: 7 (referred to plumber).
+- 2026 sanitary rehabilitation (Hagerty Liner Co.) lining work finished August 21. Post-lining CCTV received; Engineering reviewing.
+- Fall CCTV program starts in September.
+
+----------------------------------------------------------------------
+7. LABORATORY
+----------------------------------------------------------------------
+
+- Ohio EPA lab proficiency samples (DMR-QA) results received: all acceptable.
+- Lab analyst on leave Aug 3-7; covered by the chief operator and an operator.
+- New BOD incubator delivered Aug 25 (replaces the 2006 unit). CIP WW-27-04 for remaining lab equipment.
+
+----------------------------------------------------------------------
+8. PERMIT / REGULATORY
+----------------------------------------------------------------------
+
+- NPDES permit renewal application: due to Ohio EPA 180 days before expiration. Kevin and the chief operator are assembling the effluent data summary and the pretreatment section. Draft to the Safety-Service Director by mid-October.
+- Industrial pretreatment: 4 significant industrial users. Semi-annual sampling for two users done Aug 12-13. Results pending.
+- No complaints received from neighbors about odor this month.
+
+----------------------------------------------------------------------
+9. SAFETY AND STAFFING
+----------------------------------------------------------------------
+
+No lost-time injuries. Confined space entries: 6 (all permitted). Monthly safety meeting Aug 26: heat stress and digester gas hazards. One operator vacancy (retirement Aug 31) posted; interviews week of Sept 21.
+
+D. Hagans
+Chief Operator, WPCF

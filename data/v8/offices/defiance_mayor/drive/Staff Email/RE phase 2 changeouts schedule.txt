@@ -1,0 +1,142 @@
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+Thread exported 9/21/2026 (7 messages, oldest first)
+
+------------------------------------------------------------
+From: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Sent: Wednesday, September 2, 2026 6:58 AM
+To: Josh Lammers <jlammers@brandtmetering.com>; Donna Pruett <dpruett@cityofdefiance.com>
+Cc: Tom Wiechers <twiechers@cityofdefiance.com>; Hannah Brubaker <hbrubaker@cityofdefiance.com>
+Subject: Phase 2 changeouts - schedule / door hangers / daily files
+
+Josh, Donna,
+
+Day 1 went fine from what I saw on Walnut. Couple of housekeeping items now that we're rolling.
+
+1. Schedule. Plan is still routes 14, 15 and the start of 16 this week, the rest of 16 through 18 week of 9/8 (short week, Labor Day), and 19 through 21 week of 9/14, finishing by Friday 9/18. Reads for the October billing start Monday 9/21, so anything not done by the 18th waits until after the bills go out. Josh, if you need to pull a crew forward to stay on that, let me know.
+
+2. Door hangers. We had two calls yesterday from people on Hickory who said nobody left a hanger before the crew showed up. Josh, can you have the crews double-check the street ahead of them the afternoon before? The letters went out 8/21 so most people know, but not everybody reads mail from the City.
+
+3. Daily install files. Same format as phase 1 please - WO number, account, address, old serial, old final read, new serial, model, endpoint ID, install date, crew. Send to Donna and me by 7 a.m. the next morning. Photos of the old register to the shared folder same as before.
+
+4. Inside setters. If the inside valve won't hold, do NOT shut off at the curb and leave the customer without water while they find a plumber. Note it, reschedule, and let Donna's office know so we can call the customer.
+
+Hannah, can you repost the reminder on Facebook this week? Something short with a photo of the ID badge so people know who to expect. I'll send you a photo.
+
+Kevin
+
+Kevin Shaffer
+Utilities Superintendent
+City of Defiance Division of Utilities
+kshaffer@cityofdefiance.com
+
+------------------------------------------------------------
+From: Donna Pruett <dpruett@cityofdefiance.com>
+Sent: Wednesday, September 2, 2026 8:40 AM
+To: Kevin Shaffer; Josh Lammers
+Cc: Tom Wiechers; Hannah Brubaker
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Kevin, Josh,
+
+Got yesterday's file, 94 installs. Uploaded fine. The new meter classes for the HRE-58 and HRE-34 are in the system; I set them up off the PD58 and PD34 classes last week so the rate codes and read sequence carry over.
+
+Josh, one thing from phase 1: please make sure the crews key the old final read exactly as it shows on the register, all digits, no rounding. We had 22 in phase 1 where the read was off by a digit and I had to chase down the photos. Photos have been a lifesaver so keep those coming.
+
+The counter has the phase 2 FAQ (rev 9/2) and the route list. We'll log any calls about appointments and send them to Josh daily.
+
+Donna
+
+Donna Pruett
+Utility Billing Supervisor
+City of Defiance
+dpruett@cityofdefiance.com
+
+------------------------------------------------------------
+From: Hannah Brubaker <hbrubaker@cityofdefiance.com>
+Sent: Wednesday, September 2, 2026 10:15 AM
+To: Kevin Shaffer
+Cc: Donna Pruett
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Kevin,
+
+Happy to. Send the badge photo when you can and I'll post Thursday morning. I'll also pin it on the City page for the month. Do you want the FAQ link in the post?
+
+Hannah
+
+Hannah Brubaker
+Communications Assistant
+Office of the Mayor, City of Defiance
+
+------------------------------------------------------------
+From: Josh Lammers <jlammers@brandtmetering.com>
+Sent: Thursday, September 3, 2026 5:47 PM
+To: Kevin Shaffer; Donna Pruett
+Cc: Tom Wiechers
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Kevin, Donna,
+
+Talked to all four crews about the door hangers and the final reads. Crew leads will walk the next day's streets after lunch and hang anything that's missing.
+
+We're at 254 through today, a little ahead of plan. Route 14 is done except for 12 we couldn't complete (mostly no-access, a few valves), route 15 finishes tomorrow and we've started 16. Inside setters are running about 30 percent on these routes, more than we had in phase 1, so the Saturday slots are filling up. I'd like to add a Saturday on 9/12 if the City is OK with it.
+
+Valve problems so far: 3 inside valves that wouldn't hold. All rescheduled per your note, customers told to call a plumber.
+
+Josh Lammers
+Project Manager
+Brandt Metering Services, LLC
+Lima, Ohio
+
+------------------------------------------------------------
+From: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Sent: Friday, September 4, 2026 7:05 AM
+To: Josh Lammers; Donna Pruett
+Cc: Tom Wiechers
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Josh,
+
+Saturday 9/12 is fine. Keep it to appointments only, no cold knocks on a Saturday.
+
+Kevin
+
+------------------------------------------------------------
+From: Josh Lammers <jlammers@brandtmetering.com>
+Sent: Friday, September 18, 2026 4:22 PM
+To: Kevin Shaffer; Donna Pruett
+Cc: Tom Wiechers
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Kevin, Donna,
+
+Phase 2 field work is done as of this afternoon. Final count 1,140 installed out of 1,186 on the list. The 46 not done break down as:
+
+- No access after 3 attempts: 19
+- Customer refused or wouldn't schedule: 7
+- Inside valve won't hold, plumber needed: 11
+- Curb stop inoperable (work order to your distribution crew): 5
+- Vacant and locked: 4
+
+Today's install file will come over in the morning like usual, and I'll send the full tracking sheet with all 1,186 rows Monday. We can come back for the 46 the week of 10/19 or roll them into phase 3, your call.
+
+Thanks to Donna's folks for handling the appointment calls. Smoothest one we've done with a city this size.
+
+Josh Lammers
+Project Manager
+Brandt Metering Services, LLC
+
+------------------------------------------------------------
+From: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Sent: Monday, September 21, 2026 6:51 AM
+To: Josh Lammers; Donna Pruett
+Cc: Tom Wiechers
+Subject: RE: Phase 2 changeouts - schedule / door hangers / daily files
+
+Josh,
+
+Great work. Let's do the 46 week of 10/19 while you still have the material. Send the schedule when you have it.
+
+Donna, reads start today. Let me know if anything looks off on the phase 2 routes once the readings are in.
+
+Kevin

@@ -1,0 +1,99 @@
+CITY OF DEFIANCE - ENGINEERING DEPARTMENT
+PROJECT CLOSEOUT SUMMARIES
+Prepared for: Tom Wiechers, Safety-Service Director; Angela Marquardt, Finance Director
+Prepared by: Rachel Dunlap, P.E., City Engineer
+Date: October 15, 2026
+
+This report covers projects that reached substantial completion between September 1 and October 14, 2026. Final pay applications and release of retainage are subject to the items noted for each project. Copies of as-built quantities, final inspection reports and CCTV records are in the project files on the S: drive.
+
+=====================================================================
+PROJECT 1: RALSTON AVENUE RESURFACING (FIFTH STREET TO ELLIOTT ROAD)
+=====================================================================
+
+Contract: awarded by Board of Control April 20, 2026, after competitive bidding (4 bids received)
+Original contract amount: $364,800.00
+Final contract amount: $357,512.40
+Difference: $7,287.60 under (2.0%)
+Notice to proceed: July 27, 2026
+Contract completion date: September 30, 2026
+Substantial completion: September 11, 2026 (paving); punch list complete September 29, 2026
+
+Scope: mill 2 inches and resurface 0.62 miles of Ralston Avenue with 1.5-inch surface course over 1.75-inch intermediate course; adjust 14 manhole and valve castings; replace 6 catch basin castings; full-depth base repair at 9 locations; pavement markings.
+
+Quantities: Asphalt tonnage ran 3.4 percent under the plan quantity because the milled surface was more uniform than expected. Full-depth repair ran 11 percent over the estimate (two additional locations near the Elliott Road intersection). Net result is a final contract amount 2.0 percent below the award.
+
+Punch list: driveway apron at 1418 Ralston Avenue removed and replaced September 28; two catch basin castings at Ralston and Elliott reset September 29; stop bar at Fifth Street restriped September 19. All items complete.
+
+Closeout items: final pay application received October 2. Retainage of $18,240.00 to be released after receipt of the contractor's affidavit of payment to subcontractors and suppliers and the maintenance bond (one year). Both have been requested.
+
+Resident contacts: 11 calls during construction (access, mailbox relocation, one apron complaint). The apron at 1418 was the only unresolved item at the walk-through and is now complete.
+
+=====================================================================
+PROJECT 2: FOURTH WARD INTERCEPTOR, SEGMENT 4-7 - CIPP LINING
+=====================================================================
+
+Authorization: Board of Control Resolution No. BOC 2026-41, September 28, 2026
+Contractor: Vandersall Pipe Renewal LLC, Defiance, Ohio
+Authorized amount (not to exceed): $480,000.00
+Final contract amount: $462,300.00
+Difference: $17,700.00 under (3.7%)
+Mobilization: September 30, 2026
+Contract completion date: October 16, 2026
+Substantial completion: October 14, 2026
+
+Scope: bypass pumping of the full segment; heavy cleaning and pre-construction CCTV; installation of 1,180 linear feet of 21-inch cured-in-place pipe (CIPP) liner from MH 4-31 to MH 4-38 in the rear-lot easement between Pierce Street and Wayne Avenue; robotic reinstatement of active service connections; removal of protruding taps; sealing of eight manholes; post-construction CCTV; easement restoration.
+
+Construction sequence:
+- September 30 - October 2: mobilization, bypass pump setup at MH 4-31 and MH 4-38, easement access matting.
+- October 2 - October 5: heavy cleaning, root cutting, protruding tap removal, pre-lining CCTV.
+- October 6 - October 9: liner installation and cure in three runs (MH 4-31 to 4-34, 4-34 to 4-36, 4-36 to 4-38). Steam cure.
+- October 9 - October 13: robotic reinstatement of service connections; manhole sealing.
+- October 14: post-construction CCTV by contractor, witnessed by the City Engineer; bypass removed and normal flow restored at 3:40 p.m.
+
+Pay items (final quantities):
+
+Item  Description                                 Qty     Unit  Unit price    Amount
+1     Mobilization / demobilization                1       LS    $18,500.00    $18,500.00
+2     Bypass pumping, complete                     1       LS    $64,800.00    $64,800.00
+3     Heavy cleaning and pre-construction CCTV     1,180   LF    $9.50         $11,210.00
+4     21-inch CIPP liner, installed                1,180   LF    $268.00       $316,240.00
+5     Protruding tap removal                       14      EA    $1,005.00     $14,070.00
+6     Service connection reinstatement            23      EA    $650.00       $14,950.00
+7     Manhole sealing                              8       EA    $1,450.00     $11,600.00
+8     Post-construction CCTV                       1,180   LF    $3.50         $4,130.00
+9     Easement restoration (seed, mulch, matting)  1       LS    $6,800.00     $6,800.00
+                                                                     TOTAL    $462,300.00
+
+The authorized amount assumed 26 service connections and up to 20 protruding taps; actual counts were 23 and 14. No change orders.
+
+Inspection: The City Engineer reviewed the post-construction CCTV in full. Liner is continuous with no wrinkles exceeding allowable limits, no lifts, and no infiltration observed at any point. All 23 active service connections reinstated and verified flowing. Liner samples from MH 4-34 and MH 4-38 have been sent for flexural strength and thickness testing; results expected by October 30. Final payment will be held pending test results.
+
+Service impacts: No sewer backups or service interruptions were reported during construction. Bypass pumping ran continuously from October 2 through October 14 with a standby pump on site. Two noise complaints about the bypass pump at MH 4-38 (Wayne Avenue end) were addressed by adding sound blankets on October 3. Utilities staff hung door notices on 64 properties along the easement on September 29.
+
+Closeout items: liner test results; contractor's affidavit; one-year maintenance bond; final easement walk with property owners after seed establishment (spring 2027).
+
+=====================================================================
+PROJECT 3: HAMMOND STREET PARK RESTROOM RENOVATION
+=====================================================================
+
+Status: not yet complete. Included here for reference because the change order was processed in this period.
+
+Contract: Kurtzman Site Development, awarded June 1, 2026 after competitive bidding (3 bids)
+Original contract amount: $146,300.00
+Change Order No. 1 (ADA grab bars, changing table): $2,215.00, approved August 17, 2026
+Change Order No. 2 (floor drain and building sewer replacement): $8,940.00, approved September 28, 2026
+Revised contract amount: $157,455.00
+Revised completion date: October 23, 2026
+
+Progress: plumbing rough-in and new building sewer complete and inspected October 6; floor slab patched October 8; fixtures and partitions scheduled for the week of October 19. A separate closeout summary will follow.
+
+=====================================================================
+SUMMARY
+=====================================================================
+
+Project                                   Award / authorized   Final           Difference
+Ralston Avenue resurfacing                $364,800.00          $357,512.40     -$7,287.60
+Segment 4-7 CIPP lining                   $480,000.00          $462,300.00     -$17,700.00
+Hammond St Park restroom (in progress)    $157,455.00          (pending)       --
+
+Questions to Rachel Dunlap, ext. 231.

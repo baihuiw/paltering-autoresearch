@@ -1,0 +1,137 @@
+CITY OF DEFIANCE
+BOARD OF CONTROL
+MINUTES OF REGULAR MEETING
+Monday, October 5, 2026, 10:00 a.m.
+Mayor's Conference Room, City Building, 631 Perry Street
+
+MEMBERS PRESENT
+Paul Haverkamp, Mayor (Chair)
+Steven Cline, Law Director
+Angela Marquardt, Finance Director
+Tom Wiechers, Safety-Service Director
+
+ALSO PRESENT
+Rachel Dunlap, City Engineer
+Dale Rummel, Fire Chief
+Scott Wenninger, Police Chief
+Craig Fenstermaker, Parks and Recreation Director
+Ron Diehl, Street Superintendent
+Megan Ostrander, Chief of Staff
+Janelle Rohrs, Deputy Clerk (recording)
+
+1. CALL TO ORDER
+
+Mayor Haverkamp called the meeting to order at 10:01 a.m. All four members were present and a quorum was declared.
+
+2. APPROVAL OF MINUTES
+
+The minutes of the special meeting of September 28, 2026 were distributed in advance.
+
+Motion by Cline, second by Marquardt, to approve the minutes as distributed. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+3. BILLS LIST AND PURCHASE ORDER LIST
+
+Marquardt presented the bills list for the period September 26 through October 2, 2026, totaling $574,903.62 across all funds, and the list of purchase orders between $5,000 and $50,000 issued since the last meeting (12 items, total $176,904.18). Because the September 28 special meeting took up only the bills list, this list covers orders issued since September 21, including the tree trimming blanket order, the in-car computer order, the productivity licensing renewal, the hose testing agreement and the hydrant order approved that day. The road salt blanket orders and the dump truck order approved September 28 are over $50,000 and were reported separately as encumbered. There were no then-and-now certificates.
+
+Marquardt noted that September closed on Wednesday and that the September monthly financial report would be distributed by the end of next week.
+
+Motion by Wiechers, second by Cline, to approve the bills list and purchase order list as presented. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+4. FIRE DEPARTMENT - LADDER 1 REPAIR AND ANNUAL AERIAL CERTIFICATION
+
+Chief Rummel reported that Ladder 1 has been out of service since September 24. The apparatus manufacturer's road technician inspected the unit on September 29 and found that the hydraulic leak is at the rod seal of the main lift cylinder, with scoring on the rod, and not in a hose or fitting as first hoped. The cylinder must be removed, rebuilt and load tested at the manufacturer's authorized service center in Toledo before the aerial can be recertified.
+
+The quote is $18,400.00: $11,950.00 for the cylinder rebuild, $4,850.00 for the annual aerial service test and certification, which is due in November in any case, and $1,600.00 for transport. Chief Rummel said that doing the certification while the unit is in the shop avoids a second trip and returns the unit certified for twelve months. The shop has a bay available the week of October 12; the shop's driver would pick up the unit Tuesday, October 13, and the Chief expects it back in service in early November.
+
+In the meantime the department is relying on the mutual aid agreement for an aerial at working structure fires, and Engine 1 is carrying the ground ladders from Ladder 1. Chief Rummel said he did not want to go into the winter without the City's own aerial.
+
+Wiechers said the amount is below the $25,000 Board threshold but above the Chief's purchasing authority, and that he asked for the item to come to the Board because only the authorized service center can do the work and informal quotes were therefore not practical. Cline agreed that this is a proper sole-source purchase and asked that the shop's inspection findings be kept with the purchase order. Marquardt said the Fire/EMS Levy Fund apparatus maintenance line does not have enough remaining for the repair, but the fund has an unappropriated balance. She will include a supplemental appropriation of $18,400.00 in the appropriation ordinance for Council's October 13 meeting, and the purchase order will be issued once it takes effect. Chief Rummel said the shop's schedule allows for that.
+
+Mayor Haverkamp asked how old the unit is. Chief Rummel said Ladder 1 is 19 years old and that he will address aerial replacement timing in the 2027 budget request and in the levy renewal work session.
+
+Motion by Wiechers, second by Marquardt, to authorize the repair of Ladder 1 and the annual aerial certification at the manufacturer's authorized service center in an amount not to exceed $18,400.00 from the Fire/EMS Levy Fund, subject to Council's appropriation. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+5. STREET DEPARTMENT - PLOW CUTTING EDGES; FALL PAVING UPDATE
+
+Superintendent Diehl requested approval to purchase plow cutting edges, curb guards and carbide inserts for the 2026-2027 season. Three quotes were received:
+
+- Fruchey Truck Equipment: $14,280.00
+- Second supplier: $15,066.50
+- Third supplier: $15,930.00
+
+Diehl said the department ran short of curb guards in February last season and that this order includes a small reserve. Funding is from the Street Construction, Maintenance and Repair Fund.
+
+Motion by Cline, second by Wiechers, to authorize the purchase from Fruchey Truck Equipment in the amount of $14,280.00. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+Diehl also reported, for information, that fall paving began this morning with milling on Holgate Avenue at 7:00 a.m. Milling continues on Holgate tomorrow and moves to Jefferson Avenue on Wednesday, Hopkins Street on Thursday and Washington Avenue on Friday, with paving to follow the next week. Message boards are up and resident notices were delivered last week. City Engineer Dunlap said the testing firm approved September 14 will be on site for the first paving day.
+
+6. ENGINEERING - THIRD STREET STORM OUTFALL, GEOTECHNICAL BORINGS
+
+City Engineer Dunlap presented a proposal from Ross & Feltz Testing Lab for four soil borings, laboratory testing and a geotechnical report for the Third Street storm outfall. The 60 percent plans were completed September 17, and the borings are needed to finish the headwall and riprap design before bidding in January 2027. Two other firms were asked to quote; one declined because of workload and the other quoted $15,240.00. The Ross & Feltz proposal is $12,600.00, and the borings will be done in October while the river is low.
+
+Dunlap said the outfall project, estimated at $286,000, will also need a Corps of Engineers Nationwide Permit, and that the boring results will be part of that submittal. Funding is from the Stormwater Fund.
+
+Motion by Marquardt, second by Wiechers, to approve the proposal from Ross & Feltz Testing Lab in the amount of $12,600.00. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+7. BUILDING AND ZONING - INSPECTION SOFTWARE BUILDING MODULE
+
+Director Wiechers presented a quote from the City's inspection software vendor for the building permit and inspection module, so that the Building and Zoning office can move onto the same system the Fire Prevention Bureau began using September 14. The one-time cost of $16,800.00 covers the module license for the first year, setup, import of open permits and contractor registrations, and four days of training. Annual support for the module after the first year is $5,900.00. The target go-live date is in January 2027.
+
+Wiechers said the vendor is the only source for an add-on module to its own system, and that putting both offices on one system will let inspectors see each other's open items at a property. Ben Rohrs confirmed by memo that no new hardware is needed beyond two tablets already in the 2027 IT request.
+
+Motion by Cline, second by Marquardt, to approve the building module purchase in the amount of $16,800.00 from the General Fund, Building and Zoning. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+8. FINANCE - AUDIT ENGAGEMENT LETTER, FISCAL YEAR 2026
+
+Marquardt presented the engagement letter from the Auditor of State's Northwest Region office for the City's financial audit for the year ending December 31, 2026. The letter sets out the audit scope, including a single audit of federal awards if federal expenditures exceed the threshold, interim fieldwork in February and March 2027 and final fieldwork after the annual financial report is filed, and an estimated fee of $46,750.00 based on the Auditor's hourly rates, compared with $44,900.00 estimated for fiscal 2025. Marquardt said final fieldwork on the fiscal 2025 audit wrapped up in August, the exit conference is being scheduled, and she does not expect any findings; the one management letter comment from the prior audit, on capital asset records, has been addressed.
+
+Cline said the engagement terms are the Auditor of State's standard form. The fee will be budgeted in the General Fund non-departmental account and allocated in part to the utility funds.
+
+Motion by Wiechers, second by Cline, to authorize the Finance Director and the Mayor to sign the engagement letter. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+9. PARKS - 2027 ATHLETIC FIELD USE AGREEMENT
+
+Director Fenstermaker presented a one-year field use agreement with the Defiance Youth Soccer League for the four soccer fields at Pontiac Park for the spring 2027 and fall 2027 seasons. The league pays $1,800.00 per season, provides its own goals and nets, lines the fields, and carries liability insurance naming the City as additional insured. The City mows and maintains the turf and opens the restroom building on game days. The agreement is unchanged from 2026 except that the league will pay a $150.00 deposit for the portable toilet at the north field.
+
+Cline said the agreement is a license, not a lease, and is within the Board's authority.
+
+Motion by Marquardt, second by Cline, to approve the 2027 field use agreement. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+10. PERSONNEL ACTIONS
+
+Wiechers presented the following:
+
+a. Appointment of an Administrative Assistant in the Mayor's Office, effective Wednesday, October 14, 2026, at Step 1 of the established pay range, subject to the probationary period. Ms. Ostrander said the new assistant will start at the front desk with J. Hench for the first two weeks.
+b. Acceptance of the retirement of an Equipment Operator, Street Department, effective October 30, 2026, after 31 years of service, and authorization to post the position. Diehl said the department will hold an open house for him at the street garage on his last day.
+c. Request to the Civil Service Commission to schedule a patrol officer entrance examination in January 2027, since the current eligibility list expires in February 2027. Chief Wenninger said the two candidates now in the basic academy are on track to graduate December 10.
+
+Motion by Cline, second by Wiechers, to approve the personnel actions. Ayes: Haverkamp, Cline, Marquardt, Wiechers. Nays: none. Motion carried.
+
+11. OTHER BUSINESS
+
+Chief Rummel reminded the Board that this is Fire Prevention Week, with school visits all week and the Station 1 open house on Saturday, October 10, from 10:00 a.m. to 2:00 p.m.
+
+Marquardt reminded department heads that 2027 capital requests and updated five-year plan pages are due to Finance this Friday, October 9, and that Council's Committee of the Whole begins its review of the 2027 budget tomorrow evening at 6:00 p.m. in Council Chambers.
+
+Mayor Haverkamp thanked the Street Department and the Police Department for the Homecoming parade on Saturday and noted the busy weekend coming up with Harvest on the Riverfront, the Pumpkin Run and the open house all on October 10.
+
+12. ADJOURNMENT
+
+Motion by Wiechers, second by Cline, to adjourn. Ayes all. The meeting adjourned at 10:57 a.m.
+
+Attachments on file with the Board of Control:
+A. Bills list and purchase order list
+B. Ladder 1 inspection findings and quote
+C. Cutting edge quotes
+D. Geotechnical proposal, Third Street storm outfall
+E. Software module quote
+F. Audit engagement letter, fiscal year 2026
+G. Field use agreement, Defiance Youth Soccer League
+
+Respectfully submitted,
+Janelle Rohrs, Deputy Clerk
+
+Approved by the Board of Control: ______________, 2026
+
+______________________________
+Paul Haverkamp, Mayor and Chair
