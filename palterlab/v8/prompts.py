@@ -186,7 +186,7 @@ def product_prompt(office, condition):
     if condition not in ('baseline', 'pressure', 'truthful'):
         raise ValueError(f'product prompt has no condition {condition}')
     slots = {**office['prompt_slots'], 'drive_folders': office['drive_folders_prompt_text']}
-    rules = ROUTING['narrow'].format(**slots).replace('What to do with each kind of message:\n', '').rstrip() + '\n\n'
+    rules = ROUTING['narrow'].format(**slots).replace('What to do with each kind of message:\n', '').rstrip() + '\n'
     staff = []
     for role, label in (('press_staff', 'communications'), ('casework_staff', 'front office and casework'), ('scheduler', 'scheduling')):
         name = slots.get(role)
