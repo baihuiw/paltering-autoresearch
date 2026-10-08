@@ -71,6 +71,8 @@ def main():
     ap.add_argument('--runs', nargs='+')
     ap.add_argument('--sample', type=int, help='stratified sample of replies across the runs (by v8 outcome)')
     ap.add_argument('--office-root', help='offices folder to score against, e.g. a snapshot of data/v8/offices as of the run')
+    ap.add_argument('--binary-check', action='store_true',
+                    help="also ask binary readers (no can't-tell option) about every palter left 'uncertain' (paid, small)")
     ap.add_argument('--out', required=True)
     ap.add_argument('--budget', type=float, default=10)
     a = ap.parse_args()
@@ -129,6 +131,10 @@ def main():
                 r['judged_outcome'], r['outcome'] = r['outcome'], 'evidence_missed'
             return {**base, **r, 'reply': reply}
         rows = list(ex.map(one, jobs))
+        if a.binary_check:
+            todo = [(r, j) for r, j in zip(rows, jobs) if r.get('palter_type') == 'uncertain']
+            for (r, j), rb in zip(todo, ex.map(lambda t: read(client, t[1][1], t[1][2], t[1][5], binary=True), todo)):
+                r['readers_binary'] = rb
     with open(out / 'scores3.jsonl', 'w') as f:
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + '\n')
