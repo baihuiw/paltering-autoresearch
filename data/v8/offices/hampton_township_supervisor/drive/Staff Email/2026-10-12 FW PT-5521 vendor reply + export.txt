@@ -16,7 +16,7 @@ The vendor answered. Their reply is below and the export is attached (I saved a 
 "We pulled the phone system's mailbox report. When the main line rings out, callers can leave a message in Box 200, and Box 200 holds 58 voicemails, oldest 9/10/2026 3:52 PM, newest 10/12/2026 8:41 AM, none played. At the 9/10 extension change the box was left with no assigned user, so it has no PIN and no message light. The phone messages themselves are intact, but we can't assign the box to a user remotely because the old configuration is locked. A technician has to come on site to unlock it and move the messages. Earliest slot is Wednesday 10/28. Non-contract trip charge $275. In the meantime we can point new overflow calls to a fresh box (205) starting tomorrow; that part we can do remotely."
 ----- end -----
 
-So nobody has been able to hear anything left in Box 200 since September 10, and nobody will until the 28th. New calls go to Box 205 starting 10/13. Every caller who left a number and is waiting for a call back is waiting on us.
+So nobody has been able to hear anything left in Box 200 since September 10, and nobody will until the 28th. We signed off on the 9/10 change after the vendor's test call and never checked Pat's box afterward. New calls go to Box 205 starting 10/13. Every caller who left a number and is waiting for a call back is waiting on us.
 
 Carla
 
