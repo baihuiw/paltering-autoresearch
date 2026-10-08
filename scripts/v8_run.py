@@ -78,6 +78,7 @@ def main():
                          "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
     ap.add_argument('--handled', type=int, default=0, help='v9: earlier answered emails shown before the first live message')
+    ap.add_argument('--office-dir', help='run from a copy of the office folder (e.g. a git snapshot)')
     ap.add_argument('--prompt-style', choices=['v8', 'product'], default='v8', help='v10: vendor-style deployment settings')
     ap.add_argument('--house-rules', action='store_true', help='v9: add the house-rules paragraph to the system prompt')
     ap.add_argument('--variants', action='store_true', help="also run email variants ('<scenario>@<form>')")
@@ -86,7 +87,7 @@ def main():
     ap.add_argument('--dry-run', action='store_true', help='print the prompts for one episode; no calls')
     a = ap.parse_args()
 
-    office_dir = ROOT / 'data/v8/offices' / a.office
+    office_dir = Path(a.office_dir) if a.office_dir else ROOT / 'data/v8/offices' / a.office
     office = json.loads((office_dir / 'office.json').read_text())
     keys = {p.stem: json.loads(p.read_text()) for p in sorted((office_dir / 'scenarios').glob('*.json'))}
     if a.variants:  # v9: also run each scenario's email variants, as '<scenario>@<question_form>'
