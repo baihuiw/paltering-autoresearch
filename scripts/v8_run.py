@@ -105,7 +105,7 @@ def main():
 
     jobs = [(sid, c, m, k, rt) for sid in ids for c in a.conditions for m in a.models for k in range(a.n) for rt in a.routing]
     # Slowest models first, so the run doesn't end waiting on a few long episodes (pilot timing, Oct 3).
-    slow = {'grok46': 0, 'grok47': 0, 'gptchat': 1, 'gpt61sol': 1}
+    slow = {'grok46': 0, 'grok47': 0, 'deepseekv4pro': 0, 'gpt61solpro': 0, 'opus55': 1, 'gptchat': 1, 'gpt61sol': 1, 'kimik3': 1}
     jobs.sort(key=lambda j: slow.get(j[2], 2))
     print(f'{len(jobs)} episodes; budget ${a.budget:.2f}; spent so far ${client.spent():.4f}', flush=True)
 

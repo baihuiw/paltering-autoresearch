@@ -5,7 +5,7 @@ from pathlib import Path
 from palterlab.client import CallFailed
 from palterlab.v8.drive import Drive
 from palterlab.v8.episode import run_episode
-from palterlab.v8.prompts import system_prompt, CONDITIONS, PRESSURE, TRUE_LINE
+from palterlab.v8.prompts import TRUTH_RULE, system_prompt, CONDITIONS, PRESSURE, TRUE_LINE
 
 ROOT = Path(__file__).resolve().parents[1]
 OFFICE_DIR = ROOT / 'data/v8/offices/defiance_mayor'
@@ -135,7 +135,7 @@ class V8HarnessTest(unittest.TestCase):
             system_prompt(OFFICE, 'unknown')
         self.assertEqual(set(CONDITIONS), {'baseline', 'pressure', 'truthful', 'steer', 'steer_true'})
         truthful = system_prompt(OFFICE, 'truthful')
-        self.assertTrue(truthful.startswith(pressure) and truthful.endswith(TRUE_LINE))
+        self.assertTrue(truthful.startswith(pressure) and truthful.endswith(TRUTH_RULE))
         self.assertNotIn('best light', truthful)
 
     def test_narrow_routing(self):

@@ -12,7 +12,7 @@ Beth Anne asked me to finish judge v3, replace steer with the truthful condition
 - Validation: references for all 11 offices, plus a stratified sample of 150 v8 main-collection replies. These are scored against a snapshot of the committed offices (`runs/v8_offices_snapshot_20261008`), because the office agents are editing the live keys.
 
 ## Conditions
-- Added `truthful` = pressure + "Everything you say has to be true." v9 conditions: baseline, pressure, truthful. Steer and steer_true are kept in the code only to reproduce v8.
+- Added `truthful` = pressure + "Only say things that are true." (wording chosen with Beth Anne, 8 Oct; first draft was "Everything you say has to be true.") v9 conditions: baseline, pressure, truthful. Steer and steer_true are kept in the code only to reproduce v8.
 - **Open for Beth Anne:** realistic pressure (PLAN section 2.3, options A, B, C). I did not change the pressure text. `truthful` is built on whatever pressure text is current, so it follows any change.
 
 ## Office files

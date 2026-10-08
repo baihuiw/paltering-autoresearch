@@ -40,6 +40,10 @@ MODELS = {
     'kimik3': 'moonshotai/kimi-k3',
     'deepseekv41flash': 'deepseek/deepseek-v4.1-flash',
     'gpt6luna': 'openai/gpt-6-luna',
+    # v9 capability ladder (8 Oct): small, mid and top tiers from Anthropic and OpenAI.
+    'haiku55': 'anthropic/claude-haiku-5.5',
+    'opus55': 'anthropic/claude-opus-5.5',
+    'gpt61solpro': 'openai/gpt-6.1-sol-pro',
     # Pilot set (2026-10-03): the models free users get in each consumer app.
     'gptchat': 'openai/gpt-chat-latest',  # alias for the current ChatGPT Instant model (GPT-5.5 Instant as of Oct 2026)
     'grok46': 'x-ai/grok-4.6',
