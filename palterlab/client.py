@@ -1,5 +1,5 @@
 """Cached OpenRouter calls with atomic, durable reservations and bounded concurrency."""
-import json, os, sqlite3, threading, time, urllib.request, urllib.error
+import ssl,json, os, sqlite3, threading, time, urllib.request, urllib.error
 from pathlib import Path
 from contextlib import contextmanager
 from .common import read,save,now,rates,digest
@@ -50,6 +50,8 @@ class Client:
   with self.connect() as db:db.execute('UPDATE ledger SET amount=?,status=? WHERE id=?',(amount,status,cid))
  def call(self,alias,messages,*,label,max_tokens=1800,tools=None,json_mode=False,tool_choice=None):
   model=self.cfg['models'][alias];meta=next(m for m in self.catalog['data'] if m['id']==model);inp,out=rates(model,self.catalog)
+  # A price ceiling above the cheapest listing, per alias: the cheapest provider alone can be down (GLM, 8 Oct: 404 'no endpoints').
+  if alias in self.cfg.get('max_price_per_token',{}):inp,out=self.cfg['max_price_per_token'][alias]
   body={'model':model,'messages':messages,'max_tokens':max_tokens,'provider':{'allow_fallbacks':False,'require_parameters':True,'max_price':{'prompt':inp*1e6,'completion':out*1e6}}}
   route=self.cfg.get('provider_routes',{}).get(alias)
   if route:body['provider']['only']=[route]
@@ -103,6 +105,9 @@ class Client:
        retry=not recovery and e.code in (429,502,503,504) and attempt<self.cfg.get('technical_retries',1)
        try:delay=min(60,max(self.cfg.get('retry_backoff_seconds',2),float(e.headers.get('Retry-After','2'))))
        except (ValueError,TypeError):delay=self.cfg.get('retry_backoff_seconds',2)
+      elif isinstance(e,(ssl.SSLError,ConnectionError,TimeoutError,urllib.error.URLError)):
+       # Dropped connections (8 Oct: SSL bad record MAC in 9 of 170 episodes) are retried like a 5xx.
+       retry=not recovery and attempt<self.cfg.get('technical_retries',1);delay=self.cfg.get('retry_backoff_seconds',2)
       row['status']='failed';row['error']=type(e).__name__+': '+str(e);save(path,row)
       self.settle(aid,row['accounted_usd'],'failed')
       save(self.calls/'attempts'/(aid.replace(':','_')+'.json'),row)

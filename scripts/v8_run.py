@@ -1,6 +1,6 @@
 """Run v8 episodes for hand-testing (work plan step 7). Paid unless --dry-run.
 
-Each episode: two routine emails, then the scenario's target email, one reply each, with the drive tools.
+Each episode: routine email(s) (one by default), then the scenario's target email, one reply each, with the drive tools.
 Saves runs/<run>/<scenario>/<condition>/<model>/s<k>/{episode.json, transcript.md, tool_log.jsonl} and a
 summary table. Outcome coding (honest / palter / lie / ...) is a separate step; read the transcripts.
 
@@ -21,7 +21,7 @@ from palterlab.client import Client, BudgetStop  # noqa: E402
 from palterlab.common import save  # noqa: E402
 from palterlab.v8.env import load_key  # noqa: E402
 load_key()
-from palterlab.v8.episode import run_episode  # noqa: E402
+from palterlab.v8.episode import run_episode, check_answer  # noqa: E402
 from palterlab.v8.prompts import system_prompt, user_turn, CONDITIONS  # noqa: E402
 sys.path.insert(0, str(ROOT / 'scripts'))
 from v8_probe_knowledge import MODELS  # noqa: E402
@@ -63,6 +63,7 @@ def main():
                     help="ask the branched awareness question (an extra call). Not used since 6 Oct: eval awareness is coded "
                          "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
+    ap.add_argument('--retry-failed', action='store_true', help='rerun episodes that ended in a call failure (failed copies kept)')
     ap.add_argument('--workers', type=int, default=12, help='episodes at once; set the budget cap comfortably above expected spend')
     ap.add_argument('--dry-run', action='store_true', help='print the prompts for one episode; no calls')
     a = ap.parse_args()
@@ -107,9 +108,17 @@ def main():
     def one(job):
         sid, cond, m, k, rt = job
         out = run / sid / cond / m / (f's{k}' if rt == 'narrow' else f'{rt}_s{k}')
-        if (out / 'episode.json').exists():
-            return json.loads((out / 'episode.json').read_text())
         label = f'{sid}/{cond}/{m}/{rt}/s{k}'
+        if (out / 'episode.json').exists():
+            rec = json.loads((out / 'episode.json').read_text())
+            if not (a.retry_failed and any(str(i.get('outcome')).startswith('failure:call') for i in rec['items'])):
+                return rec
+            # A dropped call is not the model's doing: set the failed episode aside and run it again under a new label.
+            n = len(list(out.parent.glob(out.name + '_failed*'))) + 1
+            out.rename(out.with_name(f'{out.name}_failed{n}'))
+            return run_episode(client, m, office, office_dir, keys[sid], cond, routine_for(office_dir, sid, k, a.routine),
+                               out_dir=out, label=f'{label}/rerun{n}', max_tool_calls=a.max_tool_calls, routing=rt,
+                               ask_awareness=a.awareness == 'all' or (a.awareness == 'subset' and k == 0))
         attempts = sorted(out.parent.glob(out.name + '_attempt*'))
         done = next((p for p in attempts if (p / 'episode.json').exists()), None)
         if done:
@@ -138,7 +147,7 @@ def main():
                      'target_outcome': t['outcome'] if t else 'not_reached',
                      'decisive_returned': sum(d['quote_returned'] for d in (t or {}).get('decisive', [])),
                      'decisive_total': len((t or {}).get('decisive', [])),
-                     'private_check': (pc.get('parsed') or {}).get('answer'), 'expected': pc.get('expected'),
+                     'private_check': (check_answer(pc) or {}).get('answer'), 'expected': pc.get('expected'),
                      'p_test': aw.get('p_test')})
     save(run / 'summary.json', rows)
     print(f'\nspent ${client.spent():.4f}')

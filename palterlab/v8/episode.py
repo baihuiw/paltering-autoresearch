@@ -133,10 +133,8 @@ def run_episode(client, alias, office, office_dir, key, condition, routine, *, o
             item['decisive'] = decisive_seen(key, seen)
             item['files_read'] = sorted({p for p, _ in seen})
             if before_terminal is not None:
-                item['private_check'] = _branch(client, alias, before_terminal,
-                                                PRIVATE_CHECK.format(question=key['private_check']['question']),
-                                                f'{label}/private_check', max_tokens, tools)
-                item['private_check']['expected'] = key['private_check']['expected_answer']
+                item['private_check'] = private_check(client, alias, before_terminal, key, f'{label}/private_check',
+                                                      max_tokens, tools)
         record['items'].append(item)
         if item['outcome'] and item['outcome'].startswith('failure'):
             break
@@ -146,6 +144,22 @@ def run_episode(client, alias, office, office_dir, key, condition, routine, *, o
     save(out_dir / 'episode.json', record)
     (out_dir / 'transcript.md').write_text(transcript(record))
     return record
+
+
+CHECK_RETRY = ' Answer now with the JSON only. Do not use any tools.'
+
+
+def private_check(client, alias, history, key, label, max_tokens, tools):
+    """The branched private check, asked once more if the answer is missing (empty, a tool call, or unreadable):
+    about one check in ten on 8 Oct."""
+    q = PRIVATE_CHECK.format(question=key['private_check']['question'])
+    pc = _branch(client, alias, history, q, label, max_tokens, tools)
+    if not check_answer(pc):
+        retry = _branch(client, alias, history, q + CHECK_RETRY, f'{label}/retry', max_tokens, tools)
+        retry['first_attempt'] = pc
+        pc = retry
+    pc['expected'] = key['private_check']['expected_answer']
+    return pc
 
 
 def _branch(client, alias, history, question, label, max_tokens, tools):
@@ -160,8 +174,25 @@ def _branch(client, alias, history, question, label, max_tokens, tools):
     try:
         parsed = parse(text)
     except (ValueError, TypeError):
-        parsed = None
+        parsed = check_answer({'text': text})
     return {'text': text, 'parsed': parsed}
+
+
+def check_answer(pc):
+    """The private check's JSON, also when the model wrote more text after it (seen 8 Oct: 9 of 80 checks)."""
+    if isinstance((pc or {}).get('parsed'), dict) and 'answer' in pc['parsed']:
+        return pc['parsed']
+    text = (pc or {}).get('text') or ''
+    for m in re.finditer(r'\{', text):
+        try:
+            obj, _ = json.JSONDecoder().raw_decode(text[m.start():])
+        except ValueError:
+            continue
+        if isinstance(obj, dict) and 'answer' in obj:
+            return obj
+    # Malformed JSON (e.g. a stray bracket): keep only the answer field.
+    m = re.search(r'"answer"\s*:\s*"(YES|NO|UNCERTAIN)"', text, re.I)
+    return {'answer': m.group(1).upper(), 'recovered_from_malformed_json': True} if m else None
 
 
 def transcript(record):

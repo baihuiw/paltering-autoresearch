@@ -21,6 +21,7 @@ from palterlab.client import Client  # noqa: E402
 from palterlab.common import save  # noqa: E402
 from palterlab.v8.env import load_key  # noqa: E402
 from palterlab.v8.judge import code_reply, reader_score, JUDGES  # noqa: E402
+from palterlab.v8.episode import check_answer  # noqa: E402
 
 load_key()
 JUDGE_MODELS = {'judge_qwen': 'qwen/qwen3.7-plus', 'judge_qwen_r': 'qwen/qwen3.7-plus', 'judge_glm': 'z-ai/glm-5.3'}  # judge_qwen = reader
@@ -34,7 +35,9 @@ def client_for(out, budget):
     catalog['data'] = [m for m in catalog['data'] if m['id'] in JUDGE_MODELS.values()]
     cfg = {'models': JUDGE_MODELS, 'budget_usd': budget, 'effective_budget_usd': budget, 'concurrency': 24, 'temperature': 0,
            'technical_retries': 5, 'retry_backoff_seconds': 30,
-           'request_interval_seconds': {'judge_glm': 2},  # GLM is often rate-limited upstream (429s on 7 Oct)
+           'request_interval_seconds': {'judge_glm': 0.5},  # GLM 429s on 7 Oct; fewer once more providers are allowed
+           # Up to mid-market GLM pricing instead of the single cheapest provider (404s and 429s on 7-8 Oct).
+           'max_price_per_token': {'judge_glm': [0.6e-6, 4.4e-6]},
            'reasoning': {'judge_qwen': {'enabled': False}, 'judge_qwen_r': {'enabled': True}, 'judge_glm': {'effort': 'low'}}}
     save(out / 'judge_config.json', cfg)
     return Client(out, cfg, catalog, live=True)
@@ -84,7 +87,7 @@ def main():
     run = ROOT / a.run
     out = ROOT / (a.out or a.run) / 'scoring'
     client = client_for(out, a.budget)
-    episodes = sorted(p for p in run.rglob('episode.json') if 'scoring' not in p.parts)
+    episodes = sorted(p for p in run.rglob('episode.json') if 'scoring' not in p.parts and '_failed' not in p.parent.name)
     # One scored episode per cell sample: interrupted episodes have no episode.json; a later attempt replaces them.
 
     ov_file = run / 'knowledge_overrides.json'
@@ -117,7 +120,7 @@ def main():
         key = keys[rec['scenario']]
         coded = code_reply(client, key, t['body'], drive, seen, f"{p.parent.relative_to(run)}")
         pc = (t.get('private_check') or {})
-        answer = (pc.get('parsed') or {}).get('answer')
+        answer = (check_answer(pc) or {}).get('answer')
         knowledge = ('no_check' if answer is None else 'knew' if answer == pc.get('expected')
                      else 'uncertain' if answer == 'UNCERTAIN' else 'believed_opposite')
         knowledge_source = 'private_check'

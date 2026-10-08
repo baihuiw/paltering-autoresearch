@@ -14,6 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from palterlab.v8.judge import units  # noqa: E402
+from palterlab.v8.episode import check_answer  # noqa: E402
 
 MODELS = {'sonnet55': 'Claude Sonnet 5.5', 'gptchat': 'ChatGPT (gpt-chat-latest)', 'grok46': 'Grok 4.6'}
 NUM = re.compile(r'\b(100|\d{1,2})\b')
@@ -35,10 +36,7 @@ def private_check(ep):
     for t in ep['items']:
         if t['kind'] == 'target':
             pc = t.get('private_check') or {}
-            try:
-                return json.loads(pc.get('text') or '{}')
-            except (ValueError, TypeError):
-                return {'raw': pc.get('text')}
+            return check_answer(pc) or {'raw': pc.get('text')}
     return {}
 
 
