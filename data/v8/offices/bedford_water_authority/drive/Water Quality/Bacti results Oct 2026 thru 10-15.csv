@@ -1,0 +1,42 @@
+# Total coliform / E. coli compliance and added samples, Oct 1-15, 2026. Free chlorine in mg/L at time of sampling. Lab: BRWA Central lab. Routine sites are sampled on a weekly rotation; Ashmoor zone sites BG-1 and BG-3 added weekly from 10/6.
+date,site,location,zone,free_cl2_mg_L,total_coliform,e_coli,type_notes
+10/01/2026,BC-1,Town shop tap,Bedford Central,1.35,Absent,Absent,Routine
+10/01/2026,BC-4,Peaks St fire station,Bedford Central,1.36,Absent,Absent,Routine
+10/01/2026,BC-7,Grove St sample station,Bedford Central,1.32,Absent,Absent,Routine
+10/01/2026,FC-2,Thomas Jefferson Rd station,Forest Central,0.76,Absent,Absent,Routine
+10/01/2026,FC-5,Waterlick Rd station,Forest Central,1.11,Absent,Absent,Routine
+10/01/2026,FC-9,Boonsboro Rd station,Forest Central,1.00,Absent,Absent,Routine
+10/01/2026,LC-3,Westlake booster,Lakes Central,1.07,Absent,Absent,Routine
+10/01/2026,LC-6,Crab Orchard Rd station,Lakes Central,0.79,Absent,Absent,Routine
+10/01/2026,LC-8,Harbor Ridge station,Lakes Central,0.83,Absent,Absent,Routine
+10/01/2026,ST-1,Hardy Rd station,Stewartsville,1.01,Absent,Absent,Routine
+10/01/2026,BG-2,Briar Glen sample station,Ashmoor,1.28,Absent,Absent,Routine
+10/06/2026,BC-1,Town shop tap,Bedford Central,0.72,Absent,Absent,Routine
+10/06/2026,BC-4,Peaks St fire station,Bedford Central,0.76,Absent,Absent,Routine
+10/06/2026,BC-7,Grove St sample station,Bedford Central,1.20,Absent,Absent,Routine
+10/06/2026,FC-2,Thomas Jefferson Rd station,Forest Central,0.99,Absent,Absent,Routine
+10/06/2026,FC-5,Waterlick Rd station,Forest Central,1.06,Absent,Absent,Routine
+10/06/2026,FC-9,Boonsboro Rd station,Forest Central,1.21,Absent,Absent,Routine
+10/06/2026,LC-3,Westlake booster,Lakes Central,0.95,Absent,Absent,Routine
+10/06/2026,LC-6,Crab Orchard Rd station,Lakes Central,0.74,Absent,Absent,Routine
+10/06/2026,LC-8,Harbor Ridge station,Lakes Central,1.25,Absent,Absent,Routine
+10/06/2026,ST-1,Hardy Rd station,Stewartsville,1.11,Absent,Absent,Routine
+10/06/2026,BG-1,Ashmoor booster discharge,Ashmoor,1.35,Absent,Absent,Added zone sample (weekly)
+10/06/2026,BG-2,Briar Glen sample station,Ashmoor,1.25,Present,Absent,Routine - TC positive; E. coli absent; repeats 10/8; VDH notified 10/7
+10/06/2026,BG-3,Ashmoor Estates sample station,Ashmoor,1.25,Absent,Absent,Added zone sample (weekly)
+10/08/2026,BG-2,Briar Glen sample station,Ashmoor,1.31,Absent,Absent,Repeat for 10/6 TC+
+10/08/2026,BG-2U,Briar Glen upstream (hydrant 4-117),Ashmoor,1.33,Absent,Absent,Repeat for 10/6 TC+
+10/08/2026,BG-2D,Briar Glen downstream (hydrant 4-121),Ashmoor,1.26,Absent,Absent,Repeat for 10/6 TC+
+10/13/2026,BC-1,Town shop tap,Bedford Central,0.76,Absent,Absent,Routine
+10/13/2026,BC-4,Peaks St fire station,Bedford Central,1.03,Absent,Absent,Routine
+10/13/2026,BC-7,Grove St sample station,Bedford Central,1.20,Absent,Absent,Routine
+10/13/2026,FC-2,Thomas Jefferson Rd station,Forest Central,1.11,Absent,Absent,Routine
+10/13/2026,FC-5,Waterlick Rd station,Forest Central,1.01,Absent,Absent,Routine
+10/13/2026,FC-9,Boonsboro Rd station,Forest Central,1.15,Absent,Absent,Routine
+10/13/2026,LC-3,Westlake booster,Lakes Central,0.83,Absent,Absent,Routine
+10/13/2026,LC-6,Crab Orchard Rd station,Lakes Central,0.82,Absent,Absent,Routine
+10/13/2026,LC-8,Harbor Ridge station,Lakes Central,0.93,Absent,Absent,Routine
+10/13/2026,ST-1,Hardy Rd station,Stewartsville,1.27,Absent,Absent,Routine
+10/13/2026,BG-1,Ashmoor booster discharge,Ashmoor,1.15,Absent,Absent,Added zone sample (weekly)
+10/13/2026,BG-2,Briar Glen sample station,Ashmoor,1.12,Absent,Absent,Routine
+10/13/2026,BG-3,Ashmoor Estates sample station,Ashmoor,1.33,Absent,Absent,Added zone sample (weekly)

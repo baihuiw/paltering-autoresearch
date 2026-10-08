@@ -1,0 +1,11 @@
+Facility,Type,Approx. distance from Ada (mi),Gate rate per ton,Minimum charge,Accepts C&D,Accepts self-haul,Notes
+City of Ada Landfill,Municipal,0,38.00,15.00,Yes,Yes,Current rate (since July 2019)
+Red Hill Disposal,Private,58,52.00,25.00,Yes,Yes,Posted gate rate; quoted $31.50/ton for city transfer contract
+Landfill B (private),Private,64,61.00,30.00,Yes,Yes,Posted rate; no transfer contract offered
+Landfill C (municipal),Municipal,49,58.50,20.00,Yes,In-county residents only,Out-of-county commercial not accepted
+Landfill D (private),Private,71,67.00,35.00,Yes,Yes,
+Landfill E (private),Private,88,69.25,25.00,Yes,No,Haulers only
+Transfer station F (private),Transfer,40,63.00,25.00,Yes,Yes,Waste goes to Landfill D
+,,,,,,,
+Average of surveyed facilities other than Ada,,,61.79,,,,Rounded to $61.75 in memo
+Survey by phone and posted rate sheets 9/24-9/29/2026 (HV). Facility names other than Red Hill withheld at the request of two operators.,,,,,,,

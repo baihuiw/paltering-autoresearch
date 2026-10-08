@@ -1,0 +1,32 @@
+Permit,Date paid,Address / lot,Owner or builder,Use,Meter,Water tap,Sewer tap,Capacity fee,Total paid,Notes
+B27-0004,07/02/2026,1207 E. 9th St,R. Ledbetter (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0011,07/09/2026,2315 Oak Hollow Dr (Oak Hollow Addn L7),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0012,07/09/2026,2319 Oak Hollow Dr (Oak Hollow Addn L8),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0019,07/16/2026,600 N. Mississippi Ave,J. Kerr (tenant finish - auto service),Comm,1,1475.00,900.00,5600.00,7975.00,Comm capacity per meter size
+B27-0026,07/23/2026,418 W. 22nd St,T. and K. Batson (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0031,07/30/2026,1012 S. Hope Ave,C. Villareal (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,Paid in two installments 7/30 and 8/13
+B27-0038,08/06/2026,2323 Oak Hollow Dr (Oak Hollow Addn L9),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0042,08/11/2026,1420 Stonecipher Blvd (duplex),M. Gaskin,Duplex,3/4 x2,2300.00,1800.00,6600.00,10700.00,Two units = two capacity fees
+B27-0047,08/18/2026,915 E. 16th St,Ada Rebuild Partners (nonprofit build),SF res,3/4,1150.00,900.00,3300.00,5350.00,ARP asked about a waiver - told council resolution only; did not apply
+B27-0053,08/25/2026,300 Kings Rd (church fellowship hall),Kings Road church trustees,Inst,1,1475.00,900.00,5600.00,7975.00,
+B27-0058,09/01/2026,2327 Oak Hollow Dr (Oak Hollow Addn L10),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0064,09/08/2026,1733 Countryside Dr,J. and A. Wofford (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,No relation to K. Wofford per GN
+B27-0069,09/15/2026,2108 Brookside Ct (Brookside Addn L3),D. Rakestraw (owner-builder),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0073,09/17/2026,1300 block N. Broadway (storage bldg),Northgate Storage LLC,Comm,3/4,1150.00,0.00,0.00,1150.00,Irrigation/fire only - no sewer
+B27-0077,09/22/2026,410 E. 5th St,L. Whitebird (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0081,09/30/2026,2112 Brookside Ct (Brookside Addn L4),J. Woodall (owner-builder),SF res,3/4,1150.00,900.00,3300.00,5350.00,Paid in full by check
+B27-0084,10/01/2026,2331 Oak Hollow Dr (Oak Hollow Addn L11),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0088,10/05/2026,Timber Bend Addn Lot 1,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2 (all 28 Timber Bend lots)
+B27-0089,10/05/2026,Timber Bend Addn Lot 2,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2
+B27-0090,10/05/2026,Timber Bend Addn Lot 3,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2
+B27-0093,10/07/2026,816 W. 18th St (addition - no new tap),S. Kinder,SF res,n/a,0.00,0.00,0.00,0.00,Existing service - no fees
+B27-0095,10/08/2026,Timber Bend Addn Lot 4,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2
+B27-0096,10/08/2026,Timber Bend Addn Lot 5,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2
+B27-0099,10/09/2026,1725 Countryside Dr,G. Moseby (owner),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+B27-0102,10/12/2026,2335 Oak Hollow Dr (Oak Hollow Addn L12),Gentry Fork Construction,SF res,3/4,1150.00,900.00,3300.00,5350.00,Gentry Fork asked why TB lots show no capacity fee - referred to D. Sizemore
+B27-0104,10/13/2026,Timber Bend Addn Lot 6,Tennant Homes LLC,SF res,3/4,1150.00,900.00,0.00,2050.00,Capacity fee WAIVED per CM memo 10/2
+B27-0107,10/14/2026,1129 E. Main St (restaurant remodel),R. Salinas (restaurant tenant),Comm,1,0.00,0.00,2300.00,2300.00,Meter upsize 3/4 to 1 - capacity difference only
+B27-0109,10/15/2026,2116 Brookside Ct (Brookside Addn L5),D. Rakestraw (owner-builder),SF res,3/4,1150.00,900.00,3300.00,5350.00,
+,,,,,,,,,,
+Fee schedule: Res. 2025-11 (eff. 7/1/2025). 3/4 in. water tap $1150; sewer tap $900; capacity fee $3300 per dwelling unit (water $1800 + sewer $1500).,,,,,,,,,,
+Running total capacity fees FY27 to date: $72900. Waived to date: $19800 (6 lots).,,,,,,,,,,

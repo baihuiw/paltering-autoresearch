@@ -1,0 +1,59 @@
+# Fleet and major equipment. Meter readings as of 8/31/2026 (fleet report from Lakeside Fleet Parts service records). Notes updated 10/2/2026 WL. Replacement year is the target; actual replacement depends on condition and budget.
+unit,year,type,assigned_dept,assigned_to,miles_or_hours,meter_date,replacement_fy,notes
+1,2022,Midsize SUV,Administration,Executive Director,31840 mi,2026-08-31,FY2030,Reassigned to new ED 9/21; previous assignment ended 9/4
+2,2019,Midsize sedan,Administration,Pool car (sign out with JP),58210 mi,2026-08-31,FY2028,Used for board errands and training trips
+3,2021,1/2-ton pickup crew cab,Engineering,S. Mehra,44120 mi,2026-08-31,FY2029,
+4,2018,1/2-ton pickup,Engineering,Construction inspector,88930 mi,2026-08-31,FY2027,Replacement in FY2027 budget; quote requested
+5,2023,1/2-ton pickup,Engineering,Project engineer,19870 mi,2026-08-31,FY2031,
+6,2020,Small SUV,Water Quality,E. Castellaw,52450 mi,2026-08-31,FY2028,Carries sampling coolers
+7,2017,Compact pickup with cap,Water Quality,Sampling tech,96310 mi,2026-08-31,FY2027,Replacement ordered with Unit 4 if bids allow
+8,2022,Small SUV,Water Quality,Lead inventory field tech,27640 mi,2026-08-31,FY2030,Used for verification visits
+9,2016,Cargo van,Customer Service,Meter readers (Routes 1-11),112480 mi,2026-08-31,FY2027,High mileage; transmission rebuilt 2025
+10,2019,Compact pickup,Customer Service,Meter readers (Routes 12-22),74210 mi,2026-08-31,FY2028,Goode and Huddleston routes
+11,2021,Compact pickup,Customer Service,Field service rep,41360 mi,2026-08-31,FY2029,Move-in and move-out reads
+12,2024,Compact pickup,Customer Service,Field service rep,12210 mi,2026-08-31,FY2032,
+14,2020,Cargo van,IT and Billing Systems,D. Sowers,23900 mi,2026-08-31,FY2030,Radio and SCADA site visits
+20,2021,3/4-ton pickup crew cab,Operations,W. Lipscomb,49720 mi,2026-08-31,FY2029,
+21,2022,3/4-ton pickup,Distribution,R. Tharpe,38410 mi,2026-08-31,FY2030,Superintendent; carries on-call gear
+22,2018,1-ton service body truck,Distribution,Crew 1 (Ayers),81630 mi,2026-08-31,FY2027,Hydrant crew; replacement in FY2027 budget
+23,2020,1-ton service body truck,Distribution,Crew 2 (Hurt),63280 mi,2026-08-31,FY2028,Service renewals
+24,2021,1-ton service body truck,Distribution,Crew 3 (Moon),55190 mi,2026-08-31,FY2029,Meters and valves
+25,2019,3/4-ton pickup,Distribution,On-call truck (rotation),77840 mi,2026-08-31,FY2028,D. Pugh on call this month
+26,2023,3/4-ton pickup with valve exerciser,Distribution,Valve program,21470 mi,2026-08-31,FY2031,Hydraulic valve exerciser mounted; 212 valves in Sept
+27,2015,3/4-ton pickup,Distribution,Spare,124900 mi,2026-08-31,FY2027,Spare; to auction when Unit 22 replacement arrives
+30,2017,Single-axle dump truck,Distribution,Crews 1-3,68320 mi,2026-08-31,FY2029,
+31,2021,Tandem dump truck,Distribution,Crews 1-3,42750 mi,2026-08-31,FY2033,
+33,2019,Tractor (for lowboy),Distribution,Crews 1-3,61300 mi,2026-08-31,FY2032,Hauls backhoe and excavator
+34,2019,Lowboy equipment trailer,Distribution,Crews 1-3,n/a,2026-08-31,FY2035,
+35,2023,Utility trailer 7x14,Distribution,Crew 1 (Ayers),n/a,2026-08-31,FY2038,Flushing diffusers and hose
+36,2014,Utility trailer 6x12,Distribution,Crew 3 (Moon),n/a,2026-08-31,FY2028,Floor replaced 2024
+40,2012,Crane truck (service body),Distribution,Crew 2 (Hurt),142680 mi,2026-08-31,FY2027,To be retired when Unit 41 replacement arrives
+41,2010,Crane truck (knuckle boom),Distribution,Crews 1-3,151200 mi,2026-08-31,FY2027,Replacement ordered 8/2026 through Hollister Equipment; delivery expected January 2027; crews borrow wastewater boom truck meanwhile
+42,2018,Hydro-excavation vac truck,Distribution,Crews 1-3,4180 hr,2026-08-31,FY2031,Used for valve boxes and potholing; debris body serviced 7/2026
+43,2016,Jetter / vacuum combination truck,Collection,Collection crew,6920 hr,2026-08-31,FY2028,Sewer cleaning; FY2028 replacement in draft CIP
+44,2021,Sewer TV camera van,Collection,Collection crew,28430 mi,2026-08-31,FY2031,
+45,2019,1-ton service body truck,Collection,Collection crew,58960 mi,2026-08-31,FY2028,
+46,2022,3/4-ton pickup,Collection,Pump station tech,36120 mi,2026-08-31,FY2030,32 stations on route
+47,2020,3/4-ton pickup,Collection,Grinder pump tech,49880 mi,2026-08-31,FY2028,Low-pressure sewer areas
+50,2017,Backhoe loader,Distribution,Crews 1-3,5840 hr,2026-08-31,FY2028,
+51,2022,Backhoe loader,Distribution,Crews 1-3,2310 hr,2026-08-31,FY2034,
+52,2020,Mini-excavator (3.5-ton class),Distribution,Crews 1-3,1960 hr,2026-08-31,FY2032,Rubber tracks replaced 5/2026; Pumpline Equipment did the hydraulic hose work
+53,2015,Skid steer loader,Distribution,Crews 1-3,3420 hr,2026-08-31,FY2027,Replacement deferred one year if hours allow
+54,2021,Trench box set (2 boxes),Distribution,Crews 1-3,n/a,2026-08-31,FY2036,Recertified after Sept 17 trench safety refresher
+55,2019,Trailer-mounted air compressor,Distribution,Crews 1-3,1120 hr,2026-08-31,FY2031,
+56,2023,Trailer-mounted 6-inch trash pump,Distribution,Crews 1-3,410 hr,2026-08-31,FY2035,Main break dewatering
+57,2018,Portable generator 45 kW (trailer),Operations,Pump stations,690 hr,2026-08-31,FY2033,Serviced by Blue Mountain Generator Service
+58,2022,Portable generator 125 kW (trailer),Operations,Pump stations,240 hr,2026-08-31,FY2037,Fall load test scheduled October
+59,2020,Arrow board trailer,Distribution,Crews 1-3,n/a,2026-08-31,FY2032,Used for Route 221 paving 9/29
+60,2016,Zero-turn mower,Operations,Grounds (WTP and WWTP sites),1340 hr,2026-08-31,FY2027,Most sites mowed by Cutright Lawn Care under contract
+61,2019,Utility vehicle (side-by-side),Operations,Central WTP,880 hr,2026-08-31,FY2030,
+62,2018,Forklift 5000 lb,Operations,Central WTP warehouse,2640 hr,2026-08-31,FY2033,Chemical deliveries from Atlantic Bulk Chemical
+63,2021,3/4-ton pickup,Operations,Central WTP chief operator,33560 mi,2026-08-31,FY2030,
+64,2017,3/4-ton pickup,Operations,Wastewater treatment,71930 mi,2026-08-31,FY2028,
+65,2020,Boom truck (small),Operations,Wastewater treatment,39410 mi,2026-08-31,FY2032,Lent to Distribution until Unit 41 replacement arrives
+66,2024,Electric meter reading cart,Customer Service,Town routes,n/a,2026-08-31,FY2034,Pilot on downtown Bedford routes
+70,2019,Tapping machine (up to 12-inch),Distribution,Crew 2 (Hurt),n/a,2026-08-31,FY2034,Used for new service taps; about 15 business days from fee payment to tap
+71,2023,Leak noise correlator kit,Distribution,Crew 3 (Moon),n/a,2026-08-31,FY2031,Used on 31 Authority-side leak calls in Sept
+72,2021,Pipe and cable locator (2 units),Distribution,Crews 1-3,n/a,2026-08-31,FY2029,Miss Utility tickets; one unit back from calibration 9/15
+73,2022,Hydrant flow test kit (pitot and gauges),Distribution,Crew 1 (Ayers),n/a,2026-08-31,FY2032,Used for flow test requests from engineering firms and fire marshal
+74,2018,Portable message board trailer,Distribution,Crews 1-3,n/a,2026-08-31,FY2030,Will be set on Main St and Route 460 for Oct 19-30 flushing

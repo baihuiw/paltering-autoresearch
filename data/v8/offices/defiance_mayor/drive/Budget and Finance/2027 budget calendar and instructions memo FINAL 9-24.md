@@ -8,9 +8,9 @@
 
 ---
 
-This memo covers the 2027 operating budget calendar, the assumptions Finance will use, and what each department needs to turn in. Council's Finance Committee reviewed the draft calendar on September 17, and I went over it with the Mayor on September 22. The only change from the draft is that the second Committee of the Whole session is now Tuesday, October 20, not Wednesday, October 21, so that both sessions fall on Tuesdays and don't run into Wednesday evening church and school activities.
+This memo covers the 2027 operating budget calendar, the assumptions Finance will use, and what each department needs to turn in. Council's Finance Committee reviewed the draft calendar on September 17, and I went over it with the Mayor on September 22. The only change from the draft: the second Committee of the Whole is now Tuesday, October 20, not Wednesday, October 21.
 
-The Mayor has asked me to pass along two things. First, he wants to meet with each department head for 30 to 45 minutes after requests are in. Brenda Kahle will schedule those for the weeks of October 12 and October 19. Second, he would rather see a request that is honest about what it costs to keep a service at its current level than one that has been trimmed to look flat. If something has been underfunded for a few years, put the real number in and explain it in the narrative.
+The Mayor wants to meet with each department head for 30 to 45 minutes after requests are in; Brenda Kahle will schedule those for the weeks of October 12 and 19. He would also rather see an honest request for what it costs to keep a service at its current level than one trimmed to look flat.
 
 ## 1. Calendar
 
@@ -35,53 +35,48 @@ City offices are closed Wednesday, November 11, for Veterans Day. That does not 
 
 ## 2. Assumptions Finance will use
 
-Use these figures. Don't build your own. If you think one of them is wrong for your department, say so in your narrative and we'll talk.
+Use these figures, not your own. If one is wrong for your department, say so in your narrative.
 
-**Personal services.** Finance will calculate wages and benefits for every budgeted position and send them back to you on October 1. Please check the position list and step placements and let me know about any changes by October 2.
+**Personal services.** Finance calculates wages and benefits for every budgeted position and returns them October 1. Check position lists and step placements.
 
 - AFSCME bargaining unit: 2.75% general wage increase effective January 1, 2027, per the current agreement.
 - Police (FOP) and Fire (firefighters' association): 3.0%, per the current agreements.
 - Non-bargaining employees: 2.5% placeholder. The Mayor will make the final recommendation.
-- Health insurance: +7.8% over 2026 (the consortium's preliminary renewal). The final rate is expected late October. If it comes in lower, the difference stays in the departments' lines until the first appropriation amendment.
+- Health insurance: +7.8% over 2026 (preliminary renewal; final rate expected late October).
 - OPERS 14%; OP&F 19.5% police and 24% fire; Medicare 1.45%.
 - Workers' compensation: 1.15% of payroll, assuming the group rating discount continues (enrollment approved September 14).
 
 **Operating lines.**
 
-- Supplies, contractual services and equipment: hold at the 2026 appropriation unless there is a contract or price increase you can document. Attach the quote or contract page.
-- Fuel: unleaded $3.40/gallon, diesel $3.85/gallon. Use your 2025 gallons unless something changed.
+- Supplies, contractual services and equipment: hold at the 2026 appropriation unless you can document a contract or price increase.
+- Fuel: unleaded $3.40/gallon, diesel $3.85/gallon, at your 2025 gallons.
 - Electricity: +4%. Natural gas: flat.
-- Software maintenance and licensing: use the renewal quotes. Ben Rohrs has the list and will send each department its share by September 30.
+- Software maintenance: Ben Rohrs will send each department its share by September 30.
 - Training and travel: list each conference or class separately in the narrative.
 
-**Revenue.** Departments that collect fees (Building and Zoning, Parks, Fire/EMS billing, Income Tax, Utilities) should send me their 2027 estimate with a sentence or two on how they got it. The 2027 permit fee schedule takes effect January 1, so Building and Zoning should use those rates.
+**Revenue.** Fee-collecting departments send a 2027 estimate with a sentence on how they got it. Building and Zoning should use the 2027 permit fee schedule (effective January 1).
 
-**New positions.** A new position or an upgrade needs a separate one-page justification form (in the workbook folder). Say what work isn't getting done now, what the position would do, the full cost including benefits, and whether any of it can be paid from a non-General Fund source.
+**New positions.** A new position or upgrade needs the one-page justification form (in the workbook folder), with full cost including benefits.
 
 ## 3. What to turn in by October 2
 
-1. **The budget workbook** for each of your divisions, with the "2027 Request" column completed for every line. Don't change the account numbers or delete rows; enter zero instead.
-2. **A narrative** of two pages or less (more is fine for Police and Fire/EMS) covering:
-   - what the department does and the main workload numbers for 2025 and 2026 year to date;
-   - any line more than 5% or $5,000 over its 2026 appropriation, and why;
-   - anything you are dropping or cutting back;
-   - anything planned in your capital request that will add operating costs.
-3. **Fee and revenue estimates**, if your department has any.
-4. **Position justification forms**, if any.
+1. **The budget workbook** for each division, "2027 Request" column completed. Don't change account numbers or delete rows.
+2. **A narrative** of two pages or less: workload numbers, any line more than 5% or $5,000 over its 2026 appropriation and why, and anything you are cutting back.
+3. **Fee estimates** and **position justification forms**, if any.
 
-Capital items go in the capital request due October 9, not in the operating workbook. That includes vehicles, equipment over $5,000 with a useful life of more than one year, and building or infrastructure projects. Use the five-year plan pages in the CIP working file and keep the existing CIP numbers (ST-27-xx, PK-27-xx and so on). If you're adding a project, leave the number blank and Finance will assign one.
+Capital items (vehicles, equipment over $5,000, building and infrastructure projects) go in the capital request due October 9, on the five-year plan pages in the CIP working file. Keep existing CIP numbers; leave new ones blank.
 
 ## 4. Where things stand
 
-The 2026 General Fund is on track. Through August, revenue was 66.7% of the estimate and spending 63.8% of appropriations. Income tax was 2.9% ahead of 2025. I expect to finish the year with a modest addition to the General Fund balance, but much of it comes from investment income and one-time items, and I'm budgeting 2027 investment income about 20% lower than 2026.
+The 2026 General Fund is on track. Through August, revenue was 66.7% of the estimate and spending 63.8% of appropriations, and income tax was 2.9% ahead of 2025. Much of the expected surplus is investment income and one-time items, so I'm budgeting 2027 investment income about 20% lower.
 
-For 2027 I'm estimating income tax growth of 2.5% over the 2026 projection. The Local Government Fund is flat. Health insurance and wages together add about $640,000 to General Fund costs before any other changes. So there is little room for new General Fund spending unless something else comes down. The Street Fund is also tight because of fuel, salt and the equipment replacement schedule. Please keep that in mind with Street-related requests.
+For 2027 I'm estimating income tax growth of 2.5% and a flat Local Government Fund. Wages and health insurance add about $640,000 to General Fund costs before any other changes, so there is little room for new spending. The Street Fund is also tight because of fuel, salt and equipment replacement.
 
 ## 5. Questions
 
-Call or email me, or talk to Marcy in Finance about the workbook mechanics. If the shared workbook won't open or says it is locked, close it, wait a minute and try again. If it still won't open, send a ticket to helpdesk@ rather than saving a copy to your desktop. Last year we lost two days reconciling desktop copies.
+Call or email me, or ask Marcy in Finance about the workbook. If the shared workbook says it is locked, close it and try again in a minute; if it still won't open, send a ticket to helpdesk@ rather than saving a desktop copy.
 
-Thank you all. I know the calendar is tight with a new administration, Fire Prevention Week and Harvest on the Riverfront all in the first two weeks of October.
+Thank you. I know the calendar is tight with a new administration, Fire Prevention Week and Harvest on the Riverfront all in early October.
 
 Angela Marquardt
 Finance Director

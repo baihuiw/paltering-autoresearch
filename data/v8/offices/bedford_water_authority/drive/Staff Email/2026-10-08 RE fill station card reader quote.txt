@@ -1,0 +1,91 @@
+Conversation: RE: fill station card reader quote
+Exported from mailbox: wlipscomb@bedfordwater.com
+Messages: 5 (oldest first)
+
+======================================================================
+From: Derek Sowers <dsowers@bedfordwater.com>
+To: Wade Lipscomb <wlipscomb@bedfordwater.com>
+Cc: Gordon Ashworth <gashworth@bedfordwater.com>
+Date: Thu, Oct 8, 2026 8:47 AM
+Subject: fill station card reader quote
+
+Wade,
+
+The fill station card reader quote came in last night from the card system vendor (PDF in the shared Ops folder). Short version:
+- New outdoor card reader/keypad with the heated display, stainless housing: $3,980
+- Controller board and new valve relay (ours is the 2012 board, they don't stock parts for it anymore): $1,640
+- Software license move to the new controller and data migration of the 23 active bulk accounts and their cards/PINs: $620
+- Install and testing, 2 days on site: $1,360
+Total: $7,600. Good for 30 days. Shipping included.
+
+This is the reader that keeps rejecting cards in the morning when it's cold. We ran attended fills about a dozen times last winter because of it, and the 4 and 7 keys are about dead.
+
+Their tech can come the week of Oct 26. He needs the system down for two days to swap the controller and test, so the card system would be out Tue-Wed Oct 27-28. Old cards and PINs carry over, nobody needs a new card. Can we get a PO going?
+
+Derek
+
+Derek Sowers
+IT and Billing Systems Administrator, ext. 8
+
+======================================================================
+From: Wade Lipscomb <wlipscomb@bedfordwater.com>
+To: Derek Sowers <dsowers@bedfordwater.com>
+Cc: Gordon Ashworth <gashworth@bedfordwater.com>
+Date: Thu, Oct 8, 2026 9:30 AM
+Subject: RE: fill station card reader quote
+
+Price is about what I expected. Gordon, it's in my FY27 equipment repair line (I budgeted $9,000 for "fill station controls" after last winter).
+
+Week of the 26th works for me. I'm at the VWEA seminar in Roanoke on Tuesday the 27th, so whoever is at the yard needs to let the tech in. I'll have one of the operators meet him at 7.
+
+While the card system is down Tue-Wed we can still do attended fills by appointment. Haulers call ext. 5, we book them in 30-minute slots, an operator opens the valve by hand and writes down the meter reading at the start and end, and Customer Service posts the gallons to their bulk account after. Same $12.50 per 1,000 gallons, same 500-gallon minimum, same air gap and hose check as always. Monday the 26th and Thursday the 29th should be normal, assuming the install goes right.
+
+We need to tell the haulers. Most of the 23 accounts are five or six pool and well-fill haulers plus two contractors who use it for dust control. Derek, can you pull an email list from the bulk accounts? I'd like a notice out by Friday the 16th, and a sign on the gate the week before.
+
+Wade
+
+======================================================================
+From: Gordon Ashworth <gashworth@bedfordwater.com>
+To: Wade Lipscomb <wlipscomb@bedfordwater.com>; Derek Sowers <dsowers@bedfordwater.com>
+Date: Thu, Oct 8, 2026 11:15 AM
+Subject: RE: fill station card reader quote
+
+Wade, Derek,
+
+Approved. PO 27-0331 is entered against the Operations equipment repair line, $7,600, vendor as quoted. Derek, please send the vendor the PO number and ask for the W-9 if we don't have a current one (ours is from 2022).
+
+It's under the $10,000 threshold so no three quotes, but put a note in the PO file that it's a sole-source replacement on the existing card system. The auditors pull a handful of these and the entrance conference is Nov 5.
+
+If the install slips into November, let me know; I'd like the invoice in October's payables.
+
+Gordon
+
+Gordon Ashworth
+Director of Finance and Treasurer, ext. 4
+
+======================================================================
+From: Derek Sowers <dsowers@bedfordwater.com>
+To: Gordon Ashworth <gashworth@bedfordwater.com>; Wade Lipscomb <wlipscomb@bedfordwater.com>
+Date: Thu, Oct 8, 2026 2:02 PM
+Subject: RE: fill station card reader quote
+
+Sent the PO and asked for a new W-9. They confirmed Mon Oct 26 arrival to stage parts and look at the wiring, then Tue-Wed for the swap. System back up Thursday the 29th at 7 a.m. if all goes well.
+
+Email list pulled: 21 of the 23 bulk accounts have an email. The other two get a letter. Draft for the haulers:
+
+"Bulk water fill station: card reader replacement. The fill station card system will be out of service Tuesday, October 27 and Wednesday, October 28 while we install a new card reader. Attended fills will be available on those days by appointment only. Call Operations at (540) 586-7210, ext. 5, to book a time. Your current fill card and PIN will keep working after the upgrade. Regular hours resume Thursday, October 29, 7:00 a.m. to 3:30 p.m. Thank you for your patience."
+
+Wade, OK to send?
+
+Derek
+
+======================================================================
+From: Wade Lipscomb <wlipscomb@bedfordwater.com>
+To: Derek Sowers <dsowers@bedfordwater.com>
+Cc: Gordon Ashworth <gashworth@bedfordwater.com>
+Date: Thu, Oct 8, 2026 2:40 PM
+Subject: RE: fill station card reader quote
+
+Good. Add "No walk-up sales" at the end, we always get one or two people who see the gate open and show up with a pickup and jugs. Send it Friday the 16th. Ask Kayla to have Peaks Sign Shop make a gate sign, same wording, and tell Brandi so the counter knows if anybody calls about opening a new bulk account that week.
+
+Wade

@@ -1,0 +1,39 @@
+SOUTHWEST WARNING SYSTEMS, INC.
+Outdoor Warning Systems - Sales, Installation, Service
+Norman, Oklahoma
+
+QUOTATION Q-26-1187
+Date: October 8, 2026
+Valid for: 30 days
+
+Customer: City of Ada - Emergency Management
+Attn: Kyle Fentress, Emergency Management Coordinator
+231 S. Townsend, Ada, OK 74820
+
+Reference: Service calls SC-26-0412 (Sept 30) and SC-26-0419 (Oct 1), sites 11, 14, 17, 19
+
+Findings (from service tickets):
+Radio controller boards at all four sites are non-functional following a surge event on or about Sept 26. Rotor motors, chopper motors, horn assemblies and batteries tested good on direct power. Antenna and coax at site 17 also damaged (water intrusion at connector). No damage found at site 21; rotation fault there is a separate item (worn slip ring) and is quoted under Q-26-1188.
+
+| Line | Description | Qty | Unit | Extended |
+|---|---|---|---|---|
+| 1 | Two-way radio siren controller board, current model, with programming | 4 | $2,640.00 | $10,560.00 |
+| 2 | Surge suppression kit (AC line and antenna), installed | 4 | $385.00 | $1,540.00 |
+| 3 | Antenna and coax replacement, site 17 | 1 | $410.00 | $410.00 |
+| 4 | Labor, installation and programming, two technicians, 1.5 days | 1 | $1,950.00 | $1,950.00 |
+| 5 | Travel | 1 | $400.00 | $400.00 |
+| | **Total** | | | **$14,860.00** |
+
+Lead time: Controller boards are on manufacturer back-order. Current manufacturer lead time is 8 to 10 weeks from receipt of order. Based on an order placed by October 12, estimated delivery December 7-14, with installation within 3 business days of delivery. We have asked the manufacturer to expedite; no change confirmed yet.
+
+Loaner equipment: We do not have loaner controllers compatible with your system. A temporary omnidirectional unit could be trailer-mounted at one site, but it requires a separate quote and would not be ready before late November.
+
+Terms: Net 30. Customer to provide access to sites and coordinate with the electric utility for any service disconnects. Prices do not include sales tax (city exempt).
+
+Purchase approval: per the city's purchasing threshold, orders under $25,000 may be approved by the City Manager.
+
+Accepted by: ______________________  Date: __________
+           City of Ada
+
+Quoted by: Jared Pennock, Service Manager
+jpennock@swwarningsystems.com | (405) 555-0147

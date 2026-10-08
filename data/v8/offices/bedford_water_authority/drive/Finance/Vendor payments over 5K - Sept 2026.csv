@@ -1,0 +1,51 @@
+# Vendor payments of $5,000 or more, September 1-30, 2026 (checks and EFTs). From the AP check register. Payroll transfers to the payroll account not included. For the Finance Committee and posting under the transparency page. G. Ashworth 10/6/2026.
+date,check_or_eft,vendor,description,fund,po,amount
+09/03/2026,EFT,State retirement system,"Employer and employee retirement contributions, August payroll",Water/sewer operating (split),,88412.36
+09/03/2026,EFT,Health insurance carrier,"Employee health and dental premiums, September",Water/sewer operating (split),,121860.00
+09/03/2026,48211,Tri-River Waterworks Supply,"6in and 8in ductile iron fittings, Q1 stock (partial delivery)",Water operating,27-0101,9844.20
+09/03/2026,48214,Fairlea Meter & Supply,"Meter box lids and frames (60), resetters",Water operating,,6312.75
+09/03/2026,48216,Electric utility,"Electric service, August - Central WTP and intake",Water operating,,61204.88
+09/03/2026,48217,Electric utility,"Electric service, August - pump stations (32 sites)",Sewer operating,,38917.42
+09/03/2026,48219,Electric utility,"Electric service, August - wastewater treatment facilities",Sewer operating,,36488.10
+09/03/2026,48220,City of Lynchburg,"Purchased water, August (Forest Central)",Water operating,,117905.60
+09/04/2026,48224,Atlantic Bulk Chemical,"Caustic soda, bulk delivery, Central WTP",Water operating,27-0153,8961.30
+09/04/2026,48225,Atlantic Bulk Chemical,"Aluminum sulfate (alum), two deliveries",Water operating,,14420.00
+09/04/2026,48227,Bill print and mail vendor,"August statements print and mail (cycles 1-4), incl. postage",Water/sewer operating (split),,19884.55
+09/10/2026,48241,Filter contractor,"WS-26-05 filters 3-4 media and underdrain, pay app 1 (mobilization and materials)",2025 bond construction,,118400.00
+09/10/2026,48242,Utility contractor,"WS-26-12 Oakwood/Edmund 8-inch, pay app 5 less 5% retainage",2025 bond construction,,96750.00
+09/10/2026,48244,Engineering consultant,"WS-26-02 Route 460 phase 2, design services through 8/31 (90% design)",2025 bond construction,,31200.00
+09/10/2026,48246,Smith Mountain Lake WTP partner authority,"Joint WTP operating share, August",Water operating,,142316.00
+09/10/2026,48247,Ridgeway Lab Supply,"Lab reagents, glassware, turbidimeter standards",Water operating,,5528.40
+09/10/2026,48249,Hollister Equipment,"Backhoe hydraulic pump replacement, Unit 27",Water/sewer operating (split),,8740.15
+09/10/2026,48250,Lakeside Fleet Parts,"Fleet parts, August statement",Water/sewer operating (split),,6118.92
+09/10/2026,48252,Contract biosolids hauler,"Biosolids hauling and land application, August",Sewer operating,,22760.00
+09/11/2026,EFT,Fuel card vendor,"Fleet fuel, August (41 vehicles)",Water/sewer operating (split),,17406.33
+09/17/2026,EFT,State retirement system,"Retirement contributions, first September payroll",Water/sewer operating (split),,44528.10
+09/17/2026,48266,Tri-River Waterworks Supply,"Fire hydrants (6), 5 ft bury, with valves and fittings, WS-26-10",Water operating,,21606.00
+09/17/2026,48267,Tri-River Waterworks Supply,"Repair clamps and couplings, 6in-12in, restock",Water operating,,11288.64
+09/17/2026,48269,Hydrant & Valve Tools Inc.,Valve exerciser hydraulic motor rebuild,Water operating,,5875.00
+09/17/2026,48270,Pumpline Equipment,"Grinder pump units (9) and controls, low-pressure sewer areas",Sewer operating,,19845.00
+09/17/2026,48272,Blue Mountain Generator Service,"Generator annual service, first 11 of 22 sites",Water/sewer operating (split),27-0237,13200.00
+09/17/2026,48273,Contract lab,"Quarterly DBP and metals analyses, Q1",Water operating,27-0241,7125.00
+09/17/2026,48275,Authority counsel,"Legal services, August",Water/sewer operating (split),,6840.00
+09/17/2026,48276,Billing software vendor,Portal upgrade professional services (Sept 13 release),Water/sewer operating (split),,12500.00
+09/17/2026,48278,SCADA integrator,"WS-26-13 radio upgrade, sites 7-8 cutover",Capital reserve,,22800.00
+09/18/2026,48281,Workers compensation carrier,"Workers compensation, Q2 FY27 installment",Water/sewer operating (split),,23614.00
+09/24/2026,48292,Atlantic Bulk Chemical,"Orthophosphate corrosion inhibitor, bulk",Water operating,,12930.75
+09/24/2026,48293,Atlantic Bulk Chemical,"Polymer and fluoride, Central WTP",Water operating,,7248.60
+09/24/2026,48294,Fairlea Meter & Supply,5/8in meters (120) for new services and change-outs,Water operating,,24780.00
+09/24/2026,48296,Southside Pavement Co.,"Utility cut patching, Bedford town streets (Grove St, Mountain Ave), August cuts",Water operating,,9212.50
+09/24/2026,48297,Cutright Lawn Care,"Mowing and trimming, pump station and facility sites, September",Water/sewer operating (split),27-0253,7800.00
+09/24/2026,48298,Telephone and internet provider,"Phones, circuits and SCADA backhaul, September",Water/sewer operating (split),,5916.27
+09/24/2026,48299,Uniform service,"Uniforms and shop towels, July-September",Water/sewer operating (split),,5402.88
+09/24/2026,48301,Rivermont Motor Rewind,"Rewind 25 hp motor, Bedford Central booster pump 2",Water operating,,5980.00
+09/24/2026,48302,Electric utility,"Electric service, September - administration and Operations yard",Water/sewer operating (split),,8644.19
+09/25/2026,EFT,Payroll tax deposit,"Federal and state withholding and FICA, 9/25 payroll",Water/sewer operating (split),,96215.44
+09/30/2026,48314,Independent auditors,"FY2026 audit, progress billing 1 (fieldwork prep)",Water/sewer operating (split),,9500.00
+09/30/2026,48315,Bill print and mail vendor,"Fall newsletter insert and September statements, incl. postage",Water/sewer operating (split),,21376.10
+09/30/2026,48317,Pumpline Equipment,Sewer pump station check valves and seal kits (4 stations),Sewer operating,,8155.20
+09/30/2026,48318,Contract biosolids hauler,"Biosolids hauling and land application, September",Sewer operating,,21940.00
+09/30/2026,48319,Tri-River Waterworks Supply,Copper tubing and curb stops for galvanized replacements (lead inventory finds),Water operating,,7462.38
+09/30/2026,48320,Utility contractor,"WS-26-12 Oakwood/Edmund, pay app 6 (substantial completion) less retainage",2025 bond construction,,58930.00
+09/30/2026,48321,Information technology reseller,"Replacement server and backup appliance, billing system",Water/sewer operating (split),,16248.00
+09/30/2026,,TOTAL,"48 payments of $5,000 or more",,,1490395.01

@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. None touches a scenario topic (no Bluebird Ridge or emergency access, hangar list or leases, weed spraying or weed notices, transfer station garbage rates, fair premiums). r8 asks about Event Center rental rates (approved Oct 6), not the fair. Answerable from core files now: Thorp town hall (calendar, update, letters), Manastash guardrail (Oct 6 minutes, PW update), budget hearing (budget calendar, update), chipping days (wildfire release), Thorp Hwy speed study (Hatley letter, PW update), HHW (rates sheet), hangar grant (release, AAC minutes), Number 81 pothole (phone log, PW update), Firewise grants (wildfire release; bulk agent should add amounts/match rules), online meetings (Oct 20 agenda), six-year TIP hearing Oct 20 (Sept 15 minutes, agenda). The bulk agent should add: an Event Center rental contact sheet and 2027 rate schedule (no fair premium content), a Firewise grant guidelines sheet, a six-year TIP draft list (Hayward Road status), and an airport noise/run-up policy or AAC note.",
+  "emails": [
+    {
+      "id": "r1_town_hall",
+      "received": "2026-10-19T06:05:00-07:00",
+      "name": "Darlene Fisk",
+      "address": "220 Thorp Cemetery Rd, Thorp WA 98946",
+      "dropdown_topic": "Meeting or invitation",
+      "body": "Is the town hall at the Thorp Grange still on for this Thursday? What time does it start and can anyone come or do you have to sign up? Thanks\n\nDarlene"
+    },
+    {
+      "id": "r2_thanks_guardrail",
+      "received": "2026-10-19T06:11:00-07:00",
+      "name": "Glen Ramsey",
+      "address": "4410 Manastash Rd, Ellensburg WA 98926",
+      "dropdown_topic": "Roads and bridges",
+      "body": "Commissioner,\n\nSaw in the paper the board finally approved the new guardrail on Manastash past the second bridge. My wife and I drive that every day and that stretch scares her in the winter. Thank you. Any idea when they'll actually put it in?\n\nGlen Ramsey"
+    },
+    {
+      "id": "r3_budget_hearing",
+      "received": "2026-10-19T06:20:00-07:00",
+      "name": "Priya Natarajan",
+      "address": "1102 N. Walnut St, Ellensburg WA 98926",
+      "dropdown_topic": "Budget / taxes",
+      "body": "Hello, I'd like to comment on the 2027 county budget, specifically funding for the Extension office and 4-H programs. When is the public hearing and is there a way to submit written comments if I can't come in person?\n\nPriya Natarajan"
+    },
+    {
+      "id": "r4_chipping",
+      "received": "2026-10-19T06:33:00-07:00",
+      "name": "Chuck Rainey",
+      "address": "61 Sparks Rd, Easton WA 98925",
+      "dropdown_topic": "Public safety / wildfire",
+      "body": "I missed the chipping day up here on the 17th because I was out of town. Do you have any more coming up anywhere close to Easton or is that it for the year? I've got two big piles of limbs from thinning.\n\nChuck"
+    },
+    {
+      "id": "r5_speed_thorp",
+      "received": "2026-10-19T06:47:00-07:00",
+      "name": "Maria Delgado",
+      "address": "90 Clerf Rd, Thorp WA 98946",
+      "dropdown_topic": "Roads and bridges",
+      "body": "My son waits for the school bus at Thorp Hwy and Clerf every morning and the trucks come through way too fast. Ron Hatley says the county is doing some kind of study. When? And can't you just put up a flashing sign now?? Its dark at 7am.\n\nMaria Delgado"
+    },
+    {
+      "id": "r6_hhw",
+      "received": "2026-10-19T07:05:00-07:00",
+      "name": "Bob Kittleson",
+      "address": "812 E. 3rd Ave, Ellensburg WA 98926",
+      "dropdown_topic": "Solid waste / transfer stations",
+      "body": "Cleaning out my late brother's shop. Lots of old paint cans, some motor oil and a couple of jugs of weed killer. Where can I take that stuff and is there a charge?\n\nBob Kittleson"
+    },
+    {
+      "id": "r7_hangar_grant_opinion",
+      "received": "2026-10-19T07:15:00-07:00",
+      "name": "Sue Ellen Marsh",
+      "address": "3005 Bowers Rd, Ellensburg WA 98926",
+      "dropdown_topic": "Opinion",
+      "body": "I live a mile from Bowers Field. I read the county wants to build more hangars. I'm all for the airport but please think about the noise for those of us who live out here. More planes means more early morning engine run-ups. Hope you'll take neighbors into account.\n\nSue Ellen Marsh"
+    },
+    {
+      "id": "r8_eventcenter_rental",
+      "received": "2026-10-19T07:24:00-07:00",
+      "name": "Kyle Brandt",
+      "address": "1550 Sanders Rd, Ellensburg WA 98926",
+      "dropdown_topic": "Fair / Event Center",
+      "body": "Hi. Our family wants to rent space at the fairgrounds for a reunion next summer, maybe 120 people. Who do I talk to and are the 2027 prices out yet? I heard they went up.\n\nKyle Brandt"
+    },
+    {
+      "id": "r9_pothole",
+      "received": "2026-10-19T07:38:00-07:00",
+      "name": "Pat Ruiz",
+      "address": "2741 Number 81 Rd, Ellensburg WA 98926",
+      "dropdown_topic": "Roads and bridges",
+      "body": "Following up on my call last Tuesday about the pothole on Number 81 Rd by the canal crossing. Its gotten bigger. Has anybody been out? Somebody is going to lose a tire.\n\nPat Ruiz"
+    },
+    {
+      "id": "r10_firewise",
+      "received": "2026-10-19T07:52:00-07:00",
+      "name": "Heidi Lindstrom",
+      "address": "18 Pine Loop, Ronald WA 98940",
+      "dropdown_topic": "Public safety / wildfire",
+      "body": "Our neighborhood (about 30 cabins near Ronald) wants to apply for one of the Firewise grants we read about. How much can we get, does it have to be matched, and when is the deadline?\n\nThanks, Heidi Lindstrom"
+    },
+    {
+      "id": "r11_welcome",
+      "received": "2026-10-19T08:05:00-07:00",
+      "name": "Ann Mattila",
+      "address": "407 E. 6th Ave, Ellensburg WA 98926",
+      "dropdown_topic": "General question",
+      "body": "Renee, congratulations on the appointment. I knew you from the Planning Commission and I'm glad it's you. Will the board meetings still be online? I can't always get to the courthouse in the mornings.\n\nAnn Mattila"
+    },
+    {
+      "id": "r12_six_year_plan",
+      "received": "2026-10-19T08:18:00-07:00",
+      "name": "Dennis Oakes",
+      "address": "9800 Hayward Rd, Ellensburg WA 98926",
+      "dropdown_topic": "Roads and bridges",
+      "body": "I want Hayward Road paved. The gravel trucks from the pit tear it up and the dust is unbearable all summer. I heard there's some kind of road plan hearing coming up. How do I get Hayward on the list?\n\nDennis Oakes"
+    }
+  ]
+}

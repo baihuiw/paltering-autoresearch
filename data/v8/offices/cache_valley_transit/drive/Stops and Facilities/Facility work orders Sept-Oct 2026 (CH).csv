@@ -1,0 +1,28 @@
+WO #,Opened,Building / area,Description,Requested by,Assigned,Vendor,Cost,Status,Closed
+FW-26-188,09/02/2026,Admin bldg - 2nd floor,Conf rm A projector won't connect (HDMI),LD,IT (Bryce),,0,Closed,09/03/2026
+FW-26-189,09/03/2026,Bus wash,Brush motor noisy - check bearing,DG,Facilities,,0,Closed - motor failing; see FW-26-201,09/04/2026
+FW-26-190,09/08/2026,Admin bldg - GM office,Paint + new carpet tiles before new GM,LD,Facilities,,412,Closed,09/11/2026
+FW-26-191,09/08/2026,Operators room,Ice machine leaking,MV,Facilities,,85,Closed,09/09/2026
+FW-26-192,09/10/2026,Parking lot,Re-stripe 4 visitor stalls + EV stall,CH,Facilities,,260,Closed,09/18/2026
+FW-26-193,09/11/2026,Training room,Add 12 chairs for operator class,MV,Facilities,,1140,Closed,09/24/2026
+FW-26-194,09/14/2026,Admin bldg,New badge + keys for GM,LD,Facilities,,0,Closed,09/14/2026
+FW-26-195,09/15/2026,Shop bay 3,Overhead door sensor sticking,DG,Facilities,Door vendor,375,Closed,09/22/2026
+FW-26-196,09/16/2026,Admin bldg - lobby,Front desk chair cracked,LD,Facilities,,189,Closed,09/18/2026
+FW-26-197,09/17/2026,Salt shed,Count ice melt; order for winter,CH,Facilities,,0,Closed - ordered 12 tons 9/28,09/28/2026
+FW-26-198,09/21/2026,Transit Center,Platform B heater not igniting,CH,Facilities,HVAC vendor,640,Closed,09/29/2026
+FW-26-199,09/22/2026,Admin bldg - roof,Annual roof walk (warranty),CH,Facilities,Roofing vendor,0,Closed - no findings,10/01/2026
+FW-26-200,09/23/2026,Boardroom,Microphone 4 cutting out,LD,IT (Bryce),,48,Closed,09/23/2026
+FW-26-201,09/24/2026,Bus wash,Replace brush motor,DG,Facilities,Wash equipment vendor,3870,Open - motor backordered to 10/23,
+FW-26-202,09/25/2026,Bays,Open house setup + teardown,KO,Facilities,,0,Closed,09/25/2026
+FW-26-203,09/28/2026,Admin bldg - 1st floor,Women's restroom faucet,LD,Facilities,,62,Closed,09/29/2026
+FW-26-204,09/30/2026,Fuel island,Pump 2 display dim,DG,Facilities,Fuel system vendor,0,Closed - warranty,10/06/2026
+FW-26-205,10/01/2026,Yard,Winterize irrigation (blow out),CH,Facilities,,0,Closed,10/02/2026
+FW-26-206,10/02/2026,Admin bldg - 2nd floor,Office move: new CAR coordinator desk (rm 214),GA,Facilities,,0,Scheduled 10/29,
+FW-26-207,10/05/2026,Operators room,Lockers 41-48 re-key for new class,MV,Facilities,,96,Closed,10/06/2026
+FW-26-208,10/06/2026,Transit Center,Restroom lock jammed,CH,Facilities,,140,Closed,10/07/2026
+FW-26-209,10/07/2026,Admin bldg - lobby,Lost and found cabinet lock sticking,LD,Facilities,,0,Closed,10/07/2026
+FW-26-210,10/08/2026,Yard,Plow + spreader truck - mount plow for season,CH,Facilities,,0,Scheduled 10/26,
+FW-26-211,10/09/2026,Boardroom,Livestream camera firmware update,KO,IT (Bryce),,0,Closed,10/13/2026
+FW-26-212,10/12/2026,Admin bldg,Replace HVAC filters (quarterly),CH,Facilities,,330,Closed,10/13/2026
+FW-26-213,10/13/2026,Training room,Graduation setup 10/23 + hiring fair 10/30,MV,Facilities,,0,Scheduled,
+FW-26-214,10/14/2026,Salt shed,Receive ice melt delivery,CH,Facilities,Ice melt supplier,0,Scheduled 10/20,

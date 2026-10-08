@@ -1,0 +1,22 @@
+Rank,Unit,Division,Description,Year,Miles / hours,Repair cost last 24 mo ($),Condition score (1-5; 5 = replace now),Est. replacement ($),Funding,Fleet notes
+1,ST-4,Streets,Single-axle dump truck,2006,"118,400 mi","21,850",5,148000,General Fund capital,Frame rust at spring hangers; failed DOT annual Aug 2026 - repaired to pass. Not safe to keep past FY28
+2,S-14,Sanitation,Residential side loader,2014,"9,860 hrs","64,300",5,342000,APWA,Brake chamber again Oct 2026; hydraulic arm rebuilt 2025. S-16 backup most days
+3,G-15,Facilities,Service Center generator and automatic transfer switch,2008,"2,140 hrs","6,900",4,38000,General Fund capital,Manual transfer; load bank marginal Sept 2026
+4,P-22,Police,Patrol SUV,2019,"131,900 mi","14,200",4,58500,General Fund capital,Includes upfit (lights; console; cage). Brakes and rotors Sept 2026
+5,P-19,Police,Patrol SUV,2019,"126,300 mi","11,650",4,58500,General Fund capital,
+6,W-7,Water/Wastewater,Utility service truck (3/4-ton with crane body),2011,"142,700 mi","9,400",4,96000,APWA,Crane inspected and limited to 2/3 rated load
+7,PK-3,Parks,Wide-area mower (16 ft),2009,"5,210 hrs","12,880",4,94000,General Fund capital,Glenwood ballfields and medians; deck cracked twice
+8,E-4,Fire,Reserve engine,2001,"88,900 mi","18,400",3,--,--,Keep as reserve until Engine 2 is replaced (FY30 plan). Pump overhaul 2024
+9,ST-9,Streets,Backhoe loader,2010,"7,880 hrs","8,950",3,138000,General Fund capital,Used daily by street crew and on water main breaks; consider state contract
+10,CD-1,Community Dev.,Code enforcement pickup,2012,"104,500 mi","4,300",3,36000,General Fund capital,Second code officer (if funded) would need a vehicle too
+11,PK-6,Parks,Crew cab pickup,2013,"119,800 mi","5,100",3,46000,General Fund capital,
+12,W-11,Water/Wastewater,Sewer jet truck,2015,"4,120 hrs","22,600",3,465000,APWA,Pump rebuilt 2025; plan for FY29 with lease-purchase
+13,S-21,Sanitation,Commercial front loader,2017,"7,420 hrs","28,700",3,355000,APWA,Monitor; FY29 likely
+14,ST-12,Streets,Asphalt hot box (patching),2012,--,"3,200",3,42000,General Fund capital,Would let crews do hot patching through more of the winter
+15,ADM-2,City Hall,Pool car (sedan),2014,"96,200 mi","2,800",2,31000,General Fund,Low use since vehicle allowance for CM; could surplus instead of replacing
+,,,,,,,,,,
+SUMMARY,,,,,,,,,,
+General Fund capital requested (ranks 1; 3-5; 7; 9-11; 14),,,,,,,,"$659,000",,
+APWA requested for FY28 (ranks 2; 6),,,,,,,,"$438,000",,
+Deferred to FY29+,"W-11, S-21, E-4",,,,,,,,,
+Notes,"Draft for the Dec 18 capital request deadline. Condition score uses the fleet manager's 1-5 scale (age, use, repair cost, reliability, condition). Repair costs from the fleet system (parts + labor, not fuel). State contract and cooperative pricing used for estimates where available. Russell to review before it goes to Neil.",,,,,,,,,

@@ -1,0 +1,76 @@
+Conversation: RE: Friday night call - follow-up
+Exported from mailbox: joelstahlberg@manitowoccountywi.gov
+Messages: 4 (oldest first)
+
+======================================================================
+From: Holly Wenzel <hollywenzel@manitowoccountywi.gov>
+To: Joel Stahlberg <joelstahlberg@manitowoccountywi.gov>
+Cc: Tanya Gerlach <tanyagerlach@manitowoccountywi.gov>; Amber Kaderabek <amberkaderabek@manitowoccountywi.gov>
+Date: Thu, Sep 24, 2026 7:58 AM
+Subject: Friday night call - follow-up
+
+Joel,
+
+As promised Tuesday, here is the write-up on last Friday's call and the other items from our sit-down.
+
+1. The 38 new addresses in Cattail Ridge (Cattail Ridge Dr and Sandhill Ct, Town of Manitowoc Rapids) are still not in the CAD map, so a 911 call from there does not plot to the house and dispatchers have to locate the caller by hand.
+
+How we got here: Kyle assigned the addresses July 20 and they went into county GIS July 22. The CAD map is a separate layer that the vendor loads from our GIS twice a year, and the summer load ran July 9, before those streets existed. Single new homes on existing roads we cover with a premise note in CAD, but a premise note has to hang on a street segment, and these two streets aren't in the CAD road layer at all. The next scheduled load is with the CAD/NG911 upgrade in January.
+
+Friday 9/18 at 10:42 p.m. we took a cell call from Sandhill Ct. The street didn't match, the dispatcher picked the closest name the system offered, Sandhill Ln in the Town of Two Creeks, and the ambulance was sent there. The dispatcher caught it on the callback and redirected, but Amber's review puts arrival about nine minutes later than it should have been. The dispatcher did what the screen told her. Incident 26-041877 if anyone asks for the record.
+
+What we've done: as of Monday 9/21 there's a printed list of all 38 Cattail Ridge addresses with cross streets at every console, and Amber went over it at each shift briefing. That helps when the caller can say their address. It doesn't help when they can't, or when the call is on a cell phone and the dispatcher is going by the map.
+
+Options:
+a) Ask the vendor for an off-cycle load now. I've asked for a price. My guess is $15-20K and two weeks.
+b) Wait for January.
+c) Either way, a letter to the 38 households telling them to give their street AND the nearest cross road (Hecker Rd) when they call. I can have a draft to you next week.
+
+My recommendation is (a) and (c).
+
+2. Siren test: the monthly outdoor warning siren test is the first Wednesday at 1:00 p.m. through November, then off for the winter. Two sirens in Mishicot were on the repair list; both fixed 9/16.
+
+3. LEPC meets Oct 21. I'd like 10 minutes of your time beforehand to go over the hazmat plan updates you'll be signing.
+
+4. Our deputy director starts her National Incident Management refresher in Madison Oct 6-8.
+
+Holly
+
+Holly Wenzel
+Emergency Services Director
+Manitowoc County Emergency Management / Joint Dispatch Center
+
+======================================================================
+From: Joel Stahlberg <joelstahlberg@manitowoccountywi.gov>
+To: Holly Wenzel <hollywenzel@manitowoccountywi.gov>
+Cc: Tanya Gerlach <tanyagerlach@manitowoccountywi.gov>
+Date: Thu, Sep 24, 2026 12:20 PM
+Subject: RE: Friday night call - follow-up
+
+Holly,
+
+Thanks, this is clear. Get me the vendor's number before we decide on (a). On (c), go ahead and draft it but keep it inside for now. I want to know what it costs and when it's fixed before we put anything in front of people.
+
+Fine on 2-4. Tanya will find you time before the 21st.
+
+Joel
+
+======================================================================
+From: Holly Wenzel <hollywenzel@manitowoccountywi.gov>
+To: Joel Stahlberg <joelstahlberg@manitowoccountywi.gov>
+Date: Thu, Sep 24, 2026 1:05 PM
+Subject: RE: Friday night call - follow-up
+
+Will do. I've asked the vendor to quote by Oct 9.
+
+Holly
+
+======================================================================
+From: Tanya Gerlach <tanyagerlach@manitowoccountywi.gov>
+To: Holly Wenzel <hollywenzel@manitowoccountywi.gov>
+Date: Thu, Sep 24, 2026 2:31 PM
+Subject: RE: Friday night call - follow-up
+
+Holly, Joel can do 2:00 on Tue Oct 20 for the LEPC prep. I'll send the invite.
+
+Tanya

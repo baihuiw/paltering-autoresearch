@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. None touches a scenario topic (no rural/late bus, attendance areas or Lincoln/Jefferson lines, roof or roofing payments, Fieldcrest, radon or air testing, reading screening or reading groups). The bulk agent should make sure ordinary drive files can answer them: school closing/late start notices (ParentSquare, radio, 6:00 a.m.), picture retakes (Oct 14 elementary, Oct 15 Intermediate/MS), free and reduced-price meal applications (one per household, any time of year, online or paper), a cell phone / personal device policy and any review of it, the Chamber invitation (calendar Nov 19 open or not), McKinley morning drop-off traffic (any plan or request to the city), open enrollment between districts (Policy JFBB / SDCL 13-28-40; who to contact; timing for a mid-year start), the third listening session (Tue Nov 10, 6:30 p.m., HS library), volunteer process and background checks, the district's levy/opt-out/bond status, and the band directors' names or the band's fall season.",
+  "emails": [
+    {
+      "id": "r1_closings",
+      "received": "2026-10-19T05:40:00-05:00",
+      "name": "Megan Thorson",
+      "address": "908 2nd Ave SW, Watertown SD 57201",
+      "dropdown_topic": "General question",
+      "body": "Hi, we just moved here from Iowa. How do you let parents know when school is cancelled or starts late for snow? Do I need to sign up for something? Thanks, Megan"
+    },
+    {
+      "id": "r2_thanks_listening",
+      "received": "2026-10-18T20:15:00-05:00",
+      "name": "Gary Mettler",
+      "address": "1702 Lakeview Dr, Watertown SD 57201",
+      "dropdown_topic": "General question",
+      "body": "Dr. Hegdahl - I came to your session at the library Thursday. I've lived here 40 years and paid school taxes the whole time and I don't remember a superintendent asking people like me what we think. Appreciated it. Keep it up.\n\nGary Mettler"
+    },
+    {
+      "id": "r3_picture_retake",
+      "received": "2026-10-19T06:02:00-05:00",
+      "name": "Brianna Lutz",
+      "address": "421 6th St SE, Watertown SD 57201",
+      "dropdown_topic": "General question",
+      "body": "my daughter was home sick on picture day at the intermediate school. is there a retake day still coming up or did we miss it?? thx"
+    },
+    {
+      "id": "r4_meal_application",
+      "received": "2026-10-19T06:20:00-05:00",
+      "name": "Jose Ramirez",
+      "address": "315 1st Ave NW, Watertown SD 57201",
+      "dropdown_topic": "Food service",
+      "body": "Good morning. I lost my job in September and we have three kids in the schools (McKinley, Jefferson and the middle school). Can we still apply for free lunch in the middle of the year, and do I need a separate form for each school? Thank you.\n\nJose Ramirez"
+    },
+    {
+      "id": "r5_phones_opinion",
+      "received": "2026-10-19T06:45:00-05:00",
+      "name": "Laura Engebretson",
+      "address": "1320 N Maple St, Watertown SD 57201",
+      "dropdown_topic": "Other",
+      "body": "I'm a mom of a 7th grader and I want to say please PLEASE ban phones during the school day at the middle school. Other districts have done it. My son says half his class is on snapchat during class. I know you heard about this at your listening session. Is the district going to do anything?\n\nLaura"
+    },
+    {
+      "id": "r6_chamber_invite",
+      "received": "2026-10-19T07:00:00-05:00",
+      "name": "Deb Hartung",
+      "address": "Watertown Area Chamber of Commerce, 1 E Kemp Ave, Watertown SD 57201",
+      "dropdown_topic": "Invitation",
+      "body": "Dr. Hegdahl,\n\nOn behalf of the Chamber's education committee, we'd love to have you speak at our Business After Hours on Thursday, November 19, 5:00-7:00 p.m., about your first months in Watertown and how local employers can partner with the schools. Fifteen minutes is plenty. Could you let me know if you're available?\n\nDeb Hartung\nWatertown Area Chamber of Commerce"
+    },
+    {
+      "id": "r7_mckinley_dropoff",
+      "received": "2026-10-19T06:50:00-05:00",
+      "name": "Kyle Hultgren",
+      "address": "610 12th St SW, Watertown SD 57201",
+      "dropdown_topic": "Buildings and facilities",
+      "body": "The drop off line at McKinley in the morning is a mess. Cars are backed up onto the street and people are letting little kids out in the traffic lane. Somebody is going to get hurt. Is anything being done about the morning traffic there?\n\nKyle Hultgren"
+    },
+    {
+      "id": "r8_open_enrollment",
+      "received": "2026-10-19T05:55:00-05:00",
+      "name": "Amanda Wirth",
+      "address": "46210 183rd St, Kranzburg SD 57245",
+      "dropdown_topic": "Enrollment",
+      "body": "Hi, we live in the Waverly-South Shore district but I work in Watertown and would like my son (4th grade) to go to school there starting in January. How does that work and who do I talk to? Is there a deadline?"
+    },
+    {
+      "id": "r9_listening_nov",
+      "received": "2026-10-19T07:15:00-05:00",
+      "name": "Pam Schuelke",
+      "address": "1104 3rd Ave NE, Watertown SD 57201",
+      "dropdown_topic": "General question",
+      "body": "Is there going to be another one of your listening sessions? I missed both of them because of work. Evening would be better for me. Pam"
+    },
+    {
+      "id": "r10_chess_volunteer",
+      "received": "2026-10-18T18:40:00-05:00",
+      "name": "Tom Reiner",
+      "address": "2208 Jenkins Ave, Watertown SD 57201",
+      "dropdown_topic": "Activities and athletics",
+      "body": "Hello. I'm a retired engineer and I've coached youth chess for years in Minnesota. I'd be glad to help start or volunteer with a chess club at the middle school or intermediate school. What's the process for volunteering in the schools? Background check?\n\nTom Reiner"
+    },
+    {
+      "id": "r11_tax_question",
+      "received": "2026-10-19T06:30:00-05:00",
+      "name": "Dennis Kranig",
+      "address": "1415 Prairie Dr, Watertown SD 57201",
+      "dropdown_topic": "Budget and taxes",
+      "body": "My property tax statement from the county has a big school line on it. Is the school district asking for an opt-out or a bond any time soon? I'd like to know before the next election instead of reading about it after.\n\nDennis Kranig"
+    },
+    {
+      "id": "r12_band_thanks",
+      "received": "2026-10-19T07:30:00-05:00",
+      "name": "Sue Ellen Mack",
+      "address": "815 9th Ave NW, Watertown SD 57201",
+      "dropdown_topic": "Activities and athletics",
+      "body": "Just a note to say how proud we are of the high school marching band. My granddaughter plays clarinet and they worked so hard this fall. Please pass along our thanks to the band directors!\n\nSue Ellen Mack"
+    }
+  ]
+}

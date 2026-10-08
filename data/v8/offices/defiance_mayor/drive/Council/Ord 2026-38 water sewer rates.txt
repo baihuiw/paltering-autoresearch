@@ -7,27 +7,23 @@ Second reading waived: September 8, 2026
 Passed: September 8, 2026
 Sponsor: Utilities Committee (Councilman Dan Pfahler, chair)
 
-WHEREAS, the City of Defiance owns and operates a public water system and a wastewater collection and treatment system serving the residents and businesses of the City, and is responsible for operating those systems in compliance with the requirements of the Ohio Environmental Protection Agency and the federal Safe Drinking Water Act and Clean Water Act; and
-
 WHEREAS, the City's Water Treatment Plant filters, underdrains and clearwell, portions of which date to 1974, have reached the end of their useful life, and Council by Ordinance No. 2025-18 authorized the Filter Rehabilitation and Clearwell Improvements project and a loan from the Ohio Water Development Authority to finance it; and
 
-WHEREAS, the City's Water Pollution Control Plant requires replacement of its aeration blowers and improvements to its sludge handling equipment, as identified in the Wastewater Facilities Plan accepted by Council in 2025, in order to maintain compliance with the plant's discharge permit; and
-
-WHEREAS, the City is replacing aging residential water meters citywide with radio-read meters, which will improve the accuracy of meter reading, reduce estimated bills, and allow earlier detection of leaks on customers' property; and
+WHEREAS, the City's Water Pollution Control Plant requires replacement of its aeration blowers and improvements to its sludge handling equipment to maintain compliance with its discharge permit; and
 
 WHEREAS, the cost of treatment chemicals, electricity, and materials for the water and sewer systems has increased substantially since water and sewer rates were last adjusted in October 2023; and
 
-WHEREAS, the City's rate consultant, in its Water and Sewer Rate Study dated June 2026, recommended an increase of 6 percent in water and sewer rates effective October 2026 to provide revenue sufficient to pay operating costs, fund the capital improvements described above, and maintain debt service coverage of at least 1.15 times as required by the City's loan agreements; and
+WHEREAS, the City's rate consultant, in its Water and Sewer Rate Study dated June 2026, recommended an increase of 6 percent effective October 2026 to pay operating costs, fund the capital improvements described above, and maintain debt service coverage of at least 1.15 times as required by the City's loan agreements; and
 
-WHEREAS, the Utilities Committee of Council held public meetings on the rate study on July 13 and August 10, 2026, and recommended the increase to Council;
+WHEREAS, the Utilities Committee reviewed the rate study in public meetings on July 13 and August 10, 2026, and recommended the increase;
 
 NOW, THEREFORE, BE IT ORDAINED by the Council of the City of Defiance, Ohio, a majority of all members elected thereto concurring:
 
-SECTION 1. That Section 1042.03 of the Codified Ordinances of the City of Defiance, "Water Rates," is hereby amended to read as follows:
+SECTION 1. Section 1042.03, "Water Rates," is hereby amended to read as follows:
 
 1042.03 WATER RATES.
 
-(a) Quarterly service charge. Each water account shall be charged a quarterly service charge based on meter size, as follows:
+(a) Quarterly service charge, by meter size:
 
 Meter size        Current (through 9/30/2026)    Effective with bills issued on or after 10/1/2026
 5/8 x 3/4 inch    $5.40                          $5.72
@@ -39,20 +35,18 @@ Meter size        Current (through 9/30/2026)    Effective with bills issued on 
 4 inch            $129.50                        $137.27
 6 inch            $259.00                        $274.54
 
-(b) Commodity charge. In addition to the quarterly service charge, each account shall be charged for all water used, as measured by the meter, at the following rate:
+(b) Commodity charge for all water used, as measured by the meter:
 
 Inside City:      $5.10 per 1,000 gallons (current); $5.41 per 1,000 gallons (effective with bills issued on or after 10/1/2026)
 Outside City:     $7.65 per 1,000 gallons (current); $8.11 per 1,000 gallons (effective with bills issued on or after 10/1/2026)
 
-(c) Bulk water sold at the City bulk station shall be charged at $9.15 per 1,000 gallons, with a minimum charge of $5.00 per transaction.
+(c) Charges shall be billed quarterly in arrears, based on meter readings taken by the Division of Utilities.
 
-(d) Charges for water used and service charges shall be billed quarterly in arrears, based on meter readings taken by the Division of Utilities. Where a reading cannot be obtained, consumption may be estimated in accordance with Section 1042.07.
-
-SECTION 2. That Section 1048.04 of the Codified Ordinances of the City of Defiance, "Sewer Rates," is hereby amended to read as follows:
+SECTION 2. Section 1048.04, "Sewer Rates," is hereby amended to read as follows:
 
 1048.04 SEWER RATES.
 
-(a) Quarterly service charge. Each sewer account shall be charged a quarterly service charge based on the size of the water meter serving the premises, as follows:
+(a) Quarterly service charge, by size of the water meter serving the premises:
 
 Meter size        Current (through 9/30/2026)    Effective with bills issued on or after 10/1/2026
 5/8 x 3/4 inch    $4.60                          $4.88
@@ -64,51 +58,32 @@ Meter size        Current (through 9/30/2026)    Effective with bills issued on 
 4 inch            $110.30                        $116.92
 6 inch            $220.50                        $233.73
 
-(b) Commodity charge. In addition to the quarterly service charge, each sewer account shall be charged on the basis of water used, as measured by the water meter serving the premises, at the following rate:
+(b) Commodity charge, based on water used as measured by the water meter serving the premises:
 
 Inside City:      $4.90 per 1,000 gallons (current); $5.19 per 1,000 gallons (effective with bills issued on or after 10/1/2026)
 Outside City:     $7.35 per 1,000 gallons (current); $7.79 per 1,000 gallons (effective with bills issued on or after 10/1/2026)
 
-(c) Where a customer has installed a separately metered irrigation service approved by the Division of Utilities, water measured by the irrigation meter shall not be subject to the sewer commodity charge.
-
-(d) Industrial users subject to pretreatment surcharges shall continue to be billed in accordance with Section 1048.09.
+(c) Water measured by an approved separate irrigation meter is not subject to the sewer commodity charge.
 
 SECTION 3. Effect on a typical residential customer. For the information of Council and the public, the rate consultant has estimated that a typical inside-city residential customer with a 5/8 x 3/4 inch meter using 9,000 gallons per quarter will pay $106.00 per quarter for water and sewer service under the rates in Sections 1 and 2, compared with $100.00 per quarter under the current rates, an increase of $6.00 per quarter or about $2.00 per month.
 
 SECTION 4. The rates and charges set forth in this ordinance shall apply to all bills issued on or after October 1, 2026, including bills for service periods that began before that date.
 
-SECTION 5. Revenue from water rates and charges shall be deposited in the Water Fund and revenue from sewer rates and charges shall be deposited in the Sewer Fund, to be used for the operation, maintenance, improvement and debt service of the respective systems as provided by law.
+SECTION 5. Water revenue shall be deposited in the Water Fund and sewer revenue in the Sewer Fund.
 
-SECTION 6. All ordinances and parts of ordinances inconsistent with this ordinance are hereby repealed to the extent of the inconsistency. The provisions of Sections 1042.03 and 1048.04 as amended by Ordinance No. 2023-37 shall continue to apply to bills issued before October 1, 2026.
+SECTION 6. Sections 1042.03 and 1048.04 as amended by Ordinance No. 2023-37 continue to apply to bills issued before October 1, 2026.
 
-SECTION 7. It is found and determined that all formal actions of this Council concerning and relating to the passage of this ordinance were adopted in an open meeting of this Council, and that all deliberations of this Council and of any of its committees that resulted in such formal action were in meetings open to the public, in compliance with all legal requirements including Section 121.22 of the Ohio Revised Code.
+SECTION 7. All formal actions and deliberations concerning this ordinance took place in open meetings in compliance with Section 121.22 of the Ohio Revised Code.
 
-SECTION 8. This ordinance is hereby declared to be an emergency measure necessary for the immediate preservation of the public peace, health, safety and welfare of the City, and for the further reason that the adjusted rates must be in effect for the quarterly billing cycle issued October 1, 2026 in order to provide revenue for the operation of the water and sewer systems and to meet the City's debt service coverage obligations. Wherefore, this ordinance shall take effect and be in force immediately upon its passage and approval.
+SECTION 8. This ordinance is declared an emergency measure necessary for the preservation of the public peace, health, safety and welfare, and so that the adjusted rates are in effect for the quarterly billing issued October 1, 2026; it takes effect immediately upon passage and approval.
 
-VOTE ON SUSPENSION OF THE RULES (SECOND READING):
-Yeas: Pfahler, Okuley, Sprow, Ruhl, Brinkman, Gaskins
-Nays: Bell
-Motion carried, 6-1.
+VOTE ON SUSPENSION OF THE RULES (SECOND READING): Yeas: Pfahler, Okuley, Sprow, Ruhl, Brinkman, Gaskins. Nays: Bell. Motion carried, 6-1.
 
-VOTE ON PASSAGE AND EMERGENCY CLAUSE:
-Yeas: Pfahler, Okuley, Sprow, Ruhl, Brinkman, Gaskins
-Nays: Bell
-Ordinance passed as an emergency measure, 6-1.
+VOTE ON PASSAGE AND EMERGENCY CLAUSE: Yeas: Pfahler, Okuley, Sprow, Ruhl, Brinkman, Gaskins. Nays: Bell. Passed as an emergency measure, 6-1.
 
-Passed: September 8, 2026
-
-______________________________
-Gary Lehman, President of Council
-
-Attest:
-
-______________________________
-Sandra Moll, Clerk of Council
-
-Approved: September 9, 2026
-
-______________________________
-Gary Lehman, President of Council and Acting Mayor
+Passed: September 8, 2026            /s/ Gary Lehman, President of Council
+Attest:                              /s/ Sandra Moll, Clerk of Council
+Approved: September 9, 2026          /s/ Gary Lehman, President of Council and Acting Mayor
 
 Clerk's note: Councilman Bell stated for the record that he supported the plant improvements but would have preferred phasing the increase over two years. Councilwoman Okuley asked that the Division of Utilities include information on the new rates with the October bills and on the City website. Utilities Superintendent Kevin Shaffer stated that a notice would be printed on the October 1 bill and posted online.
 

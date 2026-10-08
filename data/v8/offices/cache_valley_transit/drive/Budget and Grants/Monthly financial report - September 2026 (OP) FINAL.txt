@@ -1,0 +1,88 @@
+CACHE VALLEY TRANSIT DISTRICT
+MONTHLY FINANCIAL REPORT - SEPTEMBER 2026 (unaudited)
+Prepared by Owen Prestwich, Finance Director, October 13, 2026
+For the Board of Trustees, October 28, 2026 (third quarter financials, agenda item 5C)
+
+Percent of year elapsed: 75.0%
+
+1. SUMMARY
+   - Operating revenue year to date is 76.4% of the annual budget; operating expenses are 72.0%.
+   - Local sales tax receipts year to date are 1.7% above the same period of 2025. September's
+     distribution (July sales) was 0.9% above September 2025, slower growth than the first half.
+   - Fuel is under budget (diesel averaged $3.41/gal in Q3 against $3.65 budgeted).
+   - Overtime is over budget in Operations and Call-A-Ride because of operator vacancies;
+     partly offset by unfilled positions (wages under budget).
+   - Fund balance (unassigned, general fund) at 9/30: $6.92 million, about 5.2 months of operating
+     expense, above the board's 4-month minimum.
+
+2. OPERATING REVENUE (general fund)
+                                      Annual budget    YTD actual    % of budget
+   Local sales tax (0.25%)             $14,880,000    $11,463,000       77.0%
+   FTA 5307 operating assistance        $2,610,000     $1,902,000       72.9%
+   FTA 5307 preventive maintenance        $802,000       $584,000       72.8%
+   State grants (operating)               $310,000       $232,500       75.0%
+   Advertising                             $84,000        $69,470       82.7%
+   Interest earnings                      $240,000       $208,900       87.0%
+   Miscellaneous (fuel tax refund, etc.)   $46,000        $37,800       82.2%
+   TOTAL OPERATING REVENUE            $18,972,000    $14,497,670       76.4%
+
+   Fare revenue: none (zero-fare system).
+
+3. OPERATING EXPENSE BY DEPARTMENT
+                                      Annual budget    YTD actual    % of budget
+   Administration and Board              $1,640,000     $1,151,000      70.2%
+   Operations (fixed route)              $9,880,000     $7,318,000      74.1%
+   Call-A-Ride                           $2,460,000     $1,821,000      74.0%
+   Fleet                                 $3,120,000     $2,184,000      70.0%
+   Facilities and stops                    $910,000       $587,000      64.5%
+   Planning and route study                $520,000       $296,000      56.9%
+   Communications                          $240,000       $163,000      67.9%
+   TOTAL OPERATING EXPENSE              $18,770,000    $13,520,000      72.0%
+   (Total excludes capital projects and debt service; the district has no outstanding debt.)
+
+   Notes:
+   a. Operations overtime: $412,600 YTD against $310,000 budgeted for the year. Base wages are
+      $298,000 under budget because of vacancies. Net, Operations is within budget.
+   b. Planning includes the route study contract: $186,000 of $240,000 billed to date; the
+      round 2 outreach (fall) is the largest remaining piece.
+   c. Facilities and stops: snow removal season begins in November; $46,000 is encumbered for
+      the contractor (option year 2), of which $18,060 falls in this budget year.
+   d. Communications: printing of the fall timetable books and route study surveys ($8,345).
+
+4. CAPITAL (summary; see grants tracker for detail)
+   Capital spending is reported by project at each quarter end. Q3 federal draws were submitted
+   October 12 (Teresa Vaughn). Facility closeout draw remains pending the single audit.
+
+5. CASH AND INVESTMENTS AT 9/30/2026
+   Operating checking                               $1,284,000
+   Utah Public Treasurers' Investment Fund (PTIF)   $8,910,000
+   Total                                            $10,194,000
+   Of which restricted for capital match and grant timing: $3,274,000.
+
+6. CHECK REGISTER
+   September checks and ACH payments: 318 transactions, $1,611,442. Largest items: payroll
+   (biweekly, two runs, $892,300), diesel ($63,115), insurance pool Q4 installment ($38,900),
+   parts ($22,480 blanket). Full register in the board packet (consent agenda item 3C).
+
+6a. PERSONNEL (headcount at 9/30, budgeted full-time positions)
+   Fixed-route operators: 60 filled of 64 (six trainees in class from 9/28, not counted until
+   graduation). Mechanics: posting open through 10/30. Call-A-Ride: new coordinator starts 11/2.
+   Administration: all positions filled following the GM appointment.
+   Payroll runs: 9/11 and 9/25. Next: 10/9, 10/23, 11/6.
+
+6b. ADVERTISING
+   Revenue through September $69,470 (82.7% of budget). Communications projects about $85,000 for
+   the year, slightly above the $84,000 budget, depending on two King sign renewals due 10/31.
+   Production pass-through costs are netted against revenue.
+
+6c. OUTSTANDING RECEIVABLES
+   FTA operating and preventive maintenance draw (Q3) submitted 10/12; expected within 10 business
+   days. State operating grant Q3 installment invoiced 10/5. Fuel tax refund (Q3) filed 10/2.
+
+7. LOOKING AHEAD (Q4)
+   - Sales tax: October and November distributions reflect the back-to-school period; Finance
+     expects modest growth (0-2%) for the rest of the year.
+   - Year-end projection: operating expense about 96-97% of budget; revenue about 101%.
+   - Audit: single audit fieldwork set for March; engagement letter signed in August.
+
+Questions: Owen Prestwich, ext. 120, oprestwich@rideconnectutah.gov

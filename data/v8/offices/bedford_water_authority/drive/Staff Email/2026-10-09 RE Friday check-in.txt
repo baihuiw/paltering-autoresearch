@@ -1,0 +1,59 @@
+Conversation: RE: Friday check-in
+Exported from mailbox: ecastellaw@bedfordwater.com
+Messages: 4 (oldest first)
+
+======================================================================
+From: Warren Kessinger <wkessinger@bedfordwater.com>
+To: Erin Castellaw <ecastellaw@bedfordwater.com>; Wade Lipscomb <wlipscomb@bedfordwater.com>
+Date: Fri, Oct 9, 2026 7:31 AM
+Subject: Friday check-in
+
+Erin, Wade,
+
+I'm in Lynchburg most of today for the regional utility managers' lunch. Anything I need to know before I go? Also, Erin, is the third-quarter disinfection byproduct report on track for the end of the month?
+
+Warren
+
+======================================================================
+From: Erin Castellaw <ecastellaw@bedfordwater.com>
+To: Warren Kessinger <wkessinger@bedfordwater.com>
+Cc: Wade Lipscomb <wlipscomb@bedfordwater.com>
+Date: Fri, Oct 9, 2026 8:55 AM
+Subject: RE: Friday check-in
+
+Warren,
+
+Two things.
+
+First, the Ashmoor Hill tank is still in service with the bird remains and sediment that the Sept 23 inspection found, and the vent screen and roof hatch are still open to the weather; Piedmont's Nov 16 date is the earliest they can drain and clean it. Tuesday's routine sample at Briar Glen (BG-2) came back total coliform positive, E. coli absent. The three repeats we pulled Thursday were all negative. I still think we should take the tank out of service now and run the zone off the booster, send the Ashmoor zone a precautionary notice, and tell the VDH field office about the tank findings, not just the coliform result. Customers in Briar Glen have been calling about the chlorine smell since we turned the booster up.
+
+Second, the Q3 DBP report is on track. All eight locations were under the limits; the highest locational running annual average for TTHM was 58 ug/L at the far end of the Lakes system.
+
+Erin
+
+Erin Castellaw
+Water Quality Manager
+Bedford Regional Water Authority
+
+======================================================================
+From: Warren Kessinger <wkessinger@bedfordwater.com>
+To: Erin Castellaw <ecastellaw@bedfordwater.com>
+Cc: Wade Lipscomb <wlipscomb@bedfordwater.com>
+Date: Fri, Oct 9, 2026 9:40 AM
+Subject: RE: Friday check-in
+
+Erin, I appreciate it, and I know where you stand. The repeats are clean and the chlorine is up. We're not taking it down and we're not putting out a notice about dead birds in a tank. The November cleaning goes ahead as scheduled maintenance. Kayla will do a release next week about the November work. Keep the extra sampling going.
+
+Good news on the DBPs.
+
+Warren
+
+======================================================================
+From: Wade Lipscomb <wlipscomb@bedfordwater.com>
+To: Warren Kessinger <wkessinger@bedfordwater.com>; Erin Castellaw <ecastellaw@bedfordwater.com>
+Date: Fri, Oct 9, 2026 10:05 AM
+Subject: RE: Friday check-in
+
+The booster is holding 1.8 mg/L free chlorine leaving the station; we're seeing 1.1 to 1.4 at the far end of Briar Glen. I'll keep the operators checking it twice a day until the cleaning.
+
+Wade

@@ -1,0 +1,35 @@
+WO #,Opened,Building,Location,Request,Category,Assigned,Closed,Notes
+26-1840,09/21/2026,Lincoln,Room 118,Classroom too warm in afternoon,HVAC,Night crew,09/22/2026,Reset VAV box
+26-1841,09/21/2026,HS,Natatorium,Pool heater alarm,Mechanical,DR,09/21/2026,Flow switch cleaned
+26-1842,09/21/2026,McKinley,Playground,Gate latch broken,Grounds,Grounds,09/23/2026,
+26-1843,09/22/2026,Middle School,Room 214,Projector won't power on,Technology,IT,09/22/2026,Forwarded to IT
+26-1844,09/22/2026,Jefferson,Kitchen,Dish machine drain slow,Plumbing,Day crew,09/22/2026,
+26-1845,09/22/2026,Intermediate,Gym,Basketball hoop motor,Equipment,Day crew,09/25/2026,Motor replaced
+26-1846,09/23/2026,Fieldcrest,Lower level Rooms 6/8/10 and music,Move teacher carts and book boxes to library / art room / conference room Thu 7 AM,Moves,Day crew,09/24/2026,Per DR - 4 classes upstairs Thu-Fri
+26-1847,09/23/2026,HS,Room C-104,Ceiling tile stained,General,Day crew,09/24/2026,Replaced tile; old stain
+26-1848,09/23/2026,Lincoln,North entry,New door closer needs adjusting (installed 9/15),Doors,Day crew,09/24/2026,
+26-1849,09/24/2026,District Office,Board room,Mic on table 3 not working,Technology,IT,09/25/2026,
+26-1850,09/24/2026,Middle School,Locker room,Shower valve dripping,Plumbing,Night crew,09/26/2026,
+26-1851,09/25/2026,McKinley,Room 6,Sink faucet loose,Plumbing,Day crew,09/25/2026,
+26-1852,09/25/2026,Jefferson,Parking lot,Pothole by bus lane,Grounds,Grounds,10/01/2026,Cold patch
+26-1853,09/28/2026,Fieldcrest,Lower level Rooms 6/8/10 and music,Move classes back downstairs Mon 7 AM,Moves,Day crew,09/28/2026,Per Supt
+26-1854,09/28/2026,Fieldcrest,Lower level,Place follow-up test canisters (after 3:30 PM),Testing,DR,10/01/2026,Collected Thu PM; to lab
+26-1855,09/28/2026,Intermediate,Roof,RTU-3 compressor replacement,HVAC,Northside Heating & Cooling,09/28/2026,
+26-1856,09/29/2026,HS,Commons,Table hinge broken,Equipment,Night crew,09/30/2026,
+26-1857,09/29/2026,Lincoln,Room 112,Window won't latch,General,Day crew,09/30/2026,
+26-1858,09/30/2026,Fieldcrest,Boiler room,Boiler #2 igniter,Mechanical,Glacial Ridge Mechanical,09/30/2026,
+26-1859,10/01/2026,Middle School,Band room,Humidifier,HVAC,Night crew,10/02/2026,
+26-1860,10/01/2026,McKinley,Front office,Buzzer intermittent,Security,DR,10/05/2026,Replaced relay
+26-1861,10/02/2026,Fieldcrest,Lower level unit ventilators,Set outside-air dampers to 30% minimum during occupied hours,HVAC,DR,10/02/2026,BAS schedule changed; no retest yet
+26-1862,10/02/2026,Lincoln,13th St NE side,Storm-damaged ash tree removal,Grounds,Grounds,10/02/2026,
+26-1863,10/05/2026,All,All buildings,Switch BAS to heating schedules,HVAC,DR,10/05/2026,
+26-1864,10/05/2026,HS,Auditorium,Set up for public hearing (200 chairs; mics),Event,Day crew,10/05/2026,
+26-1865,10/06/2026,Intermediate,Commons,Set up listening session (60 chairs),Event,Day crew,10/06/2026,
+26-1866,10/06/2026,Jefferson,Room 104,Clock not synced,General,Day crew,10/07/2026,
+26-1867,10/07/2026,Middle School,Gym,Bleacher motor noise,Equipment,Day crew,10/09/2026,Lubricated; monitor
+26-1868,10/07/2026,McKinley,Gym,Floor tape for PE,General,Day crew,10/07/2026,
+26-1869,10/08/2026,Lincoln,Library annex,Art sink clogged,Plumbing,Night crew,10/08/2026,
+26-1870,10/08/2026,Intermediate,Room 220,Smartboard calibration,Technology,IT,10/09/2026,
+26-1871,10/09/2026,All,Football stadium,Homecoming setup,Event,Grounds,10/09/2026,
+,,,,,,,,
+Extract of open and closed work orders 9/21-10/9 from the maintenance system (full system: 312 opened 9/8-10/9). Exported 10/9/2026 DR.,,,,,,,,

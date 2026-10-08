@@ -1,0 +1,60 @@
+BEDFORD REGIONAL WATER AUTHORITY
+WS-26-07 Waterlick Road Booster Pump Station Rehabilitation
+Pre-bid meeting notes
+
+Date: Thursday, October 8, 2026, 10:00 a.m.
+Place: site walk at the booster, Forest; questions at the Authority Annex
+Conducted by: Sanjay Mehra, P.E., Director of Engineering
+Also present: Wade Lipscomb (Operations); Rusty Tharpe (Distribution); the design consultant's project manager
+Notes by S. Mehra. Not part of the contract documents unless restated in an addendum.
+
+ATTENDANCE (sign-in sheet on file; meeting was not mandatory)
+A - utility GC, Lynchburg; B - GC, Roanoke; C - mechanical/pump, Salem; D - utility, Bedford County;
+E - electrical (may bid prime); F - GC, Danville; G - mechanical, Lynchburg; H - pump station specialist, Richmond.
+Suppliers (not bidding): Pumpline Equipment; Blue Mountain Generator Service.
+
+1. PROJECT OVERVIEW (SM)
+The Waterlick Rd booster was built in 1994 and lifts water from the Forest Central zone to the higher ground along Waterlick Rd and Boonsboro Rd. About 1,900 connections are downstream. The two existing horizontal split-case pumps (50 hp each) are original. One motor was rewound by Rivermont Motor Rewind in 2023. MCC parts are no longer made, and there is no permanent generator.
+Budget $520,000, capital reserve. Engineer's estimate not published.
+
+2. SCOPE OF WORK (summary; drawings and specs govern)
+a. Remove the two split-case pumps and install three new vertical inline pumps (two duty, one standby), 40 hp each, with variable frequency drives.
+b. Replace the motor control center with a new MCC in a NEMA 12 enclosure, new service entrance and automatic transfer switch (ATS).
+c. Furnish and install a 150 kW diesel standby generator on a concrete pad with a sub-base fuel container sized for 24 hours at full load, sound-attenuated enclosure, and a new 6-ft chain link fence section around the pad.
+d. Replace the 8-inch suction and discharge headers and valves inside the building (ductile iron); new mag meter on discharge.
+e. Building: new roof, overhead door, ventilation fan, lighting.
+f. SCADA: tie the new MCC and generator alarms to the radio unit installed in August under WS-26-13 (Authority staff program it).
+g. Site: regrade the turnaround, add stone; erosion control per the county.
+
+3. BYPASS PUMPING AND SEQUENCE
+- The station must stay in service. Customers on the Waterlick Rd and Boonsboro Rd high side cannot be without pressure for more than 4 hours at a time.
+- Contractor furnishes a trailer-mounted temporary pump (minimum 600 gpm at the design head shown on sheet M-3), connected to the existing 6-inch bypass taps outside the building (spec 01 14 00).
+- Cutovers at night only, 10 p.m. to 5 a.m., Sunday through Thursday nights, with 72 hours' notice to Operations. Authority operators run the valves; the contractor does not operate Authority valves.
+- Proposed sequence: bypass in, old pumps and headers out, new headers and pumps 1-2, new MCC, switch over, then pump 3 and the generator. Alternatives may be proposed.
+- Substantial completion 210 calendar days from notice to proceed; final 240 days.
+
+4. QUESTIONS AND ANSWERS
+Q1 (Contractor C): Is the pump make specified or "or equal"? A: Basis of design plus two named equals; others by substitution request 10 days before bids.
+Q2 (Contractor A): Who pays the power company for the new service? A: The Authority; contractor coordinates the outage.
+Q3 (Contractor H): Can the generator be natural gas? A: No gas line on Waterlick Rd. Diesel only.
+Q4 (Contractor E): Arc flash study? A: Yes, required, by the contractor's electrical engineer, labels on the new gear. Spec 26 05 73.
+Q5 (Contractor B): Lead paint or asbestos? A: None found in the 2025 survey; copy in Addendum 1.
+Q6 (Contractor D): Night work and noise near the houses on the east side? A: Allowed for utility work; hospital-grade muffler on the bypass pump and lights aimed away from houses.
+Q7 (Contractor G): Liquidated damages? A: $500 a day. Q8 (Contractor F): Laydown? A: Gravel area west of the building, about 60 x 80 ft.
+Q9 (Contractor C): Will the Authority pre-buy pumps? A: No. 16-18 week lead time fits the schedule.
+Q10 (Contractor A): Is a bid bond required? A: Yes, 5 percent. Performance and payment bonds 100 percent.
+Q11 (Contractor H): Is the 4-hour limit firm? A: Yes. Operations reviews the bypass submittal first.
+
+5. CORRECTION FROM THE SITE WALK
+The spec book says the generator is 125 kW in one place (26 32 13, 2.1) and 150 kW on sheet E-1. 150 kW is correct. Addendum 1 will fix the spec. Rusty noted the yard hydrant on C-2 was removed in 2021.
+
+6. ADDENDUM 1 (planned)
+By Friday, October 23, to all plan holders. Contents: this summary, sign-in sheet, pump equals, the 2025 building survey, revised bid form (separate bypass line) and corrected sheet E-4 (wrong breaker size on the one-line).
+
+7. KEY DATES
+- Last day for written questions: Wednesday, October 28, 5:00 p.m., to engineering@bedfordwater.com. No phone questions.
+- Last addendum: no later than Thursday, November 5.
+- BIDS DUE: Thursday, November 12, 2026, 2:00 p.m., Authority Annex, 1723 Falling Creek Road, Bedford. Opened and read aloud. Bids received after 2:00 will not be opened.
+- Recommendation to the Board: December 15 regular meeting (target).
+
+Meeting ended about 11:40 a.m.

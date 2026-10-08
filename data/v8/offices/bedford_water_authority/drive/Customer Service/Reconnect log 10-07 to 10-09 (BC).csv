@@ -1,0 +1,74 @@
+# Reconnects after the Wed 10/7 shut-off route (cycles 1-4), 10/7-10/9. Exported 10/9 4:30 PM, B. Coles.
+# PA = payment arrangement on file. A $50 processing fee posts on every reconnect; late charge per the Oct 1 cycle unless waived.
+reconnect_date,time_on,account,service_address,cycle,past_due_10_7,pa_on_file,fees_posted,notes
+10/07/2026,12:12,10-13062-01,531 Ashland Ave,2,212.25,No,$50.00,Paid in full at counter
+10/07/2026,11:05,30-14854-04,652 Ashland Ave,3,125.65,No,$50.00,Paid at counter; new PA set for remainder
+10/07/2026,17:12,20-10254-03,939 Ashland Ave,2,404.80,No,$50.00,Paid at counter (money order)
+10/08/2026,08:25,20-16325-02,1456 Ashland Ave,2,385.93,Yes - current,$50.00 + $38.59,On PA (current) - in error; flagged
+10/08/2026,08:40,20-13109-02,1693 Ashland Ave,2,401.45,Yes - current,$50.00 + $40.15,PA current - disc. in error; fees posted
+10/07/2026,11:05,10-16905-01,1803 Ashland Ave,1,238.60,Yes - current,$50.00 + $23.86,PA current - disc. in error; fees posted
+10/07/2026,17:20,20-16416-03,173 Bridge St,2,241.47,Yes - current,$50.00 + $24.15,On PA (current) - in error; flagged
+10/07/2026,11:20,10-12070-02,1052 Bridge St,1,127.01,No,$50.00,Paid by phone (card)
+10/07/2026,17:12,10-11133-03,1062 Bridge St,1,70.49,No,$50.00,Paid by phone (card)
+10/07/2026,15:12,30-16042-02,134 Burks Hill Rd,3,379.43,Yes - current,$50.00 + $37.94,PA current - disc. in error; fees posted
+10/07/2026,17:20,20-19664-01,1036 Burks Hill Rd,2,308.76,Yes - current,$50.00 + $30.88,PA current - shut off in error; fees posted
+10/07/2026,11:55,10-19803-01,1253 Burks Hill Rd,1,163.72,Yes - current,$50.00 + $16.37,PA current - shut off in error; fees posted
+10/07/2026,15:55,10-11233-04,1259 Burks Hill Rd,1,64.54,No,$50.00,Paid at counter; new PA set for remainder
+10/07/2026,17:05,20-15597-03,1549 Burks Hill Rd,2,372.05,Yes - current,$50.00 + $37.21,PA current - disc. in error; fees posted
+10/07/2026,16:34,10-18190-01,122 Cedar Ave,1,264.76,No,$50.00,Paid by phone; tenant
+10/08/2026,08:25,10-11314-01,375 Cedar Ave,1,375.28,No,$50.00,Paid at counter; new PA set for remainder
+10/07/2026,17:41,30-16364-04,908 Cedar Ave,3,79.17,No,$50.00,Paid by phone; tenant
+10/07/2026,10:12,10-15082-01,920 Cedar Ave,1,404.15,Yes - current,$50.00 + $40.41,PA current - shut off in error; fees posted
+10/07/2026,15:20,40-17967-03,1833 Cedar Ave,4,101.28,Yes - current,$50.00 + $10.13,On PA (current) - in error; flagged
+10/07/2026,17:34,20-18493-02,285 College St,2,379.72,Yes - current,$50.00 + $37.97,PA current - disc. in error; fees posted
+10/08/2026,09:10,40-14105-02,958 College St,4,375.46,No,$50.00,Paid at counter (money order)
+10/07/2026,12:12,20-19553-03,292 Edmund St,2,232.69,Yes - current,$50.00 + $23.27,PA current - shut off in error; fees posted
+10/07/2026,17:34,10-14535-02,1376 Edmund St,1,150.36,Yes - current,$50.00 + $15.04,PA current - shut off in error; fees posted
+10/08/2026,09:40,40-16267-04,1746 Edmund St,4,360.15,Yes - current,$50.00 + $36.02,On PA (current) - in error; flagged
+10/07/2026,14:41,40-15248-01,911 Forest Rd (county),4,63.43,Yes - current,$50.00 + $6.34,On PA (current) - in error; flagged
+10/07/2026,10:55,30-19348-03,1431 Forest Rd (county),3,98.55,Yes - current,$50.00 + $9.86,PA current - disc. in error; fees posted
+10/07/2026,12:05,20-10405-03,529 Grove St,2,414.05,Yes - current,$50.00 + $41.41,PA current - shut off in error; fees posted
+10/07/2026,13:12,40-11786-03,1016 Grove St,4,354.47,No,$50.00,Paid online - portal
+10/07/2026,10:12,20-10176-04,1163 Grove St,2,132.24,Yes - current,$50.00 + $13.22,PA current - disc. in error; fees posted
+10/07/2026,16:55,20-16447-02,1901 Grove St,2,192.33,Yes - current,$50.00 + $19.23,PA current - disc. in error; fees posted
+10/07/2026,15:34,40-13225-01,185 Hendricks St,4,169.45,Yes - current,$50.00 + $16.95,PA current - shut off in error; fees posted
+10/07/2026,16:05,10-12023-02,506 Hendricks St,1,411.58,No,$50.00,Paid by phone; tenant
+10/07/2026,11:05,30-14290-01,669 Hendricks St,3,212.02,Yes - current,$50.00 + $21.20,On PA (current) - in error; flagged
+10/07/2026,13:05,40-14509-04,885 Hendricks St,4,207.56,No,$50.00,Paid in full at counter
+10/08/2026,08:25,20-18734-03,1357 Hendricks St,2,103.31,Yes - current,$50.00 + $10.33,On PA (current) - in error; flagged
+10/07/2026,17:41,40-18070-01,1150 Hilltop Dr,4,255.86,Yes - current,$50.00 + $25.59,On PA (current) - in error; flagged
+10/07/2026,16:41,20-18565-03,1328 Hilltop Dr,2,125.47,Yes - current,$50.00 + $12.55,PA current - shut off in error; fees posted
+10/07/2026,16:41,30-19387-04,1411 Hilltop Dr,3,90.51,Yes - current,$50.00 + $9.05,PA current - shut off in error; fees posted
+10/07/2026,16:41,40-10454-01,1547 Hilltop Dr,4,346.00,No,$50.00,Paid by phone; tenant
+10/08/2026,08:10,10-18045-01,101 Jackson St,1,394.27,Yes - current,$50.00 + $39.43,PA current - disc. in error; fees posted
+10/07/2026,17:34,40-16621-03,652 Jackson St,4,95.23,No,$50.00,Paid at counter (money order)
+10/07/2026,13:34,40-18601-03,1245 Jackson St,4,277.86,No,$50.00,Paid online - portal
+10/07/2026,12:12,20-10373-01,1012 Longwood Ave,2,52.40,No,$50.00,Paid online - portal
+10/07/2026,17:05,30-15822-02,1140 Longwood Ave,3,233.88,No,$50.00,Paid by phone; tenant
+10/07/2026,16:05,30-11872-03,1306 Longwood Ave,3,159.30,Yes - current,$50.00 + $15.93,"PA current, last pmt 9/25 - shut off in error, 10/7 list was not checked against the PA sheet. $50 proc fee + $15.93 late chg posted; flagged 10/9"
+10/08/2026,09:40,40-10380-04,1418 Longwood Ave,4,277.08,Yes - current,$50.00 + $27.71,On PA (current) - in error; flagged
+10/07/2026,13:41,20-18749-02,160 Macon St,2,275.56,Yes - current,$50.00 + $27.56,PA current - shut off in error; fees posted
+10/07/2026,15:12,20-15695-02,781 Macon St,2,129.15,No,$50.00,Paid by phone (card)
+10/07/2026,11:20,10-12194-02,891 Macon St,1,192.30,Yes - current,$50.00 + $19.23,PA current - disc. in error; fees posted
+10/07/2026,16:55,40-18901-02,1123 Macon St,4,302.90,Yes - current,$50.00 + $30.29,PA current - shut off in error; fees posted
+10/07/2026,11:55,10-13292-03,278 Mountain Ave,1,236.11,No,$50.00,Paid online - portal
+10/07/2026,10:05,20-11155-04,959 Otey St,2,331.46,No,$50.00,Paid by phone; tenant
+10/07/2026,11:12,40-12401-02,1551 Otey St,4,112.17,No,$50.00,Paid by phone (card)
+10/07/2026,17:05,30-11560-01,535 Park St,3,332.48,No,$50.00,Paid online - portal
+10/07/2026,15:34,40-17650-04,1228 Park St,4,126.15,Yes - current,$50.00 + $12.62,PA current - disc. in error; fees posted
+10/07/2026,16:34,10-10669-02,721 Peaks St,1,181.76,Yes - current,$50.00 + $18.18,PA current - disc. in error; fees posted
+10/07/2026,10:20,40-13196-02,768 Peaks St,4,380.26,Yes - current,$50.00 + $38.03,On PA (current) - in error; flagged
+10/07/2026,15:20,40-19333-02,1025 Peaks St,4,151.98,Yes - current,$50.00 + $15.20,PA current - shut off in error; fees posted
+10/07/2026,15:34,20-16645-02,1310 Peaks St,2,332.67,Yes - current,$50.00 + $33.27,PA current - disc. in error; fees posted
+10/07/2026,14:34,20-13028-01,1439 Peaks St,2,85.52,Yes - current,$50.00 + $8.55,PA current - disc. in error; fees posted
+10/08/2026,09:25,10-13802-03,1873 Peaks St,1,128.37,Yes - current,$50.00 + $12.84,PA current - disc. in error; fees posted
+10/07/2026,17:55,20-18733-01,463 Poplar St,2,127.32,No,$50.00,Paid in full at counter
+10/07/2026,11:55,40-19419-01,229 Tiffany Dr,4,136.18,Yes - current,$50.00 + $13.62,PA current - disc. in error; fees posted
+10/07/2026,16:05,40-18270-01,490 Tiffany Dr,4,84.62,No,$50.00,Paid online - portal
+10/07/2026,11:55,30-15584-04,1074 Tiffany Dr,3,213.30,Yes - current,$50.00 + $21.33,On PA (current) - in error; flagged
+10/07/2026,12:34,10-19001-01,1851 Tiffany Dr,1,223.50,Yes - current,$50.00 + $22.35,PA current - shut off in error; fees posted
+10/07/2026,17:34,40-18879-01,1758 Washington St,4,153.81,Yes - current,$50.00 + $15.38,PA current - disc. in error; fees posted
+10/07/2026,14:41,30-15989-03,1854 Washington St,3,393.76,Yes - current,$50.00 + $39.38,On PA (current) - in error; flagged
+10/07/2026,10:55,30-10440-01,488 Woodland Dr,3,106.25,Yes - current,$50.00 + $10.62,On PA (current) - in error; flagged
+10/08/2026,09:10,40-10864-03,722 Woodland Dr,4,264.41,No,$50.00,Paid at counter; new PA set for remainder
+# Totals: 70 reconnects; 26 paid after shut-off; 44 were PA accounts current on their plans.

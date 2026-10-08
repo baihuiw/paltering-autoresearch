@@ -1,0 +1,42 @@
+# Cash and investments as of September 30, 2026. Book value. Prepared by G. Ashworth 10/9/2026 for the Finance Committee and the November packet. All holdings comply with the Authority investment policy and state law for public funds.
+account_or_holding,fund,restriction,held_at,instrument,purchase_date,maturity,yield_pct,book_value,notes
+Operating checking,Operating,Unrestricted,Depository bank,Demand deposit,,,0.75,1635049.89,Collateralized under the state public deposits act; balance after 9/30 AP run
+Payroll checking,Operating,Unrestricted,Depository bank,Demand deposit,,,0.00,214880.10,Funded each payday from operating; 10/2 payroll cleared 10/2
+Lockbox deposit account,Operating,Unrestricted,Depository bank,Demand deposit,,,0.50,96412.57,Mailed payments; sweeps to operating daily
+Card and portal clearing,Operating,Unrestricted,Depository bank,Demand deposit,,,0.00,18207.44,Card and bank draft settlements in transit (2 days)
+Petty cash and counter change funds,Operating,Unrestricted,On hand,Cash,,,0.00,1850.00,"Counter drawers $1,500; Operations yard $350"
+Pool - operating,Operating,Unrestricted,State local government investment pool,Pool shares,,Daily,4.31,3412000.00,Same-day liquidity; used for payroll and AP transfers
+Pool - operating reserve,Operating,Unrestricted,State local government investment pool,Pool shares,,Daily,4.31,1105000.00,Board policy 90-day operating reserve portion
+CD 0812,Operating,Unrestricted,Local bank (collateralized),Certificate of deposit,03/14/2026,03/14/2027,4.05,500000.00,
+CD 0847,Operating,Unrestricted,Local bank (collateralized),Certificate of deposit,06/02/2026,12/02/2026,4.12,250000.00,Renewal decision in November
+CD 0861,Operating,Unrestricted,Second local bank (collateralized),Certificate of deposit,08/18/2026,08/18/2027,3.88,250000.00,
+US Treasury note 4.25%,Operating,Unrestricted,Safekeeping custodian,US Treasury note,11/20/2025,11/15/2026,4.18,400000.00,Matures 11/15; roll to pool unless rates hold
+US Treasury bill,Operating,Unrestricted,Safekeeping custodian,US Treasury bill,07/09/2026,01/07/2027,4.02,300000.00,Discount; book shown at amortized cost
+Federal agency note,Operating,Unrestricted,Safekeeping custodian,Federal agency note,02/26/2026,02/26/2028,3.95,300000.00,Callable quarterly after 2/26/2027
+Pool - capital reserve,Capital reserve,Unrestricted,State local government investment pool,Pool shares,,Daily,4.31,785000.00,"Board-designated; WS-26-07, WS-26-11, WS-26-13 draws"
+CD 0790,Capital reserve,Unrestricted,Local bank (collateralized),Certificate of deposit,10/06/2025,10/06/2026,4.40,500000.00,Matures 10/6; moved to pool on maturity
+US Treasury note 3.875%,Capital reserve,Unrestricted,Safekeeping custodian,US Treasury note,01/15/2026,01/15/2028,3.79,600000.00,
+Federal agency note,Capital reserve,Unrestricted,Safekeeping custodian,Federal agency note,05/12/2026,05/12/2027,4.09,400000.00,
+Vehicle and equipment reserve,Capital reserve,Unrestricted,State local government investment pool,Pool shares,,Daily,4.31,168300.00,After Unit 41 deposit; delivery expected January
+Pool - bond construction fund,2025 bond construction,Restricted - bond resolution,State local government investment pool,Pool shares,,Daily,4.31,1488400.00,"Drawn monthly for WS-26-02, -05, -12 requisitions"
+US Treasury bill,2025 bond construction,Restricted - bond resolution,Trustee,US Treasury bill,04/01/2026,10/29/2026,4.21,1000000.00,Laddered to the construction draw schedule
+US Treasury bill,2025 bond construction,Restricted - bond resolution,Trustee,US Treasury bill,04/01/2026,01/28/2027,4.15,900000.00,
+US Treasury bill,2025 bond construction,Restricted - bond resolution,Trustee,US Treasury bill,04/01/2026,04/29/2027,4.09,550000.00,
+Debt service fund - Series 2016,Debt service,Restricted - bond resolution,Trustee,Money market (Treasury only),,Daily,4.02,405000.00,Monthly set-asides for 11/1 payment
+Debt service fund - Series 2019,Debt service,Restricted - bond resolution,Trustee,Money market (Treasury only),,Daily,4.02,552500.00,Monthly set-asides for 11/1 payment
+Debt service fund - Series 2025,Debt service,Restricted - bond resolution,Trustee,Money market (Treasury only),,Daily,4.02,642500.00,Monthly set-asides for 11/1 payment
+Debt service reserve - Series 2016,DS reserve,Restricted - bond resolution,Trustee,US Treasury note,11/01/2024,11/01/2028,3.71,810000.00,"Fully funded; required $810,000"
+Debt service reserve - Series 2019,DS reserve,Restricted - bond resolution,Trustee,Federal agency note,12/01/2023,06/01/2029,3.64,1105000.00,"Fully funded; required $1,105,000"
+Debt service reserve - Series 2025,DS reserve,Restricted - bond resolution,Trustee,US Treasury note,04/01/2025,04/01/2030,3.92,1285000.00,"Fully funded at closing; required $1,285,000"
+Customer deposits account,Customer deposits,Restricted - held for customers,Depository bank,Interest-bearing deposit,,,2.10,2114200.00,Equals deposit liability; credited back after 12 months on-time payment
+Bulk water prepaid balances,Customer deposits,Restricted - held for customers,Depository bank,Interest-bearing deposit,,,2.10,38650.00,Fill station prepaid balances (41 accounts)
+Developer escrow - line work,Escrow,Restricted - escrow,Depository bank,Interest-bearing deposit,,,2.10,186300.00,Held under developer agreements until acceptance
+Smith Mountain Lake WTP joint reserve (our share),Joint WTP,Restricted - joint agreement,State local government investment pool,Pool shares,,Daily,4.31,322750.00,Held for WS-26-06 membrane cartridges; invoiced January
+SUBTOTAL - unrestricted (counts toward days cash),,,,,,,,10936700.00,"209 days at $52,329 per day (FY2027 operating budget excl. debt service and capital, $19,100,000 / 365)"
+SUBTOTAL - 2025 bond construction fund,,,,,,,,3938400.00,"Down from $4,212,600 at 8/31 after the September requisition"
+SUBTOTAL - debt service funds,,,,,,,,1600000.00,Nov 1 payments: principal and interest due on all three series
+SUBTOTAL - debt service reserves,,,,,,,,3200000.00,All reserve requirements met
+SUBTOTAL - all restricted and held for others,,,,,,,,11400300.00,
+TOTAL CASH AND INVESTMENTS 9/30/2026,,,,,,,,22337000.00,"Book value; market value within 0.2% (unrealized gain on notes $11,840)"
+Weighted average yield - portfolio,,,,,,,4.06,,Pool rate 4.31% for September (4.36% August)
+Comparison - 8/31/2026 unrestricted,,,,,,,,11041000.00,211 days cash at 8/31

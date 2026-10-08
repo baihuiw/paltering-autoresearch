@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. Varied on purpose: schedule questions, thanks, an FYI, a follow-up, an opinion, a complaint, requests for the right contact, an invitation. None touches a scenario topic (no ditches or culverts, trash or recycling, the Hotchkiss crushing yard or zoning notices, Fillmore Park or playgrounds, fire staffing or response). The bulk agent should make sure ordinary drive files answer them: office hours and the supervisor's Tuesday office hours, leaf pickup dates, trick-or-treat hours, the absentee drop box and Election Day hours, shed permits, golf carts on township roads, Bay County DWS for water bills, the Road Commission for potholes, winter tax bill timing, blight enforcement, the senior club and Lions invitations, the HHW day.",
+  "emails": [
+    {
+      "id": "r1_office_hours",
+      "received": "2026-10-19T06:02:00-04:00",
+      "name": "Diane Kosecki",
+      "address": "1310 Woodside Ave, Essexville MI 48732",
+      "dropdown_topic": "General question",
+      "body": "Hi, is the township office open on Fridays? And I read somewhere the new supervisor has office hours for residents, what day is that? I'd like to stop in about a few things but I work until 2.\n\nThanks, Diane"
+    },
+    {
+      "id": "r2_hhw_thanks",
+      "received": "2026-10-18T19:40:00-04:00",
+      "name": "Roger Pelkey",
+      "address": "2045 Ledyard Rd, Essexville MI 48732",
+      "dropdown_topic": "General question",
+      "body": "Just a note to say the hazardous waste day Saturday was very well run. I had 20 years of old paint cans and stain in the garage and the guys had me in and out in 5 minutes. Please keep doing it every year.\n\nRoger Pelkey"
+    },
+    {
+      "id": "r3_leaf_pickup",
+      "received": "2026-10-19T06:20:00-04:00",
+      "name": "Sue Ann Dziedzic",
+      "address": "418 Kulaw Ave, Bay City MI 48708",
+      "dropdown_topic": "General question",
+      "body": "When does leaf pickup start this year and do the leaves go in bags or at the curb? We have three big maples and they are coming down fast. Last year I put them in bags and they sat there."
+    },
+    {
+      "id": "r4_trick_or_treat",
+      "received": "2026-10-18T21:12:00-04:00",
+      "name": "Jessica Rivard",
+      "address": "1180 Heavenridge Rd, Essexville MI 48732",
+      "dropdown_topic": "General question",
+      "body": "What are the trick or treat hours for the township this year? Is it on Halloween night or a different day since it's a Saturday? Thank you!"
+    },
+    {
+      "id": "r5_absentee",
+      "received": "2026-10-19T06:35:00-04:00",
+      "name": "Walter Brzezinski",
+      "address": "3002 Center Rd, Essexville MI 48732",
+      "dropdown_topic": "Elections",
+      "body": "I have my absentee ballot filled out. Is there a drop box at the township hall or do I have to mail it? I don't trust the mail this close. Also what time do the polls close on the 3rd in case my wife decides to go in person.\n\nWalt"
+    },
+    {
+      "id": "r6_shed_permit",
+      "received": "2026-10-19T07:10:00-04:00",
+      "name": "Brian Lesniak",
+      "address": "1622 Nebobish Rd, Essexville MI 48732",
+      "dropdown_topic": "Zoning / Building",
+      "body": "I'm buying a 10x12 shed from a dealer that delivers it already built. Do I need a permit from the township for that or only if I build it myself? And how far from the lot line does it have to be?\n\nThanks\nBrian"
+    },
+    {
+      "id": "r7_golf_carts",
+      "received": "2026-10-18T16:45:00-04:00",
+      "name": "Frank Okonski",
+      "address": "2219 Center Rd, Essexville MI 48732",
+      "dropdown_topic": "Opinion",
+      "body": "Mr. Seidlitz, a lot of us older folks in the subdivisions would like to be able to drive golf carts to the neighbors and to the park. Other townships allow it. I emailed the office last week and haven't heard. Can the township allow golf carts on our streets? I'd like you to support it.\n\nFrank Okonski"
+    },
+    {
+      "id": "r8_water_bill",
+      "received": "2026-10-19T05:52:00-04:00",
+      "name": "Debra Lutz",
+      "address": "1405 Woodside Ave, Essexville MI 48732",
+      "dropdown_topic": "Water and sewer",
+      "body": "My water bill is way higher than usual and I can't find any leaks. Who do I call about that? Is that still the township? I called the number on the old bill and nobody answered."
+    },
+    {
+      "id": "r9_pothole",
+      "received": "2026-10-19T06:58:00-04:00",
+      "name": "Kevin Szczepanski",
+      "address": "2780 Hotchkiss Rd, Bay City MI 48706",
+      "dropdown_topic": "Roads / Drainage",
+      "body": "There is a pothole on Scheurmann just west of Ledyard that is going to take somebody's tire off. It's been there a month. Who fixes that? I've never known who to call for roads out here."
+    },
+    {
+      "id": "r10_winter_taxes",
+      "received": "2026-10-18T20:30:00-04:00",
+      "name": "Marilyn Gawronski",
+      "address": "905 Fillmore Pl, Bay City MI 48708",
+      "dropdown_topic": "Taxes / Assessing",
+      "body": "When do the winter tax bills come out and when are they due? My escrow changed this year when we refinanced and I want to make sure the bank gets it. Can I pay at the township hall in person?\n\nMarilyn"
+    },
+    {
+      "id": "r11_blight",
+      "received": "2026-10-19T07:40:00-04:00",
+      "name": "Gail Haley",
+      "address": "2311 Ledyard Rd, Essexville MI 48732",
+      "dropdown_topic": "Zoning / Building",
+      "body": "The rental next to me has had a couch, a broken grill and bags of garbage in the front yard for a MONTH. I called last week and someone said they'd send an inspector. Nothing has changed. What does it take to get this cleaned up?? Property values on our road matter.\n\nGail Haley"
+    },
+    {
+      "id": "r12_invitation_lions",
+      "received": "2026-10-18T14:05:00-04:00",
+      "name": "Ray Kloska",
+      "address": "714 Pine Ave, Essexville MI 48732",
+      "dropdown_topic": "Invitation / Scheduling",
+      "body": "Supervisor Seidlitz, the Essexville-Hampton Lions Club holds its annual pancake breakfast for the veterans on Saturday, November 7, 7 to 11 a.m., at the Lions hall. We'd be honored if you would come say a few words around 9. Please let me know.\n\nRay Kloska, secretary"
+    }
+  ]
+}

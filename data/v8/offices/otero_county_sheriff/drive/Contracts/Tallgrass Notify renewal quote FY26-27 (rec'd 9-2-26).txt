@@ -1,0 +1,44 @@
+From: Megan Fry <mfry@tallgrassnotify.com>
+To: Otero County Sheriff - account administrator
+Cc: Ken Ostdiek <ken.ostdiek@oterogov.org>
+Date: Wed, Sep 2, 2026 9:14 AM
+Subject: Otero County - data license renewal quote (expires 9/15)
+Attachments: OteroCO_Q-26-4471.pdf
+
+Good morning,
+
+Attached is the renewal quote for Otero County's annual 911 data license, which comes up on September 15. Your platform subscription runs on the calendar year and is paid through December 31, so this quote covers only the data license. Pricing is unchanged from last year.
+
+To renew, please return the signed order form (page 3) and a purchase order or the county's signed approval. As before, the order form needs a signature from someone authorized to sign for the county; your county has had the Board chair sign in past years.
+
+Quote summary is pasted below in case the PDF doesn't come through.
+
+Thanks, and let me know if you want to set up a quick call about the new mapping tools.
+
+Megan Fry
+Account Manager, Public Sector - Mountain Region
+Tallgrass Notify
+(303) 555-0148
+
+----------------------------------------------------------------------
+QUOTE Q-26-4471                                       Issued 09/02/2026
+Customer: Otero County, Colorado (Sheriff's Office / OEM)
+Account: OTERO-CO-0193
+
+Item                                         Term                   Amount
+911 landline data license - listed       09/16/2026-09/15/2027   $4,850.00
+  residential and business numbers,
+  geocoded; quarterly refresh
+Data loading and geocoding (renewal)         included                 $0.00
+                                                                 ----------
+TOTAL                                                            $4,850.00
+
+Terms:
+1. The data license is provided under the 911 data provider's terms and may be used only for public safety notifications.
+2. If the license is not renewed by its expiration date, the provider requires removal of all licensed listed numbers from the customer's account on the next business day. Self-registered contacts are not affected.
+3. After a lapse, numbers are reloaded within approximately fifteen (15) business days after Tallgrass receives the signed order form.
+4. Prices valid for 30 days.
+
+Platform subscription (for reference, not part of this quote):
+Otero County Emergency Alerts platform, calendar year 2026, $12,550.00 - PAID (inv. 26-0117)
+----------------------------------------------------------------------

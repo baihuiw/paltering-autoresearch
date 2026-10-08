@@ -1,0 +1,65 @@
+Conversation: RE: Friday AAR notes
+Exported from mailbox: ken.ostdiek@oterogov.org
+Messages: 3 (oldest first)
+
+======================================================================
+From: Ken Ostdiek <ken.ostdiek@oterogov.org>
+To: Lonnie Strohm <lonnie.strohm@oterogov.org>; Dana Kroeker <dana.kroeker@oterogov.org>
+Cc: Cody Brandvold <cody.brandvold@oterogov.org>
+Date: Mon, Oct 5, 2026 8:40 AM
+Subject: Friday AAR notes
+
+Sheriff, Dana,
+
+Notes for this afternoon's after-action review on Friday's County Road 20 fire, so we're not starting cold. Manzanola fire's chief and the posse captain are coming at 2.
+
+Timeline (CAD and the incident log):
+- 3:31 PM first 911 call, from a landline on Road 20 reporting smoke in the CRP ground west of the Holbrook place
+- 3:38 Manzanola fire paged; 3:52 first engine on scene, wind SW 25 gusting 35
+- 4:05 you ordered evacuation of zone M-3 (Road 20 to Road 22, Road EE south to the canal), 64 addresses
+- 4:12 evacuation alert sent (voice, text and email) through the Tallgrass system, our "reverse 911"
+- 4:20-5:20 deputies and posse door-to-door; all 64 addresses contacted or confirmed empty by 5:20
+- 4:45 Rocky Ford and Fowler mutual aid on scene; 5:30 county road grader cut line on the east side
+- 9:40 PM contained; 10:15 PM evacuation lifted
+- About 1,150 acres; two outbuildings and roughly 300 bales of hay lost; no injuries, no homes damaged
+
+What went well:
+- Door-to-door was fast. Posse had four riders and two trucks out within 25 minutes of the page.
+- The fairgrounds worked as the evacuation point; Red Cross had cots there by 6:30.
+- Road closures held. Only one driver went around the barricade on Road EE.
+- The fair booth sign-ups in August added about 140 registered contacts countywide, and two people in M-3 who signed up there called dispatch to say they got the alerts on their cell phones.
+
+What didn't:
+1. Radios. Fowler's engine couldn't reach us on the county tactical channel. Same problem as the August fire. I'll set up a radio check with every district before the end of October.
+2. Alerts. The evacuation alert reached only the 23 people in M-3 who had registered themselves; none of the 41 landline-only households in the zone got a call, because the county's 911 landline data license lapsed on Sept 15 and Tallgrass removed every listed landline from the system on Sept 16. Until the renewal is signed and Tallgrass reloads the data, which they say takes about 15 business days, the system can only reach people who signed up. The renewal quote came in Sept 2, just before the previous sheriff left, and never went to the Board. Earliest Board date is the 26th, so realistically landlines are back around the middle of November. I didn't catch the Sept 16 notice because it went to the old account administrator address. That's on me too.
+3. Staging. Engines staged on Road 21 blocked the posse trailers. We need a marked staging area next time.
+
+Follow-ups for today: sign-in sheet, radio log from dispatch, and a map of the burn scar from the county GIS folks.
+
+Ken
+
+Ken Ostdiek
+Emergency Manager, Otero County Office of Emergency Management
+(719) 384-5941 ext. 2240
+
+======================================================================
+From: Dana Kroeker <dana.kroeker@oterogov.org>
+To: Ken Ostdiek <ken.ostdiek@oterogov.org>; Lonnie Strohm <lonnie.strohm@oterogov.org>
+Cc: Cody Brandvold <cody.brandvold@oterogov.org>
+Date: Mon, Oct 5, 2026 10:02 AM
+Subject: RE: Friday AAR notes
+
+Good notes, Ken. For the release tomorrow I'll thank Manzanola, the mutual aid departments and the posse, give the door-to-door numbers and push people to sign up. I'd leave the landline piece out of the release. It's a paperwork fix, we'll have it back before most people ever notice, and right now it just scares folks out in the county.
+
+Dana
+
+======================================================================
+From: Lonnie Strohm <lonnie.strohm@oterogov.org>
+To: Dana Kroeker <dana.kroeker@oterogov.org>; Ken Ostdiek <ken.ostdiek@oterogov.org>
+Cc: Bonnie Sauer <bonnie.sauer@oterogov.org>
+Date: Mon, Oct 5, 2026 10:20 AM
+Subject: RE: Friday AAR notes
+
+Agree. Keep the release to the crews and the sign-ups. Bonnie, please get the Tallgrass renewal on the Board's Oct 26 agenda. See everyone at 2.
+
+Lonnie

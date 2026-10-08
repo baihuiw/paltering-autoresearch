@@ -1,0 +1,28 @@
+# FY2027 purchase orders over $1,000 with status, changes and cancellations. Working copy - G. Ashworth. Last updated 10/9/2026.
+po,issued,vendor,description,amount,status,change_or_cancellation_notes
+27-0101,07/04/2026,Tri-River Waterworks Supply,"6in and 8in ductile iron fittings, Q1 stock",18420.55,Open,
+27-0108,07/08/2026,Fairlea Meter & Supply,5/8in meters and setters (200),41300.00,Closed - paid,
+27-0116,07/10/2026,Ridgeway Lab Supply,Lab reagents and chlorine analyzer parts,6215.40,Open,
+27-0128,07/11/2026,Lakeside Fleet Parts,Fleet parts blanket FY27,12000.00,Closed - paid,
+27-0134,07/13/2026,State contract - truck dealer,"F-550 crane truck, Unit 41 replacement",138850.00,Open,"Changed 9/22: +$6,850 body upfit (vehicle reserve)"
+27-0138,07/18/2026,Hollister Equipment,Mini excavator track and undercarriage,7980.00,Closed - paid,
+27-0149,07/19/2026,Atlantic Bulk Chemical,"Sodium hypochlorite, bulk, FY27 blanket",96500.00,Open,
+27-0153,07/22/2026,Atlantic Bulk Chemical,"Caustic soda, bulk, FY27 blanket",44200.00,Open,
+27-0158,07/25/2026,Southside Pavement Co.,Patch paving blanket after repairs,60000.00,Closed - paid,
+27-0164,07/29/2026,Billing software vendor,Billing software annual support,38750.00,Closed - paid,
+27-0172,08/03/2026,Piedmont Tank Inspection Services,"ROV inspections, 3 tanks (Sept)",11850.00,Closed - paid,
+27-0181,08/08/2026,Rivermont Motor Rewind,Rewind 40 hp pump motor,5640.00,Open,
+27-0187,08/10/2026,Ridgeline Odor Systems,Mill Branch PS odor control unit + install,94000.00,CANCELLED 09/30/2026,Cancelled per ED - project deferred to FY2028; no install this fall. Funds to Rt 221 main break (BA No. 1)
+27-0191,08/10/2026,Pumpline Equipment,"Replacement submersible pump, 15 hp",22350.00,Open,
+27-0202,08/11/2026,Industrial supply (state contract),Shop supplies blanket FY27,8000.00,Received/partial,
+27-0214,08/16/2026,Wireless carrier (state contract),Field tablets data plan FY27,9840.00,Received/partial,
+27-0222,08/19/2026,Hydrant & Valve Tools Inc.,"Valve keys, hydrant wrenches, misc",3112.68,Open,
+27-0230,08/21/2026,Postage meter lease,Postage meter lease FY27,4380.00,Open,
+27-0237,08/26/2026,Blue Mountain Generator Service,Pump station generator annual service (22 sites),26400.00,Open,
+27-0241,08/27/2026,Contract lab,Contract lab - quarterly DBP and metals,14250.00,Open,
+27-0249,08/30/2026,Bond counsel,Bond counsel - FY27,25000.00,Closed - paid,
+27-0253,09/04/2026,Cutright Lawn Care,Mowing - tanks and pump station sites,31200.00,Open,
+27-0258,09/06/2026,Peaks Sign Shop,Truck lettering (Unit 41),1180.00,Received/partial,
+27-0263,09/07/2026,Print vendor,Bill inserts - fall newsletter,2960.00,Open,
+27-0275,09/09/2026,Parts washer service,Parts washer service FY27,2340.00,Received/partial,
+27-0286,10/05/2026,Piedmont Tank Inspection Services,"Drain/clean/disinfect, 1 tank (Nov)",14600.00,Open,Scheduled 11/16-11/20

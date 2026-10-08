@@ -1,0 +1,53 @@
+Check no.,Date,Vendor,Description,Fund-Dept,Amount
+# Accounts payable check run 10/2/2026 - General Fund and Water/Sewer extract for the board's 10/5 bills list. Payroll and EFT payments not included. DS.,,,,,
+48211,10/02/2026,Electric utility,Electric - township hall and street lights Sept,101-265,"4,812.36"
+48212,10/02/2026,Gas utility,Gas - township hall Sept,101-265,312.48
+48213,10/02/2026,Gas utility (DPW meter),Natural gas - DPW building Sept,101-441,148.90
+48214,10/02/2026,Phone carrier,Phone lines - township hall,101-265,688.14
+48215,10/02/2026,Internet provider,Internet - township hall + DPW,101-265,349.98
+48216,10/02/2026,Bay County Treasurer,Dog license proceeds Sept (41 licenses),701,"615.00"
+48217,10/02/2026,Bay County Road Commission,Winter maintenance agreement - 1st installment,101-447,"18,200.00"
+48218,10/02/2026,Bay County Road Commission,Sign replacement - township request list (24 signs),101-447,"3,906.40"
+48219,10/02/2026,Strasz Assessing Services,Contract assessing - October,101-209,"9,833.33"
+48220,10/02/2026,Fenner Rademacher PLC,Legal services - September (general),101-266,"3,412.50"
+48221,10/02/2026,MERS (Municipal Employees' Retirement System),Employer contribution - September,Various,"24,118.00"
+48222,10/02/2026,Health plan carrier,Health insurance - October,Various,"38,604.22"
+48223,10/02/2026,Dental plan carrier,Dental - October,Various,"2,911.40"
+48224,10/02/2026,Michigan Township Association,New supervisor webinar registration (2 sessions),101-171,190.00
+48225,10/02/2026,Office supply vendor,Toner; paper (10 cases); envelopes #10,101-265,"1,146.73"
+48226,10/02/2026,Office supply vendor (online),Election supplies - ballot return envelopes overrun,101-191,286.50
+48227,10/02/2026,Bay County Clerk,Election programming and ballot printing (share),101-191,"7,840.00"
+48228,10/02/2026,Tabulator vendor,Tabulator maintenance agreement,101-191,"1,620.00"
+48229,10/02/2026,Gwizdala Patricia,Mileage reimbursement Sept (post office runs),101-171,38.86
+48230,10/02/2026,Rheaume Carla,Mileage reimbursement Sept,101-171,61.26
+48231,10/02/2026,Krawczak Matthew,Mileage + MBOAA dues,101-371,212.40
+48232,10/02/2026,Contract inspector - building (R.T.),Building inspections Sept (74 inspections),101-371,"3,700.00"
+48233,10/02/2026,Contract inspector - electrical (D.M.),Electrical inspections Sept (31),101-371,"1,395.00"
+48234,10/02/2026,Contract inspector - mech/plumbing (S.K.),Mechanical and plumbing inspections Sept (40),101-371,"1,800.00"
+48235,10/02/2026,Equipment dealer (parts),Chipper drive belt; chain oil,101-446,412.95
+48236,10/02/2026,Auto parts store,Truck #4 oil filter and fluids,101-441,96.28
+48237,10/02/2026,Fuel card vendor,Fuel cards - DPW and Public Safety Sept,Various,"6,233.17"
+48238,10/02/2026,Uniform and mat service,Uniforms and floor mats - Sept,101-441,422.80
+48239,10/02/2026,Industrial supply (online),Leaf vac hose; traffic cones (12),101-446,"1,388.40"
+48240,10/02/2026,Electrical supply,Ballasts and lamps - hallway,101-265,184.62
+48241,10/02/2026,Paint store,Paint - board room touch-up,101-265,96.14
+48242,10/02/2026,Printing vendor (newsletter),Fall newsletter printing 4100 copies,101-171,"2,214.00"
+48243,10/02/2026,US Postmaster,Fall newsletter postage (EDDM),101-171,"1,032.25"
+48244,10/02/2026,Newspaper (legal ads),Legal ads Aug 25-Sept 22,101-371 / 101-215,"1,288.60"
+48245,10/02/2026,Bay County DWS,Water and sewer operations - September (per agreement),590/591,"71,950.00"
+48246,10/02/2026,Bay County DWS,Meter replacements (14) - billed to water fund,591,"3,920.00"
+48247,10/02/2026,Snow removal vendor,Township hall lot - seasonal deposit 2026-27,101-265,"1,500.00"
+48248,10/02/2026,Pest control vendor,Quarterly service - hall and DPW,101-265,145.00
+48249,10/02/2026,Bay County Animal Services,Stray hold fees - Aug,101-301,210.00
+48250,10/02/2026,Uniform vendor (PSD),Public Safety uniforms - 2 new officers,101-301,"1,286.44"
+48251,10/02/2026,Police policy service,Policy manual subscription (annual),101-301,"4,890.00"
+48252,10/02/2026,Bay County Central Dispatch,Dispatch services Q4,101-301,"11,612.50"
+48253,10/02/2026,Copier leasing company,Copier lease - Oct,101-265,388.21
+48254,10/02/2026,Rauch Lisa (refund),Overpayment - summer taxes (duplicate w/ escrow),703,"1,912.55"
+48255,10/02/2026,Kelly Tomasz (refund),Building permit refund - project cancelled,101-000-607,85.00
+48256,10/02/2026,VOID,Printer jam,,0.00
+48257,10/02/2026,Hardware store (Center Rd),Keys cut (Supervisor); misc. hardware,101-265,42.17
+,,,,,
+,,,Extract total,,"237,514.54"
+# Board bills list totals (10/5 consent agenda) include items not in this extract (Parks grant fund; Fund 226; EFTs).,,,,,
+# Check 48256 voided - printer jam; reprinted as 48257 sequence continues. DS,,,,,

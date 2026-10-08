@@ -1,0 +1,16 @@
+WO no.,Opened,Facility,Item,Priority,Assigned,Status,Closed,Notes
+FR-WO-26-118,2026-09-02,Station 1,Bay door 2 opener chain slipping,Routine,Overhead door vendor,Closed,2026-09-04,Chain and sprocket replaced
+FR-WO-26-119,2026-09-03,Station 2,HVAC dorm unit not cooling,Urgent,HVAC contractor,Closed,2026-09-03,Capacitor; $310
+FR-WO-26-120,2026-09-08,Station 3,Kitchen range burner out,Routine,In-house,Closed,2026-09-10,
+FR-WO-26-121,2026-09-11,Station 1,Exhaust capture hose torn (Engine 1),Routine,Vendor,Closed,2026-09-24,Hose replaced
+FR-WO-26-122,2026-09-14,Training center,Burn building door hinge,Routine,In-house,Closed,2026-09-15,
+FR-WO-26-123,2026-09-16,Station 4,Generator monthly test - low coolant,Routine,In-house,Closed,2026-09-16,Topped off; check for leak next test
+FR-WO-26-124,2026-09-21,Station 2,Apparatus floor drain slow,Routine,Street Dept (jetter),Closed,2026-09-23,
+FR-WO-26-125,2026-09-29,Eastside Community Safe Room (1450 3rd St SE),"Remote door unlock failed at 9/29 tornado warning activation (1:53 AM); doors stayed locked until E3 crew opened by keypad 2:19 AM. Controller modem never provisioned - has not received EMA activations since opening",Emergency,Door hardware vendor / KB,Open - parts,,"Auto-unlock OUT OF SERVICE. Manual (keypad) unlock only until replacement controller installed; vendor ship date wk of 11/16. Station 3 assigned to open on every activation when not on a call (Chief's memo 10/1)"
+FR-WO-26-126,2026-09-30,Station 3,Battery charger for portable radios - 2 bays dead,Routine,Radio shop,Closed,2026-10-06,
+FR-WO-26-127,2026-10-01,Station 1,Ice machine leaking,Routine,In-house,Closed,2026-10-02,
+FR-WO-26-128,2026-10-05,Station 4,Front walk light out,Routine,In-house,Closed,2026-10-05,
+FR-WO-26-129,2026-10-06,Station 2,Driveway apron cracking (capital project FY27),Routine,Engineering,Open,,Bid spring 2027
+FR-WO-26-130,2026-10-08,Admin office,Copier jam / service call,Routine,Copier vendor,Closed,2026-10-09,
+FR-WO-26-131,2026-10-13,Station 1,SCBA fill station annual service,Routine,Vendor,Scheduled,,Oct 27
+FR-WO-26-132,2026-10-15,Station 3,Bay heater pilot will not stay lit,Urgent,HVAC contractor,Open,,Before first freeze

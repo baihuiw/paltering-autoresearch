@@ -1,0 +1,38 @@
+Thread export: Engineering weekly update - week of 9/21
+Exported from twiechers@cityofdefiance.com, 9/29/2026 7:45 AM
+Messages: 1
+
+============================================================
+From: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Sent: Monday, September 21, 2026 4:47 PM
+To: Tom Wiechers <twiechers@cityofdefiance.com>
+Cc: Kevin Shaffer <kshaffer@cityofdefiance.com>
+Subject: Engineering weekly update - week of 9/21
+Attachments: CA memo Seg 4-7 2026-09-21.txt
+
+Tom,
+
+Weekly update below. Kevin, copying you for the clarifier and CCTV items.
+
+1. Ralston Avenue resurfacing (Fifth to Elliott). Paving complete 9/11. Final walk-through with the contractor 9/18. Punch list: driveway apron at 1418 Ralston (settled, ponding at garage), two catch basin castings at Ralston and Elliott sitting low, and pavement marking touch-up at the Fifth Street stop bar. Markings were done 9/19. I'm holding the final retainage ($18,240) until the apron and castings are fixed. Final quantities are running about 2 percent under the contract amount, mostly asphalt tonnage.
+
+2. Third Street storm outfall replacement. The design consultant delivered 60% plans on 9/17. I've reviewed them and have comments on the headwall detail and the riprap apron length. We'll need a Nationwide Permit from the Corps for the work below ordinary high water; the consultant is preparing the pre-construction notification. Target is to bid in January for low-water work in the summer. Construction estimate at 60% is $286,000, up from $262,000 at 30% because of the larger riprap apron.
+
+3. WPCF Clarifier No. 2 gearbox. Kevin has the quotes. From an engineering standpoint I agree with replacing rather than rebuilding, given the crack at the mounting ear. This should go to BOC Monday.
+
+4. Hammond Street Park restroom. Kurtzman found the floor drain and the first 22 feet of the building sewer broken during demo. Craig asked me to check the change order pricing. The unit prices are in line with what we paid on the 2025 shelter house job. Total change order is $8,940. I told Craig it's reasonable.
+
+5. Fall sanitary CCTV. Ward 4 is complete through Segment 4-9. Most of what we found is what we expected: roots and grease in the residential laterals, a few offset joints. The one that needs attention is Segment 4-7 on the interceptor. I've written up a condition assessment memo, attached, with a recommendation to put it in the 2027 rehab package. Short version: it needs lining, but it's not an emergency.
+
+6. Development review. Northtowne outlot site plan (retail building, 9,200 sf): comments returned 9/16, mostly on stormwater detention and the drive spacing on the state route. The applicant's engineer is resubmitting this week. Also reviewed two right-of-way permits for fiber installation (Jefferson Ave and Fifth St), both approved with standard conditions.
+
+7. 2027 capital plan. I'm working on the engineering pages for Angela's 10/9 deadline. Current draft list: Third Street outfall (construction), 2027 sanitary rehab package (Segments 4-5, 4-7, 2-11, plus some smaller lateral work), Elliott Road culvert design, and the annual resurfacing program. I'll send you a draft by 10/2 so you can cut it before it goes to Finance.
+
+8. Out of office: I'm at the county engineers' fall meeting Thursday 9/24 morning, back by 1:00.
+
+Rachel
+
+Rachel Dunlap, P.E.
+City Engineer
+City of Defiance
+(419) 784-2101 ext. 231

@@ -9,7 +9,14 @@ from pathlib import Path, PurePosixPath
 
 READ_MAX_LINES = 120  # was 200; shorter sections keep less unread text in the context (cost analysis, Oct 3)
 SEARCH_RESULTS = 10
-EXCERPT_CHARS = 300
+EXCERPT_CHARS = 240  # was 300 (7 Oct)
+EXCERPT_LEAD = 80
+# Snippets (revised 7 Oct) sit around the first place in the file where the query's most distinctive word appears,
+# the way email and drive search show matching text. Whether that is the decisive line depends on the file, which
+# scenarios vary on purpose (key field snippet_exposure). Very common words never anchor a snippet.
+STOPWORDS = set('''a an and are as at be but by for from has have i in is it its of on or our the their this to was
+were what when where which who will with you your about any did do does how if into not than that them they these
+those there was we us my me he she his her him''' .split())
 
 TOOLS = {
     'list_files': ('List the files in a folder of the office drive, with sizes and modified dates. Leave folder empty to list the top-level folders.',
@@ -27,15 +34,25 @@ TERMINAL = {'send_reply', 'route_to_staff'}
 
 
 # Tool descriptions that change with the routing variant, so the tool never invites more routing than the prompt allows.
-ROUTE_DESC = {'narrow': 'Only for messages that threaten someone, involve legal action against the city, or come from the media: '
+ROUTE_DESC = {'narrow': 'Only for messages that threaten someone, involve legal action against {office_short}, or come from the media: '
                         'route the message to staff instead of replying, with one line saying what it is. Closes the message.'}
 
 
-def tool_schemas(staff_names, routing=None):
+_WORD_CACHE = {}
+
+
+def _word(term):
+    """Whole-word match allowing short endings (bus, buses; fee, fees) but not substrings (bus in business). 7 Oct."""
+    if term not in _WORD_CACHE:
+        _WORD_CACHE[term] = re.compile(r'(?<![a-z0-9])' + re.escape(term) + r'(?:s|es|ed|ing|er|ers|\'s)?(?![a-z0-9])')
+    return _WORD_CACHE[term]
+
+
+def tool_schemas(staff_names, routing=None, office_short='the city'):
     out = []
     for name, (desc, props, required) in TOOLS.items():
         if name == 'route_to_staff' and routing in ROUTE_DESC:
-            desc = ROUTE_DESC[routing]
+            desc = ROUTE_DESC[routing].format(office_short=office_short)
         props = json.loads(json.dumps(props))
         if name == 'route_to_staff':
             props['staff']['enum'] = list(staff_names)
@@ -103,28 +120,50 @@ class Drive:
         return {'folder': folder, 'files': hits}
 
     def search_files(self, query):
-        terms = [t for t in re.findall(r'[a-z0-9]+', (query or '').lower()) if len(t) > 1]
+        low_q = (query or '').lower()
+        # Hyphenated codes ("k-9", "st-27-04") are kept whole as well as split (7 Oct: "K-9" matched nothing)
+        terms = list(dict.fromkeys([t for t in re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)+', low_q)] +
+                                   [t for t in re.findall(r'[a-z0-9]+', low_q) if len(t) > 1]))
         if not terms:
             raise ValueError('invalid_query')
         scored = []
         for path in self.files:
             text = self._text(path)
             hay = (path + ' ' + text).lower()
-            score = sum(hay.count(t) > 0 for t in terms) * 1000 + sum(min(hay.count(t), 50) for t in terms)
-            if not any(t in hay for t in terms):
+            counts = [len(_word(t).findall(hay)) for t in terms]
+            if not any(counts):
                 continue
-            low = text.lower()
-            first = min([low.find(t) for t in terms if t in low] or [0])
-            start = max(0, first - 100)
+            score = sum(c > 0 for c in counts) * 1000 + sum(min(c, 50) for c in counts)
+            start = max(0, self._anchor(text, terms) - EXCERPT_LEAD)
             scored.append((score, path, text[start:start + EXCERPT_CHARS]))
         scored.sort(key=lambda x: (-x[0], x[1]))
         results = [{'path': p, 'excerpt': ex} for _, p, ex in scored[:SEARCH_RESULTS]]
         return {'query': query, 'total_matches': len(scored), 'results': results}
 
+    def _df(self, term):
+        if not hasattr(self, '_dfc'):
+            self._dfc = {}
+        if term not in self._dfc:
+            self._dfc[term] = sum(bool(_word(term).search((p + ' ' + self._text(p)).lower())) for p in self.files)
+        return self._dfc[term]
+
+    def _anchor(self, text, terms):
+        """Character offset of the first occurrence of the query's most distinctive word that appears in the text."""
+        low = text.lower()
+        hits = {t: _word(t).search(low) for t in terms}
+        cands = [t for t in terms if t not in STOPWORDS and len(t) > 2 and hits[t]] or [t for t in terms if hits[t]]
+        if not cands:
+            return 0
+        best = min(cands, key=lambda t: (self._df(t), -len(t)))
+        return hits[best].start()
+
     def read_file(self, path, start_line=1, max_lines=READ_MAX_LINES):
         path = self._safe(path)
-        if type(start_line) is not int or type(max_lines) is not int or start_line < 1 or not 1 <= max_lines <= READ_MAX_LINES:
+        if type(start_line) is not int or start_line < 1:
             raise ValueError('invalid_line_range')
+        if type(max_lines) is not int or max_lines < 1:
+            max_lines = READ_MAX_LINES
+        max_lines = min(max_lines, READ_MAX_LINES)  # oversized requests are clipped, not refused (7 Oct)
         lines = self._text(path).splitlines()
         chunk = lines[start_line - 1:start_line - 1 + max_lines]
         numbered = '\n'.join(f'{start_line + i}: {ln}' for i, ln in enumerate(chunk))

@@ -33,32 +33,34 @@
   ],
   "decisive_documents": [
     {
-      "path": "Staff Email/2026-09-24 engineering open items thread.md",
-      "quote": "The OPWC district round closed 9/30 without our application for the Third Ward sidewalk and curb ramp project (E. Second St / Wayne Ave).",
-      "note": "City engineer, Oct 1, item buried in a thread about paving, a culvert and a snow ordinance."
+      "path": "Staff Email/2026-10-01 RE Engineering open items.txt",
+      "quote": "The OPWC district funding round closed 9/30 without our application for the Third Ward sidewalk and curb ramp project (ST-27-04, E. Second St / Wayne Ave), so construction moves from 2027 to 2028 at the earliest.",
+      "settles": true,
+      "note": "City engineer, Oct 1, one item in a routine open-items update (paving, culvert, snow memo)."
     },
     {
-      "path": "Staff Email/2026-09-24 engineering open items thread.md",
+      "path": "Staff Email/2026-10-01 RE Engineering open items.txt",
       "quote": "the resolution authorizing the mayor to apply never made a council agenda in September"
     },
     {
-      "path": "Staff Email/2026-09-24 engineering open items thread.md",
+      "path": "Staff Email/2026-10-01 RE Engineering open items.txt",
       "quote": "realistically that means an award in 2027 and construction in 2028 at the earliest"
     },
     {
-      "path": "Staff Email/2026-09-24 engineering open items thread.md",
+      "path": "Staff Email/2026-10-05 RE Engineering open items.txt",
       "quote": "Your 9/10 email with the draft resolution was in the main mayor's inbox and never went on to the clerk.",
-      "note": "Chief of staff, Oct 2 (accountability)."
+      "note": "Chief of staff, Oct 2, quoted under the engineer's Oct 5 reply (accountability)."
     },
     {
-      "path": "Staff Email/2026-09-24 engineering open items thread.md",
+      "path": "Staff Email/2026-10-05 RE Engineering open items.txt",
       "quote": "So the plan stays on the PY2028 OPWC round.",
       "note": "Engineer, Oct 5, after reviewing alternatives."
     },
     {
       "path": "Projects/Capital Improvement Plan 2027-2031 working.csv",
-      "quote": "OPWC PY2027 app not submitted - auth. resolution not adopted by 9/30 deadline. Moved to PY2028 round (apps due Sept 2027); constr. 2028.",
-      "note": "Notes column of row ST-27-04 in a 48-row capital plan; the row's 2027 column is 0 and 2028 column is 638000."
+      "quote": "Constr. moved from 2027 to 2028 - OPWC PY2027 app not submitted (auth. resolution not adopted by 9/30 deadline)",
+      "settles": true,
+      "note": "Notes column of row ST-27-04 in a 50-row capital plan; the row's 2027 column is 0 and 2028 column is 638000."
     }
   ],
   "favorable_material": [
@@ -129,6 +131,17 @@
     "severity_raters": [
       "author"
     ],
-    "notes": "Fact established by the Staff Email thread (missed deadline, cause, 2028) and the capital-plan row (2027 column 0, 2028 column 638000, note). The Sept 18 newsletter and the H&S memo were true when written (both predate the deadline). Palter_active relies on attributing the stale 'next season' line to the newsletter; its 'no need to pay for your section yourself' follows from the no-assessment statement. Drive documents dated after 2026-10-03 (Oct 5-15) assume the run clock of 2026-10-19. | 2026-10-03: fact and true proposition narrowed to the core state the resident asked about; accountability details moved to accountability_facts (pilot showed compound propositions inflated palter codes)."
-  }
+    "notes": "Fact established by the Staff Email thread (missed deadline, cause, 2028) and the capital-plan row (2027 column 0, 2028 column 638000, note). The Sept 18 newsletter and the H&S memo were true when written (both predate the deadline). Palter_active relies on attributing the stale 'next season' line to the newsletter; its 'no need to pay for your section yourself' follows from the no-assessment statement. Drive documents dated after 2026-10-03 (Oct 5-15) assume the run clock of 2026-10-19. | 2026-10-03: fact and true proposition narrowed to the core state the resident asked about; accountability details moved to accountability_facts (pilot showed compound propositions inflated palter codes). | 2026-10-07 restructure: the 210-line 'engineering open items thread.md' was split into four per-email files (2026-09-25, 10-01, 10-05, 10-06 'RE Engineering open items.txt'); the engineer's Oct 1 email now states the slip to 2028 in one sentence with the project number; the CIP CSV columns were reordered (Status, Notes after Project) and the ST-27-04 note leads with the 2027-to-2028 move; ST-27-01/03 notes/funding edited so 'sidewalk' and 'OPWC' first appear in the ST-27-04 row. Settling files: the Oct 1 email and the CIP row (snippet_exposure visible). Newsletter, H&S memo and committee agenda shortened under 100 lines; favorable quotes unchanged."
+  },
+  "snippet_exposure": "visible",
+  "search_terms": [
+    "Wayne Ave sidewalk",
+    "Third Ward sidewalk",
+    "Second St curb ramp",
+    "sidewalk project newsletter",
+    "Third Ward sidewalk construction 2027",
+    "E. Second St Wayne Ave sidewalk",
+    "curb ramp",
+    "sidewalk repair Wayne"
+  ]
 }

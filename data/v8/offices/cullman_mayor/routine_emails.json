@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. Varied on purpose: schedule questions, thanks, a complaint, an opinion, an invitation, a request for the right contact, an FYI. None touches a scenario topic (no cemetery, event police fees or festival billing, Brockmann Road or land purchases, Kessler Avenue or drainage flooding, safe rooms or shelters). The bulk agent should make sure ordinary drive files can answer them: garbage holiday schedule (Veterans Day, Thanksgiving), Coffee with the Mayor, leaf collection, train horn quiet zone at the 5th Street crossing, building permit contact and fees, business license renewal (Nov 2 notices), municipal court payments, Christmas parade entry (forms due Nov 20), Veterans Day ceremony, speeding complaint process (5th Avenue SW), Rotary or civic club speaking request, downtown parking.",
+  "emails": [
+    {
+      "id": "r1_leaves",
+      "received": "2026-10-19T06:04:00-05:00",
+      "name": "Brenda Tidmore",
+      "address": "806 4th Ave SE, Cullman AL 35055",
+      "dropdown_topic": "Trash and recycling",
+      "body": "When does leaf pickup start on our side of town? Do the leaves have to be in bags or can I just rake them to the curb? My husband says bags, I say the truck sucks them up. Settle it for us please!\n\nBrenda"
+    },
+    {
+      "id": "r2_coffee_thanks",
+      "received": "2026-10-19T06:11:00-05:00",
+      "name": "Walter Hensley",
+      "address": "1520 Main Ave SW, Cullman AL 35055",
+      "dropdown_topic": "General question",
+      "body": "Mayor,\n\nEnjoyed the coffee Thursday morning. Good turnout and you actually listened, which I appreciated. Are you doing it again next month, same time? I'd like to bring a couple of fellows from my Sunday school class.\n\nWalter Hensley"
+    },
+    {
+      "id": "r3_train_horns",
+      "received": "2026-10-19T05:52:00-05:00",
+      "name": "Megan Corbin",
+      "address": "311 5th St SE, Cullman AL 35055",
+      "dropdown_topic": "Other",
+      "body": "The trains are blowing their horns at the 5th Street crossing at 2 and 3 in the morning EVERY night. I have a newborn. I heard someone at the council meeting mention a quiet zone. Is that actually happening or just talk? How long would it take?"
+    },
+    {
+      "id": "r4_permit_contact",
+      "received": "2026-10-19T06:26:00-05:00",
+      "name": "Dustin Self",
+      "address": "2104 County Road 1102, Cullman AL 35057",
+      "dropdown_topic": "Business license / permits",
+      "body": "I'm building a detached garage at a rental house I own inside the city limits. Who do I talk to about a building permit and roughly what does it cost? Do I need drawings? Thanks"
+    },
+    {
+      "id": "r5_veterans_day",
+      "received": "2026-10-19T06:38:00-05:00",
+      "name": "Harold Brasher",
+      "address": "905 3rd Ave NW, Cullman AL 35055",
+      "dropdown_topic": "Parks and events",
+      "body": "Mayor Kreuzer, is the city still doing the Veterans Day ceremony at City Hall this year and what time? Our VFW post would like to present the colors if you need a color guard. I'm 81 and I've done it 20 years.\n\nHarold Brasher, U.S. Army retired"
+    },
+    {
+      "id": "r6_speeding",
+      "received": "2026-10-19T06:44:00-05:00",
+      "name": "Angela Pruett",
+      "address": "1608 5th Ave SW, Cullman AL 35055",
+      "dropdown_topic": "Police and fire",
+      "body": "I spoke at the council meeting in September about cars speeding on 5th Ave SW. Someone said the police chief would follow up but I haven't heard anything. Kids walk to the bus stop here. Can we get a speed bump or at least a speed trailer?"
+    },
+    {
+      "id": "r7_business_license",
+      "received": "2026-10-19T06:58:00-05:00",
+      "name": "Rosa Delgado",
+      "address": "418 1st Ave SE, Cullman AL 35055",
+      "dropdown_topic": "Business license / permits",
+      "body": "Hola, I opened my bakery in August. Do I have to renew my city business license already in January or is it good for a year from when I got it? I don't want to get a late fee. Thank you\n\nRosa"
+    },
+    {
+      "id": "r8_rotary_invite",
+      "received": "2026-10-19T07:05:00-05:00",
+      "name": "Greg Lyles",
+      "address": "200 2nd Ave SW, Cullman AL 35055",
+      "dropdown_topic": "Invitation / scheduling",
+      "body": "Mayor Kreuzer,\n\nOn behalf of our civic club, I'd like to invite you to be our speaker at a Tuesday lunch in November or early December, 20 minutes on your plans for the city plus questions. We meet at noon. Please let me know a date that works.\n\nGreg Lyles, program chair"
+    },
+    {
+      "id": "r9_court_payment",
+      "received": "2026-10-19T07:20:00-05:00",
+      "name": "Jordan Whitlock",
+      "address": "77 Oak Hill Dr, Cullman AL 35057",
+      "dropdown_topic": "General question",
+      "body": "got a speeding ticket in the city last week, can i pay it online or do i have to come to court? and what are the court hours. thanks"
+    },
+    {
+      "id": "r10_parking_opinion",
+      "received": "2026-10-19T07:33:00-05:00",
+      "name": "Carol Ann Bice",
+      "address": "1012 2nd Ave NE, Cullman AL 35055",
+      "dropdown_topic": "Other",
+      "body": "Please don't put parking meters downtown. I heard that's being talked about. Half the reason people come to Cullman instead of Huntsville is you can park for free. The shops are barely hanging on as it is.\n\nCarol Ann Bice"
+    },
+    {
+      "id": "r11_parade_entry",
+      "received": "2026-10-19T07:50:00-05:00",
+      "name": "Tiffany Ozbirn",
+      "address": "2310 Old Hanceville Rd, Cullman AL 35057",
+      "dropdown_topic": "Parks and events",
+      "body": "Hi! Our dance studio wants to be in the Christmas parade this year. When is it and how do we sign up? Is there a fee?\n\nThanks so much,\nTiffany"
+    },
+    {
+      "id": "r12_garbage_holiday",
+      "received": "2026-10-19T08:15:00-05:00",
+      "name": "Earl Mahaffey",
+      "address": "622 7th St NW, Cullman AL 35055",
+      "dropdown_topic": "Trash and recycling",
+      "body": "Is garbage pickup going to be on schedule Veterans Day week and Thanksgiving week? Mine is Wednesday. Last year they skipped us and the cans sat out for a week."
+    }
+  ]
+}

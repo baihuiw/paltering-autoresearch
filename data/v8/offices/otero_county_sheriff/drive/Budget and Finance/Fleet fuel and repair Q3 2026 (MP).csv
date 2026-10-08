@@ -1,0 +1,24 @@
+# Sheriff's fleet - fuel and repair, July 1 - Sept 30, 2026. Miles from monthly odometer reports. Fuel from county fuel cards. Repair = county shop + outside vendors. MP 10/7 for CB.
+Unit,Year/make/model,Assigned,Odometer 9/30,Q3 miles,Q3 gallons,Q3 fuel $,Q3 repair $,Status 10/7,Notes
+3,2022 Chevrolet Tahoe PPV,Patrol - Lt,61840,7410,524,"1,797.32",212.40,In service,Oil/tires rotated 8/14
+5,2023 Ford PI Utility,Patrol,58310,9820,688,"2,359.84",96.10,In service,
+6,2023 Ford PI Utility,Patrol,62970,10240,731,"2,507.33",405.60,In service,Front brakes 9/2
+8,2021 Ford PI Utility,Patrol,104520,9960,742,"2,545.06",1180.25,In service,Water pump 7/22
+9,2021 Ford PI Utility,Patrol,98880,10110,755,"2,589.65",312.00,In service,
+11,2020 Ford PI Utility,Patrol,128240,8850,671,"2,301.53",640.80,In service,Rear struts
+12,2020 Chevrolet Tahoe PPV,Patrol - Sgt,121700,8020,609,"2,088.87",145.00,In service,
+14,2017 Ford PI Utility,Patrol,163450,6380,507,"1,739.01",3485.90,In shop,Transmission - rebuilt unit ordered 10/1; back about 10/16; replacement 2027
+15,2019 Ford PI Utility,Patrol,139920,9410,722,"2,476.46",520.00,In service,
+17,2024 Ford PI Utility,Patrol,31880,10840,754,"2,586.22",48.00,In service,
+19,2016 Chevrolet Tahoe PPV,Patrol (spare),158730,3120,262,898.66,1940.15,In service - spare only,Replacement 2027; AC compressor 8/5
+20,2024 Ford PI Utility,Patrol,29410,10380,722,"2,476.46",58.20,In service,
+21,2022 Ford F-150 Responder,Patrol - south end,54460,11920,883,"3,028.69",210.00,In service,
+22,2018 Ford PI Utility,Patrol,142310,9210,706,"2,421.58",385.75,Shop list,Check engine light 10/4; county shop Tue 10/6
+24,2015 Ford Expedition,Civil,182660,4240,318,"1,090.74",420.10,In service,Civil officer; papers south end Tue/Thu
+30,2021 Ford Transit 12-pass,Detention transport,74120,6890,612,"2,099.16",315.00,In service,
+31,2018 Chevrolet Express,Detention transport,118930,4110,402,"1,378.86",960.40,In service,Sliding door track 9/9
+40,2019 Ford F-250,OEM,48220,2310,226,775.18,88.00,In service,
+41,2012 Ford F-350 + trailer,Posse,96410,1460,177,607.11,620.50,In service,Trailer tires 10/1 (posse)
+TOTAL,,,,"144,680","11,011","37,767.73","12,044.15",,
+
+# Notes: Unit 14 transmission rebuild invoice $3,485.90 includes towing from Cheraw. Units 14 and 19 are in the 2027 replacement request ($132,000 for two, outfitted). Fuel average Q3 $3.43/gal.

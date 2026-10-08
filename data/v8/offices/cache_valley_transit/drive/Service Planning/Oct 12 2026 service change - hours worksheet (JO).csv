@@ -1,0 +1,11 @@
+October 12 2026 service change - revenue hours worksheet (JO) - board approved 9/23; weekday and Saturday effects; frequency in minutes (30 = half-hourly, 60 = hourly); cuts and adds in rev hrs shown as -/+; midday = 9:30a-2:30p; $92.40/rev hr x 255 weekdays (2026 budget),,,,,,
+Route,Period,Current frequency,New frequency,Rev hrs/day change,Annual cost effect,Notes
+Loop,All day,15,15,0.0,$0,No change
+Route 02,Weekday,30,30,0.0,$0,Trips +4 min for middle school bell times
+Route 06,AM and PM peaks,30,30,0.0,$0,No change to peak trips (6:30-9:30a and 2:30-6:30p)
+Route 06,Saturday,60,60,0.0,$0,No change
+Route 06,Weekday midday,30,60,-5.0,-$117810,Cut to hourly to free 1 bus + 5.0 hrs for the Rt 15 Canyon Bench extension (Trustee Vollmer request; GM 9/18). Not an operator constraint.
+Route 11,Saturday,60,60,0.0,$0,Trips 10 min earlier for Loop connection
+Route 15,Weekday,30,30,+5.0,+$117810,New deviation into Canyon Bench (Hyde Park) on every trip; 4 new stops
+Operator relief,Midday,n/a,n/a,0.0,$0,Relief point moves from Main & Center to Aquatic Center layover
+TOTAL,,,,0.0,$0,Hours-neutral; no budget amendment needed

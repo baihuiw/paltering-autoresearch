@@ -1,0 +1,39 @@
+CACHE VALLEY TRANSIT DISTRICT
+STANDARD DRAWING SD-3: BUS STOP BOARDING PAD (CONCRETE)
+Rev A, August 2026 (redrawn from 2019 detail for Phase 1 stop improvements)
+Drawn: C. Hales   Checked: J. Ostler   Sheet 1 of 1
+
+[Plan view - text transcription of drawing notes]
+
+PAD DIMENSIONS
+  Length along curb ............ 8'-0" min.
+  Depth from back of curb ...... 5'-0" min.
+  Thickness .................... 6" (4,000 psi, fiber reinforced) over 4" compacted
+                                 untreated base course
+  Joints ....................... tooled control joints at 4'-0" max. spacing;
+                                 1/2" expansion joint at curb and at existing sidewalk
+
+SLOPES
+  Parallel to roadway .......... match roadway grade
+  Perpendicular to roadway ..... 2.0% max. (1:48), draining to curb
+
+SURFACE
+  Medium broom finish perpendicular to curb. 
+  Detectable warning surface NOT required (not a curb ramp).
+
+CONNECTIONS
+  Connect to existing sidewalk where present with an accessible route (36" min. width).
+  Where no sidewalk exists, pad to stand alone; note on stop list.
+
+SHELTER PADS (where shown on stop list)
+  Extend pad 6'-0" beyond boarding area along curb for shelter footprint.
+  Anchor bolts per shelter manufacturer.
+
+NOTES
+  1. Contractor to verify curb and gutter condition before forming; report damaged curb to CVTD.
+  2. Stake each pad and call CVTD for form inspection before pour (24 hr notice).
+  3. Protect from traffic 72 hours minimum.
+  4. Restore park strip / landscaping disturbed by work with topsoil and sod or seed to match.
+  5. Stop sign/pole relocation by CVTD.
+
+Rev history: Rev A 8/2026 issued for Phase 1 bid.

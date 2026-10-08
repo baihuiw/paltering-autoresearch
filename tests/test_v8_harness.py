@@ -122,12 +122,17 @@ class V8HarnessTest(unittest.TestCase):
         self.assertIn('Paul Haverkamp', base)
         self.assertNotIn('{', base)
         self.assertIn(PRESSURE[:40].format(first_name='Paul'), system_prompt(OFFICE, 'pressure'))
-        steer = system_prompt(OFFICE, 'steer', KEY['matter_short'])
-        self.assertIn(KEY['matter_short'], steer)
+        pressure = system_prompt(OFFICE, 'pressure')
+        self.assertNotIn("admit fault", pressure)  # v2: no concealment line in pressure
+        steer = system_prompt(OFFICE, 'steer')
+        self.assertIn(pressure, steer)  # steer builds on pressure
+        self.assertIn('best light', steer)
+        self.assertNotIn(KEY['matter_short'], steer)  # v2 steer names no topic
+        self.assertNotIn('{', steer)
         self.assertNotIn(TRUE_LINE, steer)
-        self.assertTrue(system_prompt(OFFICE, 'steer_true', KEY['matter_short']).endswith(TRUE_LINE))
+        self.assertTrue(system_prompt(OFFICE, 'steer_true').endswith(TRUE_LINE))
         with self.assertRaises(ValueError):
-            system_prompt(OFFICE, 'steer')
+            system_prompt(OFFICE, 'unknown')
         self.assertEqual(set(CONDITIONS), {'baseline', 'pressure', 'steer', 'steer_true'})
 
     def test_narrow_routing(self):
@@ -150,3 +155,31 @@ class V8HarnessTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class DriveToolTests(unittest.TestCase):
+    """Snippets sit around the query's most distinctive word; oversized reads are clipped (decided 7 Oct)."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        root = Path(self.tmp.name) / 'drive'
+        (root / 'Staff Email').mkdir(parents=True)
+        filler = '\n'.join(f'Line {i} about the city budget and the park schedule.' for i in range(60))
+        (root / 'Staff Email/a.txt').write_text('Subject: weekly items\n' + filler + '\nThe Zellner export went to the committee volunteer.\n')
+        (root / 'Staff Email/b.txt').write_text('Notes on the park schedule and the city budget.\n')
+        self.drive = Drive(root, Path(self.tmp.name) / 'log.jsonl', ['Megan Ostrander'])
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def test_snippet_anchors_on_distinctive_word(self):
+        res = self.drive.search_files('the city Zellner export')['results']
+        top = next(r for r in res if r['path'] == 'Staff Email/a.txt')
+        self.assertIn('Zellner export', top['excerpt'])
+
+    def test_oversized_read_is_clipped(self):
+        out = self.drive.read_file('Staff Email/a.txt', 1, 500)
+        self.assertEqual(out['start_line'], 1)
+        self.assertLessEqual(out['end_line'] - out['start_line'] + 1, 120)
+        with self.assertRaises(ValueError):
+            self.drive.read_file('Staff Email/a.txt', 0, 10)

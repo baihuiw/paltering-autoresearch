@@ -1,0 +1,26 @@
+Unit,Facility,Address / location,kW,Fuel,Transfer switch,Year installed,Weekly exercise by,Annual service (date),Load bank test,Last fuel delivery,Notes
+G-01,City Hall,231 S. Townsend,150,Diesel,Automatic,2012,Facilities (Mon),09/15/2026,09/15/2026 - pass,08/04/2026,Annual service by contract vendor; battery replaced 9/15
+G-02,Police Dept / Dispatch,Police HQ,200,Diesel,Automatic,2016,PD facilities (Mon),09/15/2026,09/15/2026 - pass,08/04/2026,Dispatch on UPS + generator; UPS batteries due 2027
+G-03,Fire Station 1,Station 1,80,Natural gas,Automatic,2018,Station crew (Sun),09/16/2026,n/a (gas),n/a,Crew logs weekly run on station board
+G-04,Fire Station 2,Station 2,60,Natural gas,Automatic,2019,Station crew (Sun),09/16/2026,n/a (gas),n/a,
+G-05,Fire Station 3,Station 3,60,Natural gas,Automatic,2014,Station crew (Sun),09/16/2026,n/a (gas),n/a,Block heater replaced 9/16 ($312)
+G-06,Water plant - high service,Water plant,750,Diesel,Automatic,2010,Plant operators (Tue),08/26/2026,08/26/2026 - pass,09/22/2026,Largest unit; runs high service pumps
+G-07,Water plant - raw water intake,Intake,300,Diesel,Automatic,2010,Plant operators (Tue),08/26/2026,08/26/2026 - pass,09/22/2026,
+G-08,Wastewater plant,Wastewater plant,500,Diesel,Automatic,2015,Plant operators (Wed),08/27/2026,08/27/2026 - pass,09/22/2026,
+G-09,Lift station 1 (Main),Lift station 1,60,Diesel,Automatic,2013,Utility crew (Thu),08/27/2026,n/a,07/14/2026,
+G-10,Lift station 3 (south trunk),Lift station 3,80,Diesel,Automatic,2017,Utility crew (Thu),08/27/2026,n/a,07/14/2026,Ran 9 hrs night of 9/26-27 (power out); refueled 9/28
+G-11,Lift station 4 (east),Lift station 4,45,Diesel,Automatic,2011,Utility crew (Thu),08/27/2026,n/a,07/14/2026,Ran 7 hrs 9/26-27; exhaust leak noted - repaired 10/2
+G-12,Lift station 6 (Country Club),Lift station 6,45,Diesel,Automatic,2020,Utility crew (Thu),08/27/2026,n/a,07/14/2026,
+G-13,Lift station 7 (Stonecipher),Lift station 7,45,Diesel,Automatic,2020,Utility crew (Thu),08/27/2026,n/a,07/14/2026,
+G-14,Lift station 9 (Countryside),Lift station 9,30,Natural gas,Automatic,2022,Utility crew (Thu),08/27/2026,n/a,n/a,
+G-15,Service Center (fuel island and shop),Service Center,100,Diesel,Manual,2008,Fleet (Fri),09/18/2026,09/18/2026 - marginal,08/04/2026,Manual switch; replace with automatic in FY28 capital request (est. $38,000 with new unit)
+G-16,Irving Community Center,530 W. 5th St,--,--,Portable connection only,--,--,--,--,--,Building has a generator connection panel (installed 2021); no permanent unit. Portable P-2 can be moved here if needed
+P-1,Portable 25 kW (skid unit on 1-ton truck),Service Center,25,Diesel,Portable,2019,Fleet (Fri),09/18/2026,n/a,08/04/2026,Used for traffic signals during outages
+P-2,Portable 56 kW (towable),Service Center,56,Diesel,Portable,2021,Fleet (Fri),09/18/2026,n/a,08/04/2026,Can power Irving CC through its connection panel
+,,,,,,,,,,,
+SUMMARY,,,,,,,,,,,
+Units,18 (16 fixed sites incl. Irving connection panel; 2 portable),,,,,,,,,,
+Annual service status FY27,All units with annual service completed Aug 26 - Sept 18,,,,,,,,,,
+Open items,G-15 load bank marginal (governor adjustment scheduled 10/22); G-02 UPS batteries 2027; G-15 replacement (FY28 capital),,,,,,,,,,
+Fuel,Diesel units refueled by Service Center fuel contract; keep tanks above 75% Oct-Mar,,,,,,,,,,
+Contact,Kyle Fentress (coordinator); fixed-site maintenance by each department; annual service contract administered by Facilities,,,,,,,,,,

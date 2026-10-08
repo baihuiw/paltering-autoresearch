@@ -1,0 +1,15 @@
+# Main break log FY2027 to date. Major = more than 50 customers out or over 4 hours. Boil water advisory (BWA) issued when pressure drops below 20 psi in part of the system.
+date,location,area,main_size_in,material,cause,customers_out,hours_out,bwa,bwa_lifted,repair_cost_est,notes
+07/09/2026,Peaks St at Grove St,Bedford,6,Cast iron,Circumferential crack,22,4.5,No,,4800,
+07/21/2026,Crab Orchard Rd,Moneta,8,PVC,Joint pulled after contractor bore,0,0,No,,0,Contractor damage - billed to contractor
+08/03/2026,Cottontown Rd,Forest,6,AC,Split,31,6,Yes (31),08/05/2026,6200,
+08/19/2026,Hardy Rd,Stewartsville,8,DI,Corrosion hole,12,3,No,,3900,
+08/28/2026,Oakwood St,Bedford,6,Cast iron,Crack - in replacement project area,18,3,No,,2500,Section replaced 9/30 by project
+09/03/2026,Waterlick Rd,Forest,6,AC,Split,14,3,No,,3300,
+09/10/2026,Route 221 near Perrowville Rd,Forest,12,DI,Joint failure under turn lane,140,9,Yes (61),09/12/2026,131600,Major. Bore under turn lane; 2 sleeves; permanent paving 9/29
+09/16/2026,Boonsboro Rd,Forest,6,PVC,Split,9,2.5,No,,2900,
+09/21/2026,Mountain Ave,Bedford,6,Cast iron,Circumferential crack,26,4,No,,4100,
+09/29/2026,Harbor Ridge Ln,Moneta,4,PVC,Rock damage,7,3,No,,2200,
+09/30/2026,Lakeview Dr,Moneta,8,PVC,Split at saddle,15,3.5,No,,3600,
+10/06/2026,Wheat Ridge Rd,Goode,6,PVC,Split,11,3,No,,2800,
+10/14/2026,Macon St,Bedford,6,Cast iron,Circumferential crack,19,4,No,,4400,

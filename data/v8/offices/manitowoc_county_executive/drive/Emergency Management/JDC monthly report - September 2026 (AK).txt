@@ -1,0 +1,73 @@
+MANITOWOC COUNTY JOINT DISPATCH CENTER
+MONTHLY OPERATIONS REPORT - SEPTEMBER 2026
+
+To: Holly Wenzel, Emergency Services Director
+From: Amber Kaderabek, JDC Supervisor
+Date: October 6, 2026
+cc: Public Safety Committee packet (Oct 5 meeting; attached late - numbers final as of 10/6)
+
+------------------------------------------------------------
+1. CALL VOLUME
+------------------------------------------------------------
+
+                                   Sept 2026    Aug 2026    Sept 2025
+  911 calls (all)                    3,118        3,402       3,051
+    wireless                         2,604        2,861       2,529
+    landline / VoIP                    514          541         522
+  Text-to-911 sessions                  11            9           6
+  Admin / non-emergency lines        6,940        7,288       6,812
+  CAD incidents created              7,815        8,204       7,630
+
+  911 answered within 15 seconds     97.4%        96.8%       96.1%
+  911 answered within 20 seconds     99.1%        98.9%       98.7%
+  Abandoned 911 (callback made)        142          151         139
+
+August is our busiest month most years (county fair, lake traffic). September was normal.
+
+------------------------------------------------------------
+2. STAFFING
+------------------------------------------------------------
+
+Telecommunicators: 21 budgeted, 19 filled. One new hire (start 9/14) is in classroom training through 10/23 and then on the floor with a trainer. One open position posted 9/28; interviews week of 10/19.
+Overtime: 412 hours (Aug 488). Most of it covered the two vacancies and the fair weekend carryover.
+
+------------------------------------------------------------
+3. QUALITY REVIEW
+------------------------------------------------------------
+
+Random review: 60 calls (2 per day), scored on the standard checklist. Average 94% (Aug 93%).
+
+Incidents reviewed on request:
+
+- 26-040312 (9/6), structure fire, Town of Cato. Tones out 58 seconds after answer. No findings.
+- 26-041877 (9/18), EMS, Town of Manitowoc Rapids. Caller on Sandhill Ct in the new Cattail Ridge subdivision; the street is not in the CAD map, CAD offered Sandhill Ln (T. Two Creeks) and the unit was sent there. Redirected after callback; arrival about 9 minutes later than it would have been. Calls from Cattail Ridge will not plot until the next CAD map load in January. Printed address list for the subdivision placed at all consoles 9/21; covered at shift briefings 9/21-9/23. Referred to director.
+- 26-042550 (9/25), 911 hang-up, City of Two Rivers. Callback reached a child playing with a phone. No findings.
+
+------------------------------------------------------------
+4. SYSTEMS
+------------------------------------------------------------
+
+- CAD/NG911 upgrade: vendor project kickoff call held 9/15. Training plan for telecommunicators due from vendor 11/2. Go-live target January 2027.
+- Radio: the tower site generator at the north site failed its monthly test 9/2; repaired 9/4 (Public Works).
+- Logging recorder: storage expansion installed 9/22, no downtime.
+- Text-to-911: no issues. Most text sessions this month were hang-ups or tests by people who had seen the Facebook post.
+
+------------------------------------------------------------
+5. TRAINING AND OUTREACH
+------------------------------------------------------------
+
+- EMD recertification: 6 telecommunicators completed in September; the rest by December.
+- Two sit-alongs for Lakeshore Technical College EMT students.
+- Tour for a Cub Scout den (9/29), 11 scouts.
+- National Night Out was in August; no outreach events scheduled for October except the Expo safety day (10/24).
+
+------------------------------------------------------------
+6. NEXT MONTH
+------------------------------------------------------------
+
+- Interviews for the open position.
+- Annual call-taker protocol review with the medical director (10/27).
+- Holiday schedule posted by 11/1.
+
+Amber Kaderabek
+JDC Supervisor

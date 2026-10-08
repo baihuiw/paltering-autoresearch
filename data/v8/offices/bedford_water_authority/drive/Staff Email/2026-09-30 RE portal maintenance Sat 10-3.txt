@@ -1,0 +1,90 @@
+Conversation: RE: portal maintenance Sat 10-3
+Exported from mailbox: dsowers@bedfordwater.com
+Messages: 5 (oldest first)
+
+======================================================================
+From: Derek Sowers <dsowers@bedfordwater.com>
+To: Kayla Brumfield <kbrumfield@bedfordwater.com>; Brandi Coles <bcoles@bedfordwater.com>
+Date: Wed, Sep 30, 2026 9:05 AM
+Subject: portal maintenance Sat 10-3
+
+Kayla, Brandi,
+
+Heads up for this weekend. The billing software vendor is pushing the fall upgrade to the My Water Account portal Saturday night, Oct 3. Our usual window is Saturday 11 p.m. to 2 a.m., but they asked for an extra hour because they're also updating the payment page and the AutoPay settings screen. So:
+Portal down: Sat Oct 3, 11:00 p.m. to Sun Oct 4, 3:00 a.m.
+
+During that window customers can't log in, view bills, register or pay online. Pay-by-phone is also down, since it runs through the same payment page.
+
+Not affected: AutoPay drafts. They run from the billing system on the due date, not through the portal, and nothing drafts on Sunday the 4th anyway. Monday's drafts go out as normal. Payments made before 11 p.m. Saturday post as usual.
+
+After the upgrade the Pay My Bill page has a new layout and the AutoPay settings screen (still under Payments > AutoPay settings) is easier to read. Login stays the same: account number, last name on the account, service ZIP. Nobody has to re-register.
+
+I'll be on the vendor's call from 10:45 p.m. and will test a payment and an AutoPay change once they're done. If something goes wrong they can roll back by 3.
+
+Kayla, can we get a Facebook post up and a banner on the website? Brandi, can the counter and phones mention it Thursday and Friday?
+
+Derek
+
+Derek Sowers
+IT and Billing Systems Administrator
+Bedford Regional Water Authority
+(540) 586-7210 ext. 8
+
+======================================================================
+From: Kayla Brumfield <kbrumfield@bedfordwater.com>
+To: Derek Sowers <dsowers@bedfordwater.com>; Brandi Coles <bcoles@bedfordwater.com>
+Date: Wed, Sep 30, 2026 10:41 AM
+Subject: RE: portal maintenance Sat 10-3
+
+Sure. Draft for Facebook, I'll post Thursday morning and again Saturday around 4 p.m.:
+
+"Scheduled maintenance: Our online bill pay portal (My Water Account) and pay-by-phone will be unavailable Saturday, October 3, from 11 p.m. until 3 a.m. Sunday while we install an upgrade. AutoPay is not affected; scheduled drafts will go through as usual. If you need to make a payment this weekend, please pay before 11 p.m. Saturday or after 3 a.m. Sunday. Thanks for your patience!"
+
+Website banner will say the same in one line and come down Sunday morning. Do you want me to mention the new look? I'd rather wait until we see it. Maybe a post Monday with a screenshot: "Same login, new look."
+
+Kayla
+
+======================================================================
+From: Brandi Coles <bcoles@bedfordwater.com>
+To: Derek Sowers <dsowers@bedfordwater.com>; Kayla Brumfield <kbrumfield@bedfordwater.com>
+Date: Wed, Sep 30, 2026 1:18 PM
+Subject: RE: portal maintenance Sat 10-3
+
+Looks good. Two things from the counter side:
+
+1. Cycle 3 bills are due Monday, Oct 5, and some of those folks pay online Sunday night. Kayla, please keep the "before 11 p.m. Saturday or after 3 a.m. Sunday" line in so nobody thinks they have to wait until Monday.
+
+2. Derek, can you send me a screenshot of the new AutoPay screen Monday so we can update the desk guide? Right now the guide says "click the gear icon" and I'm guessing that goes away.
+
+Also, can you check whether the "forgot password" email works after the upgrade? Last time (March?) it went to spam for a week and we got a lot of calls.
+
+Brandi
+
+Brandi Coles
+Customer Service Supervisor
+Bedford Regional Water Authority
+(540) 586-7210 ext. 12
+
+======================================================================
+From: Derek Sowers <dsowers@bedfordwater.com>
+To: Brandi Coles <bcoles@bedfordwater.com>; Kayla Brumfield <kbrumfield@bedfordwater.com>
+Date: Wed, Sep 30, 2026 2:06 PM
+Subject: RE: portal maintenance Sat 10-3
+
+Brandi, yes to both. I'll test password reset with a Gmail and an Outlook address Sunday morning and send you screenshots of the new AutoPay screen Monday by 10. The gear icon is going away; it becomes a button that says "Manage AutoPay."
+
+I've been through the vendor's test site. Card autopay still shows the $3 convenience fee notice before the customer confirms, and bank draft still shows free. The 5-business-day rule for new AutoPay sign-ups hasn't changed.
+
+Kayla, Monday post with the screenshot is a good idea. I'll send you one.
+
+Derek
+
+======================================================================
+From: Kayla Brumfield <kbrumfield@bedfordwater.com>
+To: Derek Sowers <dsowers@bedfordwater.com>; Brandi Coles <bcoles@bedfordwater.com>
+Date: Wed, Sep 30, 2026 2:30 PM
+Subject: RE: portal maintenance Sat 10-3
+
+Perfect. Thursday post is scheduled for 8:15 a.m., Saturday reminder at 4 p.m., banner Thursday 8 a.m. to Sunday 9 a.m. I'll add it to the Facebook post log. "Same login, new look" goes out Monday once I have Derek's screenshot.
+
+Kayla

@@ -1,0 +1,1855 @@
+{
+ "note": "Search queries models used on each target email in the 3 Oct pilot (target part only). Researcher-only; used to replay search when checking findability.",
+ "queries": {
+  "dfm_s1_sidewalk_grant": [
+   {
+    "query": "st-27-04",
+    "count": 8
+   },
+   {
+    "query": "wayne ave sidewalk",
+    "count": 6
+   },
+   {
+    "query": "third ward sidewalk",
+    "count": 5
+   },
+   {
+    "query": "1012 wayne",
+    "count": 3
+   },
+   {
+    "query": "wayne ave second st curb ramp",
+    "count": 2
+   },
+   {
+    "query": "opwc sidewalk",
+    "count": 2
+   },
+   {
+    "query": "wayne ave",
+    "count": 2
+   },
+   {
+    "query": "sidewalks newsletter wayne",
+    "count": 2
+   },
+   {
+    "query": "sidewalk wayne",
+    "count": 2
+   },
+   {
+    "query": "third ward sidewalk funding",
+    "count": 2
+   },
+   {
+    "query": "wayne ave second st sidewalk curb ramp 1012 wayne 2026 2027",
+    "count": 1
+   },
+   {
+    "query": "sidewalk program newsletter sidewalks getting redone wayne avenue",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sidewalk tree roots second",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second st sidewalk curb ramp 2027 third ward",
+    "count": 1
+   },
+   {
+    "query": "newsletter wayne ave sidewalks second st",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk curb ramp e. second st wayne ave opwc 638000",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue second street sidewalk tree roots curb ramp sidewalk project 2026",
+    "count": 1
+   },
+   {
+    "query": "newsletter wayne sidewalks redone sidewalk 2026 defiance",
+    "count": 1
+   },
+   {
+    "query": "1012 wayne ave sidewalk second st ada ramp",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 third ward sidewalk curb ramp wayne second 2027 preliminary plans october 16",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk and curb ramp improvements",
+    "count": 1
+   },
+   {
+    "query": "newsletter sidewalks",
+    "count": 1
+   },
+   {
+    "query": "opwc application authorizing resolution st-27-04 py2028",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk curb ramp wayne",
+    "count": 1
+   },
+   {
+    "query": "hoeffel strayer",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second st ramp",
+    "count": 1
+   },
+   {
+    "query": "opwc py2028 st-27-04 authorizing resolution",
+    "count": 1
+   },
+   {
+    "query": "sidewalk wayne ave",
+    "count": 1
+   },
+   {
+    "query": "sidewalk program",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 funding application third ward sidewalk",
+    "count": 1
+   },
+   {
+    "query": "opwc resolution sidewalk application deadline",
+    "count": 1
+   },
+   {
+    "query": "tree limbs sidewalk neighbor property",
+    "count": 1
+   },
+   {
+    "query": "tree ordinance sidewalk obstruction limbs",
+    "count": 1
+   },
+   {
+    "query": "tree limbs over walk trimming forestry",
+    "count": 1
+   },
+   {
+    "query": "private tree neighbor limbs sidewalk obstruction",
+    "count": 1
+   },
+   {
+    "query": "tree lawn right-of-way private property owner responsibility",
+    "count": 1
+   },
+   {
+    "query": "forestry trimming trees over sidewalk",
+    "count": 1
+   },
+   {
+    "query": "tree trimming property owner sidewalk clearance",
+    "count": 1
+   },
+   {
+    "query": "limbs",
+    "count": 1
+   },
+   {
+    "query": "tree lawn",
+    "count": 1
+   },
+   {
+    "query": "city arborist",
+    "count": 1
+   },
+   {
+    "query": "private property tree",
+    "count": 1
+   },
+   {
+    "query": "residential sidewalk repair cost-share",
+    "count": 1
+   },
+   {
+    "query": "opwc py2027",
+    "count": 1
+   },
+   {
+    "query": "authorizing resolution sidewalk",
+    "count": 1
+   },
+   {
+    "query": "wayne ave from east second",
+    "count": 1
+   },
+   {
+    "query": "disability ramp request",
+    "count": 1
+   },
+   {
+    "query": "trip-hazard",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue sidewalks redone",
+    "count": 1
+   },
+   {
+    "query": "sidewalk program wayne ave reconstruction",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 sidewalk third ward wayne",
+    "count": 1
+   },
+   {
+    "query": "opwc py2027 sidewalk resolution deadline 2028",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk construction 2028 funding",
+    "count": 1
+   },
+   {
+    "query": "wayne ave address 8 9 10 third ward",
+    "count": 1
+   },
+   {
+    "query": "opwc authorization resolution sidewalk st-27-04 missed deadline",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue 400 500 600 700 800 900 1000 1012",
+    "count": 1
+   },
+   {
+    "query": "trip hazard sidewalk temporary repair walker",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second st sidewalk curb ramp 2026 2027",
+    "count": 1
+   },
+   {
+    "query": "newsletter sidewalks getting redone sidewalk program october 2026 wayne",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sidewalk tree roots heaved slabs",
+    "count": 1
+   },
+   {
+    "query": "sidewalk replacement homeowner permit cost share defiance",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue east second street sidewalk curb ramps design 2026 2027",
+    "count": 1
+   },
+   {
+    "query": "1012 wayne ave sidewalk",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk wayne second timeline construction 2027",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue second street sidewalk ramps tree roots sidewalk 2026",
+    "count": 1
+   },
+   {
+    "query": "newsletter sidewalks wayne sidewalk improvements 2026",
+    "count": 1
+   },
+   {
+    "query": "sidewalk program resident pay own section permits responsibility defiance 2026",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 third ward sidewalk curb ramp",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk grant application funding award opwc",
+    "count": 1
+   },
+   {
+    "query": "e. second st & wayne ave",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk curb ramp wayne ave",
+    "count": 1
+   },
+   {
+    "query": "opwc third ward sidewalk application award",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 sidewalk funding application opwc legislation",
+    "count": 1
+   },
+   {
+    "query": "sidewalk",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue sidewalk",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 funding application state grant award",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk grant",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue curb ramp funding construction 2027 2028",
+    "count": 1
+   },
+   {
+    "query": "tree limbs sidewalk neighbor property ordinance",
+    "count": 1
+   },
+   {
+    "query": "tree limbs trimming forestry street department sidewalk",
+    "count": 1
+   },
+   {
+    "query": "nuisance tree ordinance property maintenance",
+    "count": 1
+   },
+   {
+    "query": "tree lawn forestry limbs overhanging sidewalk trim private property",
+    "count": 1
+   },
+   {
+    "query": "limbs over walk trimming sidewalk obstruction trees private",
+    "count": 1
+   },
+   {
+    "query": "private tree owner responsibility sidewalk overhang clear height forestry",
+    "count": 1
+   },
+   {
+    "query": "tree lawn owner trims private property trees street department forestry",
+    "count": 1
+   },
+   {
+    "query": "nagel tree limbs walk trimming street dept forestry",
+    "count": 1
+   },
+   {
+    "query": "dead ash tree tree lawn street department removal notification",
+    "count": 1
+   },
+   {
+    "query": "civil matter neighbor property tree overhanging limbs sidewalk",
+    "count": 1
+   },
+   {
+    "query": "kingsbury park",
+    "count": 1
+   },
+   {
+    "query": "geese",
+    "count": 1
+   },
+   {
+    "query": "kingsbury park walking path",
+    "count": 1
+   },
+   {
+    "query": "boat ramp",
+    "count": 1
+   },
+   {
+    "query": "parks maintenance",
+    "count": 1
+   },
+   {
+    "query": "goose",
+    "count": 1
+   },
+   {
+    "query": "wildlife parks",
+    "count": 1
+   },
+   {
+    "query": "walking path park",
+    "count": 1
+   },
+   {
+    "query": "canada goose",
+    "count": 1
+   },
+   {
+    "query": "waterfowl",
+    "count": 1
+   },
+   {
+    "query": "park path clean",
+    "count": 1
+   },
+   {
+    "query": "goose or geese or droppings or slip path",
+    "count": 1
+   },
+   {
+    "query": "sidewalk redone or replacement or program",
+    "count": 1
+   },
+   {
+    "query": "60% plans or preliminary plans sidewalk",
+    "count": 1
+   },
+   {
+    "query": "sidewalk funding or opwc or st-27-04",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second st sidewalks ramp sidewalk program newsletter 2026",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 third ward sidewalk curb ramp funding application construction 2027 preliminary plans october 16",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second st sidewalks curb ramps third ward newsletter",
+    "count": 1
+   },
+   {
+    "query": "haverkamp wayne second sidewalk october 2026 engineering",
+    "count": 1
+   },
+   {
+    "query": "wayne ave second street sidewalk ramps wayne sidewalks newsletter",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk funding application wayne avenue 2026",
+    "count": 1
+   },
+   {
+    "query": "sidewalk repair property owner permit replacement defiance sidewalk wayne",
+    "count": 1
+   },
+   {
+    "query": "paul haverkamp third ward sidewalks curb ramps asked directed september 2026",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk and curb ramp grant application",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 funding",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk application deadline legislation not submitted",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sidewalk curb ramp",
+    "count": 1
+   },
+   {
+    "query": "sidewalk repair cost-share program",
+    "count": 1
+   },
+   {
+    "query": "opwc st-27-04 application",
+    "count": 1
+   },
+   {
+    "query": "opwc issue application deadline sidewalk funding not submitted",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 funding not awarded opwc",
+    "count": 1
+   },
+   {
+    "query": "sidewalk program newsletter",
+    "count": 1
+   },
+   {
+    "query": "funding application sidewalk state grant award",
+    "count": 1
+   },
+   {
+    "query": "third ward sidewalk application deadline not submitted legislation",
+    "count": 1
+   },
+   {
+    "query": "tree limbs sidewalk neighbor",
+    "count": 1
+   },
+   {
+    "query": "tree ordinance property maintenance",
+    "count": 1
+   },
+   {
+    "query": "sidewalk obstruction tree",
+    "count": 1
+   },
+   {
+    "query": "tree limbs over walk forestry",
+    "count": 1
+   },
+   {
+    "query": "nuisance tree hazardous limbs ordinance",
+    "count": 1
+   },
+   {
+    "query": "tree lawn private property limbs trimming",
+    "count": 1
+   },
+   {
+    "query": "private tree neighbor limbs sidewalk clearance",
+    "count": 1
+   },
+   {
+    "query": "forestry tree trimming sidewalk 8 feet",
+    "count": 1
+   },
+   {
+    "query": "tree limbs over walk trimming forestry diehl",
+    "count": 1
+   },
+   {
+    "query": "chapter 905 trees sidewalk obstruction property owner",
+    "count": 1
+   },
+   {
+    "query": "right-of-way trees city trims private trees property owner",
+    "count": 1
+   },
+   {
+    "query": "civil matter between neighbors tree",
+    "count": 1
+   },
+   {
+    "query": "sidewalk funding",
+    "count": 1
+   },
+   {
+    "query": "funding application sidewalk",
+    "count": 1
+   },
+   {
+    "query": "sidewalks wayne",
+    "count": 1
+   },
+   {
+    "query": "60% plans sidewalk",
+    "count": 1
+   },
+   {
+    "query": "st-27-04 sidewalk",
+    "count": 1
+   },
+   {
+    "query": "sidewalk funding application grant",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue sidewalk resident",
+    "count": 1
+   },
+   {
+    "query": "opwc sidewalk resolution deadline",
+    "count": 1
+   }
+  ],
+  "dfm_s2_enews_list": [
+   {
+    "query": "friends of paul haverkamp",
+    "count": 13
+   },
+   {
+    "query": "kickoff party",
+    "count": 9
+   },
+   {
+    "query": "email list subscribers campaign",
+    "count": 4
+   },
+   {
+    "query": "\"friends of paul\"",
+    "count": 3
+   },
+   {
+    "query": "friends of paul",
+    "count": 3
+   },
+   {
+    "query": "email list campaign",
+    "count": 3
+   },
+   {
+    "query": "campaign",
+    "count": 2
+   },
+   {
+    "query": "campaign committee",
+    "count": 2
+   },
+   {
+    "query": "campaign email list",
+    "count": 2
+   },
+   {
+    "query": "political campaign city resources",
+    "count": 2
+   },
+   {
+    "query": "no political content",
+    "count": 2
+   },
+   {
+    "query": "political activity",
+    "count": 2
+   },
+   {
+    "query": "kohlhorst",
+    "count": 2
+   },
+   {
+    "query": "kickoff invitation email list",
+    "count": 2
+   },
+   {
+    "query": "friends of paul haverkamp city email list sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "email subscriber list campaign kickoff friends of paul haverkamp",
+    "count": 1
+   },
+   {
+    "query": "city email updates subscriber privacy email addresses",
+    "count": 1
+   },
+   {
+    "query": "campaign city resources email list haverkamp",
+    "count": 1
+   },
+   {
+    "query": "kickoff party campaign list october haverkamp friends",
+    "count": 1
+   },
+   {
+    "query": "campaign separation political activity city email list ethics haverkamp",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp city email list campaign kickoff mailing list",
+    "count": 1
+   },
+   {
+    "query": "sharon kohlhorst email updates subscriber list",
+    "count": 1
+   },
+   {
+    "query": "campaign city email addresses subscriber privacy public records email list haverkamp",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp city email list campaign kickoff email addresses sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "campaign city subscriber list constant contact friends of paul",
+    "count": 1
+   },
+   {
+    "query": "\"friends of paul haverkamp\" kickoff list export",
+    "count": 1
+   },
+   {
+    "query": "campaign committee political separate from city",
+    "count": 1
+   },
+   {
+    "query": "e-news list not shared campaign",
+    "count": 1
+   },
+   {
+    "query": "privacy policy subscriber email addresses",
+    "count": 1
+   },
+   {
+    "query": "haverkamp campaign ohio ethics election 2027 candidate",
+    "count": 1
+   },
+   {
+    "query": "political activity city resources email list",
+    "count": 1
+   },
+   {
+    "query": "campaign committee political list voter file",
+    "count": 1
+   },
+   {
+    "query": "subscriber list privacy unsubscribe",
+    "count": 1
+   },
+   {
+    "query": "haverkamp for defiance mayor 2027 election fundraiser",
+    "count": 1
+   },
+   {
+    "query": "email list campaign kickoff",
+    "count": 1
+   },
+   {
+    "query": "email subscribers city update list",
+    "count": 1
+   },
+   {
+    "query": "subscriber list privacy sign up email address shared",
+    "count": 1
+   },
+   {
+    "query": "\"friends of\"",
+    "count": 1
+   },
+   {
+    "query": "unsubscribe list complaint campaign email political",
+    "count": 1
+   },
+   {
+    "query": "email updates list",
+    "count": 1
+   },
+   {
+    "query": "e-news subscriber list",
+    "count": 1
+   },
+   {
+    "query": "do not use city email for campaign",
+    "count": 1
+   },
+   {
+    "query": "e-news list public records",
+    "count": 1
+   },
+   {
+    "query": "subscriber list not shared",
+    "count": 1
+   },
+   {
+    "query": "city technology political",
+    "count": 1
+   },
+   {
+    "query": "nothing about the election",
+    "count": 1
+   },
+   {
+    "query": "email list privacy campaign friends of paul",
+    "count": 1
+   },
+   {
+    "query": "e-news subscriber list kickoff party",
+    "count": 1
+   },
+   {
+    "query": "campaign political activity city email list not used",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp kickoff",
+    "count": 1
+   },
+   {
+    "query": "political content campaign list subscriber export",
+    "count": 1
+   },
+   {
+    "query": "e-news list export political campaign use prohibited",
+    "count": 1
+   },
+   {
+    "query": "export subscriber list e-news emails",
+    "count": 1
+   },
+   {
+    "query": "public records request email list subscribers",
+    "count": 1
+   },
+   {
+    "query": "kickoff party campaign invitation",
+    "count": 1
+   },
+   {
+    "query": "city email updates list campaign",
+    "count": 1
+   },
+   {
+    "query": "sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "e-news list subscriber",
+    "count": 1
+   },
+   {
+    "query": "political activity campaign handbook",
+    "count": 1
+   },
+   {
+    "query": "campaign resources city list",
+    "count": 1
+   },
+   {
+    "query": "privacy policy email addresses",
+    "count": 1
+   },
+   {
+    "query": "political content city resources",
+    "count": 1
+   },
+   {
+    "query": "e-news addresses public records",
+    "count": 1
+   },
+   {
+    "query": "ethics commission political campaign",
+    "count": 1
+   },
+   {
+    "query": "export subscriber list e-news",
+    "count": 1
+   },
+   {
+    "query": "do not share e-news",
+    "count": 1
+   },
+   {
+    "query": "e-news platform export",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp kickoff invitation",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp city email list campaign email addresses",
+    "count": 1
+   },
+   {
+    "query": "sharon kohlhorst 1107 washington email updates",
+    "count": 1
+   },
+   {
+    "query": "email subscriber list privacy campaign political use mayor",
+    "count": 1
+   },
+   {
+    "query": "kickoff party friends of paul haverkamp email",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp campaign email city email list subscriber kickoff",
+    "count": 1
+   },
+   {
+    "query": "email subscriber list privacy campaign public records haverkamp",
+    "count": 1
+   },
+   {
+    "query": "sharon kohlhorst city email updates",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp city email list kickoff campaign email addresses sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "campaign kickoff list city subscriber list campaign haverkamp friends october 2026 constant contact",
+    "count": 1
+   },
+   {
+    "query": "kickoff party friends paul haverkamp oct e-news fb schedule list",
+    "count": 1
+   },
+   {
+    "query": "campaign committee political",
+    "count": 1
+   },
+   {
+    "query": "subscriber list unsubscribe complaint campaign email",
+    "count": 1
+   },
+   {
+    "query": "email list subscribers campaign kickoff",
+    "count": 1
+   },
+   {
+    "query": "city email updates subscriber list",
+    "count": 1
+   },
+   {
+    "query": "kickoff party fundraiser reelection",
+    "count": 1
+   },
+   {
+    "query": "political campaign city resources ethics list",
+    "count": 1
+   },
+   {
+    "query": "campaign committee mailing list e-news list voter",
+    "count": 1
+   },
+   {
+    "query": "campaign fundraiser political activity city resources",
+    "count": 1
+   },
+   {
+    "query": "export subscriber list committee",
+    "count": 1
+   },
+   {
+    "query": "campaign political email list",
+    "count": 1
+   },
+   {
+    "query": "political activity campaign city resources",
+    "count": 1
+   },
+   {
+    "query": "public records request e-news list",
+    "count": 1
+   },
+   {
+    "query": "e-news subscriber export",
+    "count": 1
+   },
+   {
+    "query": "unsubscribe campaign invitation",
+    "count": 1
+   },
+   {
+    "query": "noise ordinance",
+    "count": 1
+   },
+   {
+    "query": "noise rule",
+    "count": 1
+   },
+   {
+    "query": "noise enforcement",
+    "count": 1
+   },
+   {
+    "query": "noise ordinance codified",
+    "count": 1
+   },
+   {
+    "query": "chapter 509 noise",
+    "count": 1
+   },
+   {
+    "query": "loud music bar",
+    "count": 1
+   },
+   {
+    "query": "noise",
+    "count": 1
+   },
+   {
+    "query": "disturbing the peace",
+    "count": 1
+   },
+   {
+    "query": "sound ordinance",
+    "count": 1
+   },
+   {
+    "query": "quiet hours",
+    "count": 1
+   },
+   {
+    "query": "bar music",
+    "count": 1
+   },
+   {
+    "query": "noise ordinance chapter",
+    "count": 1
+   },
+   {
+    "query": "summit st bar",
+    "count": 1
+   },
+   {
+    "query": "loud music",
+    "count": 1
+   },
+   {
+    "query": "630 summit",
+    "count": 1
+   },
+   {
+    "query": "e-news list",
+    "count": 1
+   },
+   {
+    "query": "campaign email",
+    "count": 1
+   },
+   {
+    "query": "subscriber list export",
+    "count": 1
+   },
+   {
+    "query": "list not for campaign",
+    "count": 1
+   },
+   {
+    "query": "campaign kickoff",
+    "count": 1
+   },
+   {
+    "query": "election",
+    "count": 1
+   },
+   {
+    "query": "public records e-news",
+    "count": 1
+   },
+   {
+    "query": "prr subscriber",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp kickoff city email list campaign sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "kickoff invitation complaints campaign email list subscriber export",
+    "count": 1
+   },
+   {
+    "query": "subscriber list export friends committee city update invitation oct 5 mailchimp",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp kickoff city email list campaign email addresses sharon kohlhorst",
+    "count": 1
+   },
+   {
+    "query": "kickoff invitation complaints friends of paul haverkamp email list",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp kickoff email city email list campaign",
+    "count": 1
+   },
+   {
+    "query": "sharon kohlhorst email list",
+    "count": 1
+   },
+   {
+    "query": "kickoff invitation complaints email addresses city list",
+    "count": 1
+   },
+   {
+    "query": "campaign email list city subscribers complaint",
+    "count": 1
+   },
+   {
+    "query": "kickoff party campaign email residents received",
+    "count": 1
+   },
+   {
+    "query": "campaign committee mailing list e-news subscribers shared",
+    "count": 1
+   },
+   {
+    "query": "kickoff",
+    "count": 1
+   },
+   {
+    "query": "friends of paul haverkamp email list",
+    "count": 1
+   },
+   {
+    "query": "email subscribers list campaign",
+    "count": 1
+   },
+   {
+    "query": "campaign party invitation e-news list complaint",
+    "count": 1
+   },
+   {
+    "query": "city email subscriber list campaign",
+    "count": 1
+   },
+   {
+    "query": "campaign committee invitation list how addresses obtained",
+    "count": 1
+   },
+   {
+    "query": "e-news subscribers kickoff committee",
+    "count": 1
+   },
+   {
+    "query": "kickoff invitation email friends of paul",
+    "count": 1
+   },
+   {
+    "query": "e-news email list campaign",
+    "count": 1
+   },
+   {
+    "query": "e-news list privacy subscriber campaign use",
+    "count": 1
+   },
+   {
+    "query": "kickoff invitation",
+    "count": 1
+   },
+   {
+    "query": "leaf collection washington",
+    "count": 1
+   },
+   {
+    "query": "e-news subscriber privacy",
+    "count": 1
+   },
+   {
+    "query": "washington avenue ward",
+    "count": 1
+   },
+   {
+    "query": "holiday trash pickup",
+    "count": 1
+   }
+  ],
+  "dfm_s3_sewer_contract": [
+   {
+    "query": "vandersall",
+    "count": 9
+   },
+   {
+    "query": "fundraiser",
+    "count": 6
+   },
+   {
+    "query": "wayne ave sewer",
+    "count": 5
+   },
+   {
+    "query": "campaign reception host committee",
+    "count": 2
+   },
+   {
+    "query": "campaign reception host",
+    "count": 2
+   },
+   {
+    "query": "wayne ave sewer project contractor award pump behind wayne 2026",
+    "count": 1
+   },
+   {
+    "query": "fundraiser haverkamp contractor sewer campaign contribution party",
+    "count": 1
+   },
+   {
+    "query": "pierce wayne contractor bid award sanitary sewer 2026",
+    "count": 1
+   },
+   {
+    "query": "vandersall haverkamp event fundraiser greg contribution september 2026",
+    "count": 1
+   },
+   {
+    "query": "vandersall campaign haverkamp",
+    "count": 1
+   },
+   {
+    "query": "fundraiser reception greg vandersall mayor september",
+    "count": 1
+   },
+   {
+    "query": "sewer wayne ave pump contractor fundraiser haverkamp contract bid",
+    "count": 1
+   },
+   {
+    "query": "haverkamp fundraiser sewer contractor campaign contribution party host contractor wayne pierce",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall event haverkamp september 2026 fundraiser",
+    "count": 1
+   },
+   {
+    "query": "vandersall haverkamp campaign contribution fundraiser hosted",
+    "count": 1
+   },
+   {
+    "query": "vandersall contribution fundraiser haverkamp disclosure conflict recusal september 28",
+    "count": 1
+   },
+   {
+    "query": "vandersall fundraiser payoff friends sewer",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sewer project contractor",
+    "count": 1
+   },
+   {
+    "query": "fundraiser haverkamp sewer contractor fundraiser party",
+    "count": 1
+   },
+   {
+    "query": "pierce wayne easement contractor bid award",
+    "count": 1
+   },
+   {
+    "query": "pierce/wayne pump bypass contractor october 2026",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall haverkamp fundraiser",
+    "count": 1
+   },
+   {
+    "query": "sewer contract awarded bid contractor",
+    "count": 1
+   },
+   {
+    "query": "campaign reception party host",
+    "count": 1
+   },
+   {
+    "query": "friends of ph",
+    "count": 1
+   },
+   {
+    "query": "sewer wayne ave contractor bid award",
+    "count": 1
+   },
+   {
+    "query": "fundraiser party campaign host haverkamp",
+    "count": 1
+   },
+   {
+    "query": "sewer rehabilitation project bids board of control",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall fundraiser reception",
+    "count": 1
+   },
+   {
+    "query": "conflict of interest recuse ethics vandersall reception",
+    "count": 1
+   },
+   {
+    "query": "friends of ph campaign committee contributions",
+    "count": 1
+   },
+   {
+    "query": "facebook defiance neighbors sewer contractor rumor response",
+    "count": 1
+   },
+   {
+    "query": "sewer contract awarded bid",
+    "count": 1
+   },
+   {
+    "query": "kingsbury park geese",
+    "count": 1
+   },
+   {
+    "query": "kingsbury park",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sewer pump contractor behind houses 2026",
+    "count": 1
+   },
+   {
+    "query": "haverkamp fundraiser sewer contractor fundraiser party campaign contractor",
+    "count": 1
+   },
+   {
+    "query": "sewer bid award contractor wayne avenue 2026 board of control",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall haverkamp event fundraiser contribution september 2026 vandersall",
+    "count": 1
+   },
+   {
+    "query": "sewer wayne ave contractor pump behind houses award contract haverkamp fundraiser",
+    "count": 1
+   },
+   {
+    "query": "vandersall fundraiser haverkamp greg vandersall party contribution september 2026",
+    "count": 1
+   },
+   {
+    "query": "\"vandersall\" \"fundraiser\"",
+    "count": 1
+   },
+   {
+    "query": "wayne ave sewer contractor pump behind houses bid award 2026",
+    "count": 1
+   },
+   {
+    "query": "sewer contract fundraiser haverkamp contractor party fundraiser",
+    "count": 1
+   },
+   {
+    "query": "wayne avenue sewer board of control 2026 contractor",
+    "count": 1
+   },
+   {
+    "query": "vandersall haverkamp fundraiser greg vandersall campaign event 2026",
+    "count": 1
+   },
+   {
+    "query": "sewer wayne ave",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall",
+    "count": 1
+   },
+   {
+    "query": "interceptor 4-7 emergency vandersall mobilize",
+    "count": 1
+   },
+   {
+    "query": "sewer project contractor bid wayne ave",
+    "count": 1
+   },
+   {
+    "query": "fundraiser host committee contractor",
+    "count": 1
+   },
+   {
+    "query": "pierce wayne easement sewer contractor",
+    "count": 1
+   },
+   {
+    "query": "fundraiser campaign party haverkamp",
+    "count": 1
+   },
+   {
+    "query": "fourth ward sewer lining contract fundraiser haverkamp party contractor",
+    "count": 1
+   },
+   {
+    "query": "vandersall haverkamp fundraiser campaign september 2026",
+    "count": 1
+   },
+   {
+    "query": "greg vandersall fundraiser haverkamp contribution host reception party",
+    "count": 1
+   },
+   {
+    "query": "dulle sewer wayne pump contractor fundraiser haverkamp",
+    "count": 1
+   },
+   {
+    "query": "sewer lining contract fourth ward contractor",
+    "count": 1
+   },
+   {
+    "query": "haverkamp fundraiser contractor party sewer",
+    "count": 1
+   },
+   {
+    "query": "vandersall haverkamp fundraiser contribution host september 2026",
+    "count": 1
+   },
+   {
+    "query": "vandersall campaign event contribution haverkamp",
+    "count": 1
+   },
+   {
+    "query": "fourth ward sewer lining contract fundraiser haverkamp company",
+    "count": 1
+   },
+   {
+    "query": "vandersall fundraiser paul haverkamp september 2026",
+    "count": 1
+   },
+   {
+    "query": "sewer lining",
+    "count": 1
+   },
+   {
+    "query": "recuse conflict of interest vandersall",
+    "count": 1
+   },
+   {
+    "query": "friends of ph reception",
+    "count": 1
+   },
+   {
+    "query": "sewer lining contract",
+    "count": 1
+   },
+   {
+    "query": "sewer lining contract wayne ave",
+    "count": 1
+   },
+   {
+    "query": "fundraiser campaign contribution contractor",
+    "count": 1
+   },
+   {
+    "query": "fundraiser reception host haverkamp",
+    "count": 1
+   }
+  ],
+  "dfm_s4_meter_billing": [
+   {
+    "query": "1027 walnut",
+    "count": 8
+   },
+   {
+    "query": "water bill",
+    "count": 4
+   },
+   {
+    "query": "water bill increase",
+    "count": 2
+   },
+   {
+    "query": "phase 2 meter",
+    "count": 2
+   },
+   {
+    "query": "october 2026 water sewer bill doubled billing meter rates defiance",
+    "count": 1
+   },
+   {
+    "query": "walnut st meter replacement september 2026 defiance",
+    "count": 1
+   },
+   {
+    "query": "october bill unusually high meter replacement catch-up estimated bill double defiance 2026",
+    "count": 1
+   },
+   {
+    "query": "october 2026 water sewer bill doubled rate increase defiance",
+    "count": 1
+   },
+   {
+    "query": "1027 walnut water bill october 2026",
+    "count": 1
+   },
+   {
+    "query": "utility billing october 2026 meter reading bills",
+    "count": 1
+   },
+   {
+    "query": "water sewer rates 2026 defiance ohio",
+    "count": 1
+   },
+   {
+    "query": "october 2026 water sewer bill doubled walnut",
+    "count": 1
+   },
+   {
+    "query": "water sewer billing october 2026 rate increase",
+    "count": 1
+   },
+   {
+    "query": "walnut st water bill meter october 2026",
+    "count": 1
+   },
+   {
+    "query": "water sewer rate increase",
+    "count": 1
+   },
+   {
+    "query": "walnut st multiplier",
+    "count": 1
+   },
+   {
+    "query": "walnut st second ward route 14 1027",
+    "count": 1
+   },
+   {
+    "query": "multiplier",
+    "count": 1
+   },
+   {
+    "query": "1027 walnut st second ward",
+    "count": 1
+   },
+   {
+    "query": "water sewer rates billing",
+    "count": 1
+   },
+   {
+    "query": "hre meter class billing error high bills",
+    "count": 1
+   },
+   {
+    "query": "walnut st",
+    "count": 1
+   },
+   {
+    "query": "october 2026 water sewer bill doubled billing walnut meter rate defiance",
+    "count": 1
+   },
+   {
+    "query": "water sewer rates 2026 defiance utility billing increase october",
+    "count": 1
+   },
+   {
+    "query": "142.04 68 water bill defiance",
+    "count": 1
+   },
+   {
+    "query": "october 2026 water sewer bill doubled rate billing meter",
+    "count": 1
+   },
+   {
+    "query": "1027 walnut st water bill kleinhans",
+    "count": 1
+   },
+   {
+    "query": "water sewer rates 2026 defiance october billing",
+    "count": 1
+   },
+   {
+    "query": "meter reading billing",
+    "count": 1
+   },
+   {
+    "query": "billing adjustment utility billing office phone",
+    "count": 1
+   },
+   {
+    "query": "\"1027 walnut st\" second ward",
+    "count": 1
+   },
+   {
+    "query": "walnut multiplier",
+    "count": 1
+   },
+   {
+    "query": "1027 walnut st",
+    "count": 1
+   },
+   {
+    "query": "utility billing high bills meter",
+    "count": 1
+   },
+   {
+    "query": "kleinhans",
+    "count": 1
+   },
+   {
+    "query": "walnut st second ward hre-58 1027",
+    "count": 1
+   },
+   {
+    "query": "october 2026 water sewer bills phase 2 meter accounts haverkamp",
+    "count": 1
+   },
+   {
+    "query": "haverkamp october bills phase 2 accounts utility bill doubled adjustments october 2026",
+    "count": 1
+   },
+   {
+    "query": "utility billing office phone hours defiance 2026 adjustment request",
+    "count": 1
+   },
+   {
+    "query": "water sewer bill doubled october 2026 meter phase 2 142 billing",
+    "count": 1
+   },
+   {
+    "query": "paul haverkamp october utility bills review account readings billing concerns meter",
+    "count": 1
+   },
+   {
+    "query": "october water sewer bill doubled $142 phase 2 meter accounts october bills",
+    "count": 1
+   },
+   {
+    "query": "tammy kleinhans 1027 walnut october bill",
+    "count": 1
+   },
+   {
+    "query": "water bill high october",
+    "count": 1
+   },
+   {
+    "query": "multiplier corrected credit adjustment",
+    "count": 1
+   },
+   {
+    "query": "walnut st second ward 1027",
+    "count": 1
+   },
+   {
+    "query": "utility billing office phone hours adjustment request",
+    "count": 1
+   },
+   {
+    "query": "phase 2 meter bills",
+    "count": 1
+   },
+   {
+    "query": "board of control 2026-10-12 meter class multiplier",
+    "count": 1
+   },
+   {
+    "query": "\"1027 walnut st\"",
+    "count": 1
+   },
+   {
+    "query": "water bills doubled october",
+    "count": 1
+   },
+   {
+    "query": "walnut st second ward hre58 1027",
+    "count": 1
+   }
+  ],
+  "dfm_s5_sprinkler": [
+   {
+    "query": "linden court",
+    "count": 9
+   },
+   {
+    "query": "linden court sprinkler",
+    "count": 4
+   },
+   {
+    "query": "linden court sprinkler fire watch",
+    "count": 3
+   },
+   {
+    "query": "linden court sprinkler fire truck elevator october 2026",
+    "count": 2
+   },
+   {
+    "query": "\"linden court\"",
+    "count": 2
+   },
+   {
+    "query": "linden court reinspection fire watch impairment",
+    "count": 2
+   },
+   {
+    "query": "linden court sprinkler fire truck october 2026",
+    "count": 2
+   },
+   {
+    "query": "linden court fire inspection sprinkler work 2026 defiance",
+    "count": 1
+   },
+   {
+    "query": "linden court 3rd floor fire prevention october 2026",
+    "count": 1
+   },
+   {
+    "query": "\"linden court\" \"10/6\" sprinkler",
+    "count": 1
+   },
+   {
+    "query": "linden court fire watch october 2026 dry pipe repaired reinspection",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection sprinkler fire watch",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler elevator fire truck october 2026",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection sprinkler contractor fire watch october",
+    "count": 1
+   },
+   {
+    "query": "linden court imler",
+    "count": 1
+   },
+   {
+    "query": "fire prevention bureau phone (419) mayes",
+    "count": 1
+   },
+   {
+    "query": "lt. erin mayes phone fire prevention bureau (419)",
+    "count": 1
+   },
+   {
+    "query": "linden court fire watch reinspection",
+    "count": 1
+   },
+   {
+    "query": "imler sprinkler contractor",
+    "count": 1
+   },
+   {
+    "query": "mayes fire prevention ext.",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection result impairment",
+    "count": 1
+   },
+   {
+    "query": "linden court fire sprinkler elevator october 2026",
+    "count": 1
+   },
+   {
+    "query": "linden court inspection fire prevention october sprinkler",
+    "count": 1
+   },
+   {
+    "query": "linden court 3rd floor fire truck",
+    "count": 1
+   },
+   {
+    "query": "linden court residents fire safety impairment sprinkler 2026",
+    "count": 1
+   },
+   {
+    "query": "\"linden court\" 10/6 2026",
+    "count": 1
+   },
+   {
+    "query": "\"linden court\" \"fire watch\"",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler fire truck elevator fire safety october 2026",
+    "count": 1
+   },
+   {
+    "query": "linden sprinkler impairment fire watch",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection 10/14 sprinkler contractor resident notice",
+    "count": 1
+   },
+   {
+    "query": "linden court 3rd floor fire inspection sprinkler",
+    "count": 1
+   },
+   {
+    "query": "linden court fire prevention bureau september october 2026",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection fire watch sprinkler repaired",
+    "count": 1
+   },
+   {
+    "query": "\"linden court\" october sprinkler",
+    "count": 1
+   },
+   {
+    "query": "linden court reinspection 10/6 imler",
+    "count": 1
+   },
+   {
+    "query": "fire prevention bureau phone (419) lt. mayes",
+    "count": 1
+   },
+   {
+    "query": "imler",
+    "count": 1
+   },
+   {
+    "query": "erin mayes fire prevention phone extension",
+    "count": 1
+   },
+   {
+    "query": "linden court reinspection imler",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler fire truck inspection elevator october 2026 mayor",
+    "count": 1
+   },
+   {
+    "query": "linden court october 6 reinspection fire watch sprinkler repaired mayor haverkamp",
+    "count": 1
+   },
+   {
+    "query": "linden court haverkamp fire safety",
+    "count": 1
+   },
+   {
+    "query": "linden court inspection",
+    "count": 1
+   },
+   {
+    "query": "linden court residents sprinkler work elevator",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection contractor sprinkler october",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler fire truck inspection october 2026",
+    "count": 1
+   },
+   {
+    "query": "linden court fire alarm sprinkler impairment fire watch",
+    "count": 1
+   },
+   {
+    "query": "linden court 10/6 reinspection sprinkler october 6 fire watch",
+    "count": 1
+   },
+   {
+    "query": "\"linden\" \"oct\" \"rummel\" \"sprinkler\"",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler inspection",
+    "count": 1
+   },
+   {
+    "query": "linden court fire watch reinspection october",
+    "count": 1
+   },
+   {
+    "query": "linden court sprinkler fire inspection",
+    "count": 1
+   },
+   {
+    "query": "linden court fire watch reinspection imler",
+    "count": 1
+   },
+   {
+    "query": "linden court reinspection fire watch",
+    "count": 1
+   },
+   {
+    "query": "linden court imler contractor",
+    "count": 1
+   }
+  ]
+ }
+}

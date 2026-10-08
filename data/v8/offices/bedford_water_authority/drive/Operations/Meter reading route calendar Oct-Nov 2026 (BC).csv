@@ -1,0 +1,46 @@
+# Meter reading route calendar, October-November 2026. 22 routes, about 25,800 water accounts. Gate/dog note counts from the route handhelds as of 9/30. Holiday moves in notes. B. Coles, rev 10/2.
+route,month,read_date,day,area,zone,accounts,reader,gate_notes,dog_notes,route_notes,calendar_note
+1,Oct,10/01/2026,Thu,Bedford - Peaks St / Bridge St / Main St,Bedford Central,1180,T. Mabe,6,2,Downtown storefront meters in sidewalk vaults; read before 9 a.m. parking fills,Pulled with route 2 to start the month
+2,Oct,10/01/2026,Thu,Bedford - Grove St / Center St,Bedford Central,1260,K. Dudley,9,5,Older boxes; bring the lid hook,
+3,Oct,10/02/2026,Fri,Bedford - Oakwood St / Edmund St,Bedford Central,1090,J. Overstreet,4,7,New boxes from WS-26-12 main replacement; several meter locations moved to the curb,
+4,Oct,10/05/2026,Mon,Bedford - Macon St / Mountain Ave / Washington St,Bedford Central,1340,M. Burnette,11,9,Steep driveways on Mountain Ave; use pole,
+5,Oct,10/05/2026,Mon,Bedford - Blue Ridge Ave / Crumpacker Dr / Industrial Park,Bedford Central,980,T. Mabe,3,4,Industrial Park large meters (2-inch and up) read first,
+6,Oct,10/06/2026,Tue,Bedford - Rt 460 business corridor / Falling Creek Rd,Bedford Central,1150,K. Dudley,5,3,Commercial lots; watch traffic at entrances,
+7,Oct,10/07/2026,Wed,Montvale - Seven Oaks Ln area,Bedford Central,1210,J. Overstreet,14,10,Rural spacing; long walks to boxes,
+8,Oct,10/08/2026,Thu,Montvale - west / Rt 460 west,Bedford Central,1030,M. Burnette,12,8,,
+9,Oct,10/09/2026,Fri,Stewartsville - Hardy Rd north,Stewartsville,1170,T. Mabe,16,12,Farm gates; close every one,
+10,Oct,10/12/2026,Mon,Stewartsville - Laurel Ridge Dr area,Stewartsville,1240,K. Dudley,10,9,,"Columbus Day; office open, normal reading"
+11,Oct,10/13/2026,Tue,Huddleston - village and Rt 122 north,Lakes Central,1020,J. Overstreet,13,11,Several gravel drives; truck stays on road,
+12,Oct,10/13/2026,Tue,Huddleston - lake side,Lakes Central,1110,M. Burnette,15,14,Seasonal homes; many vacant by November,
+13,Oct,10/14/2026,Wed,Goode - Goode Station Rd / Thaxton,Forest Central,960,T. Mabe,11,10,,
+14,Oct,10/15/2026,Thu,Goode - Wheat Ridge Rd,Forest Central,1050,K. Dudley,13,12,Main repair 10/6 on Wheat Ridge Rd; boxes near repair may have gravel on lids,Read Thu 10/15 as scheduled
+15,Oct,10/16/2026,Fri,Forest - Thomas Jefferson Rd,Forest Central,1320,J. Overstreet,8,6,Retail lots on TJ Rd read before 9 a.m.,
+16,Oct,10/19/2026,Mon,Forest - Perrowville Rd / Route 221 corridor,Forest Central,1290,M. Burnette,10,8,Turn lane paving finished 9/29; boxes along shoulder re-set,"Flushing starts in Bedford Central today; route is in Forest, no conflict"
+17,Oct,10/20/2026,Tue,Forest - Cottontown Rd,Forest Central,1180,T. Mabe,9,7,,"Bedford Central flushing; Forest route, no conflict"
+18,Oct,10/21/2026,Wed,Forest - Waterlick Rd / Boonsboro Rd,Forest Central,1250,K. Dudley,12,9,Boonsboro Rd shoulders narrow; flashers on,
+19,Oct,10/22/2026,Thu,Forest - north subdivisions,Forest Central,1310,J. Overstreet,15,13,Cul-de-sacs; plan turnarounds,
+20,Oct,10/23/2026,Fri,Moneta - Lakeview Dr,Lakes Central,1260,M. Burnette,17,11,Lake lots; gates and steep steps,
+21,Oct,10/26/2026,Mon,Moneta - Crab Orchard Rd,Lakes Central,1190,T. Mabe,13,10,,
+22,Oct,10/27/2026,Tue,Moneta - Harbor Ridge Ln / Bridgewater Pl,Lakes Central,1220,K. Dudley,16,12,Repair 9/29 on Harbor Ridge Ln; check box lids,
+1,Nov,11/02/2026,Mon,Bedford - Peaks St / Bridge St / Main St,Bedford Central,1180,T. Mabe,6,2,Same as October,
+2,Nov,11/02/2026,Mon,Bedford - Grove St / Center St,Bedford Central,1260,K. Dudley,9,5,Same as October,
+3,Nov,11/03/2026,Tue,Bedford - Oakwood St / Edmund St,Bedford Central,1090,J. Overstreet,4,7,Same as October,"Election Day; office open, normal reading"
+4,Nov,11/04/2026,Wed,Bedford - Macon St / Mountain Ave / Washington St,Bedford Central,1340,M. Burnette,11,9,Same as October,
+5,Nov,11/04/2026,Wed,Bedford - Blue Ridge Ave / Crumpacker Dr / Industrial Park,Bedford Central,980,T. Mabe,3,4,Same as October,
+6,Nov,11/05/2026,Thu,Bedford - Rt 460 business corridor / Falling Creek Rd,Bedford Central,1150,K. Dudley,5,3,Same as October,
+7,Nov,11/06/2026,Fri,Montvale - Seven Oaks Ln area,Bedford Central,1210,J. Overstreet,14,10,Same as October,
+8,Nov,11/09/2026,Mon,Montvale - west / Rt 460 west,Bedford Central,1030,M. Burnette,12,8,,
+9,Nov,11/10/2026,Tue,Stewartsville - Hardy Rd north,Stewartsville,1170,T. Mabe,16,12,Same as October,
+10,Nov,11/12/2026,Thu,Stewartsville - Laurel Ridge Dr area,Stewartsville,1240,K. Dudley,10,9,,"Moved from Wed 11/11 (Veterans Day, office closed)"
+11,Nov,11/12/2026,Thu,Huddleston - village and Rt 122 north,Lakes Central,1020,J. Overstreet,13,11,Same as October,
+12,Nov,11/13/2026,Fri,Huddleston - lake side,Lakes Central,1110,M. Burnette,15,14,Same as October,
+13,Nov,11/13/2026,Fri,Goode - Goode Station Rd / Thaxton,Forest Central,960,T. Mabe,11,10,,
+14,Nov,11/16/2026,Mon,Goode - Wheat Ridge Rd,Forest Central,1050,K. Dudley,13,12,Same as October,15th falls on Sunday; read Monday
+15,Nov,11/17/2026,Tue,Forest - Thomas Jefferson Rd,Forest Central,1320,J. Overstreet,8,6,Same as October,
+16,Nov,11/18/2026,Wed,Forest - Perrowville Rd / Route 221 corridor,Forest Central,1290,M. Burnette,10,8,Same as October,
+17,Nov,11/19/2026,Thu,Forest - Cottontown Rd,Forest Central,1180,T. Mabe,9,7,,
+18,Nov,11/20/2026,Fri,Forest - Waterlick Rd / Boonsboro Rd,Forest Central,1250,K. Dudley,12,9,Same as October,
+19,Nov,11/23/2026,Mon,Forest - north subdivisions,Forest Central,1310,J. Overstreet,15,13,Same as October,
+20,Nov,11/24/2026,Tue,Moneta - Lakeview Dr,Lakes Central,1260,M. Burnette,17,11,Same as October,
+21,Nov,11/25/2026,Wed,Moneta - Crab Orchard Rd,Lakes Central,1190,T. Mabe,13,10,,
+22,Nov,11/30/2026,Mon,Moneta - Harbor Ridge Ln / Bridgewater Pl,Lakes Central,1220,K. Dudley,16,12,Same as October,Moved past Thanksgiving closing 11/26-27

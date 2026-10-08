@@ -4,32 +4,29 @@ EMS STATISTICS, JANUARY - SEPTEMBER 2026
 Prepared by: Lt. Mark Sanderson, EMS Coordinator
 For: Chief Dale Rummel
 Date: October 9, 2026
-Note: These numbers match the September run report (Capt. Schaefer). Monthly totals by month are from the records system as of 10/5; a few late-closed reports may shift a month by one or two.
+Note: These numbers match the September run report (Capt. Schaefer). Monthly totals are from the records system as of 10/5; a few late-closed reports may shift a month by one or two.
 
 ----------------------------------------------------------------------
 1. RUNS BY MONTH
 ----------------------------------------------------------------------
 
-Month      Total runs   EMS runs   Fire/other   EMS transports   Transport rate   EMS % of total
-Jan           370          272          98            221            81.3%            73.5%
-Feb           343          251          92            203            80.9%            73.2%
-Mar           369          268         101            219            81.7%            72.6%
-Apr           366          262         104            211            80.5%            71.6%
-May           390          281         109            228            81.1%            72.1%
-Jun           407          289         118            232            80.3%            71.0%
-Jul           420          296         124            241            81.4%            70.5%
-Aug           390          286         104            232            81.1%            73.3%
-Sep           392          284         108            231            81.3%            72.4%
+Month      Total runs   EMS runs   Fire/other   EMS transports   Transport rate
+Jan           370          272          98            221            81.3%
+Feb           343          251          92            203            80.9%
+Mar           369          268         101            219            81.7%
+Apr           366          262         104            211            80.5%
+May           390          281         109            228            81.1%
+Jun           407          289         118            232            80.3%
+Jul           420          296         124            241            81.4%
+Aug           390          286         104            232            81.1%
+Sep           392          284         108            231            81.3%
 ---------  ----------   --------   ----------   --------------
-YTD         3,447        2,489         958          2,018            81.1%            72.2%
+YTD         3,447        2,489         958          2,018            81.1%
 
-Same period 2025: 3,198 total, 2,301 EMS, 2,018 vs 1,880 transports.
-EMS runs are up 8.2 percent year to date. Transports are up 7.3 percent.
-
-Projected 2026 total runs at the current pace: about 4,600. Projected EMS runs: about 3,320.
+Same period 2025: 3,198 total, 2,301 EMS, 1,880 transports. EMS runs are up 8.2 percent year to date; transports are up 7.3 percent. Projected 2026 total runs at the current pace: about 4,600.
 
 ----------------------------------------------------------------------
-2. SEPTEMBER EMS RUNS BY CHIEF COMPLAINT (dispatch / primary impression)
+2. SEPTEMBER EMS RUNS BY CHIEF COMPLAINT
 ----------------------------------------------------------------------
 
 Fall / fall injury ............................. 46
@@ -42,15 +39,11 @@ Transfer / standby / other ..................... 18
 Behavioral / psychiatric ....................... 17
 Abdominal pain ................................. 14
 Syncope / fainting ............................. 13
-Diabetic problem ............................... 11
-Seizure ........................................ 10
-Stroke / CVA ................................... 9
-Overdose / poisoning ........................... 8
-Cardiac arrest ................................. 4
+All other (diabetic, seizure, stroke, OD, arrest) 42
                                                 ---
 Total                                          284
 
-Falls continue to be the top complaint. 29 of the 46 falls in September were residents 65 or older; 11 were at senior apartment buildings or assisted living. Of the 46, 17 were lift assists with no injury and no transport (counted as EMS runs because a medic unit responded).
+Falls are still the top complaint. 29 of the 46 falls were residents 65 or older. 17 were lift assists with no injury and no transport (counted as EMS runs because a medic unit responded).
 
 ----------------------------------------------------------------------
 3. PATIENT OUTCOMES (September)
@@ -58,76 +51,43 @@ Falls continue to be the top complaint. 29 of the 46 falls in September were res
 
 Transported ..................................... 231
   Local emergency department ..................... 214
-  Toledo-area hospital (direct) ................... 13  (STEMI 3, stroke 2, trauma 5, pediatric 3)
-  Air medical (helicopter, from scene) ............ 4  (requested by DFD; landing zone at Pontiac Park twice)
+  Toledo-area hospital (direct) ................... 13
+  Air medical (from scene; LZ at Pontiac Park twice) 4
 Not transported ................................. 53
-  Treated, refused transport ...................... 22
-  Lift assist / no injury ......................... 17
-  Canceled en route / no patient found ............ 9
-  Dead on arrival (no resuscitation) .............. 2
-  Other ........................................... 3
-
-Note: air medical transports are counted under "Transported" in the run report total of 231. The 4 helicopter patients are included in that number, not in addition to it.
 
 ----------------------------------------------------------------------
-4. CARDIAC ARREST (Jan-Sept)
+4. CARDIAC ARREST AND RESPONSE TIMES
 ----------------------------------------------------------------------
 
-Out-of-hospital cardiac arrests attended .......... 29
-Resuscitation attempted ........................... 24
-Bystander CPR before EMS arrival .................. 11 of 24 (46%)
-Public AED used before EMS arrival ................ 3
-Return of spontaneous circulation (ROSC) at ED .... 8 of 24 (33%)
-Discharged from hospital alive .................... 4 (that we know of)
+Out-of-hospital cardiac arrests, Jan-Sept: 29. Resuscitation attempted 24; bystander CPR before EMS arrival 11 of 24 (46 percent, up from 38 percent in 2025); pulses back at the ED 8 of 24. The hands-only CPR classes at the farmers market Safety Day and the high school helped. We'd like to repeat the class at the Senior Services Initiative kickoff if the program allows.
 
-Bystander CPR rate is up from 38 percent in 2025. The hands-only CPR classes at the farmers market Safety Day and the high school helped. We'd like to repeat the class at the Senior Services Initiative kickoff in October if the program allows.
-
-----------------------------------------------------------------------
-5. RESPONSE TIMES (EMS priority 1, inside city limits, dispatch to arrival)
-----------------------------------------------------------------------
+EMS priority 1, inside city limits, dispatch to arrival:
 
 Month   Median   90th percentile
-Jan     4:36     7:58
-Feb     4:31     7:49
-Mar     4:40     8:04
-Apr     4:38     8:01
-May     4:44     8:12
-Jun     4:42     8:18
 Jul     4:47     8:25
 Aug     4:43     8:19
 Sep     4:41     8:22
 
-The 90th percentile creeps up in summer when call volume is highest and more calls overlap. In September, 17 EMS calls were answered by Medic 3 or a cross-staffed engine because both front-line medics were already out.
+In September, 17 EMS calls were answered by Medic 3 or a cross-staffed engine because both front-line medics were already out. Medic 1 unit hour utilization was 0.29 (Medic 2 0.26).
 
 ----------------------------------------------------------------------
-6. UNIT UTILIZATION (September)
+5. PATIENT AND FAMILY FEEDBACK
 ----------------------------------------------------------------------
 
-Unit hour utilization = hours committed to calls divided by hours staffed.
-
-Medic 1 ......... 0.29
-Medic 2 ......... 0.26
-Medic 3 ......... 0.08 (cross-staffed when at minimum)
-
-National guidance treats anything above about 0.30-0.35 on a 24-hour unit as a busy unit where crews start to feel worn down. Medic 1 has been at or above 0.28 every month since May.
+Eight thank-you cards, calls or emails in September, most about crews being patient with an elderly parent. Comments that come to the Mayor's Office or the front desk can go to me (ext. 252) or to the station; I read them at shift change and copy the card into the crew's file. If the family doesn't have names, a date, time and address is enough for us to find the run. No complaints this month.
 
 ----------------------------------------------------------------------
-7. EQUIPMENT AND TRAINING
+6. EQUIPMENT AND TRAINING
 ----------------------------------------------------------------------
 
-- Powered stretchers and load systems for Medic 2 and Medic 3: approved by the Board of Control Sept 28 ($68,412; half from the BWC safety grant). Order placed Sept 30; installation expected in about 10 weeks. Medic 1 has had its system since 2025 with zero lifting injuries reported on that unit since.
-- Monthly continuing education: September topic was pediatric respiratory emergencies (Capt. Schaefer's training records have attendance).
-- Paramedic class: one firefighter in the current class, finishing in December. The overtime to cover his shifts is part of the September overtime number in the run report.
-- Medical director chart review: 40 charts reviewed for September; 2 returned for documentation, no clinical concerns.
-- Drug shortage: dextrose 10% backordered; using the alternate concentration per the medical director's memo of Aug 28.
+- Powered stretchers and load systems for Medic 2 and Medic 3: approved by the Board of Control Sept 28 ($68,412; half from the BWC grant). Ordered Sept 30; installation in about 10 weeks.
+- September continuing education: pediatric respiratory emergencies.
+- Paramedic class: one firefighter in the current class, finishing in December.
+- Medical director review: 40 September charts; 2 returned for documentation, no clinical concerns.
+- Dextrose 10% backordered; using the alternate concentration per the medical director's memo of Aug 28.
 
-----------------------------------------------------------------------
-8. BILLING (EMS transport, for the levy discussion)
-----------------------------------------------------------------------
-
-EMS transport billing is handled by the department's third-party billing vendor and goes to the EMS fund. Through August, gross charges were $2.31 million and net collections $1.02 million (44 percent), typical for our payer mix (Medicare and Medicaid make up about 68 percent of transports). The vendor's quarterly report comes in mid-October and will be in the levy deck backup.
-
-Average cost per run (all runs, fire and EMS, total department operating cost divided by runs, 2025): about $1,040. This is the figure Chief Rummel is using in the levy materials.
+Average cost per run (all runs, total department operating cost divided by runs, 2025): about $1,040.
 
 Lt. Mark Sanderson
 EMS Coordinator
+(419) 784-2101 ext. 252

@@ -1,0 +1,30 @@
+CVTD FLEET MAINTENANCE - ROAD CALL REPORT
+
+Road call no.: RC-26-0412
+Date/time: Wed 10/7/2026, 3:12 PM
+Bus: 1408 (2014, 35 ft)
+Route/run: Route 07, run 714, toward Willow Park
+Location: 200 W. southbound between 300 S. and 400 S., Logan
+Operator: badge 2261
+Passengers on board: 17
+Reported by: operator via radio to dispatch, 3:12 PM
+
+Operator report: Brake warning light came on, then a hot smell and some smoke at the right rear wheel. Pulled to the curb, set the parking brake, opened the doors and asked riders to step off onto the sidewalk. Dispatch sent 1407 (spare) from the yard; arrived 3:31 PM. Riders boarded 1407; route resumed 3:34 PM.
+
+Responding tech: R. Coombs, service truck 3. Arrived 3:40 PM. Right rear drum very hot, no flame. Let it cool, checked air system (no leaks), caged the right rear brake and towed to the shop at 5:20 PM (tow by our own wrecker, no outside cost).
+
+Shop findings (10/8, R. Coombs / D. Gerritsen):
+- Right rear automatic slack adjuster seized; brake did not release fully; shoes overheated and glazed.
+- Right rear drum heat-checked, out of spec. Left rear OK. Fronts within spec.
+- No damage to the hub seal or tire.
+
+Repairs:
+- Replaced both rear slack adjusters, both rear drums and shoes (axle set), right rear brake chamber.
+- Completed full PM (B inspection) while in the shop.
+- Road test 10/12 7:10 AM, OK. Released to dispatch 10/12, 9:00 AM.
+
+Parts: $1,486.20. Labor: 14.5 hr.
+
+Follow-up: Check the other 2014s for slack adjuster wear at their next PM (DG).
+
+Signed: Dale Gerritsen, Fleet Maintenance Manager, 10/12/2026

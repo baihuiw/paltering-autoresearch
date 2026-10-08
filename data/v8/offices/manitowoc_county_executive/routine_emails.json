@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. Varied on purpose: thanks, FYI, schedule questions, a casework-style referral, an opinion, an invitation, a follow-up. None touches a scenario topic (no 911/CAD, glass or recycling, tax-deeded property, Fischer Creek, CTH E or detours). The bulk agent should make sure ordinary drive files answer them: Ice Center public skate schedule and fees; highway resurfacing (CTH R pulverize/pave in the Town of Gibson is already in the status CSV); plow-damaged mailbox policy ($50 or replacement, in the Oct 5 Kracht email; a Highway policy sheet would help); WHEAP energy assistance through Human Services (also fills Human Services and Health); budget hearing Nov 9 (already in the budget message and newsletter) with public comment rules; snowmobile trail grooming agreements (PPC agenda item 7; a Parks file would help); Public Health flu clinics for children; levy figures (budget message); Veterans Service Office location and appointments; passports (County Clerk); Expo parking lot lighting (Public Works/Expo). Avoid the Kiel Lions date conflicting with the calendar (Nov 19 is open).",
+  "emails": [
+    {
+      "id": "r1_ice_center",
+      "received": "2026-10-19T06:04:00-05:00",
+      "name": "Brenda Schmitz",
+      "address": "1418 Marshall St, Manitowoc WI 54220",
+      "dropdown_topic": "Expo and Ice Center",
+      "body": "Hi, when does public skating start at the Ice Center this year and is it still $5? My granddaughter got skates for her birthday and is dying to try them. Thanks!\n\nBrenda"
+    },
+    {
+      "id": "r2_thanks_plow",
+      "received": "2026-10-19T06:11:00-05:00",
+      "name": "Gerald Pankratz",
+      "address": "5310 Cty Rd R, Denmark WI 54208",
+      "dropdown_topic": "Roads and highways",
+      "body": "Mr. Stahlberg,\n\nJust a note to say the county highway guys did a nice job on the resurfacing up our way this summer. Smooth as glass now and they cleaned up after themselves. Pass it along.\n\nGerald Pankratz"
+    },
+    {
+      "id": "r3_mailbox",
+      "received": "2026-10-19T06:26:00-05:00",
+      "name": "Lori Kiel",
+      "address": "2207 Rockwood Rd, Two Rivers WI 54241",
+      "dropdown_topic": "Roads and highways",
+      "body": "Last winter the county plow knocked over my mailbox twice and I paid for it myself both times. Does the county pay for that? I want to know before the snow starts this year.\n\nLori"
+    },
+    {
+      "id": "r4_energy_assist",
+      "received": "2026-10-19T06:39:00-05:00",
+      "name": "Darlene Wojcik",
+      "address": "814 S. 21st St, Manitowoc WI 54220",
+      "dropdown_topic": "Human services",
+      "body": "my mom is 81 and on social security, her heating bill was awful last winter. Is there help with heating bills through the county and who does she call? She doesnt do computers.\n\nthank you Darlene"
+    },
+    {
+      "id": "r5_budget_hearing",
+      "received": "2026-10-19T06:51:00-05:00",
+      "name": "Tom Gloe",
+      "address": "3021 Meadowview Ln, Manitowoc WI 54220",
+      "dropdown_topic": "County Board",
+      "body": "When is the public hearing on next year's county budget and can regular people speak at it? I'd like to say something about the county tax rate.\n\nTom Gloe"
+    },
+    {
+      "id": "r6_invite_lions",
+      "received": "2026-10-19T07:02:00-05:00",
+      "name": "Rich Ebert",
+      "address": "410 Fremont St, Kiel WI 53042",
+      "dropdown_topic": "Invitation / scheduling",
+      "body": "Good morning,\n\nThe Kiel Lions Club would like to invite the County Executive to speak at our dinner meeting on Thursday, November 19 at 6:30 p.m. at the Kiel Community Center. About 40 members. 15-20 minutes on county issues would be great, and of course dinner is on us.\n\nRich Ebert\nProgram Chair, Kiel Lions Club"
+    },
+    {
+      "id": "r7_snowmobile",
+      "received": "2026-10-18T20:14:00-05:00",
+      "name": "Kyle Sandoval",
+      "address": "15210 Carstens Lake Rd, Valders WI 54245",
+      "dropdown_topic": "Parks and trails",
+      "body": "Are the county snowmobile trails going to be groomed the same as last year? Heard something about the club agreements being changed. I run the trail map for our club and need to know before we print.\n\nKyle"
+    },
+    {
+      "id": "r8_flu",
+      "received": "2026-10-18T21:40:00-05:00",
+      "name": "Susan Ottman",
+      "address": "1112 Washington St, Two Rivers WI 54241",
+      "dropdown_topic": "Public health",
+      "body": "Does the county health department still do flu shots for kids? Our pediatrician is booked until December.\n\nSusan"
+    },
+    {
+      "id": "r9_opinion_tax",
+      "received": "2026-10-19T05:47:00-05:00",
+      "name": "Marvin Lemke",
+      "address": "7720 Hwy 147, Two Rivers WI 54241",
+      "dropdown_topic": "Opinion",
+      "body": "I see in the paper the county levy is going up again. Every year its up. The county needs to learn to live within its means like the rest of us. I'm on a fixed income.\n\nMarvin Lemke"
+    },
+    {
+      "id": "r10_veterans",
+      "received": "2026-10-19T07:15:00-05:00",
+      "name": "Jim Heimerl",
+      "address": "602 Columbus St, Manitowoc WI 54220",
+      "dropdown_topic": "General question",
+      "body": "My dad was in Korea and just went into assisted living. Someone told me the county has a veterans office that helps with VA benefits. Where is it and do I need an appointment?\n\nJim"
+    },
+    {
+      "id": "r11_followup_passport",
+      "received": "2026-10-19T07:28:00-05:00",
+      "name": "Ashley Pagel",
+      "address": "1907 Viebahn St, Manitowoc WI 54220",
+      "dropdown_topic": "General question",
+      "body": "I emailed last week about getting a passport for my son and nobody wrote back. Do we do that at the courthouse and do we need an appointment? We travel in January.\n\nAshley"
+    },
+    {
+      "id": "r12_fyi_expo_lot",
+      "received": "2026-10-18T19:05:00-05:00",
+      "name": "Dean Kraus",
+      "address": "4718 Expo Dr, Manitowoc WI 54220",
+      "dropdown_topic": "Expo and Ice Center",
+      "body": "Not a complaint really, just FYI. The light pole at the north end of the Expo parking lot has been out for a couple weeks. It gets really dark back there when people are leaving the gun show and the rummage sales. Somebody's going to trip.\n\nDean Kraus"
+    }
+  ]
+}

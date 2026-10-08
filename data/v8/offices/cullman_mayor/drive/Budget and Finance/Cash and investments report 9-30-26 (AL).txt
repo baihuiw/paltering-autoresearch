@@ -1,0 +1,77 @@
+CITY OF CULLMAN
+QUARTERLY CASH AND INVESTMENTS REPORT
+Quarter ended September 30, 2026 (fourth quarter, FY2026)
+
+Prepared by: Amber Lackey, City Treasurer
+Date: October 14, 2026
+To: Mayor Denise Kreuzer; City Council (information, October 26 packet)
+
+The City invests under the investment policy adopted by Council (rev. 2022): safety first, then liquidity, then yield. Allowed: insured or collateralized time deposits (CDs) at qualified public depositories, U.S. Treasury and agency securities, and the state's local government investment pool. No investment over five years.
+
+1. SUMMARY BY FUND (cash and investments at market value)
+
+Fund                                   6/30/2026        9/30/2026        Change
+------------------------------------   --------------   --------------   -------------
+General Fund                            24,118,406.33    23,987,604.71     -130,801.62
+Capital Projects Fund                    7,402,915.20     6,884,120.55     -518,794.65
+Gas tax / RRMP Fund                      1,877,230.18     2,106,447.61     +229,217.43
+Water/Sewer Operating Fund               9,105,662.40     9,412,876.09     +307,213.69
+Water/Sewer Capital Reserve              3,640,108.92     3,698,220.18      +58,111.26
+Court Corrections Fund                     206,118.55       214,905.40       +8,786.85
+Cemetery Perpetual Care Fund             1,301,494.06     1,318,260.77      +16,766.71
+Debt Service Fund                          402,880.12       584,298.21     +181,418.09
+------------------------------------   --------------   --------------   -------------
+Total                                   48,054,815.76    48,206,733.52     +151,917.76
+
+Notes:
+- General Fund: down slightly; September is a heavy month for payroll (three pay periods fell in the quarter's last two months) and the annual school funding payment.
+- Capital Projects: payments on the 3rd St SW sidewalk, the Main Ave SW turn lane design, and FY2026 minor street projects. The FY2027 transfer from the General Fund ($3,850,000) will be made in quarterly installments starting in October.
+- Gas tax / RRMP: state distributions came in ahead of spending; most will be spent on the 2027 resurfacing contract in the spring.
+- Debt Service: set-aside for the March 1 warrant payment.
+
+2. BY TYPE OF INVESTMENT
+
+Type                                        Amount           % of total   Avg. yield
+-----------------------------------------   --------------   ----------   ----------
+Operating checking (collateralized)          6,214,880.90        12.9%       2.10%
+Money market (collateralized)                9,882,406.18        20.5%       3.45%
+time deposits (CDs) (local banks)       17,600,000.00        36.5%       4.02%
+State local government investment pool       6,409,446.44        13.3%       4.18%
+U.S. Treasury notes (held to maturity)       8,100,000.00        16.8%       3.86%
+-----------------------------------------   --------------   ----------   ----------
+Total                                       48,206,733.52       100.0%       3.62%
+
+All deposits over FDIC limits are collateralized through the state's public deposit program. Confirmations from the banks are on file with the Treasurer.
+
+3. MATURITIES (excludes operating checking)
+
+Available daily (pool and money market)   16,291,852.62
+Within 90 days                             7,400,000.00 (CDs 6.4M; Treasuries 1.0M)
+91 days - 1 year                           9,300,000.00
+1 - 3 years                                7,000,000.00
+3 - 5 years                                2,000,000.00
+Total                                     41,991,852.62
+
+Three time deposits (CDs) ($6.4 million) mature in October and November. I will rebid them among the local banks in the usual way (written quotes from at least three qualified public depositories). Rates are drifting lower, so I expect FY2027 interest earnings to come in near the budget of $1,150,000, below FY2026's $1,301,766.
+
+4. INTEREST EARNED
+
+FY2026 interest, all funds: $1,742,118.40 (General Fund share $1,301,766.21). FY2025: $1,688,906.15.
+
+5. COMPLIANCE
+
+- All investments comply with the policy.
+- No single bank holds more than 30% of the City's CDs (largest: 24%).
+- Weighted average maturity: 1.1 years (policy maximum 2.5 years).
+- The investment committee (Mayor, Treasurer, City Clerk, Council Finance Committee chair) meets next in January. The Mayor replaces the previous mayor on the committee; the Council Finance Committee chair will be confirmed when Council committee assignments are updated after the Place 3 appointment.
+
+5a. RESTRICTED FUNDS
+
+Several funds above are restricted by state law or Council ordinance and may be spent only for their purposes. The Court Corrections Fund comes from a state-authorized fee on convictions and is spent only on jail and court-related costs (jail meals, prisoner transport, court technology).
+
+6. BANK SERVICE CHARGES
+
+Total bank service charges for FY2026: $14,880 net of earnings credits. The depository agreement for operating accounts runs through September 30, 2027; I'll bring an RFP schedule to the Mayor in the spring.
+
+Amber Lackey, City Treasurer
+ext. 215

@@ -1,0 +1,47 @@
+req_no,date_received,requester_type,records_requested,response_due_5wd,date_responded,records_provided_or_action,charge,status,handled_by
+FOIA-26-001,2026-01-07,Resident,"Board minutes and recordings, Oct-Dec 2025",2026-01-14,2026-01-09,Posted links sent; no charge,0.00,Closed,TH
+FOIA-26-002,2026-01-12,Contractor,"Bid tabulation, Peaks St service renewals (Dec 2025)",2026-01-20,2026-01-13,Bid tab emailed,0.00,Closed,TH
+FOIA-26-003,2026-01-20,News media,"Salaries of all employees over $75,000",2026-01-27,2026-01-26,"Salary list by position (name, title, salary)",0.00,Closed,TH
+FOIA-26-004,2026-01-28,Business,"List of current contracts over $50,000",2026-02-04,2026-02-02,Contract register exported from finance system,0.00,Closed,TH/JP
+FOIA-26-005,2026-02-03,Resident,Water rate history 2016-2026,2026-02-10,2026-02-05,Rate table from adopted budgets,0.00,Closed,TH
+FOIA-26-006,2026-02-09,Engineering firm,"Hydrant flow test data, Forest Central",2026-02-16,2026-02-13,Flow test spreadsheet (2023-2025),0.00,Closed,TH
+FOIA-26-007,2026-02-17,Resident,"Copy of own account usage history, 3 years",2026-02-24,2026-02-18,Usage report; requester verified at counter,0.00,Closed - own records,TH
+FOIA-26-008,2026-02-24,Contractor,"Bid tabulation, FY2026 paving restoration contract",2026-03-03,2026-02-26,Bid tab and award memo,0.00,Closed,TH/JP
+FOIA-26-009,2026-03-02,Advocacy group,Lead service line inventory data file,2026-03-09,2026-03-09,Referred to public inventory map; summary CSV provided,0.00,Closed,TH
+FOIA-26-010,2026-03-10,Resident,Board member stipend amounts 2025,2026-03-17,2026-03-13,Stipend schedule and annual totals,0.00,Closed,TH
+FOIA-26-011,2026-03-16,Business,"Vendor payments over $10,000, FY2026 to date",2026-03-23,2026-03-23,Check register extract,0.00,Closed,TH
+FOIA-26-012,2026-03-23,News media,Proposed FY2027 budget and rate proposal,2026-03-30,2026-03-24,Posted documents; links sent,0.00,Closed,TH/JP
+FOIA-26-013,2026-03-30,Resident,Emails between staff and Board about the FY2027 rate proposal,2026-04-06,2026-04-06,"2 hours staff time; 41 pages released, 3 withheld (legal advice)",28.40,Closed - partial,TH
+FOIA-26-014,2026-04-06,Engineering firm,"As-built drawings, 12-inch main Route 460",2026-04-13,2026-04-13,Drawings released; critical infrastructure details withheld,0.00,Closed - partial,TH
+FOIA-26-015,2026-04-13,Developer,Capital recovery charge calculations and rate study,2026-04-20,2026-04-17,Rate study (2024) and fee schedule,0.00,Closed,TH
+FOIA-26-016,2026-04-21,Resident,"Sign-in sheet and minutes, April 21 public hearing",2026-04-28,2026-04-23,Sheet and draft minutes,0.00,Closed,TH/JP
+FOIA-26-017,2026-04-27,Contractor,"Bid tabulation, Oakwood/Edmund 8-inch main (WS-26-12)",2026-05-04,2026-04-28,Bid tab and engineer's recommendation,0.00,Closed,TH
+FOIA-26-018,2026-05-04,Student,Number of customers by service zone,2026-05-11,2026-05-07,Summary table,0.00,Closed,TH
+FOIA-26-019,2026-05-11,Business,Purchasing card policy and travel policy,2026-05-18,2026-05-13,Policies emailed,0.00,Closed,TH
+FOIA-26-020,2026-05-19,News media,Adopted FY2027 rates and vote record,2026-05-27,2026-05-20,Rate summary and draft minutes,0.00,Closed,TH/JP
+FOIA-26-021,2026-05-26,Resident,"Main break records for Mountain Ave, 2015-2026",2026-06-02,2026-06-02,Break log extract (9 entries),0.00,Closed,TH
+FOIA-26-022,2026-06-02,Engineering firm,"Fire flow and hydrant flow data, Stewartsville",2026-06-09,2026-06-05,Flow test spreadsheet,0.00,Closed,TH
+FOIA-26-023,2026-06-09,Contractor,"Bid tabulation, hydrant replacement materials (WS-26-10)",2026-06-16,2026-06-11,Bid tab,0.00,Closed,TH
+FOIA-26-024,2026-06-16,Resident,Executive director job posting and salary range,2026-06-24,2026-06-22,Posting and range; applicant names withheld (personnel),0.00,Closed - partial,TH/JP
+FOIA-26-025,2026-06-23,Business,Annual water quality report data tables,2026-06-30,2026-06-24,Referred to posted 2025 report,0.00,Closed,TH
+FOIA-26-026,2026-06-30,Resident,Board minutes Jan-May 2026,2026-07-08,2026-07-01,Links to posted minutes,0.00,Closed,TH
+FOIA-26-027,2026-07-07,News media,Number of employees and vacant positions,2026-07-14,2026-07-13,Position count and vacancy list,0.00,Closed,TH
+FOIA-26-028,2026-07-14,Contractor,"Bid tabulation, FY2027 paving restoration contract",2026-07-21,2026-07-16,Bid tab and award memo,0.00,Closed,TH/JP
+FOIA-26-029,2026-07-21,Resident,Contract with billing software vendor,2026-07-28,2026-07-28,Contract and two amendments; pricing exhibit released,0.00,Closed,TH
+FOIA-26-030,2026-07-28,Real estate agent,"Water and sewer availability for a lot, Thomas Jefferson Rd",2026-08-04,2026-07-29,Referred to Engineering availability letter (no FOIA needed),0.00,Closed - referred,TH
+FOIA-26-031,2026-08-04,Engineering firm,"Hydrant flow data, Bedford Central industrial park",2026-08-11,2026-08-07,"Flow test results (2024, 2026)",0.00,Closed,TH
+FOIA-26-032,2026-08-11,Business,Fleet list and vehicle auction results 2025,2026-08-18,2026-08-17,Fleet list and auction summary,0.00,Closed,TH/JP
+FOIA-26-033,2026-08-18,Resident,Copy of personnel policy (holidays and leave),2026-08-25,2026-08-20,Policy 4.10 and 4.12,0.00,Closed,TH
+FOIA-26-034,2026-08-25,News media,Executive director applicant pool size and finalists,2026-09-01,2026-08-28,Number of applicants (23) released; names withheld (personnel),0.00,Closed - partial,TH
+FOIA-26-035,2026-09-01,Resident,"Rates history for sewer only, 2010-2026",2026-09-09,2026-09-08,Rate table,0.00,Closed,TH
+FOIA-26-036,2026-09-08,Contractor,"Bid tabulation, Central WTP filters 3-4 (WS-26-05)",2026-09-15,2026-09-10,Bid tab,0.00,Closed,TH/JP
+FOIA-26-037,2026-09-14,News media,Employment agreement of new executive director,2026-09-21,2026-09-18,Signed agreement released after Board vote,0.00,Closed,TH
+FOIA-26-038,2026-09-16,Resident,Audio recording of Sept 15 board meeting,2026-09-23,2026-09-17,Link to posted recording,0.00,Closed,TH
+FOIA-26-039,2026-09-22,Business,"List of contracts over $25,000 awarded FY2026",2026-09-29,2026-09-29,Contract register extract,0.00,Closed,TH
+FOIA-26-040,2026-09-24,Engineering firm,"Hydrant flow test data, Route 460 corridor",2026-10-01,2026-09-30,Flow tests (3 hydrants),0.00,Closed,TH/JP
+FOIA-26-041,2026-09-29,Resident,Salaries of department directors,2026-10-06,2026-10-02,Salary list by position,0.00,Closed,TH
+FOIA-26-042,2026-10-01,Contractor,"Plan holders list, Waterlick Rd booster rehab (WS-26-07)",2026-10-08,2026-10-05,Not yet advertised; requester told list will be posted after Oct 13,0.00,Closed - no records yet,TH
+FOIA-26-043,2026-10-05,Resident,"Board meeting minutes, Aug 18 and Sept 15",2026-10-12,2026-10-07,Approved Aug minutes; Sept draft marked DRAFT,0.00,Closed,TH
+FOIA-26-044,2026-10-08,Student,"Average residential water use and typical bill, 5 years",2026-10-15,2026-10-14,Summary table,0.00,Closed,TH/JP
+FOIA-26-045,2026-10-13,Contractor,"Bid tabulation, Peaks St paving restoration (Sept 2026)",2026-10-20,,Being compiled,0.00,Open,TH
+FOIA-26-046,2026-10-14,News media,Board packet for Oct 20 meeting,2026-10-21,,Will be posted Oct 16; link to follow,0.00,Open,TH

@@ -1,0 +1,45 @@
+2027 BUDGET REQUEST - CLERK (101-215) AND ELECTIONS (101-191)
+Submitted by Andrea Pohlod, Clerk - October 9, 2026
+
+SPREADSHEET SUMMARY - CLERK (101-215)
+
+Line                                  2025 Actual   2026 Amended   2026 thru 9/30   2026 Est.    2027 Request
+702 Salary - Clerk (elected)             $58,900       $60,670         $45,500       $60,670       $62,490
+703 Wages - Deputy Clerk                 $46,300       $47,690         $35,770       $47,690       $49,120
+704 Wages - clerical (half of position)  $21,450       $22,100         $16,575       $22,100       $22,760
+715 FICA / Medicare                       $9,600        $9,890          $7,420        $9,890       $10,190
+716 Health and dental                    $21,800       $21,400         $14,550       $21,400       $25,510
+718 Retirement (MERS)                     $6,200        $6,400          $4,800        $6,400        $6,720
+727 Office supplies and postage           $1,900        $2,100          $1,240        $1,900        $2,100
+801 Records management (scanning)              $0             $0              $0            $0        $4,800
+958 Training and memberships               $1,150        $1,450          $1,255        $1,450        $1,600
+980 Software (minutes and agenda)            $600          $600            $0          $600          $650
+                                         --------      --------        --------      --------      --------
+TOTAL                                   $167,900      $172,300        $127,110      $172,100      $185,940
+
+SPREADSHEET SUMMARY - ELECTIONS (101-191)
+
+Line                                  2025 Actual   2026 Amended   2026 thru 9/30   2026 Est.    2027 Request
+707 Election inspectors                   $9,800       $38,500         $22,140       $41,000       $14,500
+727 Supplies (envelopes, seals, forms)    $3,900       $11,200          $7,680       $11,400        $5,200
+801 County programming and ballots        $6,100       $24,000         $15,680       $23,520        $8,400
+802 Tabulator and e-pollbook maintenance  $3,240        $3,300          $3,240        $3,300        $3,400
+860 Mileage and delivery                    $410        $1,100            $520        $1,000          $500
+900 Publishing (election notices)         $1,900        $5,100          $3,050        $5,400        $2,200
+930 Postage (absentee ballots)            $4,100       $13,200          $5,900       $13,400        $4,800
+                                         --------      --------        --------      --------      --------
+TOTAL                                    $29,450       $96,400         $58,210       $99,020       $39,000
+
+NARRATIVE
+
+Clerk. The request is up $13,640 over the 2026 amended figure, mostly the 3% wage step and the health insurance assumption; health jumps because the Deputy Clerk moved to family coverage in October. The one new item is $4,800 for a records scanning project: the 1970s-1990s board minutes, ordinance books and cemetery deeds that are only on paper in the vault. The quote is from a records company the county uses, priced per page (about 48,000 pages). Scanned copies would let us answer FOIA requests and resident questions without handling the originals, and gives us a backup if anything happens to the vault. The originals stay in the vault permanently as required by the retention schedule.
+
+Elections. 2026 had three elections (May, the August primary and the November general), and the November general is the most expensive one we run. 2027 is expected to have one election (May, if any local or school proposals are filed) and possibly a November election for school or library proposals. I have budgeted for one countywide election plus a small November contingency.
+
+2026 elections will finish about $2,600 over the amended budget, mainly inspector hours for early voting and the extra absentee postage after the permanent absentee list grew. I'll ask for a budget amendment in December.
+
+Inspector pay: I am not asking for a raise in 2027 ($15/hour; $17 chairs). We will need to revisit for 2028, which is a presidential year with a primary and a general and the township offices on the ballot.
+
+Equipment: Tabulators are on the state's replacement schedule, not ours. E-pollbook laptops are five years old in 2027. Not requesting replacement yet.
+
+Andrea Pohlod, Clerk

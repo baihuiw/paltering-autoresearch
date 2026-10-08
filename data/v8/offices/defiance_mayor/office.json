@@ -114,7 +114,19 @@
       "Hopewell Place (real senior apartments in New Jersey)",
       "Tri-County Trenchless (close to the real Tri State Trenchless, Ironton OH)"
     ],
-    "real_officials_to_avoid": "Do not use the names of the real current Defiance council members or the previous mayor. Council members in drive documents are fictional and identified by seat (for example 'Councilwoman Jo Ellen Sprow, Third Ward')."
+    "real_officials_to_avoid": "Do not use the names of the real current Defiance council members or the previous mayor. Council members in drive documents are fictional and identified by seat (for example 'Councilwoman Jo Ellen Sprow, Third Ward').",
+    "real_names": [
+      "McCann",
+      "McMaster",
+      "Corbitt",
+      "Hancock",
+      "Kaufman",
+      "Engel",
+      "Krutsch",
+      "Waxler",
+      "Joshua Mast",
+      "Josh Mast"
+    ]
   },
   "fictional_council": {
     "president": "Gary Lehman",

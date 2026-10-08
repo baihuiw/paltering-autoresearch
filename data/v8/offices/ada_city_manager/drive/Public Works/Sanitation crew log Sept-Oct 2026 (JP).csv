@@ -1,0 +1,58 @@
+Date,Day,Task,Crew lead,Truck,Loads,Tons,Destination,Notes
+09/01/2026,Tue,Residential Route A (NW),R. Tubbs,S-14,3,21.4,Cell 3,
+09/01/2026,Tue,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,6.8,CVM - OKC,Trailers: Service Ctr; Kestrel N lot; Fire Sta 3; Arlington St lot; Mississippi Ave lot
+09/02/2026,Wed,Residential Route B (NE),R. Tubbs,S-14,3,22.9,Cell 3,
+09/02/2026,Wed,Commercial front-load,M. Tellez,S-21,2,15.1,Cell 3,
+09/03/2026,Thu,Residential Route C (SE),R. Tubbs,S-16,3,23.6,Cell 3,S-14 hydraulic leak - swapped to S-16
+09/03/2026,Thu,Bulk/brush,C. Bowlin,K-3,4,8.2,Brush site,
+09/04/2026,Fri,Residential Route D (SW),R. Tubbs,S-16,3,20.7,Cell 3,
+09/04/2026,Fri,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,7.1,CVM - OKC,Cardboard trailer at Arlington overflowing again
+09/07/2026,Mon,HOLIDAY,,,,,,Labor Day - Monday routes run Tuesday
+09/08/2026,Tue,Residential Route A (NW),R. Tubbs,S-14,3,24.8,Cell 3,Holiday catch-up
+09/08/2026,Tue,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,7.4,CVM - OKC,
+09/09/2026,Wed,Residential Route B (NE),R. Tubbs,S-14,3,22.2,Cell 3,
+09/09/2026,Wed,Commercial front-load,M. Tellez,S-21,2,14.6,Cell 3,
+09/10/2026,Thu,Residential Route C (SE),R. Tubbs,S-14,3,23.0,Cell 3,
+09/10/2026,Thu,Bulk/brush,C. Bowlin,K-3,3,6.4,Brush site,
+09/11/2026,Fri,Residential Route D (SW),R. Tubbs,S-14,3,21.3,Cell 3,
+09/11/2026,Fri,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,6.9,CVM - OKC,Processor's driver photographed loads at their scale
+09/14/2026,Mon,Residential Route A (NW),R. Tubbs,S-14,3,22.1,Cell 3,
+09/15/2026,Tue,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,7.3,CVM - OKC,
+09/15/2026,Tue,Residential Route B (NE),R. Tubbs,S-14,3,22.4,Cell 3,
+09/16/2026,Wed,Commercial front-load,M. Tellez,S-21,2,15.8,Cell 3,
+09/16/2026,Wed,Residential Route C (SE),R. Tubbs,S-16,3,22.7,Cell 3,
+09/17/2026,Thu,Residential Route D (SW),R. Tubbs,S-16,3,21.0,Cell 3,
+09/17/2026,Thu,Recycling trailers (5) pull and swap,D. Kemp,RO-2,5,7.0,Cell 3,CVM suspended acceptance 9/16 - per ACM take to landfill for now
+09/18/2026,Fri,Bulk/brush,C. Bowlin,K-3,4,9.1,Brush site,
+09/21/2026,Mon,Residential Route A (NW),R. Tubbs,S-14,3,23.3,Cell 3,
+09/22/2026,Tue,Recycling trailers (5) pull,D. Kemp,RO-2,5,7.2,Cell 3,CVM not accepting
+09/22/2026,Tue,Residential Route B (NE),R. Tubbs,S-14,3,21.9,Cell 3,
+09/23/2026,Wed,Commercial front-load,M. Tellez,S-21,2,14.9,Cell 3,
+09/23/2026,Wed,Residential Route C (SE),R. Tubbs,S-14,3,23.4,Cell 3,
+09/24/2026,Thu,Residential Route D (SW),R. Tubbs,S-14,3,20.8,Cell 3,
+09/25/2026,Fri,Recycling trailers (5) pull,D. Kemp,RO-2,5,6.6,Cell 3,CVM not accepting
+09/25/2026,Fri,Bulk/brush,C. Bowlin,K-3,3,7.7,Brush site,
+09/28/2026,Mon,Residential Route A (NW),R. Tubbs,S-14,3,22.6,Cell 3,Storm debris from 9/26 on Route A
+09/29/2026,Tue,Recycling trailers (5) pull,D. Kemp,RO-2,5,7.5,Cell 3,CVM not accepting
+09/29/2026,Tue,Residential Route B (NE),R. Tubbs,S-14,3,22.0,Cell 3,
+09/30/2026,Wed,Commercial front-load,M. Tellez,S-21,2,16.2,Cell 3,
+09/30/2026,Wed,Residential Route C (SE),R. Tubbs,S-16,3,23.9,Cell 3,
+10/01/2026,Thu,Residential Route D (SW),R. Tubbs,S-16,3,21.2,Cell 3,
+10/02/2026,Fri,Recycling trailers (5) pull,D. Kemp,RO-2,5,7.0,Cell 3,CVM not accepting
+10/02/2026,Fri,Bulk/brush,C. Bowlin,K-3,4,8.8,Brush site,
+10/05/2026,Mon,Residential Route A (NW),R. Tubbs,S-14,3,22.3,Cell 3,
+10/06/2026,Tue,Recycling trailers (5) pull - contents to landfill Cell 3 (CVM not accepting),D. Kemp,RO-2,5,7.6,Cell 3,Per CM 10/6 continue until new processor; no change to trailer signs
+10/06/2026,Tue,Residential Route B (NE),R. Tubbs,S-14,3,21.7,Cell 3,
+10/07/2026,Wed,Commercial front-load,M. Tellez,S-21,2,15.5,Cell 3,
+10/07/2026,Wed,Residential Route C (SE),R. Tubbs,S-14,3,23.1,Cell 3,
+10/08/2026,Thu,Residential Route D (SW),R. Tubbs,S-14,3,20.9,Cell 3,
+10/09/2026,Fri,Recycling trailers (5) pull,D. Kemp,RO-2,5,7.3,Cell 3,CVM not accepting
+10/09/2026,Fri,Bulk/brush,C. Bowlin,K-3,3,6.9,Brush site,
+10/12/2026,Mon,Residential Route A (NW),R. Tubbs,S-14,3,22.8,Cell 3,
+10/13/2026,Tue,Recycling trailers (5) pull,D. Kemp,RO-2,5,7.1,Cell 3,CVM not accepting
+10/13/2026,Tue,Residential Route B (NE),R. Tubbs,S-14,3,22.5,Cell 3,
+10/14/2026,Wed,Commercial front-load,M. Tellez,S-21,2,15.0,Cell 3,
+10/14/2026,Wed,Residential Route C (SE),R. Tubbs,S-16,3,23.2,Cell 3,S-14 to shop - brake chamber
+10/15/2026,Thu,Residential Route D (SW),R. Tubbs,S-16,3,21.4,Cell 3,
+10/16/2026,Fri,Recycling trailers (5) pull,D. Kemp,RO-2,5,6.8,Cell 3,CVM not accepting
+10/16/2026,Fri,Bulk/brush,C. Bowlin,K-3,4,9.4,Brush site,

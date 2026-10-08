@@ -1,0 +1,19 @@
+# Manitowoc County tax-deeded property - parcels held and sold, 2026. Working file, Public Works (L. Kuehl). Updated 10/14/2026
+# Status: HELD = county-owned, not yet listed; LISTED = on a sealed-bid list; SOLD = closed. Minimum bid = appraisal unless the committee sets otherwise.
+Parcel,Municipality,Location / description,Acres,Tax deed date,Back taxes + costs,Appraisal (date),Status,Notes / interested parties
+010-114-001-07,T. Newton,English Lake Rd - wooded strip (no frontage; landlocked behind 7301 and 7311),0.2,2025-06-11,"$1,412","$3,000 (8/26)",LISTED fall bid list (due 10/26),Adjoining owner at 7301 notified 9/22
+052-301-118-00,C. Two Rivers,1814 Adams St - vacant lot (house razed 2024),0.14,2025-03-04,"$6,118","$14,500 (8/26)",LISTED fall bid list (due 10/26),City razing lien included in costs
+052-302-044-00,C. Two Rivers,2209 Jackson St - vacant lot,0.12,2025-03-04,"$4,960","$12,000 (8/26)",LISTED fall bid list (due 10/26),
+052-404-210-00,C. Two Rivers,1307 17th St - vacant lot,0.11,2025-03-04,"$3,877","$11,500 (8/26)",LISTED fall bid list (due 10/26),2 calls
+052-407-091-00,C. Two Rivers,915 Lowell St - vacant lot,0.15,2025-09-15,"$5,302","$13,000 (8/26)",LISTED fall bid list (due 10/26),
+004-007-013-00,T. Cooperstown,Former tavern building + lot on Cty Rd R,1.1,2024-11-20,"$22,640","$48,000 (8/27)",LISTED fall bid list (due 10/26),Building unheated; sold as-is
+016-012-002-01,T. Rockland,Wooded parcel off Cty Rd W,7.8,2025-06-11,"$4,105","$27,000 (8/27)",LISTED fall bid list (due 10/26),Hunting interest - 4 calls
+010-114-003-02,T. Newton,7311 English Lake Rd - vacant lakefront lot (92 ft frontage),0.6,2025-06-11,"$9,860","$71,500 (9/10)",SOLD 10/9 - direct sale per CE office; not advertised or bid,"DK Lake Properties LLC, $38,000 (PW Cmte 9/21, 3-2). Deed recorded 10/13. Interested buyer list: C. Behrendt, 7315 English Lake Rd (since 3/2026) - not notified"
+036-020-008-00,V. Mishicot,Former gas station lot - Main St,0.4,2023-10-02,"$31,200",Pending DNR closure letter,HELD,Petroleum cleanup - do not list until closure
+024-110-015-00,T. Kossuth,Vacant lot - Cty Rd E (corner),0.9,2024-11-20,"$2,904","$9,800 (2025)",SOLD 4/14 - spring bid list,"High bid $12,250 (3 bids)"
+057-001-112-00,C. Kiel,Vacant commercial lot - Fremont St,0.5,2024-11-20,"$8,415","$34,000 (2025)",SOLD 4/14 - spring bid list,"High bid $36,100 (2 bids)"
+052-111-305-00,C. Two Rivers,House - 1102 Washington St,0.13,2024-03-11,"$14,870","$41,000 (2025)",SOLD 4/14 - spring bid list,"High bid $52,500 (6 bids); occupancy permit from city required"
+042-009-021-00,T. Maple Grove,Farmland - 12 tillable acres,12.0,2024-11-20,"$11,650","$84,000 (2025)",SOLD 5/11 - spring bid list,"High bid $96,000 (4 bids)"
+014-018-007-00,T. Liberty,Vacant rural lot,1.5,2024-11-20,"$3,210","$16,000 (2025)",SOLD 4/14 - spring bid list,"High bid $18,900 (2 bids)"
+052-210-077-00,C. Two Rivers,1620 25th St - vacant lot,0.12,2024-03-11,"$5,005","$10,500 (2025)",NO BIDS spring - relisted fall 2025; SOLD 11/3/2025,"$10,500 (1 bid)"
+018-015-030-00,T. Manitowoc Rapids,Road remnant parcel - Cty Rd S,0.3,2025-06-11,"$612",n/a,HELD,Offer to adjoining owner per policy (under $5k value); letter sent 9/2

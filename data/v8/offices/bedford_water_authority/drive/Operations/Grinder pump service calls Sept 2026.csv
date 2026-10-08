@@ -1,0 +1,25 @@
+# Grinder pump service calls, September 2026. Low-pressure sewer areas (Moneta / Smith Mountain Lake and Huddleston). 23 calls; 9 pumps replaced from WW-27-08 stock. Response time = hours from call to crew on site. Collections crew. Compiled by D. Pugh 10/2 for the ops monthly report.
+ticket,call_date,address,area,reported,response_hrs,found,action,pump_replaced,tech,notes
+GP-26-091,09/02/2026,3640 Lakeview Dr,Moneta,"High-level alarm, light on at panel",1.5,Pump running but not pumping down; impeller worn,Replaced grinder pump unit,Y,S. Whitt,Unit installed 2011
+GP-26-092,09/03/2026,4210 Crab Orchard Rd,Moneta,Alarm buzzer after storm,2.0,Breaker tripped; pump OK,Reset breaker; ran cycle test,N,S. Whitt,
+GP-26-093,09/04/2026,118 Harbor Ridge Ln,Moneta,"Gurgling drains, slow toilets",3.0,Check valve stuck partly closed,Cleaned and re-set check valve,N,R. Tuck,
+GP-26-094,09/08/2026,2290 Bridgewater Pl,Moneta,Alarm on; basin full,1.0,Motor seized,Replaced grinder pump unit,Y,R. Tuck,After-hours call; on-call responded
+GP-26-095,09/08/2026,1475 Rt 122 area (see acct),Huddleston,Alarm light on,2.5,Wipes and rags wrapped on cutter,"Pulled and cleaned pump; left ""flushables"" door hanger",N,R. Tuck,Wipes - third call at this address this year
+GP-26-096,09/09/2026,3815 Lakeview Dr,Moneta,Pump runs constantly,2.0,Float switch hung up on debris,Cleaned floats; tested,N,S. Whitt,
+GP-26-097,09/10/2026,4472 Crab Orchard Rd,Moneta,Alarm on; no power at panel,1.5,Panel breaker corroded,Replaced panel breaker,N,T. Arrington,
+GP-26-098,09/11/2026,240 Harbor Ridge Ln,Moneta,Alarm on,1.0,Pump failed to start; capacitor failed and motor overheated,Replaced grinder pump unit,Y,T. Arrington,
+GP-26-099,09/14/2026,2014 Bridgewater Pl,Moneta,Sewer backing into basement floor drain,0.75,Basin full; pump tripped thermal overload repeatedly,Replaced grinder pump unit; customer cleanup referred to homeowner's insurer,Y,S. Whitt,Customer given claim form contact (T. Halvorsen)
+GP-26-100,09/15/2026,1520 Huddleston village (see acct),Huddleston,Alarm buzzer,2.0,High water from groundwater leaking in at basin lid,Re-sealed lid and riser joint,N,R. Tuck,
+GP-26-101,09/16/2026,3920 Lakeview Dr,Moneta,Alarm on,1.5,Grease buildup on floats,Cleaned floats; left grease flyer,N,R. Tuck,Fall newsletter grease piece mentioned to owner
+GP-26-102,09/17/2026,4380 Crab Orchard Rd,Moneta,Noisy pump,2.0,Bearings failing,Replaced grinder pump unit,Y,S. Whitt,
+GP-26-103,09/18/2026,160 Harbor Ridge Ln,Moneta,Alarm on,1.0,Power outage from utility; pump fine once power restored,No action; explained alarm,N,T. Arrington,Customer asked about a generator plug; referred to Engineering
+GP-26-104,09/21/2026,2480 Bridgewater Pl,Moneta,Alarm on; slow drains,2.5,Discharge line partly blocked at the curb valve,Jetted lateral; cleared,N,T. Arrington,
+GP-26-105,09/22/2026,1610 Rt 122 area (see acct),Huddleston,Alarm on,1.5,Stator failed,Replaced grinder pump unit,Y,R. Tuck,
+GP-26-106,09/23/2026,3555 Lakeview Dr,Moneta,Alarm on,2.0,Float cord damaged by rodent,Replaced float assembly,N,S. Whitt,
+GP-26-107,09/24/2026,4105 Crab Orchard Rd,Moneta,Pump cycling every few minutes,3.0,Toilet running inside house filling the basin,No pump work; told owner about running toilet,N,S. Whitt,High water use - customer told about leak adjustment rules
+GP-26-108,09/25/2026,196 Harbor Ridge Ln,Moneta,Alarm on,1.0,Motor failed,Replaced grinder pump unit,Y,T. Arrington,
+GP-26-109,09/28/2026,2336 Bridgewater Pl,Moneta,Alarm buzzer at night,1.5,Alarm panel fault; pump OK,Replaced alarm panel board,N,R. Tuck,After hours
+GP-26-110,09/28/2026,1385 Huddleston village (see acct),Huddleston,Alarm on,2.0,Wipes on cutter,Cleaned pump; flushables door hanger,N,R. Tuck,
+GP-26-111,09/29/2026,3702 Lakeview Dr,Moneta,Alarm on; basin full,3.5,Impeller cracked,Replaced grinder pump unit,Y,S. Whitt,Slower response - field crews tied up on the Harbor Ridge Ln main break
+GP-26-112,09/30/2026,4520 Crab Orchard Rd,Moneta,Alarm on,2.0,Float stuck,Cleaned float; tested 3 cycles,N,T. Arrington,
+GP-26-113,09/30/2026,1702 Rt 122 area (see acct),Huddleston,Alarm on; no pump-down,1.5,Motor seized,Replaced grinder pump unit,Y,T. Arrington,Last call of month

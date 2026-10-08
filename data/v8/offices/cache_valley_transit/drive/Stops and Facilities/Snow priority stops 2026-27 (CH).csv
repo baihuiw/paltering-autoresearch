@@ -1,0 +1,65 @@
+Stop ID,Location,City,Routes,Shelter,Reason on list,Added
+1001,Transit Center platform A,Logan,Loop/01/02/03/05/07/08/09/11/12/15,Y,Hub,before 2024
+1002,Transit Center platform B,Logan,Loop/01/02/03/05/07/08/09/11/12/15,Y,Hub,before 2024
+1014,Main St & 400 N SB,Logan,01/15,Y,Shelter,before 2024
+1015,Main St & 400 N NB,Logan,01/15,Y,Shelter,before 2024
+1027,Main St & Center St SB,Logan,01/12,Y,Shelter,before 2024
+1028,Main St & Center St NB,Logan,01/12,Y,Shelter,before 2024
+1041,Main St & 400 S SB,Logan,01/12,N,Boardings,before 2024
+1042,Main St & 400 S NB,Logan,01/12,N,Boardings,before 2024
+1060,Main St & 1200 S SB (Walmart S Logan),Logan,12,Y,Shelter,before 2024
+1061,Main St & 1200 S NB (Walmart S Logan),Logan,12,Y,Shelter,before 2024
+1108,700 N & 800 E (USU),Logan,Loop,Y,Shelter,before 2024
+1109,700 N & 1200 E (USU),Logan,Loop,Y,Shelter,before 2024
+1112,USU Taggart Student Center,Logan,Loop/02,Y,Shelter,before 2024
+1115,1200 E & 700 N,Logan,Loop,Y,Shelter,before 2024
+1120,USU Fine Arts,Logan,Loop,N,Boardings,before 2024
+1134,400 N & 600 E,Logan,Loop/02,N,Boardings,2025
+1201,1000 N & 200 W EB,Logan,03,N,Plow buildup,2025
+1202,1000 N & 200 W WB,Logan,03,N,Plow buildup,2025
+1214,1000 N & Main St EB,Logan,03/15,N,Boardings,before 2024
+1225,600 W & 200 N,Logan,05,N,Plow buildup,2026
+1231,200 N & 1000 W (Smith's area),Logan,05/08,Y,Shelter,before 2024
+1240,1000 W & 200 S,Logan,08,N,Boardings,2025
+1255,Logan Regional Hospital,Logan,03/09,Y,Shelter,before 2024
+1262,Main St & 1500 N (Smith's Marketplace),North Logan,01/15,Y,Shelter,before 2024
+1270,Logan Library,Logan,Loop/07,Y,Shelter,before 2024
+1288,100 W & 300 N,Logan,07,N,Plow buildup,2026
+1302,Cache Valley Mall,Logan,01/02,Y,Shelter,before 2024
+1315,Senior Center (240 N 100 E),Logan,Loop/06,Y,Senior riders,before 2024
+1322,Logan High School,Logan,07,N,Boardings,before 2024
+1340,200 E & 500 N,Logan,Loop,N,Boardings,2025
+1351,Bear River Health Dept,Logan,03,Y,Shelter,2025
+1366,Main St & 1800 N,Logan,01/15,Y,Shelter,before 2024
+1402,Main St & 2500 N,North Logan,01/15,Y,Shelter,before 2024
+1410,2500 N & 400 E,North Logan,01,N,Boardings,2025
+1418,North Logan City Library,North Logan,01,Y,Shelter,before 2024
+1433,North Logan business park (1900 N 200 W),North Logan,11,N,Employer request,2026
+1440,CVTD admin building,North Logan,11,N,Our facility,before 2024
+1502,Main St & Center St,Hyde Park,15,Y,Shelter,before 2024
+1609,Main St & Center St,Smithfield,15,Y,Shelter,before 2024
+1611,Main St & 100 N,Smithfield,15,N,Boardings,before 2024
+1620,Smithfield Rec Center,Smithfield,15,Y,Shelter,2025
+1702,Main St & Center St,Richmond,15,N,End of line,before 2024
+1801,Center St & 100 W,Providence,12,N,Boardings,2025
+1806,Main St & 300 S,Providence,12,N,Plow buildup,2026
+1903,Main St & 300 N,Millville,12,N,Boardings,2026
+3001,Main St & Center St,Hyrum,12,Y,Shelter,before 2024
+3006,Hyrum City Library,Hyrum,12,N,Boardings,2025
+3014,Mountain Crest High,Hyrum,12,N,Students,before 2024
+3020,South Cache Middle,Hyrum,12,N,Students,2025
+3008,Main St & 300 S,Hyrum,12,N,Boardings,2025
+3201,Nibley City Hall,Nibley,09,N,Boardings,2025
+3210,Heritage Dr & 3200 S,Nibley,09,N,Plow buildup,2026
+3302,Main St & 100 N,Lewiston,16,N,Park and ride,before 2024
+3401,Preston (Franklin County) park and ride,Preston ID,16,N,Park and ride,before 2024
+1077,100 E & 1000 N,Logan,07,Y,Shelter,before 2024
+1081,400 E & 400 N,Logan,Loop,N,Boardings,before 2024
+1090,1500 N & 200 E,Logan,07,Y,Shelter,2025
+1095,Aggie Village,Logan,Loop,Y,Shelter,before 2024
+1153,800 E & 1000 N,Logan,02,N,Boardings,2026
+1166,Center St & 600 E,Logan,06,N,Senior riders,2025
+1172,300 S & 600 W,Logan,08,N,Plow buildup,2026
+1185,Center St & 1000 W,Logan,08,N,Plow buildup,2026
+1190,200 S & 300 W,Logan,05,N,Boardings,2025
+1194,Riverwoods (1600 N 200 E),Logan,07,Y,Shelter,2025

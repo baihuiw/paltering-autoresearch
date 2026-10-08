@@ -1,0 +1,41 @@
+Date,Payee,Description,Amount,Paid from,Ref,Notes
+# Paid from codes: OH = officeholder account (Brockhoff for Kansas House; office expenses per K.S.A. 25-4157a); LAS = Legislative Administrative Services (state: mileage/subsistence claims or the postage & newsletter printing allotment); MB = Marla paid personally (reimburse from OH),,,,,,
+09/17/2026,W. Second St. Properties LLC,Office lease deposit - 118 W. Second St. (Sept 17 - Dec 31),650.00,OH,1001,Lease signed 9/17; month-to-month after 12/31
+09/17/2026,W. Second St. Properties LLC,Rent - partial Sept (9/17-9/30),303.33,OH,1002,Prorated
+09/18/2026,Eureka Hardware & Lumber,Keys cut; door lock; shelf brackets,61.48,OH,1003,
+09/18/2026,Greenwood Office Supply,Desk + 2 chairs (used); file cabinet (2-drawer),412.00,OH,1004,Delivered 9/19
+09/19/2026,Greenwood Office Supply,Paper; toner; folders; label maker,186.27,OH,1005,
+09/21/2026,Telephone co-op,Phone + internet install (2 lines),125.00,OH,1006,Main line (620) 583-4130
+09/21/2026,MB,Oath of office - cookies and coffee for courthouse reception,84.10,MB,R-01,Reimbursed 9/25 from OH
+09/22/2026,Cottonwood Valley Printing,Letterhead + #10 envelopes (500/500); business cards x3,348.50,OH,1007,Office stationery
+09/22/2026,Microsoft,Office 365 business basic (3 users) - monthly,18.00,OH,auto,
+09/22/2026,Squarespace,repbrockhoff.com - annual plan + domain,276.00,OH,auto,Contact form live 9/23
+09/23/2026,Cottonwood Valley Printing,Fall District Report - design proofs (3 rounds),0.00,--,--,No charge; included in print job (see quote 9/22)
+09/23/2026,Eureka Sign Co.,Window lettering - district office,240.00,OH,1008,Installed 9/24
+09/24/2026,Strong City (community bldg),Room rental - town hall 9/24,50.00,OH,1009,
+09/25/2026,MB,Reimb. oath reception (R-01),84.10,OH,1010,
+09/25/2026,Dillons (Emporia),Coffee; water; snacks - office,47.62,OH,card,
+09/28/2026,Payroll - Haverty,District director - 9/17-9/30,1384.62,OH,ACH,Semi-monthly
+09/28/2026,Payroll - Volkmann,Constituent services (PT) - 9/21-9/30,512.00,OH,ACH,32 hrs
+09/28/2026,Payroll - Rudd,Comms/scheduling - 9/17-9/30,1040.00,OH,ACH,
+09/29/2026,US Postal Service (Eureka),Stamps - office correspondence (2 coils),146.00,OH,card,Stamps not reimbursable by LAS
+09/30/2026,Facebook (Meta),Page boost - office opening + town halls,60.00,OH,card,
+10/01/2026,W. Second St. Properties LLC,Rent - October,650.00,OH,1011,
+10/01/2026,Madison community center,Room rental - town hall 10/1,40.00,OH,1012,
+10/02/2026,Telephone co-op,Phone + internet - October,118.95,OH,auto,
+10/05/2026,Greenwood Office Supply,Toner (2); sign-in clipboards,121.40,OH,1013,
+10/06/2026,LAS,Legislator mileage + subsistence - committee mtg 9/29-9/30,412.66,LAS,claim,Paid to MB directly (state)
+10/07/2026,Cottonwood Valley Printing,Fall District Report - printing + EDDM postage (10,450 pcs) - Inv 24817,5799.40,LAS,DP-1007,Paid by LAS direct pay from the state postage & newsletter allotment; allotment balance now $112.75 (submitted after the 5/31 election-year cutoff; LAS paid it anyway)
+10/08/2026,Eureka Hardware & Lumber,Space heater; extension cords,58.19,OH,1014,
+10/09/2026,Greenwood County Fair Assn,Booth - none (cancelled),0.00,OH,--,Placeholder; delete
+10/09/2026,Squarespace,Email forwarding add-on,6.00,OH,auto,
+10/12/2026,Dillons (Emporia),Coffee; water - office,22.15,OH,card,
+10/13/2026,Payroll - Haverty,District director - 10/1-10/15,1500.00,OH,ACH,
+10/13/2026,Payroll - Volkmann,Constituent services (PT) - 10/1-10/15,288.00,OH,ACH,18 hrs
+10/13/2026,Payroll - Rudd,Comms/scheduling - 10/1-10/15,1200.00,OH,ACH,
+10/14/2026,Woodson County (annex),Room rental - Yates Center town hall 10/15,35.00,OH,1015,
+10/15/2026,Eureka Sign Co.,Sandwich board - office hours,95.00,OH,1016,
+10/15/2026,LAS,Legislator mileage + subsistence - committee mtg 10/7-10/8,412.66,LAS,claim,Paid to MB directly (state)
+10/16/2026,Facebook (Meta),Page boost - Fredonia + SW Emporia town halls,40.00,OH,card,
+,,,,,,
+,,OH paid Sept 17 - Oct 16 (excl. LAS lines),"$10,119.61",,,BH check vs. bank stmt 10/31

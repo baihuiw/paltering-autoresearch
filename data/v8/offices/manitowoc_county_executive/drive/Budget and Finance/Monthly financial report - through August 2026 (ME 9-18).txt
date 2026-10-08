@@ -1,0 +1,91 @@
+MANITOWOC COUNTY FINANCE DEPARTMENT
+MONTHLY FINANCIAL REPORT - GENERAL FUND
+Period ending August 31, 2026 (8 of 12 months; percent of year elapsed 66.7%)
+Prepared by Mark Esslinger, Finance Director - September 18, 2026
+Distribution: County Executive, Finance Committee, department heads
+
+Unaudited. Figures are on a budgetary basis and include encumbrances posted through Sept 11.
+Amounts are rounded to the nearest dollar or hundred.
+
+1. SUMMARY
+
+General Fund revenues are at 80.7% of budget and expenditures at 65.9%. The revenue figure is
+high because the full General Fund share of the property tax levy is recognized in January.
+Excluding the levy, other revenues are at 62.6% of budget ($16,208,790 of $25,897,000), which
+is normal for August because state shared revenue is mostly paid in November.
+
+We are on track to finish 2026 with a small positive variance, currently estimated at about
+$300,000, driven by sales tax and investment income and partly offset by the jail.
+
+2. REVENUES                                   2026 Budget     YTD Actual   % of Budget
+   Property tax levy (General Fund share)      24,403,000     24,403,000      100.0%
+   County sales tax (0.5%)                     11,650,000      7,846,750       67.4%
+   State shared revenue / county aid            2,385,000        357,750       15.0%
+   State and federal grants and aids            3,140,000      1,903,600       60.6%
+   Licenses and permits                           412,000        318,450       77.3%
+   Fines, forfeitures and penalties               520,000        331,200       63.7%
+   Charges for services                         4,860,000      3,296,300       67.8%
+   Investment income                            1,450,000      1,212,840       83.6%
+   Miscellaneous                                  280,000        141,900       50.7%
+   Transfers in                                 1,200,000        800,000       66.7%
+   TOTAL REVENUES                              50,300,000     40,611,790       80.7%
+
+Notes on revenues:
+- Sales tax. Eight distributions received (January through August), $7,846,750, up 3.4% from
+  the same eight distributions in 2025 ($7,591,020). The August distribution was $1,157,365.
+  See "Sales tax distributions 2025-2026 by month (Finance).csv" for the monthly detail.
+  At the current pace the year would come in near $11.80 million, about $150,000 over budget.
+- State shared revenue. The July payment is 15% of the annual amount; the balance comes on the
+  third Monday in November. No change expected.
+- Licenses and permits are ahead mainly because of land use and sanitary permits in the spring.
+- Investment income. See section 4.
+
+3. EXPENDITURES                               2026 Budget     YTD Actual   % of Budget
+   General government                           6,940,000      4,512,300       65.0%
+   Circuit courts and Clerk of Circuit Court    3,410,000      2,196,700       64.4%
+   District Attorney and Child Support          2,280,000      1,468,900       64.4%
+   Sheriff - patrol and investigations          9,120,000      6,037,400       66.2%
+   Sheriff - jail                               8,045,000      5,728,100       71.2%
+   Emergency Services                           3,980,000      2,588,200       65.0%
+   Medical Examiner                               610,000        451,300       74.0%
+   Planning, Parks & Land Information           2,140,000      1,352,600       63.2%
+   Soil & Water Conservation                    1,060,000        612,800       57.8%
+   Veterans Service                               412,000        268,100       65.1%
+   UW-Madison Extension                           336,000        224,000       66.7%
+   Library aid (s. 43.12)                         866,000        433,000       50.0%
+   Facilities                                   3,310,000      2,081,500       62.9%
+   Transfers out (Human Services, ADRC, capital) 7,791,000     5,194,300       66.7%
+   TOTAL EXPENDITURES                          50,300,000     33,149,200       65.9%
+
+Departments over or under the 66.7% line, with explanations from the departments:
+- Sheriff - jail (71.2%). Average daily population through August was 186 against 178
+  budgeted, which drives inmate medical and food costs. Two correctional officer vacancies
+  are being covered with overtime. Projected over budget by about $260,000 at year end. The
+  2027 request budgets 190.
+- Medical Examiner (74.0%). Transport and outside autopsy costs are running high; caseload is
+  up about 9%. Projected over by roughly $45,000. Will be covered within the General Fund.
+- Soil & Water (57.8%). Cost-share payments to landowners are mostly made in the fall once
+  practices are installed; expected to finish close to budget.
+- Library aid (50.0%). Paid in two equal installments, March and October.
+- Planning, Parks & Land Information (63.2%). One vacant position for part of the summer.
+
+4. CASH AND INVESTMENTS (all funds)
+   Balance at Aug 31: $86.4 million (Aug 31, 2025: $82.9 million).
+   Local Government Investment Pool: $31.2 million at 3.96%.
+   CDs and agency securities: $55.2 million, weighted yield 4.12%, average maturity 14 months.
+   August interest allocated to the General Fund: $151,220. Year to date $1,212,840 (83.6%).
+   Rates are holding better than we assumed when the budget was built, when we expected cuts
+   early in the year. The 2027 budget assumes $1.55 million.
+
+5. FUND BALANCE
+   General Fund unassigned balance at Dec 31, 2025 (audited): $11,120,000, which is 22.1% of the
+   2026 General Fund budget and inside the Board's policy range of 15-25%. No use of fund
+   balance is budgeted in 2026 and none is planned.
+
+6. OTHER ITEMS
+- The 2025 audit was accepted by the Finance Committee on Aug 24 with no findings.
+- Second half of the 2026 property tax settlement with municipalities is complete.
+- A corrected July report was sent Aug 21 (Facilities YTD had double-counted one HVAC invoice,
+  $16,750). The figures above reflect the correction.
+
+Questions: Mark Esslinger, (920) 683-2740, markesslinger@manitowoccountywi.gov

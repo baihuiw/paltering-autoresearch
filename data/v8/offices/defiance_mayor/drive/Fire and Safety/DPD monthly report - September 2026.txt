@@ -8,7 +8,7 @@ Date: October 6, 2026
 To: Tom Wiechers, Safety-Service Director
 cc: Mayor Paul Haverkamp; Megan Ostrander, Chief of Staff
 
-Mayor - this is the first monthly report since you took office, so I've added a short note at the end on how the report is put together and what the numbers mean. Happy to walk you through it any time. - SW
+Mayor - first monthly report since you took office. Year-to-date comparisons mean more than single months; one month can swing on two or three incidents. Happy to walk you through it. - SW
 
 ======================================================================
 1. CALLS FOR SERVICE
@@ -16,52 +16,39 @@ Mayor - this is the first monthly report since you took office, so I've added a 
 
                                         Sept 2026   Sept 2025   YTD 2026   YTD 2025
 Calls for service (all)                   1,712       1,648      15,204     14,877
-  Officer-initiated (traffic stops,
-    business checks, etc.)                  684         702       6,131      6,240
+  Officer-initiated                         684         702       6,131      6,240
   Dispatched (911 and non-emergency)      1,028         946       9,073      8,637
 Average response, priority 1 (min:sec)     3:52        4:05        3:58       4:02
-Average response, all dispatched           6:41        6:28        6:35       6:30
 
-Busiest day: Saturday, September 26 (84 calls). Busiest hours: 3:00-6:00 p.m. weekdays.
+Busiest day: Saturday, September 26 (84 calls).
 
 ======================================================================
-2. OFFENSES REPORTED (Group A, NIBRS)
+2. OFFENSES REPORTED (Group A, NIBRS) - summary
 ======================================================================
 
-Offense                               Sept 2026   Sept 2025   YTD 2026   YTD 2025
-Assault (aggravated)                       2           3          19         22
-Assault (simple)                          21          18         176        181
-Intimidation / menacing                    6           5          47         44
+                                        Sept 2026   Sept 2025   YTD 2026   YTD 2025
 Burglary                                   5           9          49         61
 Theft (all, excl. motor vehicle)          38          44         351        372
-  Theft from motor vehicle                 9          14          88        103
-  Shoplifting                             17          15         141        139
-Motor vehicle theft                        2           3          21         19
 Fraud (incl. scams, identity)             14          11         126        104
 Vandalism / criminal damaging             17          13         139        146
-Drug / narcotic offenses                  16          21         154        171
-Weapons law violations                     1           2          11         12
-Sex offenses                               1           1          10          9
-Robbery                                    0           1           4          6
-                                         ---         ---       -----      -----
-Total Group A                            123         131       1,107      1,147
+Total Group A (all categories)           123         131       1,107      1,147
 
-Notes:
-- Burglaries down. Four of the five September burglaries were detached garages or sheds; one residential (Second Ward, Sept 14, arrest made Sept 16).
-- Theft from vehicles down from last year. Most were unlocked cars. The "Lock it or lose it" Facebook reminders run every other Friday with the City Update schedule.
-- Fraud continues to climb, mostly phone and computer scams aimed at older residents (gift cards, fake "grandchild in jail," fake sweepstakes winnings). Det. Sgt. Fruth spoke at the Senior Center health fair on Sept 24 alongside the Fire Prevention Bureau's table. We'll coordinate with Luis Ortega on including scam tips in the senior services resource guide.
+- Four of the five September burglaries were detached garages or sheds.
+- Fraud keeps climbing, mostly phone scams aimed at older residents. Det. Sgt. Fruth spoke at the Senior Center health fair Sept 24. We'll give Luis Ortega scam tips for the senior services resource guide.
 
 ======================================================================
-3. ARRESTS AND CITATIONS
+3. QUALITY-OF-LIFE CALLS
 ======================================================================
 
-                                        Sept 2026   YTD 2026
-Adult arrests                               88         764
-Juvenile arrests / referrals                 9          71
-OVI arrests                                  7          58
-Traffic citations                          163       1,402
-Traffic warnings (written)                 241       2,018
-Parking tickets                            112       1,036
+                                        Sept 2026   Sept 2025
+Noise complaints                            61          57
+  Fri/Sat, 11 p.m. - 3 a.m.                 34          29
+Parking complaints                          49          44
+Parking tickets issued                     112         104
+
+Noise. More than half of September's noise calls came in late on Friday and Saturday nights: house parties, car stereos, and amplified music at a few bars downtown and on Clinton St. An officer responds while the noise is happening; repeat locations get a warning first, then a citation under the noise ordinance. Ongoing equipment noise (fans, compressors) goes to code enforcement in Building and Zoning, not patrol. Residents should call the non-emergency line, (419) 784-5050, while it is going on; an email the next morning doesn't let us do much.
+
+Parking. Most complaints are cars blocking driveways, overtime in the downtown two-hour spaces, and vehicles parked partly on the sidewalk. Lt. Bechtol has asked the weekend shift to check the downtown blocks of Clinton St on Saturday mornings, when sidewalk parking near the churches and the farmers market comes up most.
 
 ======================================================================
 4. TRAFFIC CRASHES
@@ -70,72 +57,39 @@ Parking tickets                            112       1,036
                                         Sept 2026   Sept 2025   YTD 2026   YTD 2025
 Total crashes                               41          46         378        391
   Injury crashes                            11          12          88         97
-  Fatal crashes                              0           0           1          0
-  Hit-skip                                   7           6          59         61
   Involving pedestrian or bicycle            2           1          14         11
 
-High-crash locations, last 12 months (Engineering has this list):
-  1. Clinton St at Second St ............ 14
-  2. Holgate Ave at Fifth St ............ 8
-  3. Jefferson Ave at Third St .......... 7
-  4. Ayersville Ave at Elliott Rd ....... 6
-  5. Clinton St at Ralston Ave .......... 5
-
-Engineering's signal study for Ralston and Clinton (draft) references our crash data. Lt. Bechtol reviewed it and agrees with the all-red change.
+High-crash locations, last 12 months: Clinton St at Second St (14); Holgate Ave at Fifth St (8); Jefferson Ave at Third St (7); Ayersville Ave at Elliott Rd (6); Clinton St at Ralston Ave (5). Engineering's draft signal study for Ralston and Clinton uses our crash data; Lt. Bechtol agrees with the all-red change.
 
 ======================================================================
 5. SPECIAL EVENTS AND DETAILS
 ======================================================================
 
-- Sept 7 (Labor Day): pool closing day, no incidents.
-- Sept 12: Farmers market Safety Day. K-9 demonstration, bike registration (31 bikes registered), car seat checks with the Fire Department (14 seats checked).
-- Sept 15: Mayor's oath of office, Council Chambers. One officer assigned for the morning.
-- Sept 19: Harvest on the Riverfront site walk-through at Kingsbury Park with Parks, Fire and the event committee. Traffic plan drafted (see below).
-- Sept 23: Council meeting coverage (moved from Tuesday to Wednesday this month).
-- Sept 26: Fall cleanup volunteer day, Kingsbury Park. No police detail needed.
-- Homecoming parade Saturday Oct 3, 10:00 a.m.: route and street closures approved; 8 officers plus 6 auxiliary. (Report next month.)
+- Sept 12: Farmers market Safety Day. Bike registration (31 bikes), car seat checks with the Fire Department (14 seats).
+- Sept 15: Mayor's oath of office, Council Chambers. One officer assigned.
+- Sept 19: Harvest on the Riverfront walk-through at Kingsbury Park with Parks and Fire.
+- Sept 26: Fall cleanup volunteer day, Kingsbury Park. No detail needed.
+- Homecoming parade Saturday Oct 3, 10:00 a.m.: 8 officers plus 6 auxiliary.
 
-Harvest on the Riverfront, Saturday, Oct 10 (rain date Oct 11): traffic plan has the riverfront street closed from 7:00 a.m. to 6:00 p.m., no-parking signs posted Oct 8, two officers on foot in the park 10-4, one officer on traffic at the main crossing, auxiliary at the parking lots. Pumpkin Run 5K at Pontiac Park the same morning (9:00 a.m.) - three officers on the course, cleared by 10:15. Station 1 open house 10-2 the same day. It's a busy Saturday; I've asked for no other events that day.
+Harvest on the Riverfront, Saturday, Oct 10 (rain date Oct 11): riverfront street closed 7:00 a.m. to 6:00 p.m., no-parking signs posted Oct 8, two officers on foot in the park 10-4, one on traffic at the main crossing, auxiliary at the lots. Pumpkin Run 5K at Pontiac Park at 9:00 a.m. the same morning (three officers, course cleared by 10:15). Station 1 open house 10-2 the same day.
 
 ======================================================================
-6. COMMUNITY POLICING AND SCHOOLS
+6. COMMUNITY POLICING AND ANIMAL CONTROL
 ======================================================================
 
-- School Resource Officer: see separate first-quarter SRO report (school year started Aug 19).
-- Neighborhood meetings: Officer attended the Second Ward neighborhood meeting Sept 22 (Councilwoman Okuley). Questions were about speeding on Jackson Ave and a vacant house on Spruce St. Speed trailer placed on Jackson Sept 24-Oct 1 (average speed 27 mph in a 25; 85th percentile 31 mph). Vacant house referred to the code enforcement officer.
+- Second Ward neighborhood meeting Sept 22 (Councilwoman Okuley): speeding on Jackson Ave and a vacant house on Spruce St. Speed trailer on Jackson Sept 24-Oct 1 (average 27 mph in a 25). Vacant house referred to code enforcement.
 - Coffee with a Cop at the Diner on Clinton St, Sept 16, about 25 residents.
-- Two officers completed crisis intervention team (CIT) training (40 hours) Sept 14-18. Department now has 17 CIT-trained officers.
+- ACO P. Stuckey handled 64 calls (log attached separately). Dogs at large go to the county dog warden after first contact; the City handles cats, wildlife in the right-of-way, bites (with the county health department) and nuisance animals.
 
 ======================================================================
-7. ANIMAL CONTROL
+7. PERSONNEL
 ======================================================================
 
-Animal control officer handled 64 calls in September (log attached separately). Dogs at large are referred to the county dog warden after the first contact; the City handles cats, wildlife in the right-of-way, bites (with the county health department) and nuisance animal complaints.
-
-======================================================================
-8. PERSONNEL AND EQUIPMENT
-======================================================================
-
-Authorized sworn strength: 31. Current: 29 (two vacancies). Two candidates in the academy, graduating December 10. Civil service eligibility list for patrol officer expires February 2027; testing planned for January.
-
-Overtime: 486 hours (Sept 2025: 431). Mostly special events and covering the two vacancies.
-
-Vehicles: Cruiser 14 (2019) out of service Sept 8-17 for transmission; repaired under extended warranty. The 2027 capital request includes two cruiser replacements (separate from the CIP list, funded through the police vehicle replacement line).
-
-Body-worn cameras: storage contract renewal due January; Finance has the quote.
-
-======================================================================
-9. NOTES FOR THE MAYOR ON READING THIS REPORT
-======================================================================
-
-- "Calls for service" counts every logged event, including things officers start themselves, like traffic stops and business checks. A rise in dispatched calls is the better measure of demand.
-- Offenses use the national NIBRS categories required by the state. One incident can have more than one offense.
-- Year-to-date comparisons are more meaningful than single months. A single month can swing on two or three incidents.
-- Response times are measured from dispatch to first officer on scene, inside city limits.
+Authorized sworn strength 31; current 29. Two candidates in the academy, graduating December 10. Overtime 486 hours (Sept 2025: 431), mostly special events and the two vacancies. Cruiser 14 out of service Sept 8-17 (transmission, warranty).
 
 Respectfully submitted,
 
 Scott Wenninger
 Chief of Police
 City of Defiance
-(419) 784-2101 (non-emergency dispatch: ask for the shift supervisor)
+Non-emergency: (419) 784-5050

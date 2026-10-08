@@ -1,0 +1,70 @@
+OTERO COUNTY FINANCE DEPARTMENT
+MONTHLY EXPENDITURE REPORT - SHERIFF'S OFFICE (FUND 100, DEPT 1100-1130)
+Period ending September 30, 2026 (month 9 of 12; straight-line target 75.0%)
+Run 10/05/2026 by P. Witcher. Encumbrances shown separately. Restricted accounts not included.
+
+-----------------------------------------------------------------------------------------
+DIVISION / LINE                          2026 BUDGET     SEPT ACTUAL       YTD ACTUAL  % USED
+-----------------------------------------------------------------------------------------
+1100 ADMINISTRATION, CIVIL AND RECORDS
+  Salaries - regular                        512,300         41,980          383,640    74.9%
+  Salaries - part-time (civil officer)       38,900          2,930           27,410    70.5%
+  Benefits                                  168,400         13,870          125,950    74.8%
+  Office supplies and postage                 14,200            860           10,115    71.2%
+  Printing (permit cards, forms)               6,800            410            5,980    87.9%
+  Software and maintenance                   41,500              0           38,870    93.7%
+  Training and travel                         9,200            640            6,045    65.7%
+  Dues and subscriptions                      2,100              0            1,950    92.9%
+  Telephone                                  19,000          1,540           13,860    72.9%
+  ---------------------------------------------------------------------------------------
+  Division total                            812,400         62,230          613,820    75.6%
+
+1110 PATROL AND OPERATIONS
+  Salaries - regular                      1,262,400         98,410          917,300    72.7%
+  Overtime                                  160,000         17,930          131,450    82.2%
+  Benefits                                  436,200         34,780          322,610    74.0%
+  Fuel                                      142,000         13,260          108,940    76.7%
+  Vehicle repair and maintenance             68,000          4,310           54,780    80.6%
+  Uniforms and equipment                     41,000          1,920           29,860    72.8%
+  Ammunition and range                       14,500              0           11,200    77.2%
+  Radios and MDT service                     58,500          4,875           43,875    75.0%
+  Training and travel                        26,000          2,310           19,420    74.7%
+  Posse and volunteer support                 6,000            420            4,960    82.7%
+  Other operating                            70,000          5,060           49,340    70.5%
+  ---------------------------------------------------------------------------------------
+  Division total                          2,284,600        183,275        1,693,735    74.1%
+
+1120 DETENTION CENTER
+  Salaries - regular                      1,580,200        125,400        1,171,980    74.2%
+  Overtime                                  210,000         23,140          171,310    81.6%
+  Benefits                                  552,400         45,120          410,860    74.4%
+  Food service (contract)                   318,000         26,240          239,700    75.4%
+  Contract services - other                 532,800         42,860          395,620    74.3%
+  Utilities                                 118,000          8,920           84,560    71.7%
+  Supplies, laundry, hygiene                 52,500          4,180           38,240    72.8%
+  Building maintenance                       28,000          1,140           17,390    62.1%
+  Inmate transport                           25,000          2,460           20,130    80.5%
+  ---------------------------------------------------------------------------------------
+  Division total                          3,416,900        279,460        2,549,790    74.6%
+
+1130 OFFICE OF EMERGENCY MANAGEMENT
+  Salaries and benefits                     104,600          8,640           78,190    74.8%
+  Operating                                  43,700          1,980           31,450    72.0%
+  ---------------------------------------------------------------------------------------
+  Division total                            148,300         10,620          109,640    73.9%
+
+-----------------------------------------------------------------------------------------
+SHERIFF'S OFFICE TOTAL                    6,662,200        535,585        4,966,985    74.6%
+-----------------------------------------------------------------------------------------
+
+ENCUMBRANCES OUTSTANDING (open POs): 1110 $18,420 (two patrol vehicle upfit kits held for 2027 units; tires); 1120 $6,100 (body scanner service call).
+
+FINANCE NOTES
+1. Patrol and Detention overtime are both running ahead of the straight-line rate (82.2% and 81.6%). At the current rate Patrol OT will finish about $175,000, or $15,000 over budget. The County Administrator will look at the year-end supplemental in November; departments should not plan on it.
+2. Software and maintenance (1100) is mostly paid annually in the first quarter; not a concern.
+3. Fuel averaged $3.41/gal in September (budget $3.50).
+4. Please code the October fire response hours to the incident number Ken provides so the county can track them for any state reimbursement.
+
+Questions: Pam Witcher, ext. 3010.
+
+[Marcy's note 10/6: Lt. Brandvold has the OT by shift for the 10/13 command staff meeting. -MP]

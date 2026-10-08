@@ -1,0 +1,27 @@
+PO #,Date,Vendor (type),Description,Dept,Method,Amount,Funding,Approved by,Status
+26-0301,07/06/2026,Office supply vendor,Paper + toner Q3,Admin,Small purchase,"$2,640",Local,OP,Received
+26-0309,07/13/2026,Uniform vendor,Operator uniforms - summer reorder,Ops,Quote (3),"$6,210",Local,OP,Received
+26-0315,07/20/2026,Tire vendor (state contract),Bus tires (24),Fleet,State contract,"$13,920",5307 PM 80/20,GM,Received
+26-0322,07/28/2026,Printer,Fall schedule books (8000),Comms,Quote (3),"$4,385",Local,OP,Received
+26-0330,08/04/2026,Software vendor,Scheduling software annual license,Planning,Sole source (existing system),"$18,600",Local,GM,Paid
+26-0334,08/10/2026,Fuel supplier (state contract),Diesel - Aug,Fleet,State contract,"$61,240",Local,GM,Paid
+26-0341,08/18/2026,Training vendor,CDL skills test fees (6),Ops,Small purchase,"$2,700",Local,MV,Paid
+26-0348,08/25/2026,Parts distributor,Shop parts - Aug (blanket),Fleet,Blanket PO,"$22,480",5307 PM 80/20,GM,Open
+26-0352,09/01/2026,Insurance pool,Q4 property + liability installment,Admin,Interlocal,"$38,900",Local,GM,Paid
+26-0358,09/08/2026,Fuel supplier (state contract),Diesel - Sept,Fleet,State contract,"$63,115",Local,GM,Paid
+26-0361,09/10/2026,Furniture vendor,Training room chairs (12),Ops,Small purchase,"$2,895",Local,MV,Received
+26-0366,09/14/2026,Caterer,Open house food (9/24),Comms,Small purchase,"$2,550",Local,KO,Paid
+26-0370,09/21/2026,Kestrel Grounds Services,Stop snow removal - option yr 2 (NTE),Facilities,RFP 2024 option,"$46,000",Local,GM,Encumbered
+26-0374,09/22/2026,Printer,Route study paper surveys (2500) + return postage,Planning,Quote (2),"$3,960",Local,JO,Received
+26-0377,09/24/2026,HVAC vendor,Transit Center platform heater repair,Facilities,Small purchase,"$2,640",Local,CH,Paid
+26-0381,09/28/2026,Ice melt supplier,Ice melt (12 tons),Facilities,Quote (3),"$4,680",Local,CH,Ordered - delivery 10/20
+26-0383,09/29/2026,Wash equipment vendor,Bus wash brush motor,Facilities,Sole source (OEM part),"$3,870",Local,DG,Backordered to 10/23
+26-0386,09/30/2026,Uniform vendor,Uniforms - new operator class (6),Ops,Existing quote,"$3,240",Local,MV,Received
+26-0390,10/01/2026,Advertising installer,Install/remove exterior ad signs Q4 (blanket),Comms,Quote (2),"$5,000",Ad revenue offset,KO,Open
+26-0392,10/05/2026,Parts distributor,Shop parts - Oct (blanket),Fleet,Blanket PO,"$25,000",5307 PM 80/20,GM,Open
+26-0395,10/06/2026,Fuel supplier (state contract),Diesel - Oct,Fleet,State contract,"$64,000",Local,GM,Open
+26-0398,10/07/2026,Medical clinic,DOT physicals + drug screens (blanket Q4),HR,Existing agreement,"$4,200",Local,OP,Open
+26-0401,10/08/2026,Marketing vendor,Hiring fair + recruiting ads (radio + social),HR/Comms,Quote (3),"$7,450",Local,GM,Open
+26-0404,10/12/2026,Hot chocolate + cups (pop-ups),Route study pop-ups x10,Planning,Small purchase,"$620",Local,JO,Ordered (under threshold; logged for study budget)
+26-0406,10/13/2026,Engraving vendor,Graduation plaques + 10/20-yr service awards,Admin,Small purchase,"$540",Local,LD,Ordered
+26-0408,10/14/2026,Software vendor,Customer comment tracking - add 5 users,Comms,Existing contract,"$2,750",Local,KO,Open

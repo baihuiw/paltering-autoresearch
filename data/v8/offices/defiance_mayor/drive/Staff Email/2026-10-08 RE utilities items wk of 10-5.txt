@@ -1,0 +1,60 @@
+Conversation: RE: Utilities - items for week of 10/5
+Exported from mailbox: twiechers@cityofdefiance.com
+Messages: 3 (oldest first)
+
+======================================================================
+From: Kevin Shaffer <kshaffer@cityofdefiance.com>
+To: Tom Wiechers <twiechers@cityofdefiance.com>; Rachel Dunlap <rdunlap@cityofdefiance.com>; Donna Pruett <dpruett@cityofdefiance.com>
+Cc: Angela Marquardt <amarquardt@cityofdefiance.com>
+Date: Thu, Oct 8, 2026 8:37 AM
+Subject: RE: Utilities - items for week of 10/5
+
+Tom,
+
+Sorry for the delay, it's been a week. Taking #7 first since it needs to go on Monday's agenda.
+
+#7 Billing - Donna's office caught this yesterday after a run of high-bill calls Friday and Monday. The 10/1 bills for the phase 2 meter accounts, about 1,140 of them on routes 14 through 21 (Walnut and Hickory out to Woodlawn), went out with the wrong read multiplier and show roughly twice the gallons actually used. The rate increase is in there too but that's only the 6 percent. The classes we set up in the billing system for the new meters (HRE58 and HRE34) were built off the phase 1 class and carried its multiplier of 2. The phase 1 registers read in 2-gallon units, so they need it; the phase 2 registers read in straight gallons and should be 1. And because the old meter final reads were moved into the new meter record at changeout, the 2 got applied to the whole quarter's consumption, not just the days since the swap. Donna's people have the classes fixed in the system effective with tomorrow's reads, so nothing going forward is affected. I spot-checked a dozen accounts against the register photos Brandt took at install and they all line up with that explanation. Angela ran a rough number on re-billing or crediting the whole group and it's about $118,000 between water and sewer. I think the Board has to decide how we handle the 10/1 bills. Donna and I will both be there Monday.
+
+#1 Hydrant flushing - Finished on schedule 10/2. 1,412 hydrants flushed. 23 need work: 9 with bad caps or chains, 6 slow to drain, 5 leaking at the main valve, 3 that need to be raised after the street work on Ayersville. Most parts are on the shelf; the rest are on the then-and-now Angela has for Monday ($5,467.80). The two leaking worst we'll do next week; the rest before Thanksgiving.
+
+#3 Chemical bids - Recommend low bid both categories. Northwest Ohio Chemical at $1.84/gal for hypo and Lakeshore at $612/dry ton for ferric. Both have supplied us before with no delivery problems. Tab is attached for Janelle.
+
+#6 Phase 3 - Talked to Josh at Brandt yesterday. They can start the first week of April if we give them the address list by mid-January. Roughly 1,700 meters, rest of the Fourth Ward and the north side. Rachel, yes, we can add the service-line notes to their scope. They'll want a small bump per stop. I'll get a number.
+
+#8 Software renewal - Donna has the quote, $41,280. She'll send it to Janelle.
+
+Kevin
+
+Kevin Shaffer
+Utilities Superintendent
+City of Defiance Division of Utilities
+(419) 784-2101 ext. 260
+
+======================================================================
+From: Angela Marquardt <amarquardt@cityofdefiance.com>
+To: Kevin Shaffer <kshaffer@cityofdefiance.com>; Tom Wiechers <twiechers@cityofdefiance.com>
+Cc: Rachel Dunlap <rdunlap@cityofdefiance.com>; Donna Pruett <dpruett@cityofdefiance.com>
+Date: Thu, Oct 8, 2026 11:05 AM
+Subject: RE: Utilities - items for week of 10/5
+
+Tom, Kevin,
+
+On #7, the $118K is an estimate. Donna pulled the 1,140 accounts and I took half of the billed consumption times the rate, so it may move a little once we look at minimum-bill accounts and the handful of commercial customers on 3/4-inch meters in that group.
+
+For Monday I'll bring the Water Fund cash position. Short version: we're thinner than I'd like going into the winter. The September draw on the OWDA loan hasn't been reimbursed yet, and we have to show 1.15 times debt service coverage for the year at the end of December. I'll walk the Board through it.
+
+Separately, the PO list for Monday has 14 items, $187,312.66. Two then-and-nows, one is Kevin's hydrant parts and one is Ron's tires.
+
+Angela
+
+======================================================================
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+To: Kevin Shaffer; Angela Marquardt; Rachel Dunlap; Donna Pruett
+Date: Thu, Oct 8, 2026 1:52 PM
+Subject: RE: Utilities - items for week of 10/5
+
+Thanks all. Janelle has everything for Monday. Kevin, I'll put the billing item after the Washington Ave change order. Steve wants to look at the billing rules before the meeting, so send him whatever Donna has on how adjustments normally work.
+
+Good work on the hydrants. Let's get the two worst leakers done before the weather turns.
+
+Tom

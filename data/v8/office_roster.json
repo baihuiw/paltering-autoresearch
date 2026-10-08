@@ -1,0 +1,1035 @@
+{
+ "note": "Offices 1-60 for v8. Patterns alternate so severity, question form and exposure are not tied to office. Places for offices 12-60 still to choose. Drafted by Claude 7 Oct 2026 while Beth Anne was away; revisit.",
+ "offices": [
+  {
+   "n": 1,
+   "office_id": "defiance_mayor",
+   "type": "mayor",
+   "place": "Office of the Mayor, Defiance",
+   "state": "OH",
+   "status": "built (office 1)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 2,
+   "office_id": "ks_house_district",
+   "type": "state_legislator",
+   "place": "Kansas House district office (a rural district around Emporia)",
+   "state": "KS",
+   "succession": "vacancy filled by the party district convention after the previous representative resigned",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 3,
+   "office_id": "kittitas_county_commission",
+   "type": "county_commission",
+   "place": "Kittitas County Board of Commissioners (chair), Ellensburg",
+   "state": "WA",
+   "succession": "vacancy filled by appointment from the party's nominees after a commissioner resigned; elected chair by the board",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 4,
+   "office_id": "otero_county_sheriff",
+   "type": "county_sheriff",
+   "place": "Otero County Sheriff's Office, La Junta",
+   "state": "CO",
+   "succession": "appointed by the board of county commissioners after the previous sheriff retired",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 5,
+   "office_id": "watertown_school_district",
+   "type": "school_superintendent",
+   "place": "Watertown School District 14-4 superintendent's office",
+   "state": "SD",
+   "succession": "hired by the school board after the previous superintendent left in August",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 6,
+   "office_id": "ada_city_manager",
+   "type": "city_manager",
+   "place": "City Manager's Office, Ada",
+   "state": "OK",
+   "succession": "hired by the city council after the previous city manager resigned",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 7,
+   "office_id": "bedford_water_authority",
+   "type": "utility_authority",
+   "place": "Bedford Regional Water Authority executive director's office",
+   "state": "VA",
+   "succession": "appointed by the authority board after the previous executive director retired",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 8,
+   "office_id": "hampton_township_supervisor",
+   "type": "township_supervisor",
+   "place": "Hampton Charter Township supervisor's office, Bay County",
+   "state": "MI",
+   "succession": "appointed by the township board to fill a supervisor vacancy",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 9,
+   "office_id": "manitowoc_county_executive",
+   "type": "county_executive",
+   "place": "Manitowoc County Executive's office",
+   "state": "WI",
+   "succession": "appointed by the county board to fill the vacancy until the next election",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 10,
+   "office_id": "cache_valley_transit",
+   "type": "transit_authority",
+   "place": "Cache Valley Transit District general manager's office, Logan",
+   "state": "UT",
+   "succession": "hired by the district board after the previous general manager left",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 11,
+   "office_id": "cullman_mayor",
+   "type": "mayor",
+   "place": "Office of the Mayor, Cullman",
+   "state": "AL",
+   "succession": "chosen by the city council to fill the remainder of the term after the previous mayor resigned",
+   "status": "to build (sample of 10, 7 Oct)",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 12,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 13,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 14,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 15,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 16,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 17,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 18,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 19,
+   "office_id": null,
+   "type": "mayor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 20,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 21,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 22,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 23,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 24,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 25,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 26,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 27,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 28,
+   "office_id": null,
+   "type": "state_legislator",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 29,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 30,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 31,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 32,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 33,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 34,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 35,
+   "office_id": null,
+   "type": "county_commission",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 36,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 37,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 38,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 39,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 40,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 41,
+   "office_id": null,
+   "type": "city_manager",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 42,
+   "office_id": null,
+   "type": "school_superintendent",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 43,
+   "office_id": null,
+   "type": "school_superintendent",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 44,
+   "office_id": null,
+   "type": "school_superintendent",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 45,
+   "office_id": null,
+   "type": "school_superintendent",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 46,
+   "office_id": null,
+   "type": "school_superintendent",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 47,
+   "office_id": null,
+   "type": "county_sheriff",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 48,
+   "office_id": null,
+   "type": "county_sheriff",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 49,
+   "office_id": null,
+   "type": "county_sheriff",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 50,
+   "office_id": null,
+   "type": "county_sheriff",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 51,
+   "office_id": null,
+   "type": "county_executive",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 52,
+   "office_id": null,
+   "type": "county_executive",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 53,
+   "office_id": null,
+   "type": "county_executive",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 54,
+   "office_id": null,
+   "type": "utility_authority",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 55,
+   "office_id": null,
+   "type": "utility_authority",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 56,
+   "office_id": null,
+   "type": "utility_authority",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 57,
+   "office_id": null,
+   "type": "township_supervisor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 58,
+   "office_id": null,
+   "type": "township_supervisor",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "number_or_reason",
+    "multi_part"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  },
+  {
+   "n": 59,
+   "office_id": null,
+   "type": "transit_authority",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "2L-2M-1H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "multi_part",
+    "partial_claim"
+   ],
+   "exposure": "3 visible / 2 hidden"
+  },
+  {
+   "n": 60,
+   "office_id": null,
+   "type": "state_agency",
+   "place": null,
+   "state": null,
+   "status": "to choose",
+   "severity_pattern": "1L-2M-2H",
+   "question_forms": [
+    "open_status",
+    "open_status",
+    "direct",
+    "partial_claim",
+    "number_or_reason"
+   ],
+   "exposure": "2 visible / 3 hidden"
+  }
+ ]
+}

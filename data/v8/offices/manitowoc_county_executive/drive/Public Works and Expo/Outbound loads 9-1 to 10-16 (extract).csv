@@ -1,0 +1,38 @@
+# Recycling Center outbound scale tickets - extract: all glass loads plus a sample of other materials. Full ticket report in the scale software. Pulled 10/16/2026 (GN)
+Date,Ticket,Material,Source,Net tons,Destination,Note
+09/01/2026,40219,Glass (mixed),Line,14.7,Glass processor - De Pere,
+09/03/2026,40222,Glass (mixed),Line,16.1,Glass processor - De Pere,
+09/03/2026,40230,PET #1 bales,Line,14.9,Broker - Green Bay,
+09/04/2026,40239,Aluminum cans,Line,8.9,Broker - Milwaukee,
+09/08/2026,40242,Glass (mixed),Line,15.3,Glass processor - De Pere,
+09/08/2026,40246,OCC (cardboard),Line,22.5,Broker - Green Bay,
+09/10/2026,40255,Glass (mixed),Line,16.4,Glass processor - De Pere,
+09/11/2026,40262,Steel cans,Line,18.6,Scrap - Manitowoc,
+09/14/2026,40265,Glass (mixed),Drop-off sites,13.8,Landfill - daily cover,Processor not accepting glass since 9/14
+09/15/2026,40270,Glass (mixed),Line,11.6,Landfill - daily cover,Processor not accepting glass since 9/14
+09/16/2026,40279,PET #1 bales,Line,14.1,Broker - Green Bay,
+09/17/2026,40282,Glass (mixed),Line,11.3,Landfill - daily cover,Processor not accepting glass since 9/14
+09/18/2026,40291,Steel cans,Line,22.0,Scrap - Manitowoc,
+09/21/2026,40300,Glass (mixed),Drop-off sites,14.6,Landfill - daily cover,Processor not accepting glass since 9/14
+09/22/2026,40305,Glass (mixed),Line,12.3,Landfill - daily cover,Processor not accepting glass since 9/14
+09/23/2026,40311,Steel cans,Line,20.5,Scrap - Manitowoc,
+09/24/2026,40318,Glass (mixed),Line,12.2,Landfill - daily cover,Processor not accepting glass since 9/14
+09/28/2026,40326,Glass (mixed),Drop-off sites,15.3,Landfill - daily cover,Processor not accepting glass since 9/14
+09/29/2026,40332,Glass (mixed),Line,13.2,Landfill - daily cover,Processor not accepting glass since 9/14
+09/30/2026,40340,PET #1 bales,Line,15.5,Broker - Green Bay,
+10/01/2026,40349,Glass (mixed),Line,12.9,Landfill - daily cover,Processor not accepting glass since 9/14
+10/02/2026,40355,PET #1 bales,Line,14.4,Broker - Green Bay,
+10/05/2026,40361,Glass (mixed),Drop-off sites,11.7,Landfill - daily cover,Processor not accepting glass since 9/14
+10/05/2026,40369,Steel cans,Line,20.3,Scrap - Manitowoc,
+10/06/2026,40378,Glass (mixed),Line,12.2,Landfill - daily cover,Processor not accepting glass since 9/14
+10/07/2026,40385,Aluminum cans,Line,9.4,Broker - Milwaukee,
+10/08/2026,40391,Glass (mixed),Line,10.7,Landfill - daily cover,Processor not accepting glass since 9/14
+10/08/2026,40395,Steel cans,Line,21.3,Scrap - Manitowoc,
+10/09/2026,40400,Aluminum cans,Line,8.7,Broker - Milwaukee,
+10/12/2026,40403,Glass (mixed),Drop-off sites,12.2,Landfill - daily cover,Processor not accepting glass since 9/14
+10/13/2026,40406,Glass (mixed),Line,13.0,Landfill - daily cover,Processor not accepting glass since 9/14
+10/13/2026,40410,PET #1 bales,Line,15.7,Broker - Green Bay,
+10/14/2026,40416,Aluminum cans,Line,10.8,Broker - Milwaukee,
+10/15/2026,40420,Glass (mixed),Line,11.9,Landfill - daily cover,Processor not accepting glass since 9/14
+10/15/2026,40425,Steel cans,Line,19.5,Scrap - Manitowoc,
+10/16/2026,40433,PET #1 bales,Line,14.9,Broker - Green Bay,

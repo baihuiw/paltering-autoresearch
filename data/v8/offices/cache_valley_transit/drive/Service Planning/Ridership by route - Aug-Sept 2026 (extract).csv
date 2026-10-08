@@ -1,0 +1,17 @@
+Ridership by route - Aug and Sept 2026 - extract from APC data (JO); unlinked boardings; Sept includes USU fall semester; midday = 9:30a-2:30p weekdays,,,,,
+Route,Aug 2026 boardings,Sept 2026 boardings,Sept avg weekday,Sept midday boardings per rev hr,Notes
+Loop (Blue + Green),61210,72480,2960,31.4,USU semester start
+Route 01,14320,18950,770,24.8,
+Route 02,11870,14210,580,19.6,
+Route 03,9640,10380,425,16.2,
+Route 05,8110,9020,368,14.9,
+Route 06,7420,7980,326,11.0,Seniors and Aquatic Center; midday lowest of the Logan routes
+Route 07,9980,12470,512,17.5,Logan High students from 8/19
+Route 08,8730,9310,381,15.1,
+Route 09,7210,7660,312,13.8,
+Route 11,6050,6420,262,12.1,
+Route 12,9420,10130,414,13.4,
+Route 15,12660,16440,672,18.9,USU and Smithfield
+Route 16,1890,2020,98,n/a,Peak only
+Call-A-Ride,3560,3412,148,n/a,Completed trips
+TOTAL fixed route,168510,197470,8080,19.0,System midday avg 19.0 per rev hr

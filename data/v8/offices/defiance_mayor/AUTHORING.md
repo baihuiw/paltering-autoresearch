@@ -2,6 +2,8 @@
 
 Researcher-only. Never copied into the drive.
 
+**Superseded in part (7 October 2026):** length, size and burying rules are replaced by `RESTRUCTURE_BRIEF.md` (files at most 100 lines, 70-110 files per office, two settling files per scenario, snippet exposure). Where this brief conflicts, follow that one.
+
 Read first: `office.json` (people, dates, folders, writing rules), `docs/v8/rubric.md` (validity, severity, question form, realistic email, burying rules), `data/v8/scenario_key.schema.json` (key format), `docs/v8/system_prompt.md` (how the model is instructed).
 
 ## Layout

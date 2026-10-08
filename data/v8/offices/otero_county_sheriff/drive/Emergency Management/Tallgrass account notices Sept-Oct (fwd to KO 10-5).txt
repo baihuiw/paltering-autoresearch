@@ -1,0 +1,46 @@
+Forwarded from the old account administrator mailbox by Bonnie Sauer, Mon Oct 5, 2026 11:05 AM, at Ken's request. Account administrator changed to ken.ostdiek@oterogov.org the same day.
+
+======================================================================
+From: Tallgrass Notify <noreply@tallgrassnotify.com>
+Date: Tue, Sep 8, 2026 6:00 AM
+Subject: [Otero County Emergency Alerts] Monthly usage summary - August 2026
+
+Account: OTERO-CO-0193
+Messages sent in August: 6
+Voice minutes used: 2,914 of 40,000 annual
+Texts sent: 9,226
+Registered contacts at month end: 3,104 (+148)
+Listed landline records: 6,940 (last refresh 06/16/2026)
+Next scheduled data refresh: 09/16/2026
+
+======================================================================
+From: Tallgrass Notify <noreply@tallgrassnotify.com>
+Date: Mon, Sep 14, 2026 6:00 AM
+Subject: [Otero County Emergency Alerts] Reminder: data license expires 09/15/2026
+
+Your 911 landline data license expires tomorrow, 09/15/2026. If we have not received a signed renewal, licensed listed numbers will be removed from your account on the next business day as the data provider requires. Self-registered contacts are not affected. Contact your account manager to renew.
+
+======================================================================
+From: Tallgrass Notify <noreply@tallgrassnotify.com>
+Date: Wed, Sep 16, 2026 6:02 AM
+Subject: [Otero County Emergency Alerts] Account change - licensed data removed
+
+Account: OTERO-CO-0193
+Change: 6,940 listed landline records removed (license expired 09/15/2026)
+Remaining contacts: 3,121 self-registered
+Saved alert zones and templates: unchanged
+
+To restore listed landline records, renew your data license. Records are reloaded after renewal.
+
+======================================================================
+From: Tallgrass Notify <noreply@tallgrassnotify.com>
+Date: Tue, Oct 6, 2026 6:00 AM
+Subject: [Otero County Emergency Alerts] Monthly usage summary - September 2026
+
+Account: OTERO-CO-0193
+Messages sent in September: 3
+Voice minutes used: 3,322 of 40,000 annual
+Texts sent: 10,050
+Registered contacts at month end: 3,127 (+23)
+Listed landline records: 0
+Next scheduled data refresh: none (no active data license)

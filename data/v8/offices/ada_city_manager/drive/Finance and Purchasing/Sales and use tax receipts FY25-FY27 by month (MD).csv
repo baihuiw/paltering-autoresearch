@@ -1,0 +1,34 @@
+Month received,Period (sales month),FY,City sales tax ($),City use tax ($),Sales tax vs prior yr,Use tax vs prior yr,Notes
+Jul 2024,May,FY25,1176040,166410,,,
+Aug 2024,Jun,FY25,1179070,177840,,,
+Sep 2024,Jul,FY25,1205300,169090,,,
+Oct 2024,Aug,FY25,1176470,159540,,,
+Nov 2024,Sep,FY25,1161730,166520,,,
+Dec 2024,Oct,FY25,1229050,176550,,,
+Jan 2025,Nov,FY25,1355980,182120,,,
+Feb 2025,Dec,FY25,1148280,164250,,,
+Mar 2025,Jan,FY25,1078080,152620,,,
+Apr 2025,Feb,FY25,1169200,169500,,,
+May 2025,Mar,FY25,1170680,179230,,,
+Jun 2025,Apr,FY25,1182330,172260,,,
+Jul 2025,May,FY26,1198400,171500,+1.9%,+3.1%,FY26 begins
+Aug 2025,Jun,FY26,1214600,182300,+3.0%,+2.5%,
+Sep 2025,Jul,FY26,1236900,176800,+2.6%,+4.6%,
+Oct 2025,Aug,FY26,1188200,168400,+1.0%,+5.6%,
+Nov 2025,Sep,FY26,1172500,174900,+0.9%,+5.0%,
+Dec 2025,Oct,FY26,1241800,181200,+1.0%,+2.6%,
+Jan 2026,Nov,FY26,1386400,196300,+2.2%,+7.8%,Includes Black Friday sales
+Feb 2026,Dec,FY26,1162300,170100,+1.2%,+3.6%,
+Mar 2026,Jan,FY26,1109700,165800,+2.9%,+8.6%,
+Apr 2026,Feb,FY26,1201500,177600,+2.8%,+4.8%,
+May 2026,Mar,FY26,1218900,183400,+4.1%,+2.3%,
+Jun 2026,Apr,FY26,1226300,179200,+3.7%,+4.0%,
+Jul 2026,May,FY27,1229300,179900,+2.6%,+4.9%,
+Aug 2026,Jun,FY27,1252250,195790,+3.1%,+7.4%,
+Sep 2026,Jul,FY27,1266590,189220,+2.4%,+7.0%,Reported in 10-16 weekly report
+FY26 total,,FY26,14557500,2127500,,,Audited figures pending FY26 audit
+FY27 YTD (3 mo),,FY27,3748140,564910,+2.7%,+6.5%,FY27 budget: sales 14850000; use 2150000
+NOTES,,,,,,,
+1,"Receipts are the city's share remitted by the state about two months after the sales month (Sept receipts = July sales).",,,,,,
+2,"Use tax growth reflects continued online purchasing; FY27 budget assumed +4% for use tax and +2% for sales tax.",,,,,,
+3,"Monthly report to council in the financial report packet; year-over-year changes go in the City Manager's Friday report.",,,,,,

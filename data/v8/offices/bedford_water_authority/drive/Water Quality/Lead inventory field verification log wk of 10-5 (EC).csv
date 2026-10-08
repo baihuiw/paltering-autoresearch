@@ -1,0 +1,61 @@
+# Lead inventory field verification visits, week of Oct 5-9, 2026. Two-person rotation, Water Quality (EC = E. Castellaw, AN = A. Nichols, RJ = R. Jamison). No lead found. Two galvanized (owner side) found this week - letters to owners. Running totals go in the monthly WQ summary (2,180 of 3,400 at 9/30). Map updated Fri 10/9.
+date,address,area,visit_type,authority_side_material,customer_side_material,method,tech,result_category,notes,map_updated
+10/05/2026,763 Oakwood St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",PEX,Visual at entry,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,1197 Edmund St,Bedford,Customer request,"Copper (replaced 2026, WS-26-12)",CPVC,Visual at entry,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,176 Mountain Ave,Bedford,Customer request,Copper,PEX,Visual at entry,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,285 Grove St,Bedford,Inventory route,Copper,Galvanized steel,Visual at entry,EC,Galvanized Requiring Replacement (owner side),Magnet test positive; 1950s house; letter to owner; added to replacement list,Y 10/9
+10/05/2026,1293 Oakwood St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",CPVC,Visual at meter box,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,552 Edmund St,Bedford,Customer request,"Copper (replaced 2026, WS-26-12)",Copper,Visual at entry,AN,Non-lead / Non-lead,Customer had a photo ready; matched at entry,Y 10/9
+10/05/2026,395 Mountain Ave,Bedford,Inventory route,Copper,CPVC,Visual at meter box,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,311 Grove St,Bedford,Inventory route,Copper,PE (plastic),Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/05/2026,299 Oakwood St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",Not seen,Visual at meter box,EC,No access - Unknown stays,Nobody home; door hanger left with ext. 7,N
+10/05/2026,1116 Edmund St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",PEX,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/05/2026,1299 Mountain Ave,Bedford,Inventory route,Copper,Copper,Visual at meter box,EC,Non-lead / Non-lead,,Y 10/9
+10/05/2026,468 Grove St,Bedford,Inventory route,Copper,Copper,Visual at entry,AN,Non-lead / Non-lead,"Brass fittings at meter, copper both sides",Y 10/9
+10/06/2026,1175 Mountain Ave,Bedford,Inventory route,Copper,Copper,Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/06/2026,249 Macon St,Bedford,Customer request,Copper,PEX,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/06/2026,411 Peaks St,Bedford,Inventory route,Copper,PEX,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/06/2026,1242 Center St,Bedford,Inventory route,Copper,Copper,Excavation pothole,RJ,Non-lead / Non-lead,Meter box records conflicting; potholed at curb stop with vac truck (Collections); restored same day,Y 10/9
+10/06/2026,1117 Mountain Ave,Bedford,Inventory route,Copper,PEX,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/06/2026,652 Macon St,Bedford,Inventory route,Copper,PE (plastic),Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/06/2026,734 Peaks St,Bedford,Inventory route,Copper,PE (plastic),Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/06/2026,890 Center St,Bedford,Inventory route,Copper,Copper,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/06/2026,827 Mountain Ave,Bedford,Customer request,Copper,Not seen,Visual at meter box,AN,No access - Unknown stays,Nobody home; door hanger left with ext. 7,N
+10/06/2026,546 Macon St,Bedford,Inventory route,Copper,Copper,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/06/2026,900 Peaks St,Bedford,Inventory route,Copper,PEX,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/06/2026,1019 Center St,Bedford,Inventory route,Copper,Copper,Visual at entry,RJ,Non-lead / Non-lead,Customer asked about free test kit - not eligible (no child under 6); gave lab list,Y 10/9
+10/07/2026,4538 Perrowville Rd,Forest,Inventory route,Copper,PEX,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/07/2026,1945 Cottontown Rd,Forest,Customer request,Copper,Copper,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/07/2026,1049 Boonsboro Rd,Forest,Inventory route,Copper,Copper,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/07/2026,1016 Perrowville Rd,Forest,Customer request,Copper,Copper,Visual at meter box,RJ,Non-lead / Non-lead,Owner replaced line with PEX in 2019; receipt shown,Y 10/9
+10/07/2026,3828 Cottontown Rd,Forest,Inventory route,Copper,PE (plastic),Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/07/2026,4567 Boonsboro Rd,Forest,Inventory route,Copper,CPVC,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/07/2026,2634 Perrowville Rd,Forest,Inventory route,PE (plastic),Galvanized steel,Visual at entry,RJ,Galvanized Requiring Replacement (owner side),Galvanized from wall to water heater; owner says original 1960s; letter to owner,Y 10/9
+10/07/2026,1780 Cottontown Rd,Forest,Customer request,Copper,PEX,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/07/2026,2392 Boonsboro Rd,Forest,Inventory route,Copper,Copper,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/07/2026,2489 Perrowville Rd,Forest,Inventory route,Copper,Copper,Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/07/2026,3598 Cottontown Rd,Forest,Inventory route,PE (plastic),CPVC,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/07/2026,1503 Boonsboro Rd,Forest,Customer request,PE (plastic),PEX,Excavation pothole,AN,Non-lead / Non-lead,Pothole at curb; Authority side confirmed PE; owner pipe seen at crawl space,Y 10/9
+10/08/2026,738 Blue Ridge Ave,Bedford,Customer request,Copper,Copper,Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/08/2026,1080 Washington St,Bedford,Inventory route,Copper,Copper,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/08/2026,1181 Bridge St,Bedford,Inventory route,Copper,PE (plastic),Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/08/2026,286 Oakwood St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",Copper,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/08/2026,828 Blue Ridge Ave,Bedford,Inventory route,Copper,CPVC,Visual at meter box,AN,Non-lead / Non-lead,Customer had a child under 6; test kit left,Y 10/9
+10/08/2026,499 Washington St,Bedford,Inventory route,Copper,PEX,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/08/2026,1160 Bridge St,Bedford,Inventory route,Copper,PE (plastic),Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/08/2026,672 Oakwood St,Bedford,Inventory route,"Copper (replaced 2026, WS-26-12)",Copper,Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/08/2026,815 Blue Ridge Ave,Bedford,Inventory route,Copper,Not seen,Visual at meter box,AN,No access - Unknown stays,Nobody home; door hanger left with ext. 7,N
+10/08/2026,309 Washington St,Bedford,Customer request,Copper,Copper,Visual at meter box,AN,Non-lead / Non-lead,,Y 10/9
+10/08/2026,1088 Bridge St,Bedford,Inventory route,Copper,CPVC,Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,3674 Lakeview Dr,Moneta,Inventory route,Copper,CPVC,Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/09/2026,4204 Crab Orchard Rd,Moneta,Inventory route,PE (plastic),PEX,Excavation pothole,AN,Non-lead / Non-lead,Pothole; old tap card said galvanized - found PE,Y 10/9
+10/09/2026,1355 Bridgewater Pl,Moneta,Inventory route,Copper,PE (plastic),Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,3968 Lakeview Dr,Moneta,Customer request,PE (plastic),PEX,Visual at meter box,RJ,Non-lead / Non-lead,Lake house; meter box near road; entry under deck,Y 10/9
+10/09/2026,3505 Crab Orchard Rd,Moneta,Inventory route,PVC,PE (plastic),Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,1087 Bridgewater Pl,Moneta,Customer request,Copper,PEX,Visual at entry,AN,Non-lead / Non-lead,Seasonal home; property manager let us in,Y 10/9
+10/09/2026,4570 Lakeview Dr,Moneta,Customer request,PE (plastic),PE (plastic),Visual at entry,AN,Non-lead / Non-lead,,Y 10/9
+10/09/2026,3052 Crab Orchard Rd,Moneta,Customer request,Copper,PE (plastic),Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,1249 Bridgewater Pl,Moneta,Inventory route,PVC,CPVC,Visual at meter box,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,3178 Lakeview Dr,Moneta,Customer request,Copper,PE (plastic),Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,4178 Crab Orchard Rd,Moneta,Inventory route,PE (plastic),PE (plastic),Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9
+10/09/2026,2335 Bridgewater Pl,Moneta,Inventory route,Copper,PE (plastic),Visual at entry,RJ,Non-lead / Non-lead,,Y 10/9

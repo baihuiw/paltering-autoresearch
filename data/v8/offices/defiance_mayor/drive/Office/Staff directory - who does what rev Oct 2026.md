@@ -5,14 +5,12 @@ For extensions see "Internal phone list - extensions rev 9-21-26.csv". Main line
 
 This sheet is for staff and for answering "who handles this?" questions from the public. It is not a public document as a whole, but any single entry may be given out.
 
----
-
 ## Office of the Mayor (2nd floor, City Building, 631 Perry Street)
 
 | Name | Title | Handles |
 |---|---|---|
-| Paul Haverkamp | Mayor | Chief executive; chairs the Board of Control; appoints department directors; signs contracts, proclamations and letters. mayor@ |
-| Megan Ostrander | Chief of Staff | Day-to-day office management; press and media; weekly briefing binder; approvals of releases and letters; Council members' requests to the Mayor's Office; anything legal or threatening goes to her first |
+| Paul Haverkamp | Mayor | Chief executive; chairs the Board of Control; signs contracts, proclamations and letters. mayor@ |
+| Megan Ostrander | Chief of Staff | Office management; press and media; weekly briefing binder; approves releases and letters; anything legal or threatening goes to her first |
 | Luis Ortega | Constituent Services Coordinator | Resident questions and casework; routes to departments; weekly contact summary; senior services contact for residents 60+ |
 | Brenda Kahle | Scheduler | Mayor's calendar; invitations, meeting requests, speaking requests; room bookings for the Mayor's Conference Room |
 | Hannah Brubaker | Communications Assistant | City Update e-news, Facebook, website updates, newsletters, photos; reports to the chief of staff |
@@ -21,25 +19,16 @@ This sheet is for staff and for answering "who handles this?" questions from the
 
 ## Council
 
-| Name | Title | Handles |
-|---|---|---|
-| Sandra Moll | Clerk of Council | Council agendas, packets, minutes, legislation and records; Council meeting notices |
-| Janelle Rohrs | Deputy Clerk | Board of Control agendas and minutes (items due Thursday noon); assists the Clerk |
+Sandra Moll, Clerk of Council: Council agendas, packets, minutes, legislation and records; meeting notices. Janelle Rohrs, Deputy Clerk: Board of Control agendas and minutes (items due Thursday noon); assists the Clerk.
 
 City Council: President Gary Lehman; Dan Pfahler (First Ward); Rita Okuley (Second Ward); Jo Ellen Sprow (Third Ward); Marcus Bell (Fourth Ward); at-large members Nancy Ruhl, Kyle Brinkman and Theresa Gaskins. Council mail goes through the Clerk.
 
 ## Safety-Service
 
-| Name | Title | Handles |
-|---|---|---|
-| Tom Wiechers | Safety-Service Director | Oversees Engineering, Street, Utilities, Building and Zoning, Police and Fire administration, and building maintenance; Board of Control member; change orders within his limit |
-| Rick Zeller | Building Maintenance | City Building HVAC, keys and locks, repairs; currently splitting time with the street garage |
+Tom Wiechers, Safety-Service Director: oversees Engineering, Street, Utilities, Building and Zoning, Police and Fire administration, and building maintenance; Board of Control member; change orders within his limit. Rick Zeller, Building Maintenance: City Building HVAC, keys and locks, repairs.
 
 ### Engineering
-| Name | Title | Handles |
-|---|---|---|
-| Rachel Dunlap, P.E. | City Engineer | Capital projects, paving program, storm sewers, development review, traffic studies, right-of-way permits |
-| Engineering Technician | | Right-of-way permits, inspection, plan filing |
+Rachel Dunlap, P.E., City Engineer: capital projects, paving program, storm sewers, development review, traffic studies. The Engineering Technician handles right-of-way permits, inspection and plan filing.
 
 ### Street Department (street garage; (419) 784-2252)
 | Name | Title | Handles |
@@ -53,7 +42,7 @@ City Council: President Gary Lehman; Dan Pfahler (First Ward); Rita Okuley (Seco
 | Kevin Shaffer | Utilities Superintendent | Water Treatment Plant, Water Pollution Control Plant, water distribution and sewer collection, hydrants; office at the WTP |
 | Donna Pruett | Utility Billing Supervisor | Utility accounts and billing (first floor, City Building; Mon-Fri 8:00 a.m.-4:30 p.m.); utilitybilling@ |
 
-### Building and Zoning
+### Building and Zoning (ext. 230)
 Permits (building, zoning, fence, shed, pool, sign), inspections, code enforcement complaints. Permit counter on the first floor.
 
 ## Finance
@@ -65,17 +54,9 @@ Permits (building, zoning, fence, shed, pool, sign), inspections, code enforceme
 | Julie Hohenberger | Income Tax Administrator | City income tax returns, withholding accounts |
 | Ben Rohrs | IT Coordinator | Computers, phones, network, email accounts, e-news platform administration; helpdesk@ |
 
-## Law
+## Law and Human Resources
 
-| Name | Title | Handles |
-|---|---|---|
-| Steven Cline | Law Director | Legal advice to Council and administration; contracts; ordinances and resolutions; prosecution of city cases; Board of Control member |
-
-## Human Resources
-
-| Name | Title | Handles |
-|---|---|---|
-| Kim Rethmeyer | Human Resources Coordinator | Hiring, benefits, leave, employee records, payroll forms, retirements |
+Steven Cline, Law Director: legal advice to Council and administration; contracts; ordinances and resolutions; prosecution of city cases; Board of Control member. Kim Rethmeyer, Human Resources Coordinator: hiring, benefits, leave, employee records, payroll forms, retirements.
 
 ## Parks and Recreation (Parks office)
 
@@ -95,14 +76,7 @@ Permits (building, zoning, fence, shed, pool, sign), inspections, code enforceme
 
 ## Police Department
 
-| Name | Title | Handles |
-|---|---|---|
-| Chief S. Wenninger | Police Chief | |
-| Lt. Scott Bechtol | Patrol Division Commander | Patrol, parking enforcement, special event traffic |
-
-Police non-emergency: (419) 784-5050. Emergencies: 911.
-
----
+Chief S. Wenninger, Police Chief. Lt. Scott Bechtol, Patrol Division Commander: patrol, parking enforcement, special event traffic. Police non-emergency: (419) 784-5050. Emergencies: 911.
 
 ## Quick routing guide for the front desk
 

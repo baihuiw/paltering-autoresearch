@@ -11,39 +11,22 @@ Date submitted: October 5, 2026
 1. SUMMARY
 ------------------------------------------------------------
 
-September was the bureau's busiest month of the year so far, mainly because the fall block of annual inspections for residential and day care occupancies runs September through November, and because the new inspection software went live mid-month. Two inspectors carried the workload (Lt. Mayes and FF/Inspector J. Heidt), with engine company help on two event permits.
+September was the busiest month of the year so far: the fall block of residential and day care annual inspections began, and the new inspection software went live on 09/14.
 
-Activity totals, September 2026:
+  Inspections conducted (all types) ... 44   (annual 36, reinsp. 3, complaint 2, event 2, plan/CO 1)
+  Orders issued (new) ................. 8    Orders closed on reinspection ... 3
+  Open orders carried into October .... 5    Plan reviews completed .......... 4
+  Fire investigations ................. 2    Public education ... 11 events / approx. 640 people
+  Smoke alarms installed .............. 47 in 19 homes
+  Year to date: 361 inspections (2025: 338); 74 orders (2025: 69); 312 smoke alarms (2025: 255)
 
-  Inspections conducted (all types) ............ 44
-    Annual inspections ......................... 36
-    Reinspections .............................. 3
-    Complaint inspections ...................... 2
-    Special event / temporary permits .......... 2
-    Plan review / occupancy sign-off ........... 1
-  Orders issued (new) .......................... 8
-  Violations corrected on site ................. 1
-  Orders closed (reinspection passed) .......... 3
-  Open orders carried into October ............. 5 (see table, section 2)
-  Plan reviews completed ....................... 4
-  Fire investigations (origin and cause) ....... 2
-  Public education contacts .................... 11 events / approx. 640 people
-  Smoke alarms installed (home program) ........ 47 in 19 homes
-
-Year to date (January-September 2026):
-
-  Inspections conducted ........................ 361 (2025 same period: 338)
-  Orders issued ................................ 74 (2025: 69)
-  Fire investigations .......................... 17 (2025: 15)
-  Smoke alarms installed ....................... 312 (2025: 255)
-
-Senior housing: six of the city's nine senior apartment buildings received their annual inspection in September (see table). The remaining three are scheduled for October and November per the 2026 annual schedule. Both licensed care facilities (Brookview Assisted Living and Hilltop Manor Nursing and Rehabilitation) were also completed this month; Hilltop Manor was coordinated with the state survey visit.
+Senior housing: six of the city's nine senior apartment buildings received their annual inspection in September (see table). The other three are scheduled for October and November. Both licensed care facilities were also completed.
 
 ------------------------------------------------------------
 2. INSPECTIONS CONDUCTED - SEPTEMBER 2026
 ------------------------------------------------------------
 
-Inspector key: EM = Lt. E. Mayes; JH = FF/Insp. J. Heidt. Entries from 09/14 forward were created in the new inspection software; entries 09/01-09/11 were back-entered from paper on 09/16-09/18 (see section 6).
+Inspector key: EM = Lt. E. Mayes; JH = FF/Insp. J. Heidt. Rows 1-15 were back-entered from paper.
 
  #  Date   Occupancy                                   Occ. class          Insp.   By   Result / status
 --  -----  ------------------------------------------  ------------------  ----- -----  ----------------------------------------------
@@ -92,97 +75,24 @@ Inspector key: EM = Lt. E. Mayes; JH = FF/Insp. J. Heidt. Entries from 09/14 for
 43  09/30  Parkview Senior Apts (24 units)             Res. R-2 senior     Annual  JH   Pass
 44  09/30  Town & Country Veterinary                   Business            Annual  JH   Pass
 
-Notes on the table:
-- "Closed" means the reinspection found the cited items corrected and the order was closed in the system.
-- Day care inspections (rows 4, 14, 31, 39) were done ahead of the state licensing renewal window; copies of the reports went to the operators for their licensing files.
-- Row 23 (Wayne Ave. warehouse) was a fire alarm acceptance test for a tenant fit-out; the building department issued the certificate of occupancy the same day.
-- Row 6 (Riverside Tavern) followed an anonymous complaint about crowding during a Saturday event. No violation was observed on the follow-up visit; the owner was reminded of the posted occupant load.
+"Closed" means the reinspection found the cited items corrected and the order was closed in the system.
 
 ------------------------------------------------------------
-3. PLAN REVIEW
+3. OTHER ACTIVITY
 ------------------------------------------------------------
 
-Four plan reviews were completed in September:
-
-- Wayne Ave. warehouse, Lot 3: fire alarm shop drawings for tenant fit-out (approved; acceptance test completed 09/17).
-- Ralston Ave. medical office addition: sprinkler and alarm drawings (approved with two comments on FDC location; resubmittal received 09/29 and approved).
-- Elm Grove Apartments: replacement fire alarm panel (approved).
-- Hartwell Dental Group: oxygen storage room (approved; no comments).
-
-Average turnaround was 6 working days against the bureau's 10-day target. Two reviews were received through the building department's new portal, which forwards to the bureau automatically.
+- Plan review (4): average turnaround 6 working days (target 10).
+- Investigations (2): 09/06 kitchen fire, Second Ward, unattended cooking, $14,000; 09/26 detached garage, Fourth Ward, battery charger, $9,500. Both accidental; no injuries.
+- Public education: kindergarten visits (about 160 students); Ashford Place and Heritage House talks (31 and 27 residents); Senior Center health fair (about 210 contacts).
+- Software: about 60 imported records needed cleanup (41 done). Reinspection reminders now generate on the due date. Letter templates loaded 09/15.
 
 ------------------------------------------------------------
-4. FIRE INVESTIGATIONS
+4. ITEMS FOR THE CHIEF
 ------------------------------------------------------------
 
-Two origin-and-cause investigations were conducted:
-
-- 09/06, single-family dwelling, Second Ward: kitchen fire confined to the range and cabinets. Cause: unattended cooking. Accidental. Working smoke alarm alerted the occupants; no injuries. Estimated loss $14,000.
-- 09/26, detached garage, Fourth Ward: fire originated at a workbench area. Cause: battery charger for a lawn tractor, accidental. No injuries. Estimated loss $9,500 (structure and contents).
-
-Neither investigation required referral to the state fire marshal or law enforcement.
-
-------------------------------------------------------------
-5. PUBLIC EDUCATION AND COMMUNITY RISK REDUCTION
-------------------------------------------------------------
-
-Eleven events, approximately 640 people reached:
-
-- 09/03 and 09/10: kindergarten fire safety visits (two elementary schools), about 160 students.
-- 09/12: Safety Day booth at the farmers market, about 120 contacts; 14 smoke alarm installation sign-ups.
-- 09/15: fire extinguisher training for Kessler Tool & Die staff (22).
-- 09/17: Ashford Place Senior Apts, community room talk on cooking safety and "Close Before You Doze" (31 residents).
-- 09/19: babysitter safety class with the parks department (12).
-- 09/23: Heritage House Apts, community room talk on fall prevention and smoke alarm testing (27 residents).
-- 09/24: Defiance County Senior Center fall health fair, safety table, approximately 210 contacts.
-- 09/26: Brookview Assisted Living staff evacuation drill review (18 staff).
-- 09/29: church preschool visit (22 children).
-- 09/30: Rotary lunch presentation on the home smoke alarm program (38).
-
-Home smoke alarm program: 47 alarms installed in 19 homes in September, all at no cost to the resident. Fourteen of the 19 homes had a resident aged 65 or older. Ten-year sealed battery alarms continue to be used for all installs. Program details are in the separate program memo.
-
-Fire Prevention Week (October 4-10): planning is complete; see the Fire Prevention Week plan in this folder. Station 1 open house is Saturday, October 10.
-
-------------------------------------------------------------
-6. INSPECTION SOFTWARE TRANSITION
-------------------------------------------------------------
-
-The new inspection and records software went live on Monday, September 14, as planned. Status at month end:
-
-- All inspections from 09/14 forward were entered in the field on the tablets.
-- September inspections from 09/01-09/11 (15 records) were back-entered from paper forms on 09/16-09/18.
-- The occupancy list (about 1,140 occupancies) was imported from the old spreadsheet. Approximately 60 records needed cleanup for duplicate addresses or missing owner contacts; 41 were cleaned up by 09/30, the rest are in progress.
-- Reinspection reminders now generate automatically on the due date and appear on the inspector's dashboard. The October dashboard was checked on 10/01 and shows all open orders.
-- Letter templates (orders, reinspection notices, occupant notices, plan review comments) were loaded and tested on 09/15.
-- Report printouts now carry the occupancy ID; this report's table uses the short occupancy names for readability.
-
-Known issues reported to the vendor: the tablet app occasionally logs out when moving between buildings with poor cell coverage (workaround: save before leaving each floor); and photo attachments over 5 MB fail to upload (workaround: lower camera resolution). Neither has caused data loss.
-
-Training: both inspectors completed vendor training on 09/09-09/10. Engine company officers will receive a shorter module in October so that company-level inspections can be entered directly.
-
-------------------------------------------------------------
-7. TRAINING AND CERTIFICATION
-------------------------------------------------------------
-
-- FF/Insp. Heidt completed the state Fire Safety Inspector continuing education hours for the 2026 renewal cycle (online, 6 hours).
-- Lt. Mayes attended the regional fire investigators' association meeting (09/24, 3 hours).
-- Both inspectors completed the annual hazardous materials refresher with their shifts.
-
-------------------------------------------------------------
-8. ITEMS FOR THE CHIEF
-------------------------------------------------------------
-
-a. October workload: 41 annual inspections are scheduled for October, including two of the three remaining senior apartment buildings, plus five reinspections from September orders and Fire Prevention Week events. We expect to fall about one week behind the annual schedule by the end of October unless engine companies pick up the low-hazard business occupancies as discussed.
-
-b. Engine company inspections: proposing that E1 and E2 crews take roughly 60 low-hazard business and mercantile occupancies (offices, small retail) beginning in November, once the officers are trained on the software.
-
-c. Fee schedule: the inspection fee schedule has not been updated since 2019. A comparison with five similar Ohio cities is attached for the levy and budget discussions; we are not proposing a change for 2026.
-
-d. Knox boxes: 12 commercial occupancies inspected this year still have no Knox box on file. Letters will go out in October.
-
-Respectfully submitted,
+a. October: 41 annual inspections scheduled, plus five reinspections and Fire Prevention Week. We expect to fall about a week behind unless engine companies pick up low-hazard business occupancies.
+b. Knox boxes: 12 commercial occupancies still have no Knox box on file. Letters go out in October.
 
 Lt. Erin Mayes
 Fire Prevention Officer
-Defiance Fire Department
 emayes@cityofdefiance.com

@@ -1,0 +1,36 @@
+Outdoor warning siren test report - Wed Oct 7, 2026, 12:00 noon
+17 of 21 sirens sounded. Sirens 11, 14, 17 and 19 did not activate and remain out of service until replacement controllers arrive (SWS estimate Dec 7-14).
+
+Prepared by: Kyle Fentress, Emergency Management Coordinator (report finalized Fri Oct 9)
+Distribution: City Manager; Asst. City Manager; Fire Chief; Police Chief; Dispatch supervisor; PIO
+
+1. TEST CONDITIONS
+Weather: clear, wind S 8-12 mph, 74 F. Activation from the EOC console at 12:00:02 (3-minute steady tone). Backup activation from Dispatch not used. Observers: 6 volunteers (CERT) and 2 fire crews at assigned sites, reporting by radio.
+
+2. RESULTS BY SITE
+Sounded, rotation OK (16): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 15, 16, 18, 20
+Sounded, no rotation (1): 21 (stuck facing southwest; sound heard at observer post 0.4 mi east, weak). Work order to SWS; not urgent.
+No activation (4): 11, 14, 17, 19
+
+3. SITES NOT ACTIVATING
+All four sites stopped answering the status poll during the storm on the evening of Sat Sept 26 (lightning in the east and southeast part of the city; power surge reported by the electric utility on the same circuits). SWS technician visited Sept 30 and Oct 1 and found the radio controller boards at all four sites failed (surge damage). Sirens themselves (rotors, horns) test OK on direct power. Batteries OK.
+
+  Site 11 - E. 18th St & Country Club Rd (Fire Station 3 grounds)
+  Site 14 - Kings Rd & Sandy Creek Dr
+  Site 17 - S. Mississippi Ave & 32nd St
+  Site 19 - E. Richardson Loop near the water tower
+
+SWS quote Q-26-1187 (Oct 8) for four replacement controller boards with surge protection. Manufacturer lead time 8-10 weeks. Loaner controllers are not available for this model. Until replaced, these four sites cannot be activated from the EOC, Dispatch, or by hand at the pole.
+
+4. COVERAGE
+Using the coverage map (rev 2025), sites 11, 14, 17 and 19 are the primary siren for the east and southeast neighborhoods: Country Club Estates, Sandy Creek, Kings Road area, S. Mississippi south of 24th, Richardson Loop. Neighboring sites 10, 13 and 18 overlap the edges of this area only. Estimated 2,300 residences outside the 70 dB outdoor coverage of any working siren.
+
+5. OTHER NOTES
+- EOC console clock drifted 40 seconds; reset.
+- CERT observers asked for new radio batteries before the November test.
+- Next audible test: Wed Nov 4, 12:00 noon, weather permitting.
+
+6. RECOMMENDATION
+See my email to the City Manager (Oct 9) on public notice for the affected area and interim warning procedures.
+
+KF

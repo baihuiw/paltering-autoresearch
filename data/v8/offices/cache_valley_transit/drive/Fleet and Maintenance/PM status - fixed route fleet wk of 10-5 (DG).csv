@@ -1,0 +1,31 @@
+Fixed route fleet - PM status, week of 10/5/2026 (DG) - run 10/9 from the fleet system. PM = A/B/C inspection every 6,000 mi incl. brake inspection and adjustment, steering, suspension, lights, doors, ramp, fire suppression; safety items per Fleet Maintenance Plan sec. 4. Route assignments are typical; dispatch moves buses daily.,,,,,,,,
+Bus,Year/length,Usual routes,Odometer 10/9,Last PM (mi),Last PM date,Miles since PM,PM status,In service 10/9
+1401,2014 35ft,Loop,412880,407950,08/27/2026,4930,Current,Yes
+1402,2014 35ft,01/02,398410,393020,08/21/2026,5390,Due within 1000,Yes
+1403,2014 35ft,03/09,405230,400610,09/02/2026,4620,Current,Yes
+1404,2014 35ft,07/08,419960,410520,07/14/2026,9440,OVERDUE by 3440,Yes
+1405,2014 35ft,Loop,401300,394150,08/10/2026,7150,OVERDUE by 1150,Yes
+1406,2014 35ft,05/06,396720,391480,08/19/2026,5240,Due within 1000,Yes
+1407,2014 35ft,Spare,388150,384020,09/09/2026,4130,Current,Yes
+1408,2014 35ft,07/08,408240,398120,06/30/2026,10120,OVERDUE by 4120 at road call 10/7 - in shop for R rear brake + full PM 10/8-10/12,No (back 10/12)
+1409,2014 35ft,11/12,422310,412880,07/09/2026,9430,OVERDUE by 3430,Yes
+1410,2014 35ft,03/09,393870,389200,09/04/2026,4670,Current,Yes
+1411,2014 35ft,07/06,417640,408110,07/17/2026,9530,OVERDUE by 3530,Yes
+1412,2014 35ft,15,409990,402480,08/06/2026,7510,OVERDUE by 1510,Yes
+1501,2015 35ft,15,381220,374900,08/14/2026,6320,OVERDUE by 320,Yes
+1502,2015 35ft,12/11,384560,375320,07/21/2026,9240,OVERDUE by 3240,Yes
+1503,2015 35ft,Loop,372410,366300,08/18/2026,6110,OVERDUE by 110,Yes
+1504,2015 35ft,01/02,369880,365210,09/08/2026,4670,Current,Yes
+1505,2015 35ft,05/06,377030,372850,09/10/2026,4180,Current,Yes
+1506,2015 35ft,16/Spare,351200,347330,09/15/2026,3870,Current,Yes
+1901,2019 40ft,Loop,214660,209480,08/31/2026,5180,Due within 1000,Yes
+1902,2019 40ft,Loop,210330,206120,09/14/2026,4210,Current,Yes
+1903,2019 40ft,15,219870,212900,08/12/2026,6970,OVERDUE by 970,Yes
+1904,2019 40ft,12,216440,211720,09/01/2026,4720,Current,Yes
+2301,2023 35ft,01/02,88450,84260,09/17/2026,4190,Current,Yes
+2302,2023 35ft,03/09,86120,82050,09/22/2026,4070,Current,Yes
+2303,2023 35ft,05/06,91380,86990,09/03/2026,4390,Current,Yes
+2304,2023 35ft,11/12,84770,80630,09/24/2026,4140,Current,Yes
+,,,,,,,,
+Summary 10/9,,,,,,,,"10 of 26 fixed-route buses are overdue for PM (brake inspection included). 1404, 1409, 1411 and 1502 are more than 3,000 mi over. DG recommended 10/8 parking those four until inspected; GM decision 10/9: all overdue buses stay in service, no trip cuts, Saturday OT to catch up by 11/13."
+,,,,,,,,"Mechanics: 6 of 9 positions filled (3 open since Aug). Shop hours wk of 10/5 mostly on the 1408 road call, CAR van P27 and the 2303 wheelchair ramp recall check."

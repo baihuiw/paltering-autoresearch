@@ -1,0 +1,55 @@
+Conversation: ParentSquare contact cleanup
+Exported from mailbox: tyler.stensland@k12.sd.us
+Messages: 3 (oldest first)
+
+======================================================================
+From: Tyler Stensland <tyler.stensland@k12.sd.us>
+To: Building Secretaries <bldg-secretaries@k12.sd.us>
+Cc: Kayla Brende <kayla.brende@k12.sd.us>; Lauren Hegdahl <lauren.hegdahl@k12.sd.us>
+Date: Fri, Oct 16, 2026 8:30 AM
+Subject: ParentSquare contact cleanup
+
+Hi all,
+
+Before winter, we're doing a push to get every family's contact information right, so weather messages reach everyone. Here's where we are (district-wide, as of Wednesday):
+
+- 6,214 parent/guardian contacts synced from Infinite Campus
+- 334 contacts with no valid phone
+- 812 with no email
+- 2,109 not opted in to texts
+- 167 numbers that bounced during last winter's messages
+
+I've put a report for your building in your shared folder (file name starts with "PS contacts - "). Please:
+1. Call or email the families on the "no valid phone" tab first and update Infinite Campus. The sync runs every night at 2:00 a.m., so changes show up in ParentSquare the next day.
+2. For families who aren't opted in to texts, nothing to do yet - Kayla's November newsletter item and a ParentSquare post on Nov 2 will ask them to reply "Y". If a parent asks at the counter, they can text "Y" to 67587.
+3. New enrollments: please make sure the enrollment form's cell phone field is entered as a mobile number, not as "home," or texts won't go.
+
+Target: "no valid phone" list cleared by Friday, Oct 30.
+
+Thanks - I know conferences week is busy.
+
+Tyler Stensland
+Technology Director
+Watertown School District 14-4
+(605) 882-6312 ext. 1170
+
+======================================================================
+From: Marcy Hanson <marcy.hanson@k12.sd.us>
+To: Tyler Stensland <tyler.stensland@k12.sd.us>
+Date: Fri, Oct 16, 2026 9:12 AM
+Subject: RE: ParentSquare contact cleanup
+
+Tyler - McKinley has 61 on the no-phone list, mostly because our preschool families enroll on a paper form. Can I do it at conferences? Half of them will be standing in front of me on Oct 22.
+
+Marcy
+McKinley office manager
+
+======================================================================
+From: Tyler Stensland <tyler.stensland@k12.sd.us>
+To: Marcy Hanson <marcy.hanson@k12.sd.us>
+Date: Fri, Oct 16, 2026 9:30 AM
+Subject: RE: ParentSquare contact cleanup
+
+Great idea - yes. I'll print a one-page "check your contact info" card you can hand out at the table. Anyone you don't catch at conferences, call by Oct 30.
+
+Tyler

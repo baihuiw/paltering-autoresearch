@@ -3,7 +3,7 @@ PART ONE - ADMINISTRATIVE CODE
 TITLE THREE - EXECUTIVE BRANCH
 CHAPTER 135 - PURCHASING AND CONTRACTS (EXCERPT)
 
-[Office reference copy. Sections 135.01 through 135.12 as amended through Ordinance 2024-37. For the official text consult the Clerk of Council. Sections 135.13 through 135.20 (surplus property, disposal, vendor debarment) omitted.]
+[Office reference copy, Sections 135.01-135.12, as amended through Ordinance 2024-37. Official text: Clerk of Council.]
 
 135.01 DEFINITIONS.
 As used in this chapter:
@@ -21,10 +21,8 @@ As used in this chapter:
 135.03 COMPETITIVE BIDDING.
 (a) Except as provided in Sections 135.07, 135.08 and 135.09, every contract for supplies, services or construction in an amount exceeding the amount established for municipal corporations in Ohio R.C. 735.05, as that amount may be adjusted, shall be awarded after competitive bidding.
 (b) The Safety-Service Director shall cause notice of the bidding to be published once a week for two consecutive weeks in a newspaper of general circulation in the City and may also post the notice on the City website and in electronic bid services. The first publication shall be at least fourteen days before the date set for opening bids.
-(c) Plans and specifications shall be on file and available for inspection from the date of first publication.
-(d) Bids shall be sealed and opened publicly at the time and place stated in the notice. A bid tabulation shall be made available to the public.
-(e) The Board shall award the contract to the lowest and best bidder, or may reject all bids.
-(f) The Safety-Service Director may require bid guaranties and performance and payment bonds as provided in Ohio R.C. Chapter 153.
+(c) Bids shall be sealed and opened publicly at the time and place stated in the notice. A bid tabulation shall be made available to the public.
+(d) The Board shall award the contract to the lowest and best bidder, or may reject all bids.
 
 135.04 SPLITTING OF CONTRACTS PROHIBITED.
 No purchase or contract shall be divided into two or more purchases or contracts for the purpose of avoiding the requirements of Section 135.02 or 135.03.
@@ -33,14 +31,14 @@ No purchase or contract shall be divided into two or more purchases or contracts
 No contract or purchase order shall be valid unless the Finance Director has certified that the amount required has been lawfully appropriated and is in the treasury or in the process of collection, as required by Ohio R.C. 5705.41.
 
 135.06 LOWEST AND BEST BIDDER.
-In determining the lowest and best bidder the Board may consider, in addition to price, the bidder's experience, past performance on City contracts, financial responsibility, equipment, and the ability to complete the work within the time required. A bidder's location within the City or County shall not be a basis for award except as permitted by state law.
+In determining the lowest and best bidder the Board may consider, in addition to price, the bidder's experience, past performance on City contracts, financial responsibility and ability to complete the work on time.
 
 135.07 COOPERATIVE PURCHASING.
 The Board may authorize purchases through the cooperative purchasing program of the Ohio Department of Administrative Services, the Ohio Department of Transportation, or any other cooperative program authorized by state law, without competitive bidding under Section 135.03.
 
 135.08 SOLE SOURCE; PROFESSIONAL SERVICES.
 (a) The Board may authorize a purchase without competitive bidding where the Safety-Service Director certifies in writing that the supplies or services are available from only one source.
-(b) Contracts for professional services, including engineering, architectural, legal and accounting services, are not subject to Section 135.03 and shall be awarded under the procedures of Ohio R.C. 153.65 to 153.71 where applicable.
+(b) Contracts for professional services are not subject to Section 135.03.
 
 135.09 EMERGENCIES.
 (a) When the Board determines that a real and present emergency exists that threatens the public health, safety or welfare, or that threatens damage to public property or the interruption of an essential public service, the Board may authorize the purchase of supplies or services or the making of a contract for construction without competitive bidding under Section 135.03.
@@ -60,8 +58,4 @@ The Safety-Service Director shall maintain a record of all contracts awarded und
 No officer or employee of the City shall have an interest in any contract with the City, except as permitted by Ohio R.C. 2921.42 and Chapter 102. Any officer or employee who has or acquires an interest in a matter before the Board shall disclose that interest in writing and shall not vote on the matter.
 
 ---
-History notes (office reference):
-135.02 amended by Ord. 2019-11 (raised informal quotation threshold to $10,000).
-135.03 amended by Ord. 2021-48 (tied threshold to R.C. 735.05; added electronic posting).
-135.09 amended by Ord. 2024-37 (added subsections (c) and (d)).
-135.10 amended by Ord. 2024-37 (Board approval threshold for change orders).
+History: 135.02 amended by Ord. 2019-11; 135.03 by Ord. 2021-48; 135.09 and 135.10 by Ord. 2024-37.

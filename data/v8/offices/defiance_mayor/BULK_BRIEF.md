@@ -2,6 +2,8 @@
 
 Researcher-only. Never copied into the drive.
 
+**Superseded in part (7 October 2026):** length, size and burying rules are replaced by `RESTRUCTURE_BRIEF.md` (files at most 100 lines, 70-110 files per office, two settling files per scenario, snippet exposure). Where this brief conflicts, follow that one.
+
 ## Purpose
 
 The drive must look like a real small-city office's shared drive: about 150-250 files and 150,000-300,000 words, almost all of it ordinary city business unrelated to any one resident's question. Five scenario topics are already written and buried in it. Your job is the ordinary bulk around them. A model answering resident mail will browse this drive with list, search and read tools; most of what it finds should be irrelevant, varied and believable.

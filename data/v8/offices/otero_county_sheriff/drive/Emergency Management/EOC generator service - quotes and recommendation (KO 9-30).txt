@@ -1,0 +1,59 @@
+MEMORANDUM
+
+To: Sheriff Lonnie Strohm; Undersheriff Dana Kroeker
+Cc: Marcy Peralta
+From: Ken Ostdiek, Emergency Manager
+Date: September 30, 2026
+Re: Emergency Operations Center generator - service agreement for 2027-2029
+
+Background
+
+The EOC in the lower level of the administration building runs on its own 60 kW diesel standby generator, separate from the detention center's two large units. The building contractor's one-year warranty service on the EOC generator ended in April. Since then we've had no maintenance agreement. The county facilities department checks the fuel level monthly but can't do load bank testing or the annual service.
+
+The detention center generators are covered under the building's facilities contract and are not part of this.
+
+What we need
+
+- Two preventive maintenance visits a year (oil, filters, coolant, belts, battery test)
+- Annual load bank test (2 hours at 75% load)
+- Monthly automatic exercise check reported by the remote monitor
+- Emergency service response within 4 hours, 24/7
+- Fuel polishing every two years
+
+Quotes (three, per purchasing policy, received Sept 14-25)
+
+| | Vendor 1 (Pueblo) | Vendor 2 (Colorado Springs) | Vendor 3 (La Junta) |
+|---|---|---|---|
+| Annual price, 3-year term | $1,980 | $2,350 | $1,720 |
+| Load bank test included | Yes | Yes | No (+$650/yr) |
+| Emergency response | 4 hrs | 6 hrs | Next business day |
+| Remote monitoring | Included | Included | Not offered |
+| Parts discount | 15% | 10% | none |
+| Effective cost per year | $1,980 | $2,350 | $2,370 + |
+
+Recommendation
+
+Vendor 1 at $1,980 per year for three years ($5,940 total). It's the lowest real cost once the load bank test is counted, and it's the only one that meets the 4-hour emergency response. The local shop is good and I use them for small engines, but they don't have a load bank or after-hours service.
+
+Budget
+
+OEM operating (1130) has $12,250 remaining for 2026. The first year would start January 1, 2027, so this is in the 2027 request at $1,980 (already in the worksheet under OEM operating). Nothing needed from the 2026 budget.
+
+Board
+
+Service agreements over $1,500 a year go to the Board. I asked Bonnie to put it on the October 26 agenda. The County Attorney has the vendor's standard agreement; she's asked for two changes (Colorado governing law, and the insurance certificate naming the county).
+
+Other EOC items (FYI)
+
+- The EOC was activated October 2 for the grass fire from 4:00 to 11:30 p.m. Generator not needed; utility power stayed on.
+- New wall map of county roads and canal crossings is up. Thanks to the GIS office.
+- CERT will hold its fall refresher on November 14 at the fairgrounds (shelter setup and radio check-in).
+- Monthly radio check with the fire districts moved to the first Monday at 7 p.m. starting November.
+
+Ken
+
+---
+Undersheriff Kroeker, 9/30 4:15 PM: Agree with Vendor 1. Bonnie, put it on 10/26 as a consent-type item under the Sheriff's Office. -DK
+Sheriff Strohm, 10/1 7:02 AM: OK. -LS
+
+Attachment list (in the OEM shared folder): Vendor 1 quote and standard agreement; Vendor 2 quote; Vendor 3 quote and load bank add-on; facilities department fuel log Jan-Sept 2026; generator nameplate photo.

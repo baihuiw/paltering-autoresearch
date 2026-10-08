@@ -1,0 +1,54 @@
+Conversation: Utilities - items for week of 10/5
+Exported from mailbox: twiechers@cityofdefiance.com
+Messages: 2 (oldest first)
+
+======================================================================
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+To: Kevin Shaffer <kshaffer@cityofdefiance.com>; Rachel Dunlap <rdunlap@cityofdefiance.com>; Donna Pruett <dpruett@cityofdefiance.com>
+Cc: Angela Marquardt <amarquardt@cityofdefiance.com>
+Date: Mon, Oct 5, 2026 7:48 AM
+Subject: Utilities - items for week of 10/5
+
+Morning all,
+
+Running list for this week so we're not chasing each other down the hall. Reply with updates when you have them. Items for the 10/12 Board agenda need to be to Janelle by Thursday noon.
+
+1. Hydrant flushing - wrap-up numbers and any hydrants that need parts.
+2. WTP pay app 5 (Hollister & Graf) - Rachel, is the engineer's review back?
+3. Chemical bids opened 9/30 - Kevin, recommendation for the Board.
+4. Washington Ave waterline - status of the abandoned line they hit at Third St and whether there's a change order coming.
+5. Lead service line inventory amendment - Rachel.
+6. Phase 3 meter replacement - Kevin, can we get a draft schedule to Brandt so they can plan crews over the winter? I'd like phase 3 to start no later than early April.
+7. Billing - Donna, anything from the 10/1 cycle I should know about? Counter seemed busy Friday.
+8. Software support renewal for the billing system - Donna.
+
+Also a reminder that the Mayor would like a short monthly summary from each department by the 20th. Two or three paragraphs is fine. He's still getting his arms around everything, so plain language and no acronyms without spelling them out.
+
+Tom
+
+Tom Wiechers
+Safety-Service Director
+City of Defiance
+(419) 784-2101 ext. 214
+
+======================================================================
+From: Rachel Dunlap <rdunlap@cityofdefiance.com>
+To: Tom Wiechers <twiechers@cityofdefiance.com>; Kevin Shaffer <kshaffer@cityofdefiance.com>; Donna Pruett <dpruett@cityofdefiance.com>
+Cc: Angela Marquardt <amarquardt@cityofdefiance.com>
+Date: Mon, Oct 5, 2026 10:21 AM
+Subject: RE: Utilities - items for week of 10/5
+
+Tom,
+
+#2 - Pay app 5 came back from the engineer Friday afternoon, recommended for payment. Gross $214,600, net $203,870 after retainage. Filters 3 and 4 are back in service after startup testing and the turbidity numbers look good. They're into the north clearwell cell now. Still tracking to substantial completion next May. I'll have the pay app packet to Janelle Wednesday.
+
+#4 - Washington Ave: Yes, there will be a change order. The abandoned 4-inch cast iron at Third St was not on any of our maps. The contractor had to cut and cap it both sides of the trench and put in extra trench box time. Their number is $8,420 and I think it's fair. That will be CO #2. No time extension requested. I've already sent the location to GIS.
+
+#5 - LSL inventory amendment is ready. $26,400 for up to 220 additional verifications on the "unknown" lines. Kevin and I talked about having Brandt's crews note the service material on the customer side when they're in the pit or basement for phase 3. Would cut the number of test pits quite a bit. Kevin, can we get that into the phase 3 scope?
+
+Rachel
+
+Rachel Dunlap, P.E.
+City Engineer
+City of Defiance
+(419) 784-2101 ext. 231

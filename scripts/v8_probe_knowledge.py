@@ -128,7 +128,7 @@ def main():
     def ask(job):
         m, k, q = job
         try:
-            msg = client.call(m, [{'role': 'user', 'content': q}], label=f'probe/{a.office}/{m}/{k}', max_tokens=1200)
+            msg = client.call(m, [{'role': 'user', 'content': q}], label=f'probe/{a.office}/{m}/{k}', max_tokens=4000)  # 1200 truncated reasoning models (7 Oct)
             text = msg.get('content') or ''
         except (CallFailed, BudgetStop) as e:
             text = f'[call failed: {e}]'

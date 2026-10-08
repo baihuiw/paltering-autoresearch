@@ -1,0 +1,49 @@
+CORVANE INMATE SERVICES - AGREEMENT SUMMARY FOR IMPLEMENTATION
+Prepared by Marcy Peralta, Administrative Services Manager, September 3, 2026
+For: Capt. Arguello, detention sergeants, Finance (P. Witcher), Treasurer's office
+
+Agreement: Inmate Services Agreement between the Board of County Commissioners of Otero County and Corvane Inmate Services, approved by the Board on August 24, 2026 (Resolution 2026-51). Term: September 14, 2026 through September 13, 2029, with two one-year renewals.
+
+Go-live: Monday, September 14, 2026. Old vendor's kiosk and phones shut off 6 p.m. Sunday, September 13. Balances transfer automatically from the old vendor's export.
+
+WHAT CORVANE PROVIDES
+- Lobby kiosk (cash, debit, credit) and 2 housing-unit kiosks
+- 48 inmate tablets (calls, messages, commissary orders, handbook, grievances, law library)
+- Online and phone deposits for families
+- Commissary ordering and delivery Tues/Fri (warehouse in Pueblo)
+- Video visitation (remote and lobby)
+- Inmate trust accounting software (ledger, statements, release accounting)
+
+COUNTY COSTS
+None. Corvane keeps deposit and phone fees and pays the county a commission:
+- Commissary: 22% of net sales
+- Phones and messages: 15% of net revenue
+Commissions go to 1100-4460 (commissary commissions), monthly, by the 20th.
+
+FEES PAID BY FAMILIES (from Exhibit B)
+- Kiosk cash deposit: $0
+- Kiosk card deposit: $2.95 up to $20; $4.95 up to $100; 5% over $100
+- Online/phone deposit: $3.45 up to $20; $5.45 up to $100; 5.5% over $100
+- Calls: $0.12 per minute (local and long distance)
+- Video visit (remote): $4.00 per 20 minutes; lobby video visits free
+
+TRUST ACCOUNT AND BANKING
+- Inmate trust account stays at the county's bank. The Treasurer is the custodian.
+- Corvane runs the ledger and daily reconciliation report (RB-01) and the released-with-balance report (RB-02).
+
+ADDENDA (separate signatures needed)
+- Addendum A - Commissary product list and pricing. Signed with the agreement.
+- Addendum B - Video visitation rules. Signed with the agreement.
+- Addendum C - Release card program. Corvane issues prepaid debit release cards for balances at release, funded daily from a settlement sub-account at the county's bank. Needs: county signature on Addendum C; Treasurer to open the settlement sub-account and give Corvane the account details; Finance to set up the daily transfer. Free to the cardholder for 30 days, then $2.50/month inactivity fee. STATUS 9/3: Corvane sent Addendum C to the Sheriff on 8/28; not yet routed. Needs to go to the Board.
+- Addendum D - Tablet content (education, religious, law library). Signed with the agreement.
+
+RELEASE PROCEDURE (from 9/14)
+1. Release officer closes the booking in the jail management system.
+2. Kiosk prints release receipt with balance.
+3. Balance goes to a release card (Addendum C) mailed to the release address, or held for lobby pickup if no address.
+4. Old county check process is discontinued.
+
+CONTACTS
+- Implementation manager: Trevor Hales, Corvane Inmate Services, thales@corvane.com, (800) 555-0172 ext. 431
+- Corvane support line for staff: (800) 555-0172 option 2 (24/7)
+- Families: Corvane customer care, (800) 555-0173

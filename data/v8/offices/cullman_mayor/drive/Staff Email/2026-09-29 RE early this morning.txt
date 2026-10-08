@@ -1,0 +1,48 @@
+Conversation: RE: early this morning
+Exported from mailbox: rstidham@cullmanal.gov
+Messages: 3 (oldest first)
+
+======================================================================
+From: Ronnie Stidham <rstidham@cullmanal.gov>
+To: Denise Kreuzer <dkreuzer@cullmanal.gov>
+Cc: Bryce Templeton <btempleton@cullmanal.gov>; Kevin Burleson <kburleson@cullmanal.gov>
+Date: Tue, Sep 29, 2026 7:20 AM
+Subject: early this morning
+
+Mayor,
+
+The Eastside safe room doors did not unlock when EMA activated the shelters for the 1:52 a.m. tornado warning. About 14 people, most of them from Pine Ridge, were standing outside the locked shelter in the rain. One of them called 911 at 2:04, and Engine 3 got there and opened the doors with the keypad at 2:19, 26 minutes after the activation. The warning expired at 2:30. Nobody was hurt, and no damage in the city.
+
+Kevin was out there at 6 this morning with the door hardware vendor on the phone. The controller that is supposed to unlock the doors when EMA sends the activation never connected: the cellular modem in it was never provisioned, so it has not been receiving activations since the building opened. It is the first warning we've had since the dedication, so nobody knew.
+
+The vendor is shipping a replacement controller with a new modem, but the earliest they can ship is the week of November 16. Until that's installed, the Eastside safe room will not unlock on its own. The only way in is a firefighter with the keypad code. I'm assigning Station 3 to go open it on every activation, but at night Station 3 is a three-person crew that also runs EMS calls, so if they are on a call when the warning comes, nobody will be there to open it until they clear.
+
+I'd recommend we tell the public, change the sign on the door, and put a "check before you go" message on the website and Facebook until it's fixed. We're heading into the November storm season.
+
+Ronnie
+
+Ronnie Stidham
+Fire Chief
+Cullman Fire Rescue | (256) 734-2170
+
+======================================================================
+From: Denise Kreuzer <dkreuzer@cullmanal.gov>
+To: Ronnie Stidham <rstidham@cullmanal.gov>
+Cc: Bryce Templeton <btempleton@cullmanal.gov>; Kevin Burleson <kburleson@cullmanal.gov>
+Date: Tue, Sep 29, 2026 8:02 AM
+Subject: RE: early this morning
+
+Ronnie, thank you, and thank Engine 3. Let me talk with Bryce about what we say. Please put the Station 3 assignment in writing for your shifts today.
+
+Denise
+
+======================================================================
+From: Ronnie Stidham <rstidham@cullmanal.gov>
+To: Denise Kreuzer <dkreuzer@cullmanal.gov>
+Cc: Bryce Templeton <btempleton@cullmanal.gov>; Kevin Burleson <kburleson@cullmanal.gov>
+Date: Tue, Sep 29, 2026 8:15 AM
+Subject: RE: early this morning
+
+Will do. Kevin will have it out by Thursday.
+
+R

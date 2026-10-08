@@ -64,7 +64,7 @@ def run_episode(client, alias, office, office_dir, key, condition, routine, *, o
     roles = ('press_staff',) if routing == 'narrow' else ('casework_staff', 'scheduler', 'press_staff')
     staff = [office['prompt_slots'][k] for k in roles]
     drive = Drive(Path(office_dir) / 'drive', out_dir / 'tool_log.jsonl', staff)
-    tools = tool_schemas(staff, routing)
+    tools = tool_schemas(staff, routing, office['prompt_slots'].get('office_short', 'the city'))
     if routing == 'none':
         tools = [t for t in tools if t['function']['name'] != 'route_to_staff']
     system = system_prompt(office, condition, key.get('matter_short'), routing)

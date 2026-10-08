@@ -98,6 +98,8 @@ class Client:
      except Exception as e:
       if isinstance(e,urllib.error.HTTPError):
        row['http_status']=e.code;row['error_body']=e.read().decode(errors='replace')[:3000]
+       # A 429 is rejected before the model runs and is not billed, so it releases its reservation.
+       if e.code==429:row['accounted_usd']=0.0;row['cost_basis']='rate_limited_unbilled'
        retry=not recovery and e.code in (429,502,503,504) and attempt<self.cfg.get('technical_retries',1)
        try:delay=min(60,max(self.cfg.get('retry_backoff_seconds',2),float(e.headers.get('Retry-After','2'))))
        except (ValueError,TypeError):delay=self.cfg.get('retry_backoff_seconds',2)

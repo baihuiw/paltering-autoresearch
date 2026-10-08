@@ -1,0 +1,32 @@
+# Leak adjustment requests received 9/2-10/9/2026. Eligibility: billed usage at least 200% of account average; request within 60 days; up to 3 adjustments in 6 years; one billing cycle each. Credits post to the account.
+received,customer,service_address,area,cause,avg_gal,billed_gal,decision,credit,notes
+09/03/2026,"Akers, L.",4597 (see acct),Goode,Water heater relief valve,"3,000","12,000",Approved,142.20,
+09/04/2026,"Bolling, L.",2049 (see acct),Stewartsville,Irrigation leak,"4,000","8,000",Approved,31.60,
+09/07/2026,"Campbell, A.",3509 (see acct),Montvale,Toilet flapper,"3,000","15,000",Denied,0.00,Usage under 200% of average
+09/07/2026,"Dooley, A.",4512 (see acct),Thaxton,Irrigation leak,"4,000","12,000",Approved,63.20,
+09/07/2026,"Elliott, D.",403 (see acct),Bedford,Outdoor spigot left on - misuse,"5,000","10,000",Denied,0.00,Misuse - not eligible
+09/08/2026,"Fizer, E.",1869 (see acct),Bedford,Outdoor spigot left on - misuse,"6,000","15,000",Denied,0.00,Misuse - not eligible
+09/08/2026,"Garrett, B.",3554 (see acct),Moneta,Water heater relief valve,"4,000","10,000",Approved,47.40,
+09/10/2026,"Hagerty, D.",2240 Hatcher Mill Rd,Goode,"Customer-side service line leak, repaired by plumber 9/9 (receipt)","4,100","13,600",Approved,65.08,1st of 3 in 6 yrs - water only (no sewer)
+09/09/2026,"Irvine, D.",4571 (see acct),Huddleston,Irrigation leak,"6,000","12,000",Approved,94.80,
+09/11/2026,"Jeter, M.",522 (see acct),Huddleston,Crawlspace pipe split,"6,000","24,000",Approved,284.40,
+09/11/2026,"Kidd, K.",2134 (see acct),Moneta,Irrigation leak,"3,000","9,000",Approved,94.80,
+09/11/2026,"Lowry, M.",3956 (see acct),Thaxton,"Customer-side service line leak, plumber receipt","5,000","12,500",Approved,59.25,
+09/14/2026,"Mattox, K.",1767 (see acct),Forest,Irrigation leak,"3,000","12,000",Approved,71.10,
+09/15/2026,"Nichols, E.",4033 (see acct),Moneta,Irrigation leak,"6,000","30,000",Approved,189.60,
+09/16/2026,"Overstreet, K.",246 (see acct),Thaxton,Outdoor spigot left on - misuse,"5,000","10,000",Denied,0.00,Misuse - not eligible
+09/18/2026,"Parker, J.",1414 (see acct),Montvale,Water heater relief valve,"5,000","20,000",Approved,118.50,
+09/18/2026,"Quinn, E.",829 (see acct),Montvale,Crawlspace pipe split,"6,000","30,000",Approved,189.60,
+09/21/2026,"Reynolds, L.",1090 (see acct),Huddleston,Crawlspace pipe split,"5,000","15,000",Approved,79.00,
+09/23/2026,"Shelton, R.",3946 (see acct),Forest,"Customer-side service line leak, plumber receipt","3,000","6,000",Approved,23.70,
+09/25/2026,"Turner, R.",840 (see acct),Moneta,"Customer-side service line leak, plumber receipt","3,000","12,000",Approved,142.20,
+09/28/2026,"Updike, S.",1490 (see acct),Forest,Irrigation leak,"5,000","20,000",Approved,237.00,
+09/28/2026,"Viar, C.",2512 (see acct),Thaxton,Irrigation leak,"4,000","8,000",Denied,0.00,Usage under 200% of average
+09/29/2026,"Watts, J.",340 (see acct),Moneta,Toilet flapper,"3,000","6,000",Approved,47.40,
+09/30/2026,"Yopp, J.",1922 (see acct),Montvale,Outdoor spigot left on - misuse,"3,000","9,000",Denied,0.00,Misuse - not eligible
+10/01/2026,"Zimmerman, S.",1158 (see acct),Stewartsville,Outdoor spigot left on - misuse,"4,000","10,000",Denied,0.00,Misuse - not eligible
+10/05/2026,"Arthur, D.",4483 (see acct),Moneta,Irrigation leak,"5,000","10,000",Approved,39.50,
+10/06/2026,"Bryant, T.",3601 (see acct),Thaxton,Water heater relief valve,"5,000","25,000",Approved,158.00,
+10/07/2026,"Coleman, S.",2526 (see acct),Thaxton,Toilet flapper,"6,000","24,000",Approved,142.20,
+10/08/2026,"Dudley, R.",3603 (see acct),Moneta,Crawlspace pipe split,"6,000","24,000",Approved,142.20,
+10/12/2026,"Ewers, K.",3233 (see acct),Huddleston,Toilet flapper,"4,000","20,000",Approved,126.40,

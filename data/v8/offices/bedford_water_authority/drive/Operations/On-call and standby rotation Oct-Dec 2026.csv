@@ -1,0 +1,54 @@
+# On-call and standby rotation, Oct 5 - Jan 3. Weeks run Mon 7:00 a.m. to the next Mon 7:00 a.m. After-hours calls come through (540) 586-7210 press 9 to the operator on duty, who pages on-call. Swaps must be approved by the supervisor and the sheet updated. Escalation: Distribution/Collections -> R. Tharpe (ext. 51) -> W. Lipscomb (ext. 5). Rev 10/9 RT.
+week_start,week_end,group,primary,backup,escalation,holiday_flag,notes
+10/05/2026,10/11/2026,Distribution,C. Bryant,L. Hurt,R. Tharpe,,Mini-ex: no slope work until new tracks are on (week of 10/12)
+10/05/2026,10/11/2026,Collections,R. Tuck,S. Whitt,R. Tharpe,,Grinder pump calls in Moneta/Huddleston go to collections
+10/05/2026,10/11/2026,Plant operators,B. Stanley,P. Ramsey,W. Lipscomb,,Central filters 3-4 offline; run 1-2 and 5-6
+10/05/2026,10/11/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,Portal maintenance Sat 11 p.m.-2 a.m. as usual
+10/12/2026,10/18/2026,Distribution,J. Lowry,D. Pugh,R. Tharpe,Columbus Day Mon 10/12 - office OPEN; normal week,
+10/12/2026,10/18/2026,Collections,S. Whitt,T. Arrington,R. Tharpe,Columbus Day Mon 10/12 - office OPEN; normal week,
+10/12/2026,10/18/2026,Plant operators,K. Doss,A. Wiley,W. Lipscomb,Columbus Day Mon 10/12 - office OPEN; normal week,Central filters 3-4 offline
+10/12/2026,10/18/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,Columbus Day Mon 10/12 - office OPEN; normal week,
+10/19/2026,10/25/2026,Distribution,M. Ayers,D. Moon,R. Tharpe,,"Bedford Central flushing; if discolored water call after 4 p.m., flush nearest hydrant first"
+10/19/2026,10/25/2026,Collections,T. Arrington,R. Tuck,R. Tharpe,,
+10/19/2026,10/25/2026,Plant operators,P. Ramsey,B. Stanley,W. Lipscomb,,Central filters 3-4 offline; flushing raises demand
+10/19/2026,10/25/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,
+10/26/2026,11/01/2026,Distribution,L. Hurt,C. Bryant,R. Tharpe,,Bedford Central flushing make-up days; Route 221 shoulder work
+10/26/2026,11/01/2026,Collections,R. Tuck,S. Whitt,R. Tharpe,,
+10/26/2026,11/01/2026,Plant operators,A. Wiley,K. Doss,W. Lipscomb,,Central filters 3-4 offline
+10/26/2026,11/01/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,Bulk fill station card reader replacement; card system down Tue-Wed 10/27-28
+11/02/2026,11/08/2026,Distribution,D. Pugh,J. Lowry,R. Tharpe,Election Day Tue 11/3 - office open,Forest Central flushing Nov 2-13
+11/02/2026,11/08/2026,Collections,S. Whitt,T. Arrington,R. Tharpe,Election Day Tue 11/3 - office open,
+11/02/2026,11/08/2026,Plant operators,B. Stanley,P. Ramsey,W. Lipscomb,Election Day Tue 11/3 - office open,Filters 3-4 due back by Fri 11/6
+11/02/2026,11/08/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,Election Day Tue 11/3 - office open,SCADA radio upgrade site 9 cutover (WS-26-13)
+11/09/2026,11/15/2026,Distribution,D. Moon,M. Ayers,R. Tharpe,HOLIDAY Wed 11/11 Veterans Day - office closed; on-call covers 24 hrs that day,Forest Central flushing continues
+11/09/2026,11/15/2026,Collections,T. Arrington,R. Tuck,R. Tharpe,HOLIDAY Wed 11/11 Veterans Day - office closed; on-call covers 24 hrs that day,
+11/09/2026,11/15/2026,Plant operators,K. Doss,A. Wiley,W. Lipscomb,HOLIDAY Wed 11/11 Veterans Day - office closed; on-call covers 24 hrs that day,
+11/09/2026,11/15/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,HOLIDAY Wed 11/11 Veterans Day - office closed; on-call covers 24 hrs that day,
+11/16/2026,11/22/2026,Distribution,C. Bryant,L. Hurt,R. Tharpe,,
+11/16/2026,11/22/2026,Collections,R. Tuck,S. Whitt,R. Tharpe,,Grinder pump calls in Moneta/Huddleston go to collections
+11/16/2026,11/22/2026,Plant operators,P. Ramsey,B. Stanley,W. Lipscomb,,
+11/16/2026,11/22/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,
+11/23/2026,11/29/2026,Distribution,J. Lowry,D. Pugh,R. Tharpe,HOLIDAY Thu-Fri 11/26-27 Thanksgiving - office closed; holiday pay per policy,
+11/23/2026,11/29/2026,Collections,S. Whitt,T. Arrington,R. Tharpe,HOLIDAY Thu-Fri 11/26-27 Thanksgiving - office closed; holiday pay per policy,
+11/23/2026,11/29/2026,Plant operators,A. Wiley,K. Doss,W. Lipscomb,HOLIDAY Thu-Fri 11/26-27 Thanksgiving - office closed; holiday pay per policy,
+11/23/2026,11/29/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,HOLIDAY Thu-Fri 11/26-27 Thanksgiving - office closed; holiday pay per policy,
+11/30/2026,12/06/2026,Distribution,M. Ayers,D. Moon,R. Tharpe,,First freeze week typical - main break kit stocked
+11/30/2026,12/06/2026,Collections,T. Arrington,R. Tuck,R. Tharpe,,
+11/30/2026,12/06/2026,Plant operators,B. Stanley,P. Ramsey,W. Lipscomb,,
+11/30/2026,12/06/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,
+12/07/2026,12/13/2026,Distribution,L. Hurt,C. Bryant,R. Tharpe,,
+12/07/2026,12/13/2026,Collections,R. Tuck,S. Whitt,R. Tharpe,,
+12/07/2026,12/13/2026,Plant operators,K. Doss,A. Wiley,W. Lipscomb,,
+12/07/2026,12/13/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,
+12/14/2026,12/20/2026,Distribution,D. Pugh,J. Lowry,R. Tharpe,,Cold weather; check light towers and pump trailer
+12/14/2026,12/20/2026,Collections,S. Whitt,T. Arrington,R. Tharpe,,
+12/14/2026,12/20/2026,Plant operators,P. Ramsey,B. Stanley,W. Lipscomb,,
+12/14/2026,12/20/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,
+12/21/2026,12/27/2026,Distribution,D. Moon,M. Ayers,R. Tharpe,HOLIDAY Thu-Fri 12/24-25 - office closed; holiday pay per policy,
+12/21/2026,12/27/2026,Collections,T. Arrington,R. Tuck,R. Tharpe,HOLIDAY Thu-Fri 12/24-25 - office closed; holiday pay per policy,
+12/21/2026,12/27/2026,Plant operators,A. Wiley,K. Doss,W. Lipscomb,HOLIDAY Thu-Fri 12/24-25 - office closed; holiday pay per policy,
+12/21/2026,12/27/2026,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,HOLIDAY Thu-Fri 12/24-25 - office closed; holiday pay per policy,
+12/28/2026,01/03/2027,Distribution,C. Bryant,L. Hurt,R. Tharpe,,
+12/28/2026,01/03/2027,Collections,R. Tuck,S. Whitt,R. Tharpe,,
+12/28/2026,01/03/2027,Plant operators,B. Stanley,P. Ramsey,W. Lipscomb,,Year-end process data backup with IT
+12/28/2026,01/03/2027,IT / billing systems,D. Sowers,Billing software vendor support,T. Halvorsen,,Year-end billing close; vendor support line on standby

@@ -1,0 +1,45 @@
+Conversation: Engineering weekly update - wk of 10/5
+Exported from mailbox: mcoggins@cullmanal.gov
+Messages: 2 (oldest first)
+
+======================================================================
+From: Matt Coggins <mcoggins@cullmanal.gov>
+To: Denise Kreuzer <dkreuzer@cullmanal.gov>
+Cc: Bryce Templeton <btempleton@cullmanal.gov>; Wade Lovelady <wlovelady@cullmanal.gov>; Jared Moody <jmoody@cullmanal.gov>
+Date: Wed, Oct 7, 2026 4:52 PM
+Subject: Engineering weekly update - wk of 10/5
+
+Mayor,
+
+Weekly update. Short items first.
+
+1. Stormwater: the MS4 annual report went to ADEM on Monday. The storm drain marker volunteers (Scouts) finished the downtown inlets. Drainage complaints log for September: 11 new, 9 closed, mostly clogged inlets and driveway pipes.
+
+2. Closeouts: Winsted Site Works sent final pay estimates for the Kessler Avenue NW drainage project (ENG 26-07) and for the Pine Hollow Ct NW driveway pipes; I'm holding retainage on both until item 6 is settled. Their insurance certificate renews Nov 1 and Paula has the new one.
+
+3. FEMA flood map revision for the branch west of downtown: comment period ends Nov 12. No changes to any homes in the city, just two vacant parcels. I will put a flooding FAQ on the website when it is final.
+
+4. 3rd St SW sidewalk: the 140 extra feet at the school crossing are poured; rain cost us two days. Water/Sewer's 8-inch pipe for the 5th St crossing was delivered Tuesday.
+
+5. Main Ave SW turn lane: two right-of-way offers out, bank still reviewing. Signal design 90%.
+
+6. Kessler Ave NW, Oct 3. I ran the numbers on the crossing this week. The 36-inch pipe we let Winsted put in at the crossing in September, in place of the 48-inch in the design, is the reason the road went over and the water got into the houses on Kessler and Pine Hollow. The 36 carries a little over half what the 48 does. Saturday's 3.4 inches in an hour and a half is close to the 25-year storm the 48 was sized for, so with the 48-inch in the design, Saturday's storm would have stayed in the pipe and under the road. With the 36, it backed up, topped the road at the low point, and ran down the driveways. Nine homes got water, two of them in living space (per Wade's list).
+
+The 48-inch RCP is now promised for Dec 7. Plan: Winsted pulls the 36 and sets the 48 in January, two-week closure of Kessler at the crossing, change order about $41,000. I'd like to send a letter to the nine homes telling them what happened and what we're doing. Your call.
+
+Matt
+
+Matt Coggins, P.E.
+City Engineer
+City of Cullman | (256) 734-2150 ext. 230
+
+======================================================================
+From: Bryce Templeton <btempleton@cullmanal.gov>
+To: Matt Coggins <mcoggins@cullmanal.gov>
+Cc: Denise Kreuzer <dkreuzer@cullmanal.gov>
+Date: Wed, Oct 7, 2026 6:15 PM
+Subject: RE: Engineering weekly update - wk of 10/5
+
+Matt, hold off on any letter on item 6 until Denise and I talk tomorrow. Thanks for the rest.
+
+Bryce

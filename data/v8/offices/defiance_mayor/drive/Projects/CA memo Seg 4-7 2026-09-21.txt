@@ -1,0 +1,57 @@
+CITY OF DEFIANCE
+ENGINEERING DEPARTMENT
+
+MEMORANDUM
+
+TO: Tom Wiechers, Safety-Service Director
+FROM: Rachel Dunlap, P.E., City Engineer
+CC: Kevin Shaffer, Utilities Superintendent
+DATE: September 21, 2026
+RE: Condition Assessment - Fourth Ward Interceptor, Segment 4-7 (MH 4-31 to MH 4-38)
+
+PURPOSE
+
+This memo summarizes the condition of Segment 4-7 of the Fourth Ward sanitary interceptor based on the closed-circuit television (CCTV) inspection completed as part of the fall 2026 inspection program, and gives a recommendation for rehabilitation timing and method.
+
+SEGMENT DESCRIPTION
+
+Segment 4-7 runs from MH 4-31 to MH 4-38 in the rear-lot easement between Pierce Street and Wayne Avenue. It is approximately 1,180 linear feet of 21-inch vitrified clay pipe (VCP) installed in 1958, with eight manholes and 23 active service connections identified on the inspection. It carries flow from most of the Fourth Ward south of the railroad to the Ralston Avenue lift station. Dry-weather flow depth during the inspection was 25 to 30 percent of pipe diameter.
+
+INSPECTION
+
+The Utilities Department CCTV crew inspected the segment on September 15 and 16, 2026, after jet cleaning. Inspection was coded to NASSCO PACP standards. All seven reaches were inspected end to end; there were no abandoned surveys.
+
+FINDINGS
+
+- Longitudinal cracking at six locations, the longest about 9 feet (reach MH 4-34 to MH 4-35).
+- Circumferential cracks at numerous joints, typical for clay pipe of this age.
+- Infiltration (weeper to dripper) at two joints, stations 4+12 and 7+86. No runners or gushers.
+- Light fine roots at five joints. No root balls or roots restricting flow.
+- Minor mineral deposits at three joints.
+- No fractures, broken pipe, holes, deformation or missing pipe wall.
+- No visible voids, soil in the pipe, or other signs of active soil loss.
+- No sags affecting capacity.
+
+The peak PACP structural grade for the segment is 4, driven by the longitudinal cracking. The peak O&M grade is 2.
+
+ASSESSMENT
+
+Under the department's condition priority scale this segment is Priority 2: monitor; rehabilitate within 12 to 18 months.
+
+This is not an emergency. The pipe is structurally intact, there is no evidence of active soil loss, and I do not expect a meaningful change in condition over the coming winter. The infiltration contributes to wet-weather run times at the Ralston Avenue lift station but is not causing surcharging or backups; there have been no basement backup complaints on this segment in the last three years.
+
+The cracking is the kind that progresses over years, not months. Left alone for five to ten years, the longitudinal cracks could develop into fractures, and at that point the risk of a collapse would be real. Lining in the next construction season will prevent that.
+
+RECOMMENDATION
+
+1. Rehabilitate Segment 4-7 by cured-in-place pipe (CIPP) lining, with reinstatement of active service connections and sealing of the eight manholes. Open-cut replacement is not warranted given the depth (11 to 14 feet) and the rear-lot access.
+
+2. Include Segment 4-7 in the 2027 Sanitary Sewer Rehabilitation Program and bid it competitively in the spring together with Segments 4-5 and 2-11. Packaging the three segments should improve unit prices and lets one bypass setup serve 4-5 and 4-7. Proposed schedule: advertise February 2027, award March 2027, construction May through June 2027.
+
+3. Estimated construction cost for Segment 4-7 alone is $440,000 to $475,000, based on 2026 bid unit prices adjusted for the larger diameter and including bypass pumping. This will be refined during design.
+
+4. In the meantime: add the MH 4-38 outlet to the monthly flow monitoring rotation, and re-televise the two reaches with longitudinal cracking in March 2027 before bid documents are finalized. If the March inspection shows new fractures, deformation or soil loss, I will reassess the priority.
+
+Please let me know if you'd like to discuss. The CCTV video, PACP export and photos are on the S: drive.
+
+R.D.

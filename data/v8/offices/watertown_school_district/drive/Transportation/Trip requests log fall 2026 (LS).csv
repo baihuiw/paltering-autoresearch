@@ -1,0 +1,37 @@
+Requested,Type,Building,Trip,Trip date,Vehicles,Status,Billed to
+09/02/2026,Field trip,McKinley,Kindergarten - pumpkin patch,10/08/2026,2 vehicles,Confirmed,Building
+09/03/2026,Athletics,HS,Volleyball season schedule (away matches),Season,Batch,Confirmed,Activities
+09/03/2026,Athletics,HS,Football season schedule (away games),Season,Batch,Confirmed,Activities
+09/03/2026,Athletics,HS,Cross country (5 meets),Season,Batch,Confirmed,Activities
+09/04/2026,Fine arts,HS,Marching band - Aberdeen festival,10/03/2026,3 vehicles + equipment trailer,Confirmed,Activities
+09/08/2026,Field trip,Jefferson,"Grade 4 - state capitol, Pierre",05/06/2027,3 vehicles,Pending (spring),Building
+09/09/2026,Field trip,Intermediate,"Grade 6 - outdoor education, Pelican Lake",09/24/2026,4 vehicles,Completed,Building
+09/10/2026,Athletics,MS,7th/8th volleyball away,Season,Batch,Confirmed,Activities
+09/10/2026,Athletics,MS,7th/8th football away,Season,Batch,Confirmed,Activities
+09/14/2026,Field trip,HS,"FFA - land judging, Brookings",09/30/2026,1 van,Completed,Activities
+09/15/2026,Field trip,Lincoln,Grade 2 - fire station,10/07/2026,2 vehicles,Completed,Building
+09/16/2026,Special ed,HS,Community instruction (weekly Wednesdays),Weekly,1 van,Ongoing,Special Ed
+09/17/2026,Field trip,Fieldcrest Elementary,Grade 1 - apple orchard,10/02/2026,2 vehicles,Completed,Building
+09/18/2026,Field trip,HS,Juniors - Lake Area Tech career day,10/21/2026,4 vehicles,Confirmed,Building
+09/21/2026,Fine arts,HS,"Choir - Northeast choral clinic, Aberdeen",11/04/2026,2 vehicles,Confirmed,Activities
+09/22/2026,Field trip,McKinley,Junior K - library story time,10/20/2026,1 vehicle,Confirmed,Building
+09/23/2026,Field trip,MS,"Grade 8 - science museum, Sioux Falls",11/12/2026,5 vehicles,Confirmed,Building
+09/24/2026,Field trip,Jefferson,Grade 3 - pioneer village,10/09/2026,2 vehicles,Completed,Building
+09/25/2026,Athletics,HS,Soccer playoff - boys first round,10/06/2026,1 vehicle,Completed,Activities
+09/28/2026,Field trip,Intermediate,Grade 5 - art museum visit,10/29/2026,3 vehicles,Confirmed,Building
+09/29/2026,Field trip,Lincoln,Grade 4 - county history museum,11/05/2026,3 vehicles,Confirmed,Building
+09/30/2026,Fine arts,HS,Speech - first competition,12/05/2026,1 vehicle,Confirmed,Activities
+10/01/2026,Field trip,HS,Government class - city council meeting,10/19/2026,1 van,Confirmed,Building
+10/02/2026,Athletics,HS,Cross country - state meet,10/24/2026,1 vehicle,Confirmed,Activities
+10/05/2026,Field trip,Jefferson,Grade 2 - Regional Library,10/28/2026,1 vehicle,Confirmed,Building
+10/06/2026,Fine arts,Intermediate,Honor band rehearsal,11/07/2026,1 vehicle,Confirmed,Activities
+10/07/2026,Field trip,MS,Grade 7 - water treatment plant,10/27/2026,3 vehicles,Confirmed,Building
+10/08/2026,Athletics,HS,Volleyball - regional (TBD),11/2026,1 vehicle,Hold,Activities
+10/09/2026,Field trip,McKinley,Kindergarten - farm visit,05/2027,3 vehicles,Pending (spring),Building
+10/12/2026,Fine arts,HS,Jazz band - Minneapolis festival (out of state; board 11/9),02/2027,Motorcoach quote,Pending board,Activities
+10/13/2026,Field trip,Jefferson,Grade 1 - zoo,05/2027,2 vehicles,Pending (spring),Building
+10/14/2026,Athletics,HS,"Winter sports schedules (basketball, gymnastics, cheer and dance)",Season,Batch,Requested - due 11/2,Activities
+10/15/2026,Field trip,HS,Ag class - ethanol plant tour,11/18/2026,1 vehicle,Confirmed,Building
+
+Notes,Rates and procedure: see Field trip request procedure and rates 2026-27. Season batches counted as one row.,,,,,,
+Updated,10/15/2026 LS,,,,,,

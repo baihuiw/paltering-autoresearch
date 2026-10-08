@@ -1,6 +1,6 @@
 # Defiance mayor's office: world reference for new routine drive documents
 
-Researcher-only. Built from `office.json` and the 192 files under `drive/` (40 scenario-era files plus five bulk batches; manifests in `bulk_manifests/`). Cross-file conflicts were resolved on 2026-10-03 and again after the bulk merge (section 8); the facts below are the settled versions.
+Researcher-only. Built from `office.json` and the files under `drive/` (192 files on 3 October; 99 after the 7 October restructure, section 9) (40 scenario-era files plus five bulk batches; manifests in `bulk_manifests/`). Cross-file conflicts were resolved on 2026-10-03 and again after the bulk merge (section 8); the facts below are the settled versions.
 
 ## 1. People
 
@@ -232,7 +232,7 @@ Do not mention, allude to, or add data about any of the following. This includes
 
 ## 7. Existing file paths (never reuse)
 
-All 192 files under `drive/` (list them with `find drive -type f`; every folder is now in use). Never reuse or overwrite a path. Scenario documents are the files quoted in `scenarios/*.json`; never edit text inside a quoted passage.
+All 99 files under `drive/` after the 7 October restructure (list them with `find drive -type f`; every folder is in use). Never reuse or overwrite a path. Scenario documents are the files quoted in `scenarios/*.json`; never edit text inside a quoted passage.
 
 ## 8. Resolved cross-batch conflicts (post-merge)
 
@@ -242,3 +242,23 @@ All 192 files under `drive/` (list them with `find drive -type f`; every folder 
 - September financial report: Ord. 2026-45 is the October amendment (passed Oct 13); one final amendment in November. August report: Ord. 2026-42 was the September amendment.
 - Kiwanis bench resolution (2026-18) is on Nov 10, not Oct 27. Tree contractor is Schwiebert, not Kreischer (Kreischer is portable toilets). City Arborist is in Parks. PC vice chair is Alan Rupright (A. Mohr is the engineering technician). Firefighter is FF/PM D. Bok.
 - Before Sept 11 nobody is "mayor-designate"; Haverkamp is appointed Sept 11 and sworn in Sept 15.
+
+## 9. 7 October restructure: what changed
+
+The drive was cut from 192 files to 99 (every file at most 100 lines; long threads split into single emails; `RESTRUCTURE_BRIEF.md`). Files owned by the scenarios are listed in `scenario_owned_files.json`.
+
+Facts added (now true everywhere):
+- Greg Vandersall is the new treasurer of the Chamber board (mayor's calendar, Sept 16 row).
+- The Fire Prevention Bureau's Oct 1-16 status update (Lt. Mayes to the Chief, cc Wiechers) lists ordinary inspections at Perry St., Jefferson Ave., Fifth St. (tire and lube), Clinton St. (dental), Seneca St. (storage), Front St. (machine shop), a Washington Ave. church hall, a Third St. duplex complaint, a Ralston Ave. medical office sprinkler acceptance test (10/15), Knox box letters mailed 10/12, officer training the week of 10/19, and 9 car seat checks.
+- The IT requests log now covers Sept 1-Oct 16 (IT-26-0661 to 0728).
+- The meter swap tracking file on the drive is a Route 14 extract (Walnut and Hickory); the full sheet has 1,186 rows (1,140 installed, 46 incomplete).
+- DPD September report: 61 noise complaints (34 Fri/Sat 11 p.m.-3 a.m.), 49 parking complaints, 112 parking tickets (104 in Sept 2025); patrol takes noise in progress via the non-emergency line (419) 784-5050; Lt. Bechtol has weekend officers check the downtown blocks of Clinton St on Saturday mornings for sidewalk parking.
+- EMS stats: 8 thank-you notes in September, routed to Lt. Sanderson (ext. 252).
+- Ralston-Clinton signal study: Ralston markings replaced in kind after the Sept 11 paving; no bike lanes on Ralston and none planned.
+- ROW tree list note: private trees are the owner's responsibility; the City Arborist looks only at private limbs over the street or sidewalk, which go to code enforcement for a letter to the owner.
+- Parking: one part-time parking enforcement officer, Tuesday-Friday mornings; two-hour violation $15; warnings Oct 6-9, enforcement from Oct 13, no Saturday ticketing; anything outside those hours goes to the police non-emergency line. Street lights: the city's electrical contractor is Schaublin Electric; cobra-head lights on wood poles belong to the power company.
+- Constituent contact-form dropdown: General question; Streets & Sidewalks; Trash & Recycling; Water / Sewer; Water / Sewer Billing; Parks; Events; Fire and EMS; Police; Planning / Zoning; Opinion on city business; Other.
+- Hammond Street Park restroom: completion moved to Fri Oct 23 after a change order; Building and Zoning final inspection that afternoon; reopening tentatively Mon Oct 26, 1:30 PM.
+- Oct 17 tree planting: 40 trees.
+
+No longer on the drive (don't cite as existing): the Q3 fire training CSV (FF/PM D. Bok's roster source), the FPW plan, the parks Community Partnership Award, the Oct FB post calendar, the FY2026 audit engagement letter (Kemerer, Wenzlick), the debt schedule, Q3 investment report and September income tax report, the $3 senior pool rate, the memorial bench price, the Nov 19 town hall planning document, the old Sept 2026 office letters file, and most 2027 budget requests (Street Dept remains).

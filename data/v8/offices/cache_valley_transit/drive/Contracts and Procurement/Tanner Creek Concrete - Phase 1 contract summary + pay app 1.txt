@@ -1,0 +1,38 @@
+CONTRACT SUMMARY SHEET (procurement file copy)
+
+Contract no.: CVTD-26-014
+Project: Bus Stop Improvements 2026, Phase 1 (concrete boarding pads, 14 stops)
+Contractor: Tanner Creek Concrete LLC, Providence, Utah
+Procurement method: Invitation for bids (sealed). Advertised 8/10/2026; bids opened 8/27/2026.
+Bids received: 4
+  Tanner Creek Concrete LLC ........ $118,600.00 (low)
+  Second bidder .................... $131,250.00
+  Third bidder ..................... $139,900.00
+  Fourth bidder .................... $152,480.00
+Engineer's estimate: $126,000.00
+Board approval: Special board meeting 9/9/2026 (over GM purchasing limit of $100,000). Vote 9-0.
+Federal clauses: FTA third-party contract clauses attached (Buy America certification, Davis-Bacon wage rates, DBE, debarment).
+Funding: FTA Section 5307 capital (80%), district local match (20%).
+Notice to proceed: 9/14/2026. Substantial completion: 10/2/2026 (14 of 14 pads poured).
+Contract administrator: Cody Hales. Procurement file: Teresa Vaughn.
+
+----------------------------------------------------------------------
+PAY APPLICATION NO. 1 (FINAL QUANTITIES)
+Period: 9/14/2026 - 10/2/2026
+Submitted by contractor: 10/5/2026 (Brody, office)
+
+Item  Description                          Qty    Unit   Unit price     Amount
+1     Mobilization                          1      LS     $4,200.00      $4,200.00
+2     Remove sod/park strip, haul off      14      EA       $310.00      $4,340.00
+3     Concrete boarding pad, 6" (per SD-3) 14      EA     $5,450.00     $76,300.00
+4     Shelter pad extension                 3      EA     $3,850.00     $11,550.00
+5     Curb and gutter repair (as directed) 62      LF        $96.00      $5,952.00
+6     Traffic control                       1      LS     $9,650.00      $9,650.00
+7     Restore landscaping                  14      EA       $328.00      $4,592.00
+                                                          Total         $116,584.00
+Less retainage (5%): $5,829.20
+Amount due this application: $110,754.80
+
+Approved for payment: C. Hales 10/6/2026; T. Vaughn 10/6/2026; D. Whitcomb 10/6/2026.
+Paid: check run 10/8/2026.
+Retainage to be released at final acceptance.

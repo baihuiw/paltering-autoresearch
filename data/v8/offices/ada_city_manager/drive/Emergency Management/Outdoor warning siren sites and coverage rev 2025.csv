@@ -1,0 +1,26 @@
+Site,Location,Model class,Rotation,Rated range (70 dB),Primary coverage area,Backup power,Last major service
+1,City Hall roof (S. Townsend),Rotating electromechanical,Yes,0.9 mi,Downtown; Main St corridor,Battery,2023
+2,N. Broadway & 6th St,Rotating electromechanical,Yes,0.9 mi,Northwest downtown; Irving area,Battery,2022
+3,W. 12th St & Hope Ave,Rotating electromechanical,Yes,0.9 mi,West central,Battery,2022
+4,ECU campus (north lot),Rotating electromechanical,Yes,1.0 mi,ECU; Cottage St area,Battery,2024
+5,W. Main St & Monte Vista,Rotating electromechanical,Yes,0.9 mi,West Main; west neighborhoods,Battery,2021
+6,N. Mississippi Ave & Kerr Lab Rd,Rotating electromechanical,Yes,1.0 mi,North Mississippi corridor,Battery,2021
+7,N. Country Club Rd & Stonecipher Blvd,Rotating electromechanical,Yes,0.9 mi,Northeast; Stonecipher area,Battery,2023
+8,Kestrel Park (lodge parking),Rotating electromechanical,Yes,1.0 mi,Kestrel Park; Scenic Dr; south central,Battery,2024
+9,Arlington St & Oak Ave,Rotating electromechanical,Yes,0.9 mi,Arlington corridor; central,Battery,2022
+10,E. Main St & Lonnie Abbott Blvd,Rotating electromechanical,Yes,0.9 mi,East Main; east central,Battery,2023
+11,E. 18th St & Country Club Rd (Fire Sta 3),Rotating electromechanical,Yes,1.0 mi,Country Club Estates; E. 14th-24th,Battery,2020
+12,S. Broadway & 20th St,Rotating electromechanical,Yes,0.9 mi,South Broadway,Battery,2022
+13,S. Rennie & 24th St,Rotating electromechanical,Yes,0.9 mi,South central,Battery,2021
+14,Kings Rd & Sandy Creek Dr,Rotating electromechanical,Yes,1.0 mi,Sandy Creek; Kings Rd area; Brookside,Battery,2020
+15,Airport Rd (municipal airport),Omnidirectional electronic,No,0.8 mi,Airport; industrial park,Battery,2025
+16,W. Richardson Loop & Cradduck Rd,Rotating electromechanical,Yes,1.0 mi,Northwest Loop; Oak Hollow,Battery,2024
+17,S. Mississippi Ave & 32nd St,Rotating electromechanical,Yes,1.0 mi,S. Mississippi south of 24th,Battery,2019
+18,S. Country Club Rd & 30th St,Rotating electromechanical,Yes,0.9 mi,Southeast; Glenwood,Battery,2021
+19,E. Richardson Loop (water tower),Rotating electromechanical,Yes,1.0 mi,East Loop; Richardson Loop neighborhoods,Battery,2020
+20,Service Center (Public Works yard),Omnidirectional electronic,No,0.7 mi,Service Center; north industrial,Battery,2025
+21,Landfill entrance,Omnidirectional electronic,No,0.7 mi,Landfill; rural east,Battery,2025
+,,,,,,,
+"Notes: Outdoor warning sirens are designed to warn people who are outdoors. They are not meant to be heard inside homes, especially with windows closed, HVAC running or in storms. Coverage ranges are rated for calm conditions; wind and terrain reduce them.",,,,,,,
+"Activation: EOC console (primary), Dispatch (backup), manual at pole. Audible test the first Wednesday of each month at noon unless severe weather is possible.",,,,,,,
+"Rev. 2025 by Emergency Management. Coverage map PDF on the EM shared drive.",,,,,,,

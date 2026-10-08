@@ -1,0 +1,21 @@
+Speed display trailer deployments - Aug-Oct 2026,,,,,,,,,,
+"Traffic Unit, Cullman PD (Sgt. T. Whitt). Trailer A = older unit (display + data); Trailer B = new unit (data download by cellular). Speeds in mph. 85th = 85th-percentile speed.",,,,,,,,,,
+Start,End,Trailer,Location,Limit,Vehicles counted,Avg speed,85th,Max,Requested by,Follow-up
+2026-08-03,2026-08-10,A,3rd St SW at the school (school zone),25/15,9840,22,27,49,School resource officer,School zone enforcement weeks 1-2 of school
+2026-08-03,2026-08-10,B,Main Ave SW 1300 block,35,31204,34,40,67,Traffic Unit,Directed patrol 8-11 to 8-14; 22 citations
+2026-08-11,2026-08-18,A,9th St NW 400 block,25,2310,26,31,44,Resident (phone),Speed summary mailed to resident 8-20
+2026-08-11,2026-08-18,B,4th Ave SE 600 block,25,3044,27,32,48,Resident (council mtg July),Enforcement 8-24 to 8-28; 6 citations
+2026-08-19,2026-08-26,A,2nd Ave NE 500 block,25,5602,23,28,41,Traffic Unit,No further action
+2026-08-27,2026-09-03,A,12th St NE 200 block,30,1880,31,36,52,Resident (email),Sent to Engineering for speed study list
+2026-08-27,2026-09-03,B,County Road 1102 at city limit,45,6412,46,53,79,Traffic Unit,Shared with sheriff's office
+2026-09-08,2026-09-15,B,1st Ave SE 300 block,25,4190,24,29,40,Downtown merchant,No further action
+2026-09-08,2026-09-15,A,8th Ave NW 800 block,25,1460,25,30,46,Resident (phone),Speed summary mailed 9-17
+2026-09-22,2026-09-29,A,5th Ave SW 1600 block,25,1312,28,34,52,Council mtg 9-14 (resident),Directed patrol AM 10-5 to 10-16; resident callback pending
+2026-09-22,2026-09-29,B,Main Ave SW 1300 block (repeat),35,30866,33,39,64,Traffic Unit,Grant OT details in Oct
+2026-09-30,2026-10-07,B,7th St NW 500 block,25,2655,26,31,45,Resident (FB message),Speed summary mailed 10-8
+2026-09-30,2026-10-07,A,In shop (display panel),,,,,,,Repaired 10-6
+2026-10-08,2026-10-15,A,11th St SW 500 block,25,1590,27,33,47,Resident (phone),Pending
+2026-10-08,2026-10-15,B,3rd Ave NW 200 block,25,3870,25,30,43,Traffic Unit,No further action
+2026-10-19,2026-10-26,A,6th St SE 100 block (scheduled),25,,,,,Resident (email),
+2026-10-19,2026-10-26,B,5th Ave SW 1600 block (scheduled repeat),25,,,,,Chief W.,Compare after directed patrol
+2026-10-27,2026-11-02,A,4th Ave NE 1000 block (scheduled),25,,,,,Resident (phone),

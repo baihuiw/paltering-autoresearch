@@ -26,7 +26,7 @@ Commercial and industrial meters larger than 1 inch are handled separately by th
 
 ### Who is doing the work?
 
-The installation contractor is Brandt Metering Services, LLC. Installers carry a photo ID badge and drive vehicles marked with the company name and "Contractor for the City of Defiance." If you are unsure about someone at your door, call the Utility Billing Office before letting them in.
+The installation contractor is Brandt Metering Services, LLC. Installers carry a photo ID badge and drive marked vehicles. If you are unsure about someone at your door, call the Utility Billing Office before letting them in.
 
 ### Do I need to be home?
 
@@ -36,7 +36,7 @@ If your meter is inside your home (usually in the basement), yes. You will recei
 
 ### How long will my water be off?
 
-Usually 15 to 30 minutes. If the shutoff valve inside your home will not close completely, the installer may need to shut the water off at the curb, which can take a little longer. If your inside valve is in poor condition, the installer will let you know; repairs to valves and plumbing on the customer's side of the meter are the property owner's responsibility.
+Usually 15 to 30 minutes, a little longer if the water has to be shut off at the curb. Repairs to valves and plumbing on the customer's side of the meter are the property owner's responsibility.
 
 ### Is there a charge for the new meter?
 
@@ -66,11 +66,11 @@ Not yet. An online customer portal showing daily usage is planned once all three
 
 ### What about lead service lines?
 
-Meter replacement does not change your service line. However, during phase 3 installers will record the material of the service line where it enters the meter setting, which helps the City complete its lead service line inventory. If you would like to know what the City's records show for your address, contact the Division of Utilities.
+Meter replacement does not change your service line. During phase 3, installers will record the service line material at the meter setting to help complete the City's lead service line inventory.
 
 ### What if my property is damaged during installation?
 
-Report it to the Utility Billing Office as soon as possible. Brandt Metering Services is required by its contract to carry insurance and to restore lawns and meter pit lids disturbed by its work.
+Report it to the Utility Billing Office. Brandt is required by its contract to restore lawns and meter pit lids disturbed by its work.
 
 ### How do I contact the Utility Billing Office?
 

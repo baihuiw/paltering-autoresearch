@@ -1,0 +1,54 @@
+# Hydrant repair and replacement list, FY2027 (from 7/1/2026) through 10/9/2026. Crew 1 (Ayers). Replacement program WS-26-10: 14 of 40 replaced to date. Repairs with a WO number are also on the distribution WO export. Hydrant IDs: 1- Bedford Central, 2- Forest, 3- Lakes, 5- Stewartsville, 6- Montvale/Goode. Updated R. Tharpe 10/9.
+hydrant_id,location,area,issue_found,action,date,ref,status
+2-214,Perrowville Rd at 1180,Forest,"Barrel cracked, 1958 hydrant, would not drain",Replaced with new 5-1/4in hydrant; flowed and tested,07/08/2026,WS-26-10 #1,Complete
+1-062,Peaks St at Grove St,Bedford,"Old 2-nozzle hydrant, no pumper nozzle",Replaced; new 3-way hydrant,07/09/2026,WS-26-10 #2,Complete - done with main break repair same day
+3-311,Lakeview Dr at 3100 block,Moneta,"Stem bent, would not open fully",Replaced hydrant,07/15/2026,WS-26-10 #3,Complete
+5-027,Hardy Rd at 2400 block,Stewartsville,Leaking at base; flange corroded,Replaced hydrant and 6in gate valve,07/22/2026,WS-26-10 #4,Complete
+1-118,Mountain Ave at 400 block,Bedford,"Obsolete make, no parts available",Replaced hydrant,07/29/2026,WS-26-10 #5,Complete
+2-087,Cottontown Rd at 1300 block,Forest,Low flow on test (under 500 gpm),Replaced hydrant; lead valve exercised,08/05/2026,WS-26-10 #6,Complete
+6-041,Seven Oaks Ln at 900 block,Montvale,Nozzle threads stripped,Replaced hydrant,08/12/2026,WS-26-10 #7,Complete
+3-266,Crab Orchard Rd at 4200 block,Moneta,Barrel leaking below grade,Replaced hydrant,08/19/2026,WS-26-10 #8,Complete
+1-204,Edmund St at Oakwood St,Bedford,Removed for main replacement,New hydrant set by WS-26-12 contractor,08/26/2026,WS-26-12,Complete - not counted in WS-26-10
+2-133,Boonsboro Rd at 1700 block,Forest,Hydrant set too low; mowing damage,Replaced and raised to grade,08/31/2026,WS-26-10 #9,Complete
+2-071,Perrowville Rd at 2071,Forest,Missing nozzle cap,Replaced nozzle cap and gasket; flowed and tested,09/08/2026,WO-26-4309,Complete
+5-019,Hardy Rd at 699,Stewartsville,Leaking at base,Replaced flange gasket,09/11/2026,WO-26-4354,Complete
+3-298,Lakeview Dr at 2900 block,Moneta,Paint faded; flow test due,"Painted; flow tested 980 gpm",09/14/2026,,Complete
+6-112,Goode Station Rd at 4167,Goode,Nozzle cap cracked,Replaced nozzle cap and gasket; flowed and tested,09/16/2026,WO-26-4403,Complete
+6-120,Wheat Ridge Rd at 1221,Goode,Nozzle cap missing,Replaced nozzle cap and gasket; flowed and tested,09/16/2026,WO-26-4409,Complete
+5-033,Hardy Rd at 1336,Stewartsville,Cap gasket worn,Replaced nozzle cap and gasket; flowed and tested,09/17/2026,WO-26-4414,Complete
+6-128,Wheat Ridge Rd at 4044,Goode,Cap seized,Replaced nozzle cap and gasket; flowed and tested,09/18/2026,WO-26-4437,Complete
+2-162,Waterlick Rd at 2200 block,Forest,Body leaking at bonnet,Replaced hydrant,09/18/2026,WS-26-10 #10,Complete
+1-209,Edmund St at 2885,Bedford,Leaking at base,Replaced flange gasket,09/21/2026,WO-26-4440,Complete
+2-098,Thomas Jefferson Rd near shopping center entrance,Forest,Hit and run; hydrant sheared at breakaway flange; water flowing (reported by passerby 9/19),Valve turned off 9/19; replaced hydrant 9/22; police report on file; claim to driver's insurer via Finance,09/22/2026,WS-26-10 #11,Complete - claim open
+6-109,Goode Station Rd at 1280,Goode,Leaking at base,Replaced flange gasket,09/22/2026,WO-26-4478,Complete
+2-105,Thomas Jefferson Rd at 1900 block,Forest,Paint faded; reflective collar missing,Painted; collar replaced,09/23/2026,,Complete
+2-118,Perrowville Rd near Route 221,Forest,Damaged during Sept 10 main repair,Replaced hydrant,09/24/2026,WS-26-10 #12,Complete
+3-305,Lakeview Dr at 3500 block,Moneta,Stem packing leak,Tightened packing nut; monitor,09/25/2026,,Complete
+1-071,Grove St at 600 block,Bedford,Hard to operate,Lubricated operating nut; flowed,09/28/2026,,Complete
+3-330,Harbor Ridge Ln,Moneta,Flow tested after 9/29 repair,Flow tested 820 gpm; normal for 6in main on that ridge,09/30/2026,,Complete
+5-041,Laurel Ridge Dr at 4500 block,Stewartsville,Obsolete make; drains slow,Replaced hydrant,10/01/2026,WS-26-10 #13,Complete
+1-133,Blue Ridge Ave at 300 block,Bedford,Chain missing on caps,Replaced chains,10/02/2026,,Complete
+6-044,Seven Oaks Ln at 619,Montvale,Leaking at base,Replaced flange gasket,10/05/2026,WO-26-4633,Complete
+6-126,Wheat Ridge Rd near 10/6 break,Goode,Used to flush after main repair,Flushed; checked drain,10/06/2026,,Complete
+1-188,Macon St at 871,Bedford,Leaking at base,Replaced flange gasket,10/07/2026,WO-26-4673,Complete
+2-140,Waterlick Rd at 1500 block,Forest,Cracked bonnet,Replaced hydrant,10/07/2026,WS-26-10 #14,Complete
+6-046,Seven Oaks Ln at 248,Montvale,Leaking at base,Replaced flange gasket,10/08/2026,WO-26-4686,Complete
+5-012,Hardy Rd near the church,Stewartsville,"Paint faded; bonnet color from 2014 test (raised at 9/15 board meeting by Ron Tolliver)","Painted, bonnet and caps blue; exercised hydrant and gate valve; replaced pumper cap gasket; flow tested 1,050 gpm (static 72, residual 48; about 1,590 gpm at 20 psi)",09/30/2026,,Complete - ED letter to Mr. Tolliver 10/2; results sent to fire company
+1-141,Crumpacker Dr at Industrial Park,Bedford,Low flow on 2025 test,Replace hydrant,11/2026,WS-26-10,Pending - after flushing
+1-150,Washington St at 200 block,Bedford,Nozzle threads worn,Replace nozzle section,10/14/2026,,Scheduled - before Bedford Central flushing
+1-097,Center St at Bridge St,Bedford,Leaking at drain,Replace drain valve,10/15/2026,,Scheduled - before Bedford Central flushing
+1-224,Oakwood St at 300 block,Bedford,New hydrant (WS-26-12) needs ID tag and blue marker,Tag and marker,10/13/2026,,Scheduled
+2-175,Cottontown Rd at 1100 block,Forest,Hard to operate,Replace operating nut,10/26/2026,,Scheduled - Forest list before Nov 2
+2-188,Boonsboro Rd at 2200 block,Forest,Leaning after ditch work,Re-set plumb,10/27/2026,,Scheduled
+2-196,Route 221 at 3400 block,Forest,Obsolete make,Replace hydrant,11/2026,WS-26-10,Pending - parts on order (Tri-River Waterworks Supply)
+3-277,Crab Orchard Rd at 3800 block,Moneta,Barrel leak suspected,Dig and check; likely replace,11/2026,WS-26-10,Pending
+3-341,Bridgewater Pl,Moneta,Paint faded,Paint,10/28/2026,,Scheduled
+5-055,Laurel Ridge Dr at 2600 block,Stewartsville,Obsolete make,Replace hydrant,12/2026,WS-26-10,Pending
+5-061,Hardy Rd at 3100 block,Stewartsville,Slow drain; freezes in winter,Replace hydrant before cold weather,11/2026,WS-26-10,Pending - priority
+6-133,Wheat Ridge Rd at 3000 block,Goode,Obsolete make,Replace hydrant,12/2026,WS-26-10,Pending
+6-051,Seven Oaks Ln at 1600 block,Montvale,Stem packing leak,Repack stem,10/14/2026,,Scheduled
+1-165,Main St east of Bridge St,Bedford,Cap gasket worn,Replace caps and gaskets,10/15/2026,,Scheduled - before flushing Mon 10/19
+2-151,Thomas Jefferson Rd at 2300 block,Forest,Low flow on 2025 test,Replace hydrant,01/2027,WS-26-10,Pending
+2-109,Perrowville Rd at 2600 block,Forest,Paint faded,Paint,10/29/2026,,Scheduled
+3-319,Lakeview Dr at 4100 block,Moneta,Obsolete make,Replace hydrant,01/2027,WS-26-10,Pending
+1-176,Blue Ridge Ave at 700 block,Bedford,Hard to open,Exercise and lubricate during flushing,10/22/2026,,Scheduled - flushing day

@@ -38,7 +38,7 @@ You do not have to give us any personal information to browse the website. We co
 - pay a utility bill, ticket or fee online;
 - apply for a job with the city.
 
-The information we ask for depends on the service. It may include your name, address, email address, phone number and, for payments, billing information.
+It may include your name, address, email address, phone number and, for payments, billing information.
 
 ## How we use your information
 
@@ -72,17 +72,9 @@ The City of Defiance is a public office subject to the Ohio Public Records Act. 
 
 The city takes reasonable steps to protect the information we collect, including secure connections (HTTPS) for online forms and payments and limited staff access to stored information. No website or internet transmission is completely secure, and we cannot guarantee the security of information you send us online.
 
-## Children
-
-The city's website is intended for a general audience. We do not knowingly collect personal information from children under 13 except where a parent or guardian provides it, for example when registering a child for a parks program.
-
 ## Links to other sites
 
 Our website links to other government agencies, community organizations and businesses for your convenience. When you follow a link to another site, that site's privacy policy applies. The city is not responsible for the content or privacy practices of other sites.
-
-## Accessibility
-
-If you have trouble using any part of our website because of a disability, please contact the Office of the Mayor and we will work with you to provide the information in another format.
 
 ## Changes to this policy
 

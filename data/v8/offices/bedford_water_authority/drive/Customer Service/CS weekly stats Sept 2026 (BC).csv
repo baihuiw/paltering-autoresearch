@@ -1,0 +1,42 @@
+# Customer Service daily and weekly activity, Sept 1 - Oct 2, 2026. Pulled from the phone system report and the billing system by B. Coles 10/5/2026. Calls = Customer Service queue (option 1 and 0) only; option 9 and ext. 8 not included.
+date,day,office_status,calls_offered,calls_answered,avg_wait_min_sec,calls_abandoned,counter_visits,move_ins,move_outs,portal_registrations,autopay_enrollments,leak_adj_requests_received,high_bill_investigations,notes
+09/01/2026,Tue,Open 8-5,231,214,3:55,17,58,9,7,17,9,0,3,Start of month; cycle 3 statements mailed 8/31; usual first-of-month call volume
+09/02/2026,Wed,Open 8-5,219,204,3:40,15,51,8,6,15,8,0,2,Two reps on counter all day; most calls were balance and due date questions
+09/03/2026,Thu,Open 8-5,204,191,3:25,13,47,6,5,14,7,1,2,Steady; several calls asking about the July rate change on the new statement
+09/04/2026,Fri,Open 8-5,188,177,3:10,11,44,7,6,12,6,1,1,Friday before Labor Day; quiet afternoon; drop box emptied at 4:45
+09/05/2026,Sat,Weekend - online only,0,0,,0,0,0,0,6,3,0,0,Holiday weekend; online registrations and AutoPay only
+09/06/2026,Sun,Weekend - online only,0,0,,0,0,0,0,5,2,0,0,Holiday weekend; online registrations and AutoPay only
+WEEK TOTAL 09/01-09/06,,,842,786,3:33,56,200,30,24,69,35,2,8,Weekly total; avg wait weighted by calls offered
+09/07/2026,Mon,Closed - holiday,0,0,,0,0,0,0,8,3,3,0,Labor Day - office closed; 3 leak requests came in by email and drop box
+09/08/2026,Tue,Open 8-5,276,248,5:20,28,66,10,8,19,10,2,4,Day after holiday; callback queue used 31 times
+09/09/2026,Wed,Open 8-5,214,199,3:50,15,52,7,6,15,8,1,2,Normal day; three high-bill calls sent to meter readers for check reads
+09/10/2026,Thu,Open 8-5,418,341,8:45,77,49,6,5,13,6,1,1,Route 221 main break; most calls about no water or low pressure in Forest; Ops took overflow on option 9
+09/11/2026,Fri,Open 8-5,301,268,6:05,33,55,8,7,16,8,3,2,"Boil advisory questions (Forest, 61 accounts); advisory lifted 9/12 4:00 pm"
+09/12/2026,Sat,Weekend - online only,0,0,,0,0,0,0,4,2,0,0,Saturday; boil advisory lifted 9/12 at 4:00 pm (texts and Facebook)
+09/13/2026,Sun,Weekend - online only,0,0,,0,0,0,0,3,1,0,0,Portal maintenance window Sat night into Sun 9/13; update went live about 2 am
+WEEK TOTAL 09/07-09/13,,,1209,1056,6:26,153,222,31,26,78,38,10,9,Weekly total; avg wait weighted by calls offered
+09/14/2026,Mon,Open 8-5,343,297,6:50,46,61,9,7,11,5,1,3,Portal update 9/13 forced password resets; AutoPay link moved under Payments
+09/15/2026,Tue,Open 8-5,312,276,6:15,36,58,8,6,10,6,1,2,Portal reset calls continued; Derek took ext. 8 overflow; FAQ posted on website 2:30 pm; Board meeting 7 pm
+09/16/2026,Wed,Open 8-5,262,241,4:55,21,54,7,6,14,9,1,3,Reset calls tapering after the website FAQ; portal how-to sheet being updated
+09/17/2026,Thu,Open 8-5,221,207,3:45,14,50,7,5,16,9,0,2,Back to normal volume; trench safety refresher for crews (no CS impact)
+09/18/2026,Fri,Open 8-5,198,186,3:20,12,45,6,6,13,7,2,2,Quiet Friday; caught up on scanning leak adjustment receipts
+09/19/2026,Sat,Weekend - online only,0,0,,0,0,0,0,7,3,0,0,Weekend; online registrations and AutoPay only
+09/20/2026,Sun,Weekend - online only,0,0,,0,0,0,0,6,2,0,0,Weekend; online registrations and AutoPay only
+WEEK TOTAL 09/14-09/20,,,1336,1207,5:17,129,268,37,30,77,41,5,12,Weekly total; avg wait weighted by calls offered
+09/21/2026,Mon,Open 8-5,237,220,4:10,17,57,9,7,15,8,1,3,New ED started; counter tour 10:30
+09/22/2026,Tue,Open 8-5,214,201,3:35,13,53,8,6,14,8,0,2,Normal; one rep out sick in the afternoon
+09/23/2026,Wed,Open 8-5,206,194,3:30,12,49,7,6,13,7,1,2,One rep at lead line training 1-3 pm
+09/24/2026,Thu,Open 8-5,219,205,3:45,14,52,8,7,15,8,0,3,Counter busy at lunch; two landlord agreements signed
+09/25/2026,Fri,Open 8-5,192,181,3:05,11,48,9,9,12,7,1,2,End of month moves picking up; online start-service form requests up
+09/26/2026,Sat,Weekend - online only,0,0,,0,0,0,0,8,4,0,0,Weekend; several online start-service requests for month-end moves
+09/27/2026,Sun,Weekend - online only,0,0,,0,0,0,0,7,3,0,0,Weekend; online start-service requests processed Monday
+WEEK TOTAL 09/21-09/27,,,1068,1001,3:38,67,259,41,35,84,45,3,12,Weekly total; avg wait weighted by calls offered
+09/28/2026,Mon,Open 8-5,244,226,4:20,18,63,12,11,16,9,2,3,Newsletter FINAL; bill insert goes with October bills
+09/29/2026,Tue,Open 8-5,229,213,3:55,16,61,13,14,15,8,1,2,Harbor Ridge Ln repair in Moneta; a few low pressure calls routed to option 9
+09/30/2026,Wed,Open 8-5,256,234,4:40,22,72,16,18,17,10,1,3,Month end; heavy move-in/move-out counter traffic
+10/01/2026,Thu,Open 8-5,268,246,4:50,22,69,14,12,18,11,1,4,Oct 1 cycle billed; fall newsletter in bills
+10/02/2026,Fri,Open 8-5,221,206,3:50,15,56,9,8,14,8,0,3,Normal Friday; Oct 5-9 numbers will come in the Friday email
+WEEK TOTAL 09/28-10/02,,,1218,1125,4:20,93,321,64,63,80,46,5,15,Weekly total; avg wait weighted by calls offered
+SEPT 2026 TOTAL,,21 business days,5184,4723,4:48,461,1145,180,158,356,186,24,49,Sept 1-30; Labor Day closed; abandoned rate 8.9%
+AUG 2026 TOTAL,,21 business days,4612,4307,3:50,305,1094,171,158,296,164,19,47,For comparison (from August report)
+SEPT 2025 TOTAL,,21 business days,5034,4561,4:35,473,1187,164,151,231,118,22,51,Prior year; Sept 2025 had the billing software conversion

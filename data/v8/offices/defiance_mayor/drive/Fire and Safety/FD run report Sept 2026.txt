@@ -36,25 +36,12 @@ The 90th percentile for all emergency responses was 8:40, up from 8:05 in Septem
 FIRE / OTHER INCIDENTS BY TYPE (NFIRS series)
 ------------------------------------------------------------
 
-100 Fire ......................................... 9
-  Structure fires (111-123) ....................... 3
-  Cooking fire, confined (113) .................... 2
-  Vehicle fires (131) ............................. 2
-  Brush/grass (140s) .............................. 2
-300 Rescue and EMS assist (non-transport) ........ 18
-  Motor vehicle accidents with injury ............. 11
-  Lift assists ................................... 7
-400 Hazardous condition, no fire ................. 12
-  Gas leak (natural gas/LP) ....................... 6
-  Power line down ................................ 4
-  Carbon monoxide incident ........................ 2
-500 Service call ................................. 21
-  Lockout ......................................... 5
-  Water problem ................................... 4
-  Smoke or odor removal ........................... 3
-  Public service assistance ....................... 9
-600 Good intent call ............................. 14
-700 False alarm / false call ..................... 34
+100 Fire (structure 3, cooking 2, vehicle 2, brush 2) ........ 9
+300 Rescue and EMS assist (MVA 11, lift assist 7) ........... 18
+400 Hazardous condition, no fire (gas 6, wires 4, CO 2) ..... 12
+500 Service call (lockout, water, smoke removal, assist) .... 21
+600 Good intent call ....................................... 14
+700 False alarm / false call ............................... 34
   Alarm system activation, no fire (malfunction) .. 16
   Unintentional (cooking, steam, testing) ......... 13
   Sprinkler activation or supervisory, no fire .... 3
@@ -100,15 +87,9 @@ Medic 3 .......... In service (cross-staffed when staffing at minimum)
 Utility 1 ........ In service
 Car 1, Car 2 ..... In service
 
-------------------------------------------------------------
-STAFFING AND OVERTIME
-------------------------------------------------------------
+STAFFING AND OVERTIME: Minimum staffing was met on all 30 days. Overtime hours: 412 (September 2025: 371), mainly covering two firefighters on injury leave and one paramedic class. Both injured firefighters are expected back in October.
 
-Minimum staffing was met on all 30 days. Overtime hours: 412 (September 2025: 371), mainly covering two firefighters on injury leave and one paramedic class. Both injured firefighters are expected back in October.
-
-------------------------------------------------------------
 NOTES
-------------------------------------------------------------
 
 - Alarm activations with no fire (700 series) remain about one-third of all fire-side runs. Repeat locations are being shared with the Fire Prevention Bureau so that owners can be contacted about maintenance.
 - The new inspection software and the records system now share the occupancy list, so incident locations can be matched to inspection records.

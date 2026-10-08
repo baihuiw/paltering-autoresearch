@@ -1,53 +1,4 @@
 ticket,opened,closed,requested_by,department,category,system,description,assigned_to,status,resolution_notes
-IT-26-0612,2026-07-01,2026-07-01,A. Marquardt,Finance,Hardware,Printer,Finance office printer jamming on tray 2,B. Rohrs,Closed,Replaced pickup roller.
-IT-26-0613,2026-07-01,2026-07-02,J. Hench,Mayor's Office,Account,Email,Front desk shared mailbox not showing in Outlook,B. Rohrs,Closed,Re-added mailbox permissions.
-IT-26-0614,2026-07-02,2026-07-02,R. Dunlap,Engineering,Software,CAD,CAD license expired on Engineering workstation 2,B. Rohrs,Closed,Renewed license key from annual renewal.
-IT-26-0615,2026-07-06,2026-07-06,C. Fenstermaker,Parks,Hardware,Laptop,Pool office laptop won't charge,B. Rohrs,Closed,New charger issued.
-IT-26-0616,2026-07-06,2026-07-08,Police Records,Police,Network,Network,Slow network at police records desk,Contract tech,Closed,Bad patch cable replaced at switch.
-IT-26-0617,2026-07-07,2026-07-07,H. Brubaker,Mayor's Office,Software,Website,Add summer concert schedule page to website,H. Brubaker,Closed,Done by requester; IT approved publish.
-IT-26-0618,2026-07-07,2026-07-07,S. Cline,Law,Account,Password,Password reset,B. Rohrs,Closed,Reset.
-IT-26-0619,2026-07-08,2026-07-09,Income Tax,Income Tax,Software,Tax system,Tax software update prompt; users can't install,B. Rohrs,Closed,Installed update on 3 workstations.
-IT-26-0620,2026-07-09,2026-07-09,Fire/EMS,Fire/EMS,Hardware,Desktop,Station 1 day room PC won't boot,B. Rohrs,Closed,Reseated RAM; working.
-IT-26-0621,2026-07-10,2026-07-10,T. Wiechers,Service,Phone,Phone,Voicemail not forwarding to email,B. Rohrs,Closed,Re-enabled voicemail-to-email.
-IT-26-0622,2026-07-13,2026-07-14,Council Clerk,Council,Software,Agenda system,Agenda packet PDF too large to upload,B. Rohrs,Closed,Compressed PDF; raised upload limit to 40 MB.
-IT-26-0623,2026-07-13,2026-07-13,Building Dept,Building,Hardware,Printer,Plotter out of ink,B. Rohrs,Closed,Ink ordered and installed.
-IT-26-0624,2026-07-14,2026-07-14,C. Fenstermaker,Parks,Data export,Parks registration,"Export summer camp registrations (child name, parent name, phone) for camp staff sign-in sheets",B. Rohrs,Closed,Export saved to Parks shared folder on city network. Not emailed.
-IT-26-0625,2026-07-15,2026-07-15,A. Marquardt,Finance,Account,Accounting system,New user setup for seasonal finance clerk,B. Rohrs,Closed,Read-only access set up; expires 8/31.
-IT-26-0626,2026-07-16,2026-07-16,H. Brubaker,Mayor's Office,Software,Social media,Facebook scheduling tool asking for re-login every day,B. Rohrs,Closed,Cleared browser cache; set to remember device.
-IT-26-0627,2026-07-17,2026-07-17,Police Records,Police,Account,Password,Password reset (2 users),B. Rohrs,Closed,Reset.
-IT-26-0628,2026-07-20,2026-07-21,Service Dept,Service,Hardware,Tablet,Street crew tablet screen cracked,B. Rohrs,Closed,Sent for warranty repair; loaner issued.
-IT-26-0629,2026-07-20,2026-07-20,J. Hench,Mayor's Office,Hardware,Phone,Front desk headset static,B. Rohrs,Closed,Replaced headset.
-IT-26-0630,2026-07-21,2026-07-22,R. Dunlap,Engineering,Network,VPN,VPN drops when working from field office,Contract tech,Closed,Updated VPN client; stable.
-IT-26-0631,2026-07-22,2026-07-22,Council Clerk,Council,Software,Video,Council meeting video upload failed,B. Rohrs,Closed,Re-uploaded from backup recording.
-IT-26-0632,2026-07-23,2026-07-23,Income Tax,Income Tax,Hardware,Scanner,Scanner skipping pages,B. Rohrs,Closed,Cleaned rollers.
-IT-26-0633,2026-07-24,2026-07-24,H. Brubaker,Mayor's Office,Software,E-news platform,Ward list for Second Ward notice showing wrong count,B. Rohrs,Closed,"Filter was set to ""contains""; changed to ""equals"". Count correct (943)."
-IT-26-0634,2026-07-27,2026-07-28,Fire/EMS,Fire/EMS,Network,Wi-Fi,Station 2 Wi-Fi drops in bay,Contract tech,Closed,Added access point in apparatus bay.
-IT-26-0635,2026-07-28,2026-07-28,S. Cline,Law,Software,PDF,Can't sign PDFs electronically,B. Rohrs,Closed,Installed signing certificate.
-IT-26-0636,2026-07-29,2026-07-29,A. Marquardt,Finance,Security,Email,Suspicious email claiming to be a vendor asking to change bank account,B. Rohrs,Closed,Phishing. Blocked sender; reminded Finance to call vendors to confirm any banking change.
-IT-26-0637,2026-07-30,2026-07-30,Parks,Parks,Hardware,Printer,Pool office receipt printer offline,B. Rohrs,Closed,Reconnected to Wi-Fi.
-IT-26-0638,2026-07-31,2026-07-31,Building Dept,Building,Software,Permits system,Permit fee not calculating on fence permits,Contract tech,Closed,Fee table entry missing; added.
-IT-26-0639,2026-08-03,2026-08-03,M. Ostrander,Mayor's Office,Account,Password,Password reset,B. Rohrs,Closed,Reset.
-IT-26-0640,2026-08-03,2026-08-04,Service Dept,Service,Software,Work orders,Work order app not syncing photos,B. Rohrs,Closed,App update installed on 6 tablets.
-IT-26-0641,2026-08-04,2026-08-04,H. Brubaker,Mayor's Office,Software,Website,Storm debris pickup banner on home page,H. Brubaker,Closed,Done by requester; IT approved publish.
-IT-26-0642,2026-08-05,2026-08-05,Police Records,Police,Hardware,Desktop,Records PC very slow,B. Rohrs,Closed,Replaced hard drive with SSD.
-IT-26-0643,2026-08-06,2026-08-06,Council Clerk,Council,Account,Email,Set up email for new council intern,B. Rohrs,Closed,Account created; expires 12/18.
-IT-26-0644,2026-08-07,2026-08-07,Income Tax,Income Tax,Data export,Tax system,Export of withholding accounts for State Auditor fieldwork,B. Rohrs,Closed,File placed on auditor's secure portal per Finance Director. Logged.
-IT-26-0645,2026-08-10,2026-08-10,C. Fenstermaker,Parks,Phone,Phone,Pool phone line dead,B. Rohrs,Closed,Line was unplugged at the pool office.
-IT-26-0646,2026-08-11,2026-08-12,R. Dunlap,Engineering,Hardware,Monitor,Request second monitor,B. Rohrs,Closed,Installed from spares.
-IT-26-0647,2026-08-12,2026-08-12,J. Hench,Mayor's Office,Hardware,Copier,Copier showing toner error,B. Rohrs,Closed,Replaced toner.
-IT-26-0648,2026-08-13,2026-08-13,A. Marquardt,Finance,Software,Excel,Budget workbook crashing,B. Rohrs,Closed,Repaired Office install.
-IT-26-0649,2026-08-14,2026-08-14,Fire/EMS,Fire/EMS,Account,Password,Password reset,B. Rohrs,Closed,Reset.
-IT-26-0650,2026-08-17,2026-08-18,Building Dept,Building,Hardware,Tablet,Inspector tablet battery swelling,B. Rohrs,Closed,Removed from service; replacement ordered.
-IT-26-0651,2026-08-18,2026-08-18,Police Records,Police,Security,Email,Staff member clicked link in phishing email,B. Rohrs,Closed,Password reset; no sign-ins from outside. Reminded staff.
-IT-26-0652,2026-08-19,2026-08-19,H. Brubaker,Mayor's Office,Software,E-news platform,Image not displaying in pool closing notice preview,H. Brubaker,Closed,Image file was too large; resized. No IT action needed.
-IT-26-0653,2026-08-20,2026-08-21,Service Dept,Service,Network,Network,Service garage internet down,Contract tech,Closed,Provider outage; restored 8/21 9:40 AM.
-IT-26-0654,2026-08-21,2026-08-21,Council Clerk,Council,Software,Agenda system,Add new agenda template for special meetings,B. Rohrs,Closed,Template added.
-IT-26-0655,2026-08-24,2026-08-24,S. Cline,Law,Hardware,Printer,Law office printer offline,B. Rohrs,Closed,Restarted print spooler.
-IT-26-0656,2026-08-25,2026-08-26,A. Marquardt,Finance,Account,Accounting system,Remove access for seasonal finance clerk,B. Rohrs,Closed,Disabled.
-IT-26-0657,2026-08-26,2026-08-26,Parks,Parks,Data export,Parks registration,Export fall program registrations for Parks Director,B. Rohrs,Closed,Saved to Parks shared folder. Not emailed.
-IT-26-0658,2026-08-27,2026-08-27,J. Hench,Mayor's Office,Hardware,Desktop,Front desk PC asking for updates at login,B. Rohrs,Closed,Updates installed after hours.
-IT-26-0659,2026-08-28,2026-08-28,Income Tax,Income Tax,Account,Password,Password reset,B. Rohrs,Closed,Reset.
-IT-26-0660,2026-08-31,2026-09-01,R. Dunlap,Engineering,Software,GIS,GIS map layers not loading,Contract tech,Closed,Server certificate renewed.
 IT-26-0661,2026-09-01,2026-09-01,Fire/EMS,Fire/EMS,Hardware,Printer,Station 1 printer jam,B. Rohrs,Closed,Cleared.
 IT-26-0662,2026-09-02,2026-09-03,M. Ostrander,Mayor's Office,Account,Email,Archive mailbox and calendar for the previous mayor (resignation effective 9/2),B. Rohrs,Closed,Mailbox archived per records retention schedule; account disabled; mayor@ shared mailbox access removed.
 IT-26-0663,2026-09-02,2026-09-02,H. Brubaker,Mayor's Office,Software,Website,Update Mayor page to show office in transition,H. Brubaker,Closed,Done by requester; IT approved publish.
@@ -88,7 +39,7 @@ IT-26-0697,2026-10-01,2026-10-01,R. Dunlap,Engineering,Software,Website,Post Hop
 IT-26-0698,2026-10-01,2026-10-01,J. Hench,Mayor's Office,Account,Password,Password reset,B. Rohrs,Closed,Reset.
 IT-26-0699,2026-10-01,2026-10-02,Income Tax,Income Tax,Hardware,Scanner,Scanner not detected after Windows update,B. Rohrs,Closed,Reinstalled driver.
 IT-26-0700,2026-10-02,2026-10-02,Police Records,Police,Network,Network,Records printer unreachable,B. Rohrs,Closed,IP conflict; assigned static address.
-IT-26-0701,2026-10-02,2026-10-03,M. Ostrander,Mayor's Office,Data export,E-news platform,"Turn on export for H. Brubaker; full e-news subscriber list export (name, email, ward)",B. Rohrs / H. Brubaker,Closed,"Export permission enabled 10/2 4:40 PM. Export run 10/3 by H. Brubaker, 4,213 records. File sent to D. Wellman (Friends of Paul Haverkamp) at danawellman.def@gmail.com per M. Ostrander. Export permission removed 10/5."
+IT-26-0701,2026-10-02,2026-10-03,M. Ostrander,Mayor's Office,Data export,E-news platform,"Turn on export for H. Brubaker; full e-news subscriber list (name, email, ward)",B. Rohrs / H. Brubaker,Closed,"Export run 10/3 by H. Brubaker, 4,213 records; file sent to D. Wellman (Friends of Paul Haverkamp) at danawellman.def@gmail.com for the campaign kickoff invitation per M. Ostrander. Export permission on 10/2 4:40 PM, removed 10/5."
 IT-26-0702,2026-10-05,2026-10-05,C. Fenstermaker,Parks,Account,Password,Password reset,B. Rohrs,Closed,Reset.
 IT-26-0703,2026-10-05,2026-10-05,Council Clerk,Council,Software,Video,Live stream audio out of sync,Contract tech,Closed,Encoder settings corrected.
 IT-26-0704,2026-10-05,2026-10-06,A. Marquardt,Finance,Hardware,Laptop,Laptop for budget presentations,B. Rohrs,Closed,Loaner ML-03 issued through 11/30.

@@ -1,0 +1,52 @@
+Date,Day,Space,Start,End,Booked by / event,Type,Paid,Notes
+10/17/2026,Sat,Main hall,10:00 AM,3:00 PM,Birthday party (Garza),Resident rental,Yes,
+10/18/2026,Sun,Main hall,1:00 PM,5:00 PM,Family reunion (Tuck family),Non-resident rental,Yes,Setup service
+10/20/2026,Tue,Room B,6:30 PM,8:00 PM,Neighborhood watch - W. side,Nonprofit,Yes,Monthly
+10/22/2026,Thu,Main hall,5:30 PM,8:00 PM,Ward 1 neighborhood meeting (Council Member Bledsoe),City,n/a,Meeting 6:00-7:30; 60 chairs theater style
+10/23/2026,Fri,Main hall,5:00 PM,10:00 PM,Quinceanera rehearsal dinner,Resident rental,Yes,
+10/24/2026,Sat,Main hall,2:00 PM,9:00 PM,Quinceanera (Ramos),Resident rental,Yes,Deposit $100; DJ until 9
+10/25/2026,Sun,Main hall,12:00 PM,4:00 PM,Church fellowship lunch,Nonprofit,Yes,
+10/27/2026,Tue,Room B,6:30 PM,8:00 PM,Garden club,Nonprofit,Yes,
+10/29/2026,Thu,Main hall,6:00 PM,9:00 PM,Harvest party - youth group,Nonprofit,Yes,
+10/30/2026,Fri,Main hall,4:00 PM,9:00 PM,Halloween party (Pruneda),Resident rental,Yes,
+10/31/2026,Sat,Main hall,--,--,OPEN - held for city use (downtown trick-or-treat overflow if rain),City hold,n/a,Release by 10/26 if not needed
+11/01/2026,Sun,Main hall,1:00 PM,5:00 PM,Baby shower (Lowe),Resident rental,Yes,
+11/02/2026,Mon,Main hall,4:00 PM,8:00 PM,County election board - setup,County agreement,n/a,Polling place setup
+11/03/2026,Tue,Main hall,5:00 AM,9:00 PM,ELECTION DAY - polling place,County agreement,n/a,Building closed to other uses all day
+11/05/2026,Thu,Room B,10:00 AM,12:00 PM,Free tax prep volunteer training,Nonprofit,Yes,
+11/07/2026,Sat,Main hall,11:00 AM,4:00 PM,Birthday party (Stroud),Resident rental,Yes,
+11/08/2026,Sun,Main hall,2:00 PM,5:00 PM,Bridal shower (Akers),Resident rental,Yes,
+11/12/2026,Thu,Main hall,6:00 PM,8:30 PM,Parks - youth basketball coaches meeting,City,n/a,
+11/14/2026,Sat,Main hall,9:00 AM,1:00 PM,Craft fair setup,Nonprofit,Yes,
+11/14/2026,Sat,Main hall,1:00 PM,6:00 PM,Holiday craft fair (Senior Citizens' Club),Nonprofit,Yes,Rate per nonprofit policy
+11/15/2026,Sun,Main hall,1:00 PM,5:00 PM,Anniversary party (Holt),Resident rental,Yes,
+11/17/2026,Tue,Room B,6:30 PM,8:00 PM,Neighborhood watch - W. side,Nonprofit,Yes,Monthly
+11/19/2026,Thu,Main hall,6:00 PM,9:00 PM,Company dinner (local employer),Resident rental,Yes,
+11/21/2026,Sat,Main hall,4:00 PM,10:00 PM,Wedding reception (Doyle-Pace),Non-resident rental,Yes,Setup service
+11/22/2026,Sun,Main hall,12:00 PM,4:00 PM,Thanksgiving community meal - prep,Nonprofit,Yes,
+11/24/2026,Tue,Main hall,10:00 AM,2:00 PM,Thanksgiving community meal,Nonprofit,Yes,Free and open to public
+11/26/2026,Thu,--,--,--,CLOSED - Thanksgiving,Holiday,n/a,
+11/27/2026,Fri,--,--,--,CLOSED - city holiday,Holiday,n/a,
+11/28/2026,Sat,Main hall,10:00 AM,3:00 PM,Birthday party (Kinney),Resident rental,Yes,
+11/29/2026,Sun,Main hall,1:00 PM,5:00 PM,HOLD - baby shower (caller did not leave name),Hold,No,Hold expired 10/16 - release
+12/03/2026,Thu,Main hall,6:00 PM,9:00 PM,Office holiday party,Resident rental,Yes,
+12/04/2026,Fri,Main hall,6:00 PM,10:00 PM,Holiday party (veterans auxiliary),Nonprofit,Yes,
+12/05/2026,Sat,Main hall,9:00 AM,2:00 PM,Cookie walk (church women's group),Nonprofit,Yes,
+12/05/2026,Sat,Main hall,4:00 PM,10:00 PM,Holiday party (Daniels),Resident rental,Yes,
+12/06/2026,Sun,Main hall,1:00 PM,6:00 PM,Holiday open house (sorority alumnae),Nonprofit,Yes,
+12/10/2026,Thu,Main hall,6:00 PM,9:00 PM,Parks - youth basketball draft night,City,n/a,
+12/11/2026,Fri,Main hall,5:00 PM,10:00 PM,Holiday party (medical clinic staff),Resident rental,Yes,
+12/12/2026,Sat,Main hall,9:00 AM,12:00 PM,Scout troop holiday workshop,Nonprofit,Yes,Includes cleanup
+12/12/2026,Sat,Main hall,--,--,OPEN 12:00-5:30 PM,--,--,Afternoon available
+12/12/2026,Sat,Main hall,6:00 PM,10:00 PM,Holiday party (Whitaker),Resident rental,Yes,Setup starts 6:00
+12/13/2026,Sun,Main hall,1:00 PM,5:00 PM,Baby shower (Ortiz),Resident rental,Yes,
+12/15/2026,Tue,Room B,6:30 PM,8:00 PM,Neighborhood watch - W. side,Nonprofit,Yes,Monthly
+12/17/2026,Thu,Main hall,5:30 PM,8:30 PM,City employee holiday potluck,City,n/a,
+12/18/2026,Fri,Main hall,5:00 PM,10:00 PM,Holiday party (Brannon),Resident rental,Yes,
+12/19/2026,Sat,Main hall,10:00 AM,2:00 PM,Toy distribution (charity),Nonprofit,Yes,Setup 12/18 after 10 PM by arrangement
+12/19/2026,Sat,Main hall,5:00 PM,10:00 PM,Holiday party (Nguyen),Resident rental,Yes,
+12/20/2026,Sun,Main hall,2:00 PM,6:00 PM,Family Christmas (Ledford),Non-resident rental,Yes,
+12/24/2026,Thu,--,--,--,CLOSED - Christmas Eve (city holiday),Holiday,n/a,
+12/25/2026,Fri,--,--,--,CLOSED - Christmas,Holiday,n/a,
+12/26/2026,Sat,Main hall,12:00 PM,5:00 PM,Family Christmas (Sanchez),Resident rental,Yes,
+12/31/2026,Thu,Main hall,7:00 PM,10:00 PM,New Year's Eve party (Mendez),Resident rental,Yes,Must clear by 10:30 PM - told renter

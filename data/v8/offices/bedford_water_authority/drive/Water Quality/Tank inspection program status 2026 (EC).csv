@@ -1,0 +1,15 @@
+# Storage tank inspection program - status as of 10/9/2026. Five-year cycle per BRWA practice; ROV = remotely operated vehicle inspection by contractor. Working copy, E. Castellaw.
+tank,zone_served,status,last_inspection,findings,recommendation,next_action_or_due
+Cove Point,Lakes Central,In service,Washout/ROV 6/2024,Coating fair; minor rust at overflow,Re-inspect 2029,2029
+Graves Knob,Forest Central,In service,ROV 9/22/2026,Good; light sediment,None; next ROV 2031,2031
+Ashmoor Hill,"Ashmoor (Briar Glen, Ashmoor Estates)",IN SERVICE - drain/clean/repair booked 11/16-11/20; Cl2 boosted at booster,ROV 9/23/2026,Vent screen torn away; roof hatch gasket failed; 3-5 in sediment; remains of at least 2 birds on floor,"Piedmont: remove from service, drain, clean, disinfect and repair vent/hatch before return to service",11/16/2026
+Lone Pine,Forest Central,In service,ROV 9/24/2026,Good; ladder cage bolts loose (fixed 9/30),None; next ROV 2031,2031
+Hardy Road standpipe,Stewartsville,In service,Washout 4/2025,Good,Next ROV 2030,2030
+Oakridge,Bedford Central,In service,ROV 5/2023,Fair; interior coating 70 pct,Recoat in FY2029 CIP,2028
+Smith Hollow,Bedford Central,In service,Washout 10/2022,Good,ROV due 2027,2027
+Harbor Ridge,Lakes Central,In service,ROV 7/2025,Good,Next ROV 2030,2030
+Westlake booster clearwell,Lakes Central,In service,Visual 3/2026,Good,Annual visual,2027
+Kinsey Mountain,Forest Central,In service,ROV 8/2024,Fair; exterior chalking,Exterior repaint FY2028,2029
+Peaks View,Bedford Central,In service,Washout 11/2023,Good,ROV due 2028,2028
+Valley Mills well system tank,Valley Mills (wells),In service,Visual 6/2026,Good,Annual visual,2027
+Sunset Ridge,Lakes Central,Out of service 6/1-7/15/2026 (recoat) - back in service,Post-recoat 7/2026,New coating,Warranty inspection 7/2027,2027

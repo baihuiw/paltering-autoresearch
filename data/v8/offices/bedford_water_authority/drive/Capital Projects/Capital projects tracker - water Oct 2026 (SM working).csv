@@ -1,0 +1,15 @@
+# Water system capital projects - working tracker. Sewer projects are on the wastewater CIP sheets. Updated weekly by Engineering (S. Mehra).
+id,project,status_notes,phase,budget,funding,pm,updated
+WS-26-01,Sheffield Hollow water line extension,"Low bidder Dellwood withdrew 10/5 after its bid expired 10/3 (VDH concurrence pkg not sent until 10/1); award to 2nd low Craddock $1,468,000 (+$258,400) on 10/20 agenda; owner share now $9,658/lot (was $7,958 at low bid)",Bid/award,"1,605,000",DWSRF loan 75% + owners 25%,S. Mehra,10/09/2026
+WS-26-02,"Route 460 corridor 12-inch main, phase 2",Design 90 pct; easements 11 of 14 signed,Design,"2,240,000",Revenue bonds 2025,S. Mehra,10/02/2026
+WS-26-04,Lead service line inventory - field verification,"2,180 unknowns verified to date (of 3,400); none lead; 41 galvanized found and scheduled",Ongoing,"350,000",Operating + DWSRF planning grant,E. Castellaw,10/08/2026
+WS-26-05,Central WTP filter 3 and 4 media and underdrain,Contractor mobilized 9/28; filter 3 offline through 11/6,Construction,"780,000",Revenue bonds 2025,W. Lipscomb,10/08/2026
+WS-26-06,Smith Mountain Lake WTP membrane cartridges (expansion set),Joint project; partner authority ordering; our share invoiced in Jan,Procurement,"410,000",Capital reserve,W. Lipscomb,09/30/2026
+WS-26-07,Waterlick Rd booster pump station rehab,Bids due 11/12,Bid,"520,000",Capital reserve,S. Mehra,10/05/2026
+WS-26-08,Sunset Ridge tank recoat,Complete 7/15; final payment 9/18; warranty walk 7/2027,Closeout,"615,000",Revenue bonds 2025,S. Mehra,09/18/2026
+WS-26-09,Meter replacement - Lakes Central cycle 2,Deferred to FY2028 at budget adoption (May),Deferred,"900,000",TBD,G. Ashworth,07/01/2026
+WS-26-10,Hydrant replacement program FY27,14 of 40 replaced,Ongoing,"160,000",Operating,R. Tharpe,10/09/2026
+WS-26-11,Stewartsville interconnect valve vault,Design complete; bid in spring,Design,"190,000",Capital reserve,S. Mehra,09/25/2026
+WS-26-12,Bedford Central 8-inch replacement - Oakwood/Edmund,Substantially complete 9/30; paving punch list,Construction,"645,000",Revenue bonds 2025,S. Mehra,10/07/2026
+WS-26-13,SCADA radio upgrade - tanks and boosters,8 of 19 sites cut over,Construction,"275,000",Capital reserve,D. Sowers,10/06/2026
+WS-26-14,Rt 221 12-inch transmission main - emergency repair 9/10,"Repair complete; final $131,600; permanent paving done 9/29",Closeout,"131,600",Operating (BA No. 1),R. Tharpe,10/01/2026

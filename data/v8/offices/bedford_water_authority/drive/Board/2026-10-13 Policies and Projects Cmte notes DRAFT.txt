@@ -1,0 +1,42 @@
+POLICIES AND PROJECTS COMMITTEE - NOTES (DRAFT)
+Tuesday, October 13, 2026, 5:30 p.m., Authority Annex conference room
+
+Present: Tom Hylton (chair), Doug Ferrell, Sandra Quarles.
+Staff: Sanjay Mehra, Director of Engineering; Wade Lipscomb, Director of Operations; Warren Kessinger, Executive Director. Notes by T. Halvorsen from the recording.
+Public: one (the appellant under item 5).
+
+Called to order 5:31 p.m. Item 5 was taken first so the appellant would not have to wait; notes keep agenda order.
+
+1. BULK WATER FILL STATION - RULES REFRESH AND CARD READER REPLACEMENT
+Mr. Lipscomb presented an update to the fill station rules (last revised 2021). The station is at the Operations yard gate, 1723 Falling Creek Road, entered by the side drive past the Annex. Hours stay Monday-Friday, 7:00 a.m. to 3:30 p.m., closed Authority holidays; rate $12.50 per 1,000 gallons. Proposed changes:
+- Set a 500-gallon minimum per fill.
+- Require a $100 minimum prepaid balance on each bulk water account (application at the Customer Service counter, $25), up from $50.
+- Put in writing what staff already check: the hauling container and hose must keep an air gap, the container must be used for potable water only, and no container that has ever held chemicals, fuel or wastewater may be filled.
+- State plainly that there are no walk-up sales and no buckets or jugs.
+On Mr. Ferrell's question about pools: customers usually fill from their own tap and can ask Customer Service for the once-a-year pool-fill sewer credit before filling, or hire a licensed hauler who buys at the station. The sheet will say so.
+Card reader: the original 2013 reader is no longer supported. The replacement is scheduled for the week of October 26. The card system will be down October 27-28; fills those two days are attended only, by appointment with Operations (ext. 5). Staff will email the 23 active bulk accounts and post a notice at the gate.
+Consensus: forward the revised rules to the Board as information; no vote needed since the rate is unchanged.
+
+2. BEDFORD CENTRAL HYDRANT FLUSHING
+Mr. Lipscomb reviewed the schedule: October 19-30, weekdays 8 a.m. to 4 p.m., Crew 1 (Ayers) plus a second two-person flushing team. Monday Peaks, Bridge and Main (east of Bridge); Tuesday Grove, Oakwood, Edmund and Center; Wednesday Macon, Mountain Ave and Washington; Thursday Blue Ridge Ave, Crumpacker Dr and the industrial park area; Friday October 23 the Route 460 business corridor, flushed at night from 9 p.m. to 1 a.m. so businesses are not affected. October 26-30 covers outlying Bedford Central streets and make-up days. Forest Central follows November 2-13.
+Ms. Quarles asked that Main Street businesses get a flyer as well as the Facebook post; staff will hand-deliver flyers October 15-16. Discolored water the next morning: call Customer Service, ext. 1.
+
+3. DEVELOPER POLICY - AVAILABILITY LETTER PROCESS (PROPOSED UPDATE)
+Mr. Mehra presented proposed revisions to the developer policy for new connections. Today a builder or owner asks Engineering for a water and sewer availability letter, which is free and takes about five business days. The letter says whether a main is in front of the lot and whether sewer is available. Proposed changes:
+- Accept requests through the website contact form ("New service / connection fees"), and require the tax map number with each request.
+- Make letters valid for 12 months, after which the builder must request an update.
+- For subdivisions of five or more lots, require a pre-application meeting with Engineering before any letter is issued.
+Mr. Ferrell asked about lots already sold with a letter in hand; Mr. Mehra said existing letters would be honored for 12 months from adoption.
+Staff will bring a redline to the November committee meeting; the full Board would act in December.
+
+4. STEWARTSVILLE INTERCONNECT VALVE VAULT (WS-26-11)
+Mr. Mehra reported that design is at 60 percent. The vault replaces a buried valve at the interconnect on Hardy Road that cannot be operated safely. Staff recommends bidding in late February for spring construction, after the frost period, with the work done in a low-demand window in April. Estimated cost $185,000 in the FY2027 capital budget. About two weeks of traffic control on Hardy Road; VDOT permit application in January. Committee agreed.
+
+5. CUSTOMER APPEAL - METER TEST CHARGE
+Mr. Leonard Fitch, Huddleston, appealed the $50 charge for a meter test he requested in August after a high summer bill. The meter was pulled on August 20 and bench tested at 99.2 percent accuracy at low flow and 99.6 percent at normal flow, within the industry standard of 98.5 to 101.5 percent. Under the rate schedule there is no charge only if the meter is found defective. Mr. Fitch said he was not told about the charge; Customer Service notes show it was explained on the August 14 call.
+Mr. Fitch later found an irrigation timer that had reset after a power outage.
+Motion by Ms. Quarles, second by Mr. Ferrell, to deny the appeal and uphold the $50 charge, and to ask Customer Service to state the charge in writing on future meter test confirmations. Carried 3-0. Mr. Kessinger will send the decision letter this week.
+
+Adjourned at 6:52 p.m. Next meeting: Tuesday, November 10, 5:30 p.m.
+
+DRAFT TH 10/14/26 - for committee review before the 10/20 packet

@@ -1,0 +1,50 @@
+# Daily fire danger readings, county fire danger rating area (RAWS station La Junta), Sept 1 - Oct 16, 2026. ERC = energy release component percentile. RFW = red flag warning. Burn = fire districts' open-burn status. KO
+Date,Rain (in),Max temp F,Min RH %,Max gust mph,ERC pctl,RFW,Burn status,Note
+09/01,0.00,90,20,28,88,N,Restricted (Stage 1),
+09/02,0.00,87,24,28,86,N,Restricted (Stage 1),
+09/03,0.00,92,30,38,79,N,No - wind,
+09/04,0.42,87,51,30,66,N,Restricted (Stage 1),
+09/05,0.71,93,35,25,58,N,Restricted (Stage 1),
+09/06,0.38,87,37,22,55,N,Restricted (Stage 1),
+09/07,0.21,90,57,18,53,N,Restricted (Stage 1),
+09/08,0.08,91,28,30,52,N,Restricted (Stage 1),
+09/09,0.00,92,16,25,51,N,Restricted (Stage 1),
+09/10,0.00,85,30,34,52,N,Restricted (Stage 1),
+09/11,0.00,86,26,18,54,N,Restricted (Stage 1),
+09/12,0.00,84,17,18,55,N,Restricted (Stage 1),
+09/13,0.00,92,29,22,56,N,Restricted (Stage 1),
+09/14,0.00,91,25,28,57,N,Restricted (Stage 1),Board lifts Stage 1 (Res. 2026-57) eff. 9/15
+09/15,0.00,84,19,22,59,N,Permit only,
+09/16,0.00,87,30,38,61,N,No - wind,
+09/17,0.00,87,17,38,62,N,No - wind,
+09/18,0.00,93,14,38,64,N,No - wind,
+09/19,0.00,92,17,18,66,N,Permit only,
+09/20,0.00,89,27,22,68,N,Permit only,
+09/21,0.00,79,32,28,70,N,Permit only,
+09/22,0.00,82,29,30,72,N,Permit only,
+09/23,0.00,78,12,28,74,N,Permit only,
+09/24,0.00,85,9,22,75,N,Permit only,
+09/25,0.00,86,9,30,76,N,Permit only,
+09/26,0.02,73,13,25,77,N,Permit only,
+09/27,0.00,81,10,34,76,N,Permit only,
+09/28,0.00,79,25,25,78,N,Permit only,BOCC briefed; no restrictions requested
+09/29,0.00,75,10,18,79,N,Permit only,
+09/30,0.00,71,26,22,79,N,Permit only,
+10/01,0.00,75,11,42,81,Y,No - RFW,Red flag warning
+10/02,0.00,77,11,36,82,Y,No - RFW,"Grass fire (about 1,150 ac); RFW 12-8 p.m."
+10/03,0.00,72,22,22,74,N,Permit only,
+10/04,0.00,83,29,38,71,N,No - wind,
+10/05,0.00,79,30,18,70,N,Permit only,
+10/06,0.00,78,16,38,70,N,No - wind,
+10/07,0.00,83,24,18,62,N,Permit only,Rain overnight; districts resume burn permits 10/9
+10/08,0.38,73,40,28,60,N,Permit only,
+10/09,0.06,64,19,22,61,N,Permit only,
+10/10,0.00,78,23,22,63,N,Permit only,
+10/11,0.00,67,15,22,65,N,Permit only,
+10/12,0.00,78,26,30,67,N,Permit only,
+10/13,0.00,71,30,25,68,N,Permit only,
+10/14,0.00,75,19,38,69,N,No - wind,
+10/15,0.00,71,19,34,70,N,Permit only,
+10/16,0.00,76,25,34,71,N,Permit only,
+
+# Notes: ERC criterion for recommending Stage 1 = 80th pctl or higher 5+ days in a row plus two other factors (see the OEM restrictions fact sheet). Not met since Stage 1 was lifted. Next review with fire chiefs: Mon 10/19 phone call, 8 a.m.

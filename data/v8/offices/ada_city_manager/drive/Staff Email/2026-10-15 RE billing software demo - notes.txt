@@ -1,0 +1,53 @@
+Conversation: RE: billing software demo - notes
+Exported from mailbox: mdellinger@adaok.com
+Messages: 2 (oldest first)
+
+======================================================================
+From: Gloria Nix <gnix@adaok.com>
+To: Marcy Dellinger <mdellinger@adaok.com>
+Cc: Neil Hartsock <nhartsock@adaok.com>
+Date: Thu, Oct 15, 2026 4:48 PM
+Subject: billing software demo - notes
+
+Marcy, Neil,
+
+My notes from this afternoon's demo while they're fresh. Overall I liked it better than the one we saw in the spring, but I have questions before we go further.
+
+Where we are now (for comparison)
+- Active utility accounts: 7,652
+- On bank draft: 1,912 (25%). Still paper enrollment only - customer fills out the form and brings or mails a voided check, and my staff keys it in. We get 30-40 new bank draft forms a month, more in the fall (snowbirds and ECU people).
+- Recurring card payments through the portal: 640
+- Paperless e-bill: 1,180
+- Paying at the counter or drop box: roughly 2,900 a month. That's what keeps the counter line long on the 14th and 15th.
+
+What the new system does that ours doesn't
+1. Customers can enroll in bank draft online with the routing and account number - no paper form, no voided check. It verifies the account with a small trial deposit. This alone would save us hours every month.
+2. Text and email reminders before the due date, and a text when a payment posts.
+3. Customers can see daily usage from the AMR meters (only about 1,200 of our meters can do that today).
+4. "Vacation mode" - customer enters dates away and gets a text if usage shows up while they're gone. Good for the people who winter out of state.
+5. Payment arrangements can be set up by staff in the system instead of on a paper card in my desk drawer.
+
+Concerns
+- Conversion: they want us to clean up about 400 accounts with bad mailing addresses before we convert. That's real work with the clerk position still open.
+- The bank draft customers would have to be moved over without re-enrolling. Vendor says yes, but I want that in writing. If 1,900 people have to sign up again we'll have a mess.
+- Training: two days on-site, rest by video. Not enough for the counter staff in my opinion.
+- Go-live: they suggested April. I'd rather avoid April-May (spring move-outs at ECU) and go live in July with the new fiscal year.
+
+Cost numbers are in their quote; I'll leave those to you.
+
+Until anything changes, we keep doing bank draft the way we do now: form at the counter or on the website, voided check, forms in by the 1st start that month.
+
+Gloria
+
+======================================================================
+From: Marcy Dellinger <mdellinger@adaok.com>
+To: Gloria Nix <gnix@adaok.com>
+Cc: Neil Hartsock <nhartsock@adaok.com>
+Date: Fri, Oct 16, 2026 8:12 AM
+Subject: RE: billing software demo - notes
+
+Thanks Gloria, this is helpful. Agree on a July go-live if we do it, and agree the bank draft migration has to be in the contract. I'll ask for references from two cities our size that converted in the last two years, and the reference calls go on our calendar before we make a recommendation to Neil in mid-November.
+
+On the clerk position: HR has 9 applicants. Interviews the week of Oct 26. Let's get the new clerk trained on the current system first.
+
+Marcy

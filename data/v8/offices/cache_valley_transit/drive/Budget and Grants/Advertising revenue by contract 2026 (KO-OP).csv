@@ -1,0 +1,21 @@
+Ad contract,Advertiser type,Sign type,Buses,Start,End,Rate per 4-wk period,Periods in 2026,2026 revenue,Status
+AD-26-01,Credit union,King,4,01/05/2026,12/27/2026,"$1,440",13,"$18,720",Active
+AD-26-02,Car dealer,King + Tail,3,01/05/2026,06/14/2026,"$1,725",6,"$10,350",Ended
+AD-26-03,Hospital system (recruiting),King,3,02/02/2026,12/27/2026,"$1,185",12,"$14,220",Active
+AD-26-04,USU (events),Interior system-wide,26,08/17/2026,12/06/2026,$650,4,"$2,600",Active
+AD-26-05,Apartment complex,King,2,03/02/2026,10/31/2026,$790,9,"$7,110",Active - renewal pending
+AD-26-06,Restaurant,Tail,3,03/30/2026,08/16/2026,$750,5,"$3,750",Ended
+AD-26-07,Credit union (second),King,3,05/25/2026,10/31/2026,"$1,185",6,"$7,110",Active - renewal pending
+AD-26-08,Car dealer,King + Tail,2,08/17/2026,02/07/2027,"$1,150",5,"$5,750",Active
+AD-26-09,Pharmacy (flu shots),Interior system-wide,26,09/14/2026,11/08/2026,$650,2,"$1,300",Active
+AD-26-10,Staffing agency,Tail,4,09/14/2026,12/06/2026,$900,3,"$2,700",Active
+AD-26-11,Gym,Rear window,3,09/14/2026,12/06/2026,"$1,350",3,"$4,050",Active
+AD-26-12,Nonprofit (public service rate),Tail,2,09/14/2026,12/06/2026,$375,3,"$1,125",Active - PSA rate 25% off
+AD-26-13,Dentist,King,1,04/27/2026,07/19/2026,$395,3,"$1,185",Ended
+AD-26-14,Local band (concert),Interior cards,10,06/22/2026,07/19/2026,$300,1,$300,Ended
+AD-26-15,Clean air group (PSA),Interior system-wide,26,10/12/2026,12/06/2026,$488,2,$975,Active - PSA rate; approved by GM 9/25
+,,,,,,,,,
+Total 2026 contracted,,,,,,,,"$81,245",
+Plus production pass-through and replacement fees,,,,,,,,"$3,980",
+Projected 2026 advertising revenue,,,,,,,,"$85,225",Budget $84000
+"Notes: Rates per the 2026 rate card (volume discounts apply). Renewals for AD-26-05 and AD-26-07 would add about $5,950 for the last two periods of December if signed by 11/15. Exterior installs by the advertising installer (PO 26-0390).",,,,,,,,,

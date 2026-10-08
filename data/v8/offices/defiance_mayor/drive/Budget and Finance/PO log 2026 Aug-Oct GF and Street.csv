@@ -1,237 +1,89 @@
 PO No,PO Date,Fund,Fund Name,Department,Account,Vendor,Description,Amount,Type,Approved By,Status
-26-03922,2026-08-03,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,Sweeper parts,1162.15,Regular,R. Diehl,Paid
-26-03926,2026-08-03,101,General,Parks & Rec,101.0310.53400,Marlowe Printing,Door hangers,195.23,Regular,C. Fenstermaker,Paid
-26-03930,2026-08-03,101,General,Fire/EMS,101.0220.52400,Northwest Ohio Uniform Co.,Uniforms - new hire issue,1666.06,Regular,D. Rummel,Paid
 26-03932,2026-08-03,101,General,Parks & Rec,101.0310.53300,Schlatter Communications,Mobile radio install,765.44,Regular,C. Fenstermaker,Paid
 26-03937,2026-08-04,201,Street (SCMR),Street,201.0510.52500,Auglaize Auto Parts,"Filters, belts, wipers",369.59,Regular,R. Diehl,Paid
-26-03939,2026-08-04,101,General,Fire/EMS,101.0220.52400,Riverside Uniform & Linen,Uniform rental - monthly invoice,574.36,Blanket,D. Rummel,Open
-26-03944,2026-08-04,101,General,City Building,101.0410.53200,Vogelsang Pest Control,Pest control - monthly,108.10,Blanket,T. Wiechers,Open
 26-03949,2026-08-05,101,General,Parks & Rec,101.0310.52500,Brenneman Lawn & Equipment,Chainsaw chain and bar,1127.56,Regular,C. Fenstermaker,Paid
-26-03950,2026-08-05,101,General,Police,101.0210.52500,Defiance Tire & Alignment,Tire repair,440.87,Regular,Chief S. Wenninger,Paid
-26-03955,2026-08-06,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,Sweeper parts,567.73,Regular,R. Diehl,Open
-26-03957,2026-08-06,101,General,City Building,101.0410.52200,Ridgeline Safety Products,"Safety vests, gloves, glasses",638.98,Regular,T. Wiechers,Paid
 26-03960,2026-08-07,101,General,Finance,101.0130.53400,Marlowe Printing,Business cards,1284.47,Regular,A. Marquardt,Paid
-26-03965,2026-08-07,101,General,Law,101.0140.53500,Ohio Municipal League,Legislative workshop registration,351.70,Regular,S. Cline,Paid
-26-03968,2026-08-07,101,General,Police,101.0210.53300,Rathburn Office Systems,Copier service call,508.37,Regular,Chief S. Wenninger,Closed
-26-03972,2026-08-10,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Oxygen cylinders refill,399.57,Regular,D. Rummel,Paid
 26-03975,2026-08-10,101,General,Parks & Rec,101.0310.53300,Mid-City Auto Body,Body repair - rear bumper,897.62,Regular,C. Fenstermaker,Closed
-26-03979,2026-08-10,101,General,Council/Clerk,101.0120.53500,Ohio Municipal League,Registration - annual conference,243.31,Regular,S. Moll,Open
-26-03982,2026-08-10,101,General,Mayor's Office,101.0110.53500,Ohio Municipal League,Legislative workshop registration,87.22,Regular,M. Ostrander,Paid
 26-03987,2026-08-10,101,General,Council/Clerk,101.0120.53500,Ohio Municipal League,Registration - annual conference,304.82,Regular,S. Moll,Paid
-26-03988,2026-08-10,201,Street (SCMR),Street,201.0510.52200,Ridgeline Safety Products,Hi-vis jackets,51.23,Regular,R. Diehl,Open
-26-03990,2026-08-10,101,General,City Building,101.0410.52200,Ridgeline Safety Products,First aid kit refills,1193.54,Regular,T. Wiechers,Paid
-26-03993,2026-08-11,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,Sweeper brooms,176.27,Regular,R. Diehl,Paid
 26-03998,2026-08-11,101,General,Parks & Rec,101.0310.53300,Mid-City Auto Body,Body repair - rear bumper,3131.85,Regular,C. Fenstermaker,Paid
-26-04001,2026-08-11,101,General,Finance,101.0130.55100,Northpoint Computer Services,UPS battery backup,684.88,Regular,A. Marquardt,Paid
 26-04005,2026-08-11,201,Street (SCMR),Street,201.0510.52200,Northwest Traffic Signs & Supply,Sign blanks and posts,2542.37,Regular,R. Diehl,Open
 26-04007,2026-08-11,101,General,Parks & Rec,101.0310.53300,Shindeldecker Electric,Lighting retrofit - LED,2879.11,Regular,C. Fenstermaker,Paid
-26-04011,2026-08-12,101,General,Police,101.0210.53300,Holgate Ave. Auto Service,Diagnostic - check engine,338.29,Regular,Chief S. Wenninger,Open
-26-04014,2026-08-12,201,Street (SCMR),Street,201.0510.53300,Kessler Tool & Die,Machine shaft for mower deck,788.85,Regular,R. Diehl,Closed
 26-04016,2026-08-12,101,General,Parks & Rec,101.0310.53300,Kessler Tool & Die,Welding repair - plow frame,1640.23,Regular,C. Fenstermaker,Open
-26-04017,2026-08-12,101,General,Police,101.0210.53100,Town & Country Veterinary,K-9 vaccinations,391.13,Regular,Chief S. Wenninger,Closed
-26-04019,2026-08-13,101,General,Police,101.0210.53300,Hensel Plumbing & Heating,Restroom repairs,1654.58,Regular,Chief S. Wenninger,Open
 26-04022,2026-08-13,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Perennials,424.21,Regular,R. Diehl,Closed
-26-04027,2026-08-13,101,General,Police,101.0210.53200,Vogelsang Pest Control,Pest control - monthly,82.00,Blanket,Chief S. Wenninger,Open
-26-04029,2026-08-14,201,Street (SCMR),Street,201.0510.52500,Fruchey Truck Equipment,Spreader parts,3969.85,Regular,R. Diehl,Paid
-26-04031,2026-08-14,101,General,Law,101.0140.53100,Kiefer Court Reporting,Transcript,441.71,Regular,S. Cline,Open
 26-04034,2026-08-14,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Glucose test strips,3524.49,Regular,D. Rummel,Open
-26-04035,2026-08-14,101,General,Parks & Rec,101.0310.52200,Meyer Landscape Supply,Edging,1468.85,Regular,C. Fenstermaker,Paid
-26-04037,2026-08-14,201,Street (SCMR),Street,201.0510.53300,Noggle Overhead Door,Door opener replacement,2551.91,Regular,R. Diehl,Paid
-26-04040,2026-08-14,101,General,Mayor's Office,101.0110.53300,Rathburn Office Systems,Copier overage charges,456.36,Regular,M. Ostrander,Paid
 26-04043,2026-08-14,101,General,Fire/EMS,101.0220.52200,Ridgeline Safety Products,Rain gear,551.67,Regular,D. Rummel,Paid
-26-04044,2026-08-14,201,Street (SCMR),Street,201.0510.53300,Spangler Small Engine,Small engine repair,342.22,Regular,R. Diehl,Paid
-26-04048,2026-08-14,101,General,Police,101.0210.53100,Town & Country Veterinary,K-9 veterinary care,582.98,Regular,Chief S. Wenninger,Paid
 26-04049,2026-08-17,101,General,Fire/EMS,101.0220.52500,Auglaize Auto Parts,Hydraulic hose and fittings,180.69,Regular,D. Rummel,Open
-26-04054,2026-08-17,101,General,Police,101.0210.53300,Defiance Lock & Key,"Padlocks, keyed alike",549.44,Regular,Chief S. Wenninger,Paid
-26-04056,2026-08-17,101,General,Police,101.0210.52200,Kreinbrink Janitorial Supply,Hand soap refills,811.34,Regular,Chief S. Wenninger,Paid
-26-04060,2026-08-17,101,General,Fire/EMS,101.0220.53300,Noggle Overhead Door,Overhead door repair,2279.01,Regular,D. Rummel,Closed
 26-04064,2026-08-17,101,General,Engineering,101.0160.55100,Northpoint Computer Services,Laptop - replacement,828.21,Regular,R. Dunlap,Paid
-26-04065,2026-08-17,101,General,Fire/EMS,101.0220.52400,Northwest Ohio Uniform Co.,Duty boots,2100.56,Regular,D. Rummel,Paid
-26-04066,2026-08-18,101,General,Fire/EMS,101.0220.52200,Corner Hardware & Rental,"Fasteners, hinges, locks",340.82,Regular,D. Rummel,Open
-26-04068,2026-08-18,101,General,Law,101.0140.53100,Kiefer Court Reporting,Transcript,372.86,Regular,S. Cline,Open
 26-04071,2026-08-18,201,Street (SCMR),Street,201.0510.52200,Northwest Traffic Signs & Supply,Traffic cones and barricades,1299.19,Regular,R. Diehl,Paid
 26-04073,2026-08-19,201,Street (SCMR),Street,201.0510.52500,Fruchey Truck Equipment,Plow cutting edges,2039.23,Regular,R. Diehl,Closed
-26-04076,2026-08-19,101,General,Council/Clerk,101.0120.53100,Ottawa River Legal Publishing,Codification supplement,1537.29,Regular,S. Moll,Closed
-26-04078,2026-08-19,101,General,Parks & Rec,101.0310.53300,Shindeldecker Electric,Outlet and circuit added,3740.32,Regular,C. Fenstermaker,Open
 26-04083,2026-08-20,201,Street (SCMR),Street,201.0510.52500,Defiance Tire & Alignment,Tires - mower,1855.19,Regular,R. Diehl,Paid
-26-04085,2026-08-20,101,General,City Building,101.0410.52200,Fort Industrial Supply,Hydraulic fittings,127.69,Regular,T. Wiechers,Open
-26-04086,2026-08-20,201,Street (SCMR),Street,201.0510.53300,Mid-City Auto Body,Body repair - rear bumper,502.01,Regular,R. Diehl,Paid
-26-04087,2026-08-20,101,General,Income Tax,101.0135.55100,Northpoint Computer Services,UPS battery backup,1142.61,Regular,A. Marquardt,Paid
 26-04088,2026-08-20,101,General,Mayor's Office,101.0110.53300,Rathburn Office Systems,Copier overage charges,477.36,Regular,M. Ostrander,Closed
-26-04089,2026-08-20,201,Street (SCMR),Street,201.0510.52200,Sixmile Asphalt Products,Asphalt for utility cuts,2544.81,Regular,R. Diehl,Paid
-26-04090,2026-08-24,101,General,Police,101.0210.52500,Auglaize Auto Parts,Batteries,768.43,Regular,Chief S. Wenninger,Open
-26-04091,2026-08-24,101,General,Parks & Rec,101.0310.52100,Clinton Street Office Supply,Envelopes #10 window,707.70,Regular,C. Fenstermaker,Closed
 26-04092,2026-08-24,101,General,Parks & Rec,101.0310.53400,Marlowe Printing,Printed forms - permit applications,728.30,Regular,C. Fenstermaker,Closed
 26-04093,2026-08-24,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Trees - fall planting,636.20,Regular,R. Diehl,Paid
-26-04098,2026-08-24,101,General,Finance,101.0130.55100,Northpoint Computer Services,Docking stations,1655.16,Regular,A. Marquardt,Open
-26-04100,2026-08-25,101,General,Fire/EMS,101.0220.52200,Kreinbrink Janitorial Supply,Hand soap refills,109.67,Regular,D. Rummel,Open
 26-04104,2026-08-25,101,General,Police,101.0210.52300,Lauber Fuel & Oil,Unleaded fuel - bulk delivery,4649.02,Blanket,Chief S. Wenninger,Open
-26-04108,2026-08-25,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Concrete cylinder tests,1013.13,Regular,R. Dunlap,Paid
-26-04111,2026-08-25,201,Street (SCMR),Street,201.0510.52200,Valley Farm Supply,"Topsoil, bulk",1503.67,Regular,R. Diehl,Paid
-26-04112,2026-08-26,201,Street (SCMR),Street,201.0510.52300,Lauber Fuel & Oil,"Motor oil, bulk",1996.91,Regular,R. Diehl,Paid
 26-04117,2026-08-26,101,General,Building & Zoning,101.0170.53400,Marlowe Printing,Printed forms - permit applications,1351.76,Regular,T. Wiechers,Paid
-26-04121,2026-08-26,201,Street (SCMR),Street,201.0510.52400,Riverside Uniform & Linen,Uniform rental - weekly,589.49,Blanket,R. Diehl,Open
-26-04125,2026-08-26,201,Street (SCMR),Street,201.0510.52200,Valley Farm Supply,"Topsoil, bulk",652.05,Regular,R. Diehl,Paid
-26-04129,2026-08-27,101,General,Parks & Rec,101.0310.53300,Kessler Tool & Die,Welding repair - plow frame,1768.95,Regular,C. Fenstermaker,Closed
 26-04134,2026-08-27,101,General,Law,101.0140.53100,Kiefer Court Reporting,Transcript,445.92,Regular,S. Cline,Paid
-26-04138,2026-08-27,101,General,Fire/EMS,101.0220.52200,Kreinbrink Janitorial Supply,Floor cleaner and wax,926.51,Regular,D. Rummel,Open
-26-04139,2026-08-27,101,General,Parks & Rec,101.0310.53300,Mid-City Auto Body,Body repair - rear bumper,446.87,Regular,C. Fenstermaker,Paid
 26-04141,2026-08-27,101,General,Parks & Rec,101.0310.53300,Spangler Small Engine,Pump service,464.80,Regular,C. Fenstermaker,Paid
-26-04142,2026-08-28,101,General,Parks & Rec,101.0310.52500,Brenneman Lawn & Equipment,Chainsaw chain and bar,1419.31,Regular,C. Fenstermaker,Paid
-26-04143,2026-08-28,101,General,Engineering,101.0160.53300,Holgate Ave. Auto Service,Tire rotation and alignment,298.16,Regular,R. Dunlap,Closed
 26-04146,2026-08-28,101,General,Parks & Rec,101.0310.52200,Northwest Traffic Signs & Supply,Sign blanks and posts,3870.44,Regular,C. Fenstermaker,Open
-26-04147,2026-08-28,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Concrete cylinder tests,158.24,Regular,R. Dunlap,Paid
 26-04148,2026-08-28,201,Street (SCMR),Street,201.0510.52200,Valley Farm Supply,Fence posts and wire,565.89,Regular,R. Diehl,Paid
-26-04153,2026-08-31,101,General,Council/Clerk,101.0120.53500,Ohio Municipal League,Legislative workshop registration,202.44,Regular,S. Moll,Paid
-26-04154,2026-09-01,101,General,Police,101.0210.53300,Mid-City Auto Body,Body repair - rear bumper,1908.82,Regular,Chief S. Wenninger,Open
-26-04155,2026-09-01,101,General,Fire/EMS,101.0220.52400,Northwest Ohio Uniform Co.,Uniforms - new hire issue,1774.73,Regular,D. Rummel,Paid
 26-04156,2026-09-01,101,General,Council/Clerk,101.0120.53500,Ohio Municipal League,Registration - annual conference,319.72,Regular,S. Moll,Closed
 26-04160,2026-09-01,201,Street (SCMR),Street,201.0510.52200,Sixmile Asphalt Products,Tack coat,6425.72,Regular,R. Diehl,Paid
-26-04165,2026-09-02,201,Street (SCMR),Street,201.0510.52500,Brenneman Lawn & Equipment,Chainsaw chain and bar,293.68,Regular,R. Diehl,Paid
-26-04170,2026-09-02,101,General,Police,101.0210.52500,Defiance Tire & Alignment,Tires - pickup,1748.81,Regular,Chief S. Wenninger,Closed
 26-04173,2026-09-02,101,General,Parks & Rec,101.0310.52200,Heckler Stone & Aggregate,Infield mix,3844.13,Regular,C. Fenstermaker,Open
-26-04174,2026-09-02,101,General,Engineering,101.0160.55100,Northpoint Computer Services,Desktop PC replacement,2097.17,Regular,R. Dunlap,Paid
-26-04175,2026-09-02,201,Street (SCMR),Street,201.0510.52400,Riverside Uniform & Linen,Uniform rental - monthly invoice,831.09,Blanket,R. Diehl,Open
-26-04178,2026-09-02,101,General,Police,101.0210.53100,Town & Country Veterinary,K-9 veterinary care,454.57,Regular,Chief S. Wenninger,Paid
 26-04182,2026-09-03,101,General,Parks & Rec,101.0310.53300,Defiance Glass & Mirror,Window repair,1072.26,Regular,C. Fenstermaker,Open
-26-04187,2026-09-03,101,General,Police,101.0210.53300,Hensel Plumbing & Heating,Water heater repair,241.17,Regular,Chief S. Wenninger,Paid
-26-04188,2026-09-03,101,General,Law,101.0140.53100,Kiefer Court Reporting,Deposition transcript,821.92,Regular,S. Cline,Paid
-26-04190,2026-09-03,101,General,Fire/EMS,101.0220.52200,Kreinbrink Janitorial Supply,"Paper towels, tissue, liners",216.48,Regular,D. Rummel,Paid
 26-04193,2026-09-03,101,General,Police,101.0210.53300,Rathburn Office Systems,Copier overage charges,358.68,Regular,Chief S. Wenninger,Paid
-26-04195,2026-09-04,101,General,Police,101.0210.52200,Kreinbrink Janitorial Supply,Ice melt - bagged,432.83,Regular,Chief S. Wenninger,Closed
 26-04199,2026-09-04,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Trees - fall planting,1685.18,Regular,R. Diehl,Paid
-26-04204,2026-09-04,101,General,Parks & Rec,101.0310.53400,Wiemken Sign Co.,Vinyl lettering,1386.18,Regular,C. Fenstermaker,Closed
 26-04207,2026-09-07,101,General,Parks & Rec,101.0310.53300,Defiance Lock & Key,Locksmith service,700.48,Regular,C. Fenstermaker,Closed
-26-04208,2026-09-07,201,Street (SCMR),Street,201.0510.52200,Fort Industrial Supply,Hydraulic fittings,303.10,Regular,R. Diehl,Paid
-26-04209,2026-09-07,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Glucose test strips,1328.40,Regular,D. Rummel,Closed
-26-04212,2026-09-07,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Oxygen cylinders refill,1036.50,Regular,D. Rummel,Paid
 26-04214,2026-09-07,101,General,Parks & Rec,101.0310.53300,Shindeldecker Electric,Pole light repair,1276.72,Regular,C. Fenstermaker,Paid
-26-04215,2026-09-08,201,Street (SCMR),Street,201.0510.52300,Lauber Fuel & Oil,Fuel - Labor Day week bulk delivery,4126.85,Regular,R. Diehl,Closed
-26-04217,2026-09-09,101,General,Law,101.0140.53100,Ottawa River Legal Publishing,Codification supplement,443.72,Regular,S. Cline,Closed
-26-04222,2026-09-09,101,General,Parks & Rec,101.0310.52200,Ridgeline Safety Products,"Safety vests, gloves, glasses",688.05,Regular,C. Fenstermaker,Paid
 26-04226,2026-09-10,201,Street (SCMR),Street,201.0510.52200,Heckler Stone & Aggregate,Crushed limestone - alley maintenance,3296.33,Regular,R. Diehl,Paid
-26-04227,2026-09-10,101,General,Law,101.0140.53100,Ottawa River Legal Publishing,Legal notices,2280.79,Regular,S. Cline,Paid
 26-04231,2026-09-10,101,General,City Building,101.0410.53400,Wiemken Sign Co.,Park sign panels,506.82,Regular,T. Wiechers,Paid
-26-04234,2026-09-11,101,General,Parks & Rec,101.0310.52500,Brenneman Lawn & Equipment,Mower blades and parts,938.90,Regular,C. Fenstermaker,Open
 26-04239,2026-09-11,101,General,Council/Clerk,101.0120.52100,Clinton Street Office Supply,Desk calendars and planners 2027,571.95,Regular,S. Moll,Paid
-26-04240,2026-09-11,101,General,Mayor's Office,101.0110.52100,Clinton Street Office Supply,Business cards and letterhead stock - Mayor Haverkamp,242.18,Regular,M. Ostrander,Paid
-26-04241,2026-09-11,101,General,Fire/EMS,101.0220.52500,Defiance Tire & Alignment,Tires - pickup,1664.52,Regular,D. Rummel,Open
-26-04244,2026-09-11,101,General,Council/Clerk,101.0120.53100,Ottawa River Legal Publishing,Codification supplement,391.66,Regular,S. Moll,Closed
 26-04248,2026-09-11,101,General,Parks & Rec,101.0310.52200,Valley Farm Supply,Grass seed and straw,1008.64,Regular,C. Fenstermaker,Paid
-26-04251,2026-09-14,101,General,Parks & Rec,101.0310.52500,Auglaize Auto Parts,Shop supplies,451.08,Regular,C. Fenstermaker,Paid
-26-04254,2026-09-14,101,General,Law,101.0140.53500,Ohio Municipal League,Registration - annual conference,135.16,Regular,S. Cline,Open
-26-04257,2026-09-14,101,General,Council/Clerk,101.0120.53100,Ottawa River Legal Publishing,Legal notices,1420.96,Regular,S. Moll,Paid
 26-04262,2026-09-15,201,Street (SCMR),Street,201.0510.53300,Holgate Ave. Auto Service,Tire rotation and alignment,753.57,Regular,R. Diehl,Open
-26-04267,2026-09-15,101,General,Income Tax,101.0135.55100,Northpoint Computer Services,Docking stations,1263.14,Regular,A. Marquardt,Open
-26-04268,2026-09-15,101,General,Fire/EMS,101.0220.53200,Precision Fire Equipment Testing,"SCBA annual flow testing, 46 packs",3956.00,Regular,D. Rummel,Paid
 26-04269,2026-09-16,101,General,Parks & Rec,101.0310.52500,Defiance Tire & Alignment,Tires - pickup,2706.48,Regular,C. Fenstermaker,Paid
-26-04271,2026-09-16,101,General,Parks & Rec,101.0310.52200,Fort Industrial Supply,Hydraulic fittings,472.70,Regular,C. Fenstermaker,Paid
-26-04272,2026-09-16,101,General,Parks & Rec,101.0310.52200,Kreinbrink Janitorial Supply,Mop heads and buckets,379.69,Regular,C. Fenstermaker,Paid
-26-04273,2026-09-16,101,General,Building & Zoning,101.0170.55100,Northpoint Computer Services,Docking stations,1094.73,Regular,T. Wiechers,Open
 26-04276,2026-09-16,101,General,Finance,101.0130.53300,Rathburn Office Systems,Copier overage charges,466.54,Regular,A. Marquardt,Paid
 26-04277,2026-09-16,101,General,Safety-Service,101.0150.53100,Ridgeway Comp Services,"Workers' comp group rating enrollment fee, policy year 2027 (BOC 9/14/26)",4850.00,Regular,Board of Control,Paid
-26-04279,2026-09-16,201,Street (SCMR),Street,201.0510.53300,Schlatter Communications,Mobile radio install,1320.53,Regular,R. Diehl,Paid
-26-04284,2026-09-16,101,General,Police,101.0210.53200,Vogelsang Pest Control,Pest control - quarterly,94.73,Blanket,Chief S. Wenninger,Open
-26-04287,2026-09-17,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Edging,465.55,Regular,R. Diehl,Closed
 26-04291,2026-09-17,101,General,City Building,101.0410.52400,Riverside Uniform & Linen,Uniform rental - monthly invoice,524.92,Blanket,T. Wiechers,Open
-26-04295,2026-09-17,201,Street (SCMR),Street,201.0510.52200,Sixmile Asphalt Products,Tack coat,3321.80,Regular,R. Diehl,Paid
-26-04296,2026-09-18,201,Street (SCMR),Street,201.0510.53300,Kessler Tool & Die,Machine shaft for mower deck,1218.23,Regular,R. Diehl,Paid
 26-04297,2026-09-18,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Glucose test strips,2758.74,Regular,D. Rummel,Open
-26-04299,2026-09-18,101,General,Police,101.0210.53300,Rathburn Office Systems,Copier overage charges,367.96,Regular,Chief S. Wenninger,Paid
-26-04300,2026-09-18,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Compaction testing,442.46,Regular,R. Dunlap,Paid
-26-04305,2026-09-18,101,General,Fire/EMS,101.0220.53200,Vogelsang Pest Control,Pest control - quarterly,168.31,Blanket,D. Rummel,Open
 26-04307,2026-09-21,101,General,Police,101.0210.53300,Defiance Lock & Key,"Padlocks, keyed alike",293.88,Regular,Chief S. Wenninger,Paid
-26-04308,2026-09-21,201,Street (SCMR),Street,201.0510.52500,Fruchey Truck Equipment,Hydraulic cylinder rebuild,2788.64,Regular,R. Diehl,Closed
-26-04309,2026-09-21,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,Sweeper brooms,458.39,Regular,R. Diehl,Closed
-26-04310,2026-09-21,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,EMS supplies - bandaging,2712.35,Regular,D. Rummel,Closed
 26-04313,2026-09-21,101,General,Police,101.0210.52400,Riverside Uniform & Linen,Shop towels and mats,216.91,Regular,Chief S. Wenninger,Paid
-26-04316,2026-09-21,101,General,Police,101.0210.53300,Schlatter Communications,Radio repair,1548.58,Regular,Chief S. Wenninger,Paid
-26-04317,2026-09-21,101,General,Fire/EMS,101.0220.53300,Spangler Small Engine,Generator service,153.44,Regular,D. Rummel,Open
 26-04319,2026-09-21,101,General,Parks & Rec,101.0310.52200,Valley Farm Supply,Fence posts and wire,1315.39,Regular,C. Fenstermaker,Paid
-26-04322,2026-09-22,101,General,Police,101.0210.53300,Defiance Lock & Key,Rekey cylinders,451.61,Regular,Chief S. Wenninger,Open
-26-04323,2026-09-22,101,General,Parks & Rec,101.0310.52200,Fort Industrial Supply,Hydraulic fittings,222.31,Regular,C. Fenstermaker,Paid
-26-04324,2026-09-22,101,General,City Building,101.0410.52200,Kreinbrink Janitorial Supply,Mop heads and buckets,658.00,Regular,T. Wiechers,Open
 26-04326,2026-09-22,101,General,Police,101.0210.55100,Northpoint Computer Services,"Rugged in-car mobile computers (6) w/ docks and setup, state contract pricing (BOC 9/21/26)",28600.00,Regular,Board of Control,Paid
 26-04330,2026-09-22,101,General,Fire/EMS,101.0220.53200,Precision Fire Equipment Testing,Annual fire hose and ground ladder testing (BOC 9/21/26),7980.00,Regular,Board of Control,Paid
 26-04335,2026-09-22,101,General,Parks & Rec,101.0310.53200,Schwiebert Tree Service,"Annual right-of-way tree trimming and removals, Oct 2026-Sept 2027, NTE (BOC 9/21/26)",34500.00,Blanket,Board of Control,Open
 26-04336,2026-09-22,201,Street (SCMR),Street,201.0510.52200,Valley Farm Supply,"Mulch, bulk",267.40,Regular,R. Diehl,Closed
-26-04338,2026-09-23,101,General,Fire/EMS,101.0220.52500,Defiance Tire & Alignment,Tires (4) cruiser,971.69,Regular,D. Rummel,Paid
 26-04342,2026-09-23,101,General,Finance,101.0130.53200,Maumee Data Systems,"Office productivity and email licensing renewal, 2026-27 (BOC 9/21/26)",31240.00,Regular,Board of Control,Open
-26-04343,2026-09-23,101,General,Building & Zoning,101.0170.53300,Rathburn Office Systems,Copier overage charges,110.36,Regular,T. Wiechers,Paid
-26-04344,2026-09-23,201,Street (SCMR),Street,201.0510.53300,Shindeldecker Electric,Outlet and circuit added,3878.02,Regular,R. Diehl,Closed
 26-04346,2026-09-23,101,General,Fire/EMS,101.0220.53300,Spangler Small Engine,Pump service,68.10,Regular,D. Rummel,Paid
 26-04348,2026-09-23,101,General,Parks & Rec,101.0310.52200,Valley Farm Supply,"Pumpkins (400) for Harvest on the Riverfront kids' area, deliver 10/8",1480.00,Regular,C. Fenstermaker,Paid
-26-04349,2026-09-25,101,General,Law,101.0140.52100,Clinton Street Office Supply,Office supplies - blanket,572.51,Blanket,S. Cline,Open
-26-04351,2026-09-28,101,General,Income Tax,101.0135.52100,Clinton Street Office Supply,"Office supply blanket overage (then-and-now cert., BOC 9/28/26)",388.42,Regular,A. Marquardt,Paid
 26-04355,2026-09-28,101,General,Parks & Rec,101.0310.53300,Defiance Lock & Key,Locksmith service,413.89,Regular,C. Fenstermaker,Received
-26-04359,2026-09-28,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,"Sweeper parts (then-and-now cert., BOC 9/28/26)",1912.60,Regular,R. Diehl,Paid
-26-04360,2026-09-28,101,General,Police,101.0210.52400,Northwest Ohio Uniform Co.,Uniforms - new hire issue,761.39,Regular,Chief S. Wenninger,Open
-26-04364,2026-09-28,101,General,City Building,101.0410.52200,Ridgeline Safety Products,Hi-vis jackets,701.00,Regular,T. Wiechers,Received
 26-04365,2026-09-29,101,General,Parks & Rec,101.0310.53200,Auglaize Tent & Event,"Pumpkin tent and stage canopy rental, Harvest on the Riverfront, set Fri 10/9",2940.00,Regular,C. Fenstermaker,Paid
 26-04370,2026-09-29,101,General,City Building,101.0410.52200,Corner Hardware & Rental,Hardware and small tools,283.41,Regular,T. Wiechers,Paid
-26-04371,2026-09-29,101,General,Parks & Rec,101.0310.53300,Defiance Lock & Key,"Padlocks, keyed alike",428.60,Regular,C. Fenstermaker,Open
-26-04374,2026-09-29,201,Street (SCMR),Street,201.0510.52500,Fruchey Truck Equipment,Plow cutting edges,2562.88,Regular,R. Diehl,Paid
 26-04378,2026-09-29,101,General,Fire/EMS,101.0220.52300,Lauber Fuel & Oil,Unleaded fuel - bulk delivery,5393.11,Blanket,D. Rummel,Open
 26-04380,2026-09-29,201,Street (SCMR),Street,201.0510.55100,Lindemann Truck & Equipment,"2027 single-axle dump truck w/ plow & spreader, ODOT co-op; replaces Unit 22 (BOC 9/28/26)",187465.00,Regular,Board of Control,Open
-26-04381,2026-09-29,101,General,Income Tax,101.0135.53400,Marlowe Printing,Fire prevention handouts,1053.88,Regular,A. Marquardt,Open
 26-04382,2026-09-29,101,General,Income Tax,101.0135.53400,Marlowe Printing,Estimated payment coupon stock,1831.16,Regular,A. Marquardt,Open
 26-04383,2026-09-29,201,Street (SCMR),Street,201.0510.52200,Northcoast Deicing Salt Co.,"Road salt 2026-27, ODOT contract, up to 1,680 tons @ $71.84 (BOC 9/28/26)",120691.20,Blanket,Board of Control,Open
-26-04384,2026-09-29,101,General,Income Tax,101.0135.53300,Rathburn Office Systems,Copier lease - monthly,335.43,Blanket,A. Marquardt,Open
-26-04388,2026-09-30,101,General,Safety-Service,101.0150.52100,Clinton Street Office Supply,Envelopes #10 window,519.27,Regular,T. Wiechers,Open
 26-04390,2026-09-30,101,General,Engineering,101.0160.53300,Holgate Ave. Auto Service,Brake service,625.50,Regular,R. Dunlap,Open
-26-04395,2026-09-30,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Compaction testing,1060.82,Regular,R. Dunlap,Open
 26-04396,2026-09-30,101,General,Mayor's Office,101.0110.53400,Wiemken Sign Co.,Park sign panels,806.58,Regular,M. Ostrander,Open
-26-04399,2026-10-01,101,General,City Building,101.0410.53300,Defiance Lock & Key,Locksmith service,470.29,Regular,T. Wiechers,Open
-26-04401,2026-10-01,101,General,Police,101.0210.52500,Defiance Tire & Alignment,Tire repair,1635.87,Regular,Chief S. Wenninger,Paid
 26-04405,2026-10-01,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Glucose test strips,3442.80,Regular,D. Rummel,Open
 26-04410,2026-10-01,101,General,Parks & Rec,101.0310.52200,Shindeldecker Electric,"LED light strands, downtown street trees (merchants' donation, BOC 9/28/26)",2487.60,Regular,C. Fenstermaker,Open
 26-04413,2026-10-02,201,Street (SCMR),Street,201.0510.52500,Hirsch Municipal Equipment,Leaf vacuum parts,2303.79,Regular,R. Diehl,Open
 26-04415,2026-10-02,101,General,Mayor's Office,101.0110.53400,Wiemken Sign Co.,"Nameplates and door sign, Mayor's Office",186.50,Regular,M. Ostrander,Received
-26-04416,2026-10-05,201,Street (SCMR),Street,201.0510.52500,Auglaize Auto Parts,Shop supplies,474.24,Regular,R. Diehl,Open
-26-04417,2026-10-05,101,General,Parks & Rec,101.0310.52200,Heckler Stone & Aggregate,304 aggregate,3408.97,Regular,C. Fenstermaker,Received
 26-04418,2026-10-05,101,General,Parks & Rec,101.0310.53200,Kreischer Portable Services,"Portable toilets (8 std, 2 ADA, 2 hand wash) + midday service, Harvest on the Riverfront 10/9-10/12",1385.00,Regular,C. Fenstermaker,Open
-26-04420,2026-10-05,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,EMS supplies - bandaging,3089.57,Regular,D. Rummel,Paid
 26-04423,2026-10-06,101,General,City Building,101.0410.52200,Corner Hardware & Rental,Keys cut,628.18,Regular,T. Wiechers,Open
 26-04424,2026-10-06,201,Street (SCMR),Street,201.0510.52500,Fruchey Truck Equipment,"Plow cutting edges and curb guards, 2026-27 season (BOC 10/5/26)",14280.00,Regular,Board of Control,Open
-26-04429,2026-10-06,101,General,Fire/EMS,101.0220.52400,Riverside Uniform & Linen,Shop towels and mats,551.28,Regular,D. Rummel,Open
-26-04433,2026-10-07,101,General,City Building,101.0410.53300,Defiance Glass & Mirror,Window repair,692.15,Regular,T. Wiechers,Received
-26-04434,2026-10-07,101,General,Building & Zoning,101.0170.53200,Inspection software vendor (annual),"Building module add-on, setup, data import and training; go-live Jan 2027 (BOC 10/5/26)",16800.00,Regular,Board of Control,Open
 26-04438,2026-10-07,101,General,Parks & Rec,101.0310.53300,Kessler Tool & Die,Machine shaft for mower deck,725.96,Regular,C. Fenstermaker,Open
 26-04440,2026-10-07,101,General,Fire/EMS,101.0220.52300,Lauber Fuel & Oil,"Motor oil, bulk",5829.78,Regular,D. Rummel,Received
-26-04444,2026-10-07,101,General,Mayor's Office,101.0110.53500,Ohio Municipal League,Legislative workshop registration,249.99,Regular,M. Ostrander,Paid
-26-04445,2026-10-08,101,General,Parks & Rec,101.0310.53300,Kessler Tool & Die,Fabricate bracket,160.06,Regular,C. Fenstermaker,Open
-26-04449,2026-10-08,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Compaction testing,361.94,Regular,R. Dunlap,Received
 26-04451,2026-10-08,101,General,Engineering,101.0160.53100,Ross & Feltz Testing Lab,Compaction testing,422.89,Regular,R. Dunlap,Paid
-26-04452,2026-10-08,201,Street (SCMR),Street,201.0510.52200,Sixmile Asphalt Products,Tack coat,912.18,Regular,R. Diehl,Paid
-26-04457,2026-10-08,101,General,Fire/EMS,101.0220.53200,Vogelsang Pest Control,Pest control - monthly,157.63,Blanket,D. Rummel,Open
-26-04459,2026-10-09,101,General,City Building,101.0410.53300,Defiance Glass & Mirror,Glass replacement,574.13,Regular,T. Wiechers,Open
 26-04462,2026-10-09,101,General,Parks & Rec,101.0310.52500,Defiance Tire & Alignment,Tires (4) cruiser,1053.36,Regular,C. Fenstermaker,Open
-26-04467,2026-10-09,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,Oxygen cylinders refill,3204.38,Regular,D. Rummel,Open
-26-04468,2026-10-09,201,Street (SCMR),Street,201.0510.53300,Mid-City Auto Body,Door panel repair,2584.87,Regular,R. Diehl,Received
 26-04470,2026-10-09,101,General,City Building,101.0410.53300,Shindeldecker Electric,Outlet and circuit added,653.37,Regular,T. Wiechers,Open
 26-04471,2026-10-12,201,Street (SCMR),Street,201.0510.52500,Defiance Tire & Alignment,"Tires - Street Dept trucks (then-and-now cert., BOC 10/12/26)",6184.20,Regular,R. Diehl,Paid
-26-04473,2026-10-12,101,General,Parks & Rec,101.0310.53300,Holgate Ave. Auto Service,Battery replacement,313.59,Regular,C. Fenstermaker,Received
 26-04476,2026-10-12,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Trees - fall planting,206.64,Regular,R. Diehl,Open
-26-04479,2026-10-13,201,Street (SCMR),Street,201.0510.52500,Auglaize Auto Parts,Batteries,599.31,Regular,R. Diehl,Received
 26-04484,2026-10-13,201,Street (SCMR),Street,201.0510.52200,Hartzell Liquid Deicing,"Liquid calcium chloride 32%, ODOT co-op, up to 26,000 gal @ $1.06 (BOC 10/12/26)",27560.00,Blanket,Board of Control,Open
 26-04485,2026-10-13,201,Street (SCMR),Street,201.0510.53300,Hirsch Municipal Equipment,Leaf vacuum No. 2 - impeller housing and fan bearings (BOC 10/12/26),9860.00,Regular,Board of Control,Open
-26-04486,2026-10-13,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,EMS supplies - bandaging,1772.70,Regular,D. Rummel,Open
 26-04488,2026-10-13,101,General,Building & Zoning,101.0170.53300,Rathburn Office Systems,Copier lease - monthly,185.49,Blanket,T. Wiechers,Open
-26-04489,2026-10-13,101,General,Fire/EMS,101.0220.53300,Shindeldecker Electric,Outlet and circuit added,507.26,Regular,D. Rummel,Open
 26-04491,2026-10-13,101,General,Parks & Rec,101.0310.53300,Shindeldecker Electric,Lighting retrofit - LED,366.41,Regular,C. Fenstermaker,Open
-26-04496,2026-10-13,101,General,City Building,101.0410.53200,Vogelsang Pest Control,Pest control - monthly,147.48,Blanket,T. Wiechers,Received
-26-04499,2026-10-14,101,General,Parks & Rec,101.0310.52500,Defiance Tire & Alignment,Tires - mower,365.05,Regular,C. Fenstermaker,Open
 26-04500,2026-10-14,201,Street (SCMR),Street,201.0510.52200,Heckler Stone & Aggregate,Fill sand,2524.37,Regular,R. Diehl,Open
-26-04503,2026-10-14,101,General,Law,101.0140.53100,Kiefer Court Reporting,Transcript,209.98,Regular,S. Cline,Open
-26-04505,2026-10-14,101,General,Law,101.0140.53100,Kiefer Court Reporting,Deposition transcript,745.38,Regular,S. Cline,Open
 26-04507,2026-10-14,101,General,Parks & Rec,101.0310.52200,Northwest Traffic Signs & Supply,Street name signs,333.00,Regular,C. Fenstermaker,Received
 26-04509,2026-10-15,201,Street (SCMR),Street,201.0510.52500,Auglaize Auto Parts,Shop supplies,174.35,Regular,R. Diehl,Open
-26-04510,2026-10-15,201,Street (SCMR),Street,201.0510.52500,Brenneman Lawn & Equipment,Blower repair,694.77,Regular,R. Diehl,Open
-26-04515,2026-10-15,101,General,Fire/EMS,101.0220.53300,Hensel Plumbing & Heating,Backflow test,459.36,Regular,D. Rummel,Open
-26-04516,2026-10-15,201,Street (SCMR),Street,201.0510.52200,Meyer Landscape Supply,Perennials,1552.85,Regular,R. Diehl,Open
 26-04517,2026-10-15,101,General,Parks & Rec,101.0310.53300,Noggle Overhead Door,Door opener replacement,2771.75,Regular,C. Fenstermaker,Open
 26-04519,2026-10-15,101,General,Mayor's Office,101.0110.53400,Wiemken Sign Co.,Park sign panels,370.63,Regular,M. Ostrander,Open
-26-04522,2026-10-16,101,General,Fire/EMS,101.0220.52200,Lakeview Medical Supply,EMS supplies - airway,2266.48,Regular,D. Rummel,Open
-26-04523,2026-10-16,101,General,Fire/EMS,101.0220.53300,Shindeldecker Electric,Outlet and circuit added,2456.79,Regular,D. Rummel,Open
-26-04524,2026-10-16,101,General,Fire/EMS,101.0220.53300,Spangler Small Engine,Small engine repair,312.61,Regular,D. Rummel,Open
 26-04529,2026-10-16,201,Street (SCMR),Street,201.0510.53300,Spangler Small Engine,Generator service,273.83,Regular,R. Diehl,Open

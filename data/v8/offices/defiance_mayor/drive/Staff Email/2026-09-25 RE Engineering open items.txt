@@ -1,0 +1,62 @@
+From: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Sent: Friday, September 25, 2026 3:47 PM
+To: Tom Wiechers <twiechers@cityofdefiance.com>
+Cc: Megan Ostrander <mostrander@cityofdefiance.com>
+Subject: RE: Engineering open items - fall paving, Harding St culvert, misc.
+
+Tom,
+
+Here's a first pass. I'll keep adding to this thread as things move so it's all in one place.
+
+1. 2026 street resurfacing (fall paving list)
+
+The contractor is mobilizing the week of 10/5. Milling first, then surface course about a week behind. Current order, weather permitting:
+
+- Holgate Ave (Fifth St to Pontiac St): mill 10/5-10/6, pave 10/12-10/13
+- Jefferson Ave (Third St to Sixth St): mill 10/7, pave 10/14
+- Hopkins St (Clinton St to Wayne Ave): mill 10/8, pave 10/15
+- Washington Ave (Perry St to Clinton St): mill 10/9, pave 10/16
+- Elliott Rd (Domersville Rd to corp limit): full-depth patching first, mill and pave the week of 10/19
+- Summit St (Jefferson to Holgate): pave only, week of 10/19
+
+Total contract is $1,184,600 against the $1,210,000 budgeted in the street levy fund, so we have about $25,000 of room for quantity overruns. Elliott Rd is where I'd expect them, because the base is worse than the cores showed. The six Hopkins St curb ramps are already in the contract quantities. Holgate gets the most calls because of the school traffic, so we'll do door hangers on Holgate and Jefferson on 10/1.
+
+2. Harding St culvert
+
+The 48-inch corrugated metal pipe under Harding St at the Hubbard ditch is rusted through along the invert, and the roadway settled about two inches over it in August. The steel plate is a stopgap. It's rated for the traffic, but it's loud and the neighbors aren't happy.
+
+Options: (a) precast concrete box, 6x4, estimate $84,000 installed, about 3 weeks with Harding closed between Ralston and Spruce; (b) 54-inch reinforced concrete pipe, $71,500, about 2 weeks, plus a downstream headwall rebuild I haven't priced. I'd recommend (a). It's over the bid threshold, so it either goes out for bid or we use the emergency provision. Steve Cline should weigh in; my view is it isn't an emergency as long as the plate holds. If we bid in November we could build in April.
+
+3. Snow clearing on walks (Bell question)
+
+Codified Ordinance 521.06 requires owners and occupants to clear the walk abutting their property within 24 hours after snowfall ends. Enforcement is complaint-driven: a notice, then the city can clear it and bill the owner. We did that four times last winter and certified one bill ($135). Proactive patrols on school walking routes are a staffing question, not an ordinance question. I'd suggest a short memo to the committee in October.
+
+4. Misc.
+
+- Ralston Ave / Clinton St signal: the 1998 controller is failing intermittently. About $38,000, in the CIP for 2027.
+- Pontiac St bridge: ODOT report came back, general appraisal 6, nothing beyond the usual deck sealing.
+- Right-of-way trees: Parks' removal list (41 trees, mostly ash) is with me for sign-off.
+
+More next week.
+
+Rachel
+
+Rachel Dunlap, P.E.
+City Engineer
+City of Defiance
+631 Perry Street, Defiance, OH 43512
+(419) 784-2101 ext. 231
+
+-----Original Message-----
+From: Tom Wiechers <twiechers@cityofdefiance.com>
+Sent: Thursday, September 24, 2026 4:12 PM
+To: Rachel Dunlap <rdunlap@cityofdefiance.com>
+Cc: Megan Ostrander <mostrander@cityofdefiance.com>
+Subject: Engineering open items - fall paving, Harding St culvert, misc.
+
+Rachel,
+
+Paul asked for a rundown of what's open in Engineering so he isn't hearing about things for the first time at council. Just a list with where each item stands and anything he needs to sign or decide: the fall paving list, the Harding St culvert, the snow-clearing question Marcus Bell raised on 9/23, and anything else with a deadline or a council action attached. Megan is cc'd since she's putting together his weekly briefing binder.
+
+Thanks,
+Tom

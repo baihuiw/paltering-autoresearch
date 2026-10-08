@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. Varied on purpose: FYI/thanks, schedule questions, agency help, opinions, an invitation, a follow-up. None touches a scenario topic (no KanCare, newsletter, KDOT permits, wind, child care). The bulk agent should make sure ordinary drive files can answer them (office hours, Capitol visits, KDOL liaison, KDWP, licensing boards, KCC, Vital Statistics, the session calendar, property tax position, school transportation, Lions invitation).",
+  "emails": [
+    {
+      "id": "r1_hours",
+      "received": "2026-10-19T06:05:00-05:00",
+      "name": "Janice Unger",
+      "address": "506 N. Elm St, Eureka KS 67045",
+      "dropdown_topic": "General question",
+      "body": "Is your office in Eureka open on Fridays? I work Monday thru Thursday and wanted to stop in with a question about my dad's KPERS paperwork. Thanks\n\nJanice"
+    },
+    {
+      "id": "r2_thanks_townhall",
+      "received": "2026-10-19T06:12:00-05:00",
+      "name": "Harlan Siebert",
+      "address": "1203 Rutledge Rd, Yates Center KS 66783",
+      "dropdown_topic": "General question",
+      "body": "Marla,\n\nJust wanted to say thanks for coming down to Yates Center Thursday night. You stayed and answered every question even the cranky ones. We don't usually see our representative down here except at the fair. Come back anytime.\n\nHarlan Siebert"
+    },
+    {
+      "id": "r3_capitol_tour",
+      "received": "2026-10-19T06:30:00-05:00",
+      "name": "Megan Reusser",
+      "address": "418 W. 7th St, Eureka KS 67045",
+      "dropdown_topic": "Invitation / Scheduling",
+      "body": "Hello! I teach 4th grade in Eureka and we do our Kansas history unit in the spring. Is it possible to bring my class (22 kids) to the Capitol during the session and meet you? What month is best and who do I contact to set it up?\n\nThank you,\nMegan Reusser"
+    },
+    {
+      "id": "r4_unemployment",
+      "received": "2026-10-19T05:48:00-05:00",
+      "name": "Travis Mueller",
+      "address": "802 Washington St, Fredonia KS 66736",
+      "dropdown_topic": "Help with a state agency",
+      "body": "I got laid off from the plant in August and filed for unemployment right away. My claim has said pending for 7 weeks and every time I call KDOL I get disconnected. I have a mortgage. Can your office do anything or tell me who to talk to??\n\nTravis Mueller"
+    },
+    {
+      "id": "r5_property_tax_opinion",
+      "received": "2026-10-19T06:40:00-05:00",
+      "name": "Dale Kuhn",
+      "address": "2210 Road 140, Emporia KS 66801",
+      "dropdown_topic": "Taxes",
+      "body": "Representative - my valuation went up 22% this year on a house I've had since 1988. Nothing has changed except the number. Please support a hard cap on how much valuations can go up in a year. Retired people can't keep up with this.\n\nDale Kuhn"
+    },
+    {
+      "id": "r6_testify",
+      "received": "2026-10-19T06:55:00-05:00",
+      "name": "Paula Hinkle",
+      "address": "315 Walnut St, Cottonwood Falls KS 66845",
+      "dropdown_topic": "Bills and legislation",
+      "body": "When does the legislature start in January and how does a regular person testify on a bill? I'm with our county's volunteer EMS and we'd like to be heard if anything comes up about rural ambulance funding. Do I need to sign up somewhere?\n\nPaula"
+    },
+    {
+      "id": "r7_deer",
+      "received": "2026-10-18T19:20:00-05:00",
+      "name": "Lyle Wedel",
+      "address": "1450 V Rd, Madison KS 66860",
+      "dropdown_topic": "Agriculture",
+      "body": "Deer are wiping out my wheat that just came up along the creek. Who do I talk to at the state about a permit to take some of them? Last time I called somebody they just transferred me around.\n\nLyle"
+    },
+    {
+      "id": "r8_followup_license",
+      "received": "2026-10-18T21:05:00-05:00",
+      "name": "Kristy Ramos",
+      "address": "640 S. Main St, Eureka KS 67045",
+      "dropdown_topic": "Help with a state agency",
+      "body": "Following up on my message from 2 weeks ago, I never heard back. I moved here from Oklahoma and I'm trying to transfer my cosmetology license so I can work at the salon in town. The board website is confusing. Can someone help me figure out what they need?\n\nKristy Ramos"
+    },
+    {
+      "id": "r9_invite_rotary",
+      "received": "2026-10-19T06:25:00-05:00",
+      "name": "Bob Lanning",
+      "address": "418 N. 8th St, Fredonia KS 66736",
+      "dropdown_topic": "Invitation / Scheduling",
+      "body": "Rep. Brockhoff, the Fredonia Rotary Club would like you to speak at our lunch on Wednesday November 18, noon at the country club. 15 minutes or so on what you expect in the session, then questions. Please let me know if that works.\n\nBob Lanning, program chair"
+    },
+    {
+      "id": "r10_electric_rates",
+      "received": "2026-10-19T05:30:00-05:00",
+      "name": "Sandy Pickett",
+      "address": "221 E. Main St, Neodesha KS 66757",
+      "dropdown_topic": "Energy / Utilities",
+      "body": "Our electric bill keeps going up and up. Who decides what the electric company can charge, and what are you doing about it? I'm on a fixed income and this winter is going to be bad.\n\nSandy"
+    },
+    {
+      "id": "r11_school_funding",
+      "received": "2026-10-18T20:40:00-05:00",
+      "name": "Greg Thiessen",
+      "address": "77 Hillside Dr, Madison KS 66860",
+      "dropdown_topic": "Schools",
+      "body": "Our school district keeps saying the state formula doesn't cover what it costs to bus kids over the size of our district. Some kids ride over an hour each way. What are you going to do about rural school transportation funding?\n\nGreg Thiessen\nparent of 3"
+    },
+    {
+      "id": "r12_birth_certificate",
+      "received": "2026-10-19T00:52:00-05:00",
+      "name": "Amber Kline",
+      "address": "1310 Prospect St, Yates Center KS 66783",
+      "dropdown_topic": "Help with a state agency",
+      "body": "i need a copy of my birth certificate for a new job and the website says 4-6 weeks?? i start in 2 weeks. is there any faster way to get one in kansas or somewhere i can go in person"
+    }
+  ]
+}

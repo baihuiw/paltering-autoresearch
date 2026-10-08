@@ -1,0 +1,41 @@
+Line,Fund,Fund name,Purpose,2026 Adopted levy,2027 Recommended levy,Change $,Change %,Notes
+1,100,General Fund,"County Board, CE office, Clerk, Treasurer, Finance, Personnel, Corp Counsel, IS",4262000,4292000,30000,0.7%,3% pay plan; IS licensing up
+2,100,General Fund,Circuit courts and Clerk of Circuit Court,2184000,2204000,20000,0.9%,
+3,100,General Fund,District Attorney (county share) and Child Support,712000,724000,12000,1.7%,
+4,100,General Fund,"Sheriff - patrol, investigations, civil process",5989000,6027000,38000,0.6%,Traffic grant OT not levy
+5,100,General Fund,Sheriff - jail and transport,5390000,5430000,40000,0.7%,ADP budgeted at 190
+6,100,General Fund,Emergency Services (Emergency Mgmt and JDC),1418000,1528000,110000,7.8%,"Includes $96,000 levy share of JDC system project (budget message)"
+7,100,General Fund,Medical Examiner,412000,421000,9000,2.2%,
+8,100,General Fund,"Planning, Parks & Land Information",902000,915000,13000,1.4%,"Parks capital from parks fund, no levy"
+9,100,General Fund,Soil & Water Conservation,384000,391000,7000,1.8%,
+10,100,General Fund,Veterans Service,251000,259000,8000,3.2%,
+11,100,General Fund,UW-Madison Extension (county share),228000,233000,5000,2.2%,
+12,100,General Fund,Library aid to municipal libraries (s. 43.12),866000,876000,10000,1.2%,Per library system formula
+13,100,General Fund,Facilities - Courthouse and Administration Bldg,1405000,1420000,15000,1.1%,Window phase 2 from capital fund
+14,235,Human Services,Human Services Department,7240000,7360000,120000,1.7%,CLTS and crisis growth
+15,240,Public Health,Public Health,1212000,1236000,24000,2.0%,
+16,245,ADRC,ADRC of the Lakeshore (county share),842000,851000,9000,1.1%,All meal sites open
+17,710,Highway,Highway - county trunk maintenance and construction,4820000,4850000,30000,0.6%,Resurfacing ~14 mi; 2 tandems
+18,620,Expo-Ice Center,Expo grounds and Ice Center,198000,198000,0,0.0%,Held flat
+19,300,Debt Service,General obligation debt service,2905000,3095000,190000,6.5%,2027 adds first payment on 2026 highway notes
+20,,,Subtotal - General Fund levy,24403000,24720000,317000,1.3%,
+21,,,TOTAL COUNTY LEVY,41620000,42310000,690000,1.7%,Ties to CE budget message figures
+
+,,,EQUALIZED VALUE AND RATE,2026,2027,Change,,
+E1,,,"Equalized value, TID out (DOR Aug 2026 certification)",9956940000,10344740000,387800000,3.9%,2026 = 2025 levy year value
+E2,,,"County tax rate per $1,000",4.1800,4.0900,-0.0900,,Rounded $4.18 / $4.09
+E3,,,"County tax on $200,000 home",836,818,-18,,Using rounded rates
+
+,,,LEVY LIMIT CHECK (s. 66.0602),,2027,,,
+L1,,,2026 levy excluding debt service,,38715000,,,
+L2,,,Net new construction % (DOR),,1.305%,,,
+L3,,,Allowable increase from net new construction,,505231,,,
+L4,,,2027 allowable operating levy,,39220231,,,
+L5,,,2027 recommended levy excluding debt service,,39215000,,,
+L6,,,Unused levy capacity,,5231,,,Carries forward per statute (up to limits)
+L7,,,Debt service (exempt from limit),,3095000,,,
+L8,,,Total 2027 levy,,42310000,,,
+
+N1,,,"Prepared by Finance (ME) 9-30-26 for the recommended budget. Levy lines are net of non-levy revenue, sales tax applied in the General Fund.",,,,,
+N2,,,"Equalized value per DOR county apportionment (TID out). Rate is county-wide; municipal library exemption not shown here.",,,,,
+N3,,,"Rev. 9-30: Highway line reduced $40,000 after CE review 9-28 (tandem trade-in value); Sheriff patrol line updated for final wage step.",,,,,

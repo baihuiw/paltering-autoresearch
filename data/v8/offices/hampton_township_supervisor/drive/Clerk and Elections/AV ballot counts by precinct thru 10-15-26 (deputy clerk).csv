@@ -1,0 +1,37 @@
+Date,Precinct,Applications on file (cumulative),Ballots issued (cumulative),Ballots returned (cumulative),Returned by drop box,Returned by mail,Returned at counter,Spoiled / reissued
+# Absentee ballot tracking - Nov 3 2026 general election. From the state QVF reports run each morning. Cumulative counts. Deputy Clerk.,,,,,,,,
+09/24/2026,1,402,402,0,0,0,0,0
+09/24/2026,2,377,377,0,0,0,0,0
+09/24/2026,3,451,451,0,0,0,0,0
+09/24/2026,4,398,398,0,0,0,0,0
+09/24/2026,Total,1628,1628,0,0,0,0,0
+10/01/2026,1,431,429,88,31,49,8,1
+10/01/2026,2,398,396,79,27,45,7,0
+10/01/2026,3,472,470,102,40,55,7,2
+10/01/2026,4,421,419,85,29,50,6,0
+10/01/2026,Total,1722,1714,354,127,199,28,3
+10/05/2026,1,455,452,141,52,77,12,1
+10/05/2026,2,419,416,129,47,72,10,1
+10/05/2026,3,509,505,166,63,91,12,3
+10/05/2026,4,492,489,138,49,80,9,0
+10/05/2026,Total,1875,1862,574,211,320,43,5
+10/08/2026,1,468,466,187,71,101,15,1
+10/08/2026,2,431,429,170,64,93,13,1
+10/08/2026,3,522,520,221,86,119,16,3
+10/08/2026,4,503,500,181,68,101,12,1
+10/08/2026,Total,1924,1915,759,289,414,56,6
+10/12/2026,1,481,479,236,92,125,19,2
+10/12/2026,2,440,438,214,83,114,17,1
+10/12/2026,3,536,534,279,110,148,21,3
+10/12/2026,4,514,512,229,88,126,15,1
+10/12/2026,Total,1971,1963,958,373,513,72,7
+10/15/2026,1,490,488,271,108,140,23,2
+10/15/2026,2,447,445,248,98,129,21,1
+10/15/2026,3,544,542,321,128,167,26,4
+10/15/2026,4,521,519,262,103,141,18,1
+10/15/2026,Total,2002,1994,1102,437,577,88,8
+,,,,,,,,
+# Notes:,,,,,,,,
+# 10/05 count (1862 issued) is the number reported to the board 10/5.,,,,,,,,
+# Drop box emptied every weekday at 9 a.m. and 2 p.m. by two workers (Deputy Clerk + one election inspector); seal log in the Clerk's vault. Daily pickups start Sat 10/24 for early voting.,,,,,,,,
+# Return envelopes with a missing or mismatched signature: 4 so far; voters notified by phone and letter the same day (Clerk's cure log).,,,,,,,,

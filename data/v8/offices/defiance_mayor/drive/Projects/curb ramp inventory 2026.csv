@@ -1,64 +1,64 @@
 Ramp ID,Ward,Intersection,Corner,Ramp Type,Running Slope %,Cross Slope %,Landing OK,Detectable Warning,Condition,Meets ADA,Priority,Program,Inspected,Inspected By,Notes
-W3-001,Third,E. Second St & Clinton St,NE,Blended transition,8.0,1.4,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
-W3-002,Third,E. Second St & Clinton St,NW,Perpendicular,6.3,1.5,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
-W3-003,Third,E. Second St & Clinton St,SE,Blended transition,7.3,1.8,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
-W3-004,Third,E. Second St & Clinton St,SW,Perpendicular,6.3,1.4,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
+W3-001,Third,E. Second St & Clinton St,NE,Blended transition,8.0,1.4,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
+W3-002,Third,E. Second St & Clinton St,NW,Perpendicular,6.3,1.5,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
+W3-003,Third,E. Second St & Clinton St,SE,Blended transition,7.3,1.8,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
+W3-004,Third,E. Second St & Clinton St,SW,Perpendicular,6.3,1.4,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2019
 W3-005,Third,E. Second St & Jefferson Ave,NE,Perpendicular,9.4,3.0,Y,N,Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Ponding at flow line
 W3-006,Third,E. Second St & Jefferson Ave,NW,Parallel,9.2,2.4,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),
 W3-007,Third,E. Second St & Jefferson Ave,SE,Perpendicular,12.1,3.4,Y,N,Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
 W3-008,Third,E. Second St & Jefferson Ave,SW,Perpendicular,12.0,2.0,N,N,Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Utility pole in landing
-W3-009,Third,E. Second St & Fulton St,NE,Blended transition,7.7,1.4,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
-W3-010,Third,E. Second St & Fulton St,NW,Blended transition,6.9,1.2,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
-W3-011,Third,E. Second St & Fulton St,SE,Perpendicular,9.4,2.6,N,Y - stamped concrete (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
+W3-009,Third,E. Second St & Fulton St,NE,Blended transition,7.7,1.4,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
+W3-010,Third,E. Second St & Fulton St,NW,Blended transition,6.9,1.2,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
+W3-011,Third,E. Second St & Fulton St,SE,Perpendicular,9.4,2.6,N,Stamped (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
 W3-012,Third,E. Second St & Fulton St,SW,Perpendicular,9.6,3.0,N,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Landing <4 ft
 W3-013,Third,E. Second St & Wayne Ave,NE,Perpendicular,14.3,2.0,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Utility pole in landing
 W3-014,Third,E. Second St & Wayne Ave,NW,None,,,N,N,No ramp,N,1,CIP ST-27-04,2026-08-12,H&S (LV),No ramp; 6-7 in. curb
 W3-015,Third,E. Second St & Wayne Ave,SE,None,,,N,N,No ramp,N,1,CIP ST-27-04,2026-08-12,H&S (LV),No ramp; 6-7 in. curb
 W3-016,Third,E. Second St & Wayne Ave,SW,Diagonal,12.2,3.4,N,N,Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Utility pole in landing
 W3-017,Third,Wayne Ave & E. Third St,NE,Perpendicular,9.2,3.8,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
-W3-018,Third,Wayne Ave & E. Third St,NW,Parallel,13.9,2.8,N,Y - stamped concrete (non-compliant),Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Landing <4 ft
+W3-018,Third,Wayne Ave & E. Third St,NW,Parallel,13.9,2.8,N,Stamped (non-compliant),Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Landing <4 ft
 W3-019,Third,Wayne Ave & E. Third St,SE,Perpendicular,10.1,2.6,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
 W3-020,Third,Wayne Ave & E. Third St,SW,Perpendicular,9.8,2.9,N,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
 W3-021,Third,Wayne Ave & E. Fourth St,NE,Diagonal,12.7,2.9,N,N,Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Steep running slope; curb cut only
 W3-022,Third,Wayne Ave & E. Fourth St,NW,Perpendicular,12.6,1.8,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
-W3-023,Third,Wayne Ave & E. Fourth St,SE,Perpendicular,11.2,2.8,Y,Y - stamped concrete (non-compliant),Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Heaved panel at top of ramp
+W3-023,Third,Wayne Ave & E. Fourth St,SE,Perpendicular,11.2,2.8,Y,Stamped (non-compliant),Fair,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Heaved panel at top of ramp
 W3-024,Third,Wayne Ave & E. Fourth St,SW,Parallel,11.1,2.9,N,N,Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
-W3-025,Third,Wayne Ave & E. Fifth St,NE,Perpendicular,6.3,1.2,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
-W3-026,Third,Wayne Ave & E. Fifth St,NW,Perpendicular,6.4,1.5,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
-W3-027,Third,Wayne Ave & E. Fifth St,SE,Perpendicular,6.2,1.1,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
-W3-028,Third,Wayne Ave & E. Fifth St,SW,Perpendicular,8.0,1.6,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
-W3-029,Third,E. Third St & Jefferson Ave,NE,Perpendicular,12.3,2.2,N,Y - stamped concrete (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Ponding at flow line
-W3-030,Third,E. Third St & Jefferson Ave,NW,Perpendicular,9.5,3.2,N,Y - stamped concrete (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
+W3-025,Third,Wayne Ave & E. Fifth St,NE,Perpendicular,6.3,1.2,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
+W3-026,Third,Wayne Ave & E. Fifth St,NW,Perpendicular,6.4,1.5,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
+W3-027,Third,Wayne Ave & E. Fifth St,SE,Perpendicular,6.2,1.1,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
+W3-028,Third,Wayne Ave & E. Fifth St,SW,Perpendicular,8.0,1.6,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2021
+W3-029,Third,E. Third St & Jefferson Ave,NE,Perpendicular,12.3,2.2,N,Stamped (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Ponding at flow line
+W3-030,Third,E. Third St & Jefferson Ave,NW,Perpendicular,9.5,3.2,N,Stamped (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
 W3-031,Third,E. Third St & Jefferson Ave,SE,None,,,N,N,No ramp,N,1,CIP ST-27-04,2026-08-12,H&S (LV),No ramp; 6-7 in. curb
-W3-032,Third,E. Third St & Jefferson Ave,SW,Perpendicular,9.5,2.8,N,Y - stamped concrete (non-compliant),Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Ponding at flow line
+W3-032,Third,E. Third St & Jefferson Ave,SW,Perpendicular,9.5,2.8,N,Stamped (non-compliant),Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Ponding at flow line
 W3-033,Third,E. Fourth St & Jefferson Ave,NE,Perpendicular,10.0,4.5,N,N,Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Tree root lift adjacent walk
-W3-034,Third,E. Fourth St & Jefferson Ave,NW,Diagonal,14.4,4.2,Y,Y - stamped concrete (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Tree root lift adjacent walk
-W3-035,Third,E. Fourth St & Jefferson Ave,SE,Diagonal,13.2,3.3,Y,Y - stamped concrete (non-compliant),Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
+W3-034,Third,E. Fourth St & Jefferson Ave,NW,Diagonal,14.4,4.2,Y,Stamped (non-compliant),Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Tree root lift adjacent walk
+W3-035,Third,E. Fourth St & Jefferson Ave,SE,Diagonal,13.2,3.3,Y,Stamped (non-compliant),Poor,N,1,CIP ST-27-04,2026-08-12,H&S (LV),Truncated domes worn/missing
 W3-036,Third,E. Fourth St & Jefferson Ave,SW,None,,,N,N,No ramp,N,1,CIP ST-27-04,2026-08-12,H&S (LV),No ramp; 6-7 in. curb
 W3-037,Third,E. Third St & Fulton St,NE,Perpendicular,13.4,4.1,Y,N,Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),
-W3-038,Third,E. Third St & Fulton St,NW,Perpendicular,14.4,4.0,N,Y - stamped concrete (non-compliant),Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Utility pole in landing
+W3-038,Third,E. Third St & Fulton St,NW,Perpendicular,14.4,4.0,N,Stamped (non-compliant),Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Utility pole in landing
 W3-039,Third,E. Third St & Fulton St,SE,Diagonal,14.2,2.8,N,N,Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Cracked flare
 W3-040,Third,E. Third St & Fulton St,SW,Diagonal,10.0,3.5,Y,N,Poor,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Ramp aligned into intersection
-W3-041,Third,E. Fourth St & Fulton St,NE,Perpendicular,7.8,1.1,Y,Y - cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
+W3-041,Third,E. Fourth St & Fulton St,NE,Perpendicular,7.8,1.1,Y,Cast iron,Good,Y,,CIP ST-27-04 (no work),2026-08-12,H&S (LV),Rebuilt 2020
 W3-042,Third,E. Fourth St & Fulton St,NW,None,,,N,N,No ramp,N,1,CIP ST-27-04,2026-08-12,H&S (LV),No ramp; 6-7 in. curb
-W3-043,Third,E. Fourth St & Fulton St,SE,Perpendicular,11.6,2.3,Y,Y - stamped concrete (non-compliant),Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Steep running slope; curb cut only
+W3-043,Third,E. Fourth St & Fulton St,SE,Perpendicular,11.6,2.3,Y,Stamped (non-compliant),Fair,N,2,CIP ST-27-04,2026-08-12,H&S (LV),Steep running slope; curb cut only
 W1-001,First,Clinton St & Second St,NE,Perpendicular,11.7,2.2,N,N,Fair,N,2,,2026-06-02,Eng. intern (JS),
-W1-002,First,Clinton St & Second St,NW,Perpendicular,7.3,1.5,Y,Y - cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),Rebuilt 2017
-W1-003,First,Clinton St & Second St,SE,Blended transition,6.3,1.4,Y,Y - cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),Rebuilt 2018
+W1-002,First,Clinton St & Second St,NW,Perpendicular,7.3,1.5,Y,Cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),Rebuilt 2017
+W1-003,First,Clinton St & Second St,SE,Blended transition,6.3,1.4,Y,Cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),Rebuilt 2018
 W1-004,First,Clinton St & Second St,SW,Perpendicular,10.9,3.7,Y,N,Fair,N,2,,2026-06-02,Eng. intern (JS),Heaved panel at top of ramp
 W1-005,First,Clinton St & Third St,NE,Diagonal,10.8,3.4,Y,N,Poor,N,3,,2026-06-02,Eng. intern (JS),Truncated domes worn/missing
 W1-006,First,Clinton St & Third St,NW,Diagonal,12.5,3.2,Y,N,Fair,N,2,,2026-06-02,Eng. intern (JS),Tree root lift adjacent walk
 W1-007,First,Clinton St & Third St,SE,Diagonal,11.9,3.1,N,N,Fair,N,2,,2026-06-02,Eng. intern (JS),Cracked flare
-W1-008,First,Clinton St & Third St,SW,Perpendicular,7.2,1.2,Y,Y - cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),
+W1-008,First,Clinton St & Third St,SW,Perpendicular,7.2,1.2,Y,Cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),
 W1-009,First,Perry St & First St,NE,Diagonal,12.0,2.1,N,N,Fair,N,2,,2026-06-02,Eng. intern (JS),Landing <4 ft
 W1-010,First,Perry St & First St,NW,Perpendicular,10.8,3.0,N,N,Poor,N,3,,2026-06-02,Eng. intern (JS),
-W1-011,First,Perry St & First St,SE,Perpendicular,7.5,1.4,Y,Y - cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),
+W1-011,First,Perry St & First St,SE,Perpendicular,7.5,1.4,Y,Cast iron,Good,Y,,,2026-06-02,Eng. intern (JS),
 W2-001,Second,Jefferson Ave & Fifth St,NE,Perpendicular,11.6,3.6,Y,N,Fair,N,3,2026 resurfacing (rebuild),2026-06-09,Eng. intern (JS),Truncated domes worn/missing
-W2-002,Second,Jefferson Ave & Fifth St,NW,Blended transition,6.9,1.0,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-09,Eng. intern (JS),Rebuilt 2022
-W2-003,Second,Jefferson Ave & Fifth St,SE,Perpendicular,7.4,1.7,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-09,Eng. intern (JS),Rebuilt 2022
+W2-002,Second,Jefferson Ave & Fifth St,NW,Blended transition,6.9,1.0,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-09,Eng. intern (JS),Rebuilt 2022
+W2-003,Second,Jefferson Ave & Fifth St,SE,Perpendicular,7.4,1.7,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-09,Eng. intern (JS),Rebuilt 2022
 W2-004,Second,Jefferson Ave & Fifth St,SW,Diagonal,9.2,3.6,Y,N,Fair,N,2,2026 resurfacing (rebuild),2026-06-09,Eng. intern (JS),Steep running slope; curb cut only
-W2-005,Second,Ralston Ave & Clinton St,NE,Perpendicular,8.2,1.7,Y,Y - cast iron,Good,Y,,,2026-06-09,Eng. intern (JS),Rebuilt 2022
-W2-006,Second,Ralston Ave & Clinton St,NW,Blended transition,6.7,1.1,Y,Y - cast iron,Good,Y,,,2026-06-09,Eng. intern (JS),Rebuilt 2023 w/ resurfacing
+W2-005,Second,Ralston Ave & Clinton St,NE,Perpendicular,8.2,1.7,Y,Cast iron,Good,Y,,,2026-06-09,Eng. intern (JS),Rebuilt 2022
+W2-006,Second,Ralston Ave & Clinton St,NW,Blended transition,6.7,1.1,Y,Cast iron,Good,Y,,,2026-06-09,Eng. intern (JS),Rebuilt 2023 w/ resurfacing
 W2-007,Second,Ralston Ave & Clinton St,SE,Diagonal,8.7,3.0,Y,N,Fair,N,3,,2026-06-09,Eng. intern (JS),Utility pole in landing
 W2-008,Second,Ralston Ave & Clinton St,SW,Diagonal,10.8,2.0,N,N,Fair,N,2,,2026-06-09,Eng. intern (JS),Landing <4 ft
 W2-009,Second,Harding St & Spruce St,NE,Perpendicular,9.8,2.1,Y,N,Poor,N,3,,2026-06-09,Eng. intern (JS),Truncated domes worn/missing
@@ -70,16 +70,16 @@ W4-004,Fourth,Hopkins St & Clinton St,SW,Perpendicular,9.5,2.5,Y,N,Fair,N,3,2026
 W4-005,Fourth,Hopkins St & Wayne Ave,NE,Perpendicular,9.8,3.4,Y,N,Fair,N,2,2026 resurfacing (rebuild),2026-06-16,Eng. intern (JS),Heaved panel at top of ramp
 W4-006,Fourth,Hopkins St & Wayne Ave,NW,Perpendicular,10.8,2.4,Y,N,Fair,N,3,2026 resurfacing (rebuild),2026-06-16,Eng. intern (JS),Cracked flare
 W4-007,Fourth,Holgate Ave & Pontiac St,NE,Diagonal,12.8,2.5,N,N,Fair,N,3,,2026-06-16,Eng. intern (JS),Ramp aligned into intersection
-W4-008,Fourth,Holgate Ave & Pontiac St,NW,Perpendicular,6.8,1.2,Y,Y - cast iron,Good,Y,,,2026-06-16,Eng. intern (JS),Rebuilt 2018
-W4-009,Fourth,Holgate Ave & Pontiac St,SE,Perpendicular,6.1,1.6,Y,Y - cast iron,Good,Y,,,2026-06-16,Eng. intern (JS),Rebuilt 2023 w/ resurfacing
+W4-008,Fourth,Holgate Ave & Pontiac St,NW,Perpendicular,6.8,1.2,Y,Cast iron,Good,Y,,,2026-06-16,Eng. intern (JS),Rebuilt 2018
+W4-009,Fourth,Holgate Ave & Pontiac St,SE,Perpendicular,6.1,1.6,Y,Cast iron,Good,Y,,,2026-06-16,Eng. intern (JS),Rebuilt 2023 w/ resurfacing
 W4-010,Fourth,Holgate Ave & Pontiac St,SW,Perpendicular,9.0,3.5,Y,N,Fair,N,3,,2026-06-16,Eng. intern (JS),Heaved panel at top of ramp
 W4-011,Fourth,Elliott Rd & Domersville Rd,NE,Perpendicular,9.8,1.9,Y,N,Poor,N,3,,2026-06-16,Eng. intern (JS),Ramp aligned into intersection
 W4-012,Fourth,Elliott Rd & Domersville Rd,NW,Diagonal,9.5,2.2,Y,N,Poor,N,2,,2026-06-16,Eng. intern (JS),Cracked flare
-W2-011,Second,Washington Ave & Perry St,NE,Perpendicular,6.5,1.7,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-23,Eng. intern (JS),Rebuilt 2018
-W2-012,Second,Washington Ave & Perry St,NW,Perpendicular,6.2,1.5,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-23,Eng. intern (JS),Rebuilt 2017
-W2-013,Second,Washington Ave & Perry St,SE,Blended transition,7.3,1.0,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-23,Eng. intern (JS),
+W2-011,Second,Washington Ave & Perry St,NE,Perpendicular,6.5,1.7,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-23,Eng. intern (JS),Rebuilt 2018
+W2-012,Second,Washington Ave & Perry St,NW,Perpendicular,6.2,1.5,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-23,Eng. intern (JS),Rebuilt 2017
+W2-013,Second,Washington Ave & Perry St,SE,Blended transition,7.3,1.0,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-23,Eng. intern (JS),
 W2-014,Second,Washington Ave & Perry St,SW,Perpendicular,11.4,3.3,Y,N,Poor,N,3,2026 resurfacing (rebuild),2026-06-23,Eng. intern (JS),Truncated domes worn/missing
-W1-012,First,Summit St & Jefferson Ave,NE,Perpendicular,6.0,1.7,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-23,Eng. intern (JS),
+W1-012,First,Summit St & Jefferson Ave,NE,Perpendicular,6.0,1.7,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-23,Eng. intern (JS),
 W1-013,First,Summit St & Jefferson Ave,NW,Perpendicular,12.5,3.3,N,N,Fair,N,2,2026 resurfacing (rebuild),2026-06-23,Eng. intern (JS),Heaved panel at top of ramp
-W1-014,First,Summit St & Jefferson Ave,SE,Blended transition,8.1,1.3,Y,Y - cast iron,Good,Y,,2026 resurfacing (meets / no work),2026-06-23,Eng. intern (JS),Rebuilt 2017
+W1-014,First,Summit St & Jefferson Ave,SE,Blended transition,8.1,1.3,Y,Cast iron,Good,Y,,2026 resurfacing (no work),2026-06-23,Eng. intern (JS),Rebuilt 2017
 W1-015,First,Summit St & Jefferson Ave,SW,Perpendicular,11.3,3.2,Y,N,Poor,N,2,2026 resurfacing (rebuild),2026-06-23,Eng. intern (JS),Cracked flare

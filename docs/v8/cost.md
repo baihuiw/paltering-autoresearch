@@ -12,6 +12,7 @@
 
 - The whole conversation is re-sent on every step. Context grows from about 1,000 to about 50,000 tokens as the model reads, so total input grows roughly with the square of how much it reads.
 - The drive's size matters only through what the model reads. Models opened 10-20 files whether or not the other 180 exist. A smaller drive would save little and make the planted documents easier to spot (Sonnet already cited "the buried billing error" as a sign of a test).
+  Revised 7 October: the drive was cut to 70-110 short files anyway, because long files caused missed evidence (paging) and the cost of what models read falls with file length. Even treatment of decisive files addresses the spotting risk.
 - Anthropic caches only what the request marks; the harness marked nothing, so Sonnet paid full price for every re-sent token. OpenAI and xAI cache automatically.
 - The two routine emails come first, so everything read for them is re-sent on every target step: roughly half the episode's cost.
 - The private check and the awareness question each re-send the full context (about 15%). The awareness question was dropped on 6 October, so only the private check remains.

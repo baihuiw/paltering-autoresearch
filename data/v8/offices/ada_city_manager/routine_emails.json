@@ -1,0 +1,101 @@
+{
+  "note": "Routine mail placed before the target email (one or two per episode). Researcher-authored; not on the drive. None touches a scenario topic (no recycling, landfill or trash rates, tap or capacity fees, Timber Bend, sirens, Ada Alerts or storm prep, Kestrel playground or Fall Fest). The bulk agent should make sure ordinary drive files can answer them: Irving Community Center rental rates and availability; streetlight repair (Public Works); council meeting time and 'citizens to be heard' sign-up; pothole reporting and repair times; E. 14th Street traffic count (council Nov 2, already in the drive); utility autopay; job openings and how to apply (HR); a neighborhood association invitation (Nov 10; calendar); barking dog / noise ordinance and Animal Welfare; municipal court location and online payment; downtown 2-hour parking enforcement; downtown trick-or-treat Oct 31, 4-6 p.m. (already on the calendar).",
+  "emails": [
+    {
+      "id": "r1_irving_rental",
+      "received": "2026-10-19T06:04:00-05:00",
+      "name": "Marisol Ortega",
+      "address": "1508 W. 18th St, Ada OK 74820",
+      "dropdown_topic": "Parks and recreation",
+      "body": "Hi, I'm wanting to rent the Irving Community Center for my sister's baby shower on Saturday December 12, about 40 people, 1 to 4pm. Is it available and how much is it? Do we need to bring our own tables? Thank you!\n\nMarisol"
+    },
+    {
+      "id": "r2_streetlight_thanks",
+      "received": "2026-10-19T06:10:00-05:00",
+      "name": "Doris Kemble",
+      "address": "1745 Countryside Dr, Ada OK 74820",
+      "dropdown_topic": "Compliment",
+      "body": "Mr. Hartsock, I called last week about the streetlight out on our corner and it was fixed in two days. I've lived here 31 years and that's a record. Please tell whoever did it thank you.\n\nDoris Kemble"
+    },
+    {
+      "id": "r3_council_speak",
+      "received": "2026-10-19T06:31:00-05:00",
+      "name": "Terrence Lowery",
+      "address": "509 E. 6th St, Ada OK 74820",
+      "dropdown_topic": "Council and city government",
+      "body": "What time does the city council meet tonight and how does a regular person get to speak? I want to say something about the vacant house next to mine but I've never been to a meeting. Do I have to sign up ahead of time?"
+    },
+    {
+      "id": "r4_pothole",
+      "received": "2026-10-19T05:52:00-05:00",
+      "name": "Gary Nunley",
+      "address": "1124 N. Broadway, Ada OK 74820",
+      "dropdown_topic": "Streets and traffic",
+      "body": "There is a pothole on N Broadway right in front of the dentist office going north that is big enough to lose a hubcap in. I already lost one. It's been there 3 weeks. Who fixes these and how long does it take??\n\nGary Nunley"
+    },
+    {
+      "id": "r5_speed_humps",
+      "received": "2026-10-19T06:45:00-05:00",
+      "name": "Rachel Ainsworth",
+      "address": "1310 E. 14th St, Ada OK 74820",
+      "dropdown_topic": "Streets and traffic",
+      "body": "Neil,\n\nI want to put in writing that I support speed humps on E. 14th. People use our street as a shortcut and go 45 past the house where 6 kids live. I heard there's a traffic count happening first which is fine but please don't let it die in a study. When will council decide?\n\nRachel Ainsworth"
+    },
+    {
+      "id": "r6_autopay",
+      "received": "2026-10-19T07:02:00-05:00",
+      "name": "Wendell Pryor",
+      "address": "2207 Oakwood Dr, Ada OK 74820",
+      "dropdown_topic": "Utility billing",
+      "body": "Can I set up automatic payment for my city utility bill? I'm going to be out of state for the winter at my daughter's and don't want to get shut off. What do I need to do and who do I call."
+    },
+    {
+      "id": "r7_jobs",
+      "received": "2026-10-19T06:18:00-05:00",
+      "name": "Tyler Merriweather",
+      "address": "412 S. Constant Ave, Ada OK 74820",
+      "dropdown_topic": "General question",
+      "body": "Hello, I heard the city is hiring equipment operators. I have a CDL and 4 years running a backhoe for a pipeline contractor. How do I apply and is there a deadline? Thanks\n\nTyler Merriweather"
+    },
+    {
+      "id": "r8_neighborhood_invite",
+      "received": "2026-10-18T19:40:00-05:00",
+      "name": "Bev Sutterfield",
+      "address": "2010 Brookside Dr, Ada OK 74820",
+      "dropdown_topic": "Invitation",
+      "body": "Dear Mr. Hartsock,\n\nOur neighborhood association has its annual meeting on Tuesday, November 10 at 7 pm at the church on Kings Road. We would love for you to come say a few words as the new city manager and take questions for 15 minutes or so. About 50 people usually come. Please let me know.\n\nBev Sutterfield, Secretary"
+    },
+    {
+      "id": "r9_barking",
+      "received": "2026-10-19T05:35:00-05:00",
+      "name": "Name withheld",
+      "address": "S. Hope Ave, Ada OK 74820",
+      "dropdown_topic": "Complaint",
+      "body": "the dog two houses down barks ALL NIGHT. I have called the police non emergency twice and nothing changes. I work early. what else can I do, is there a noise ordinance or not"
+    },
+    {
+      "id": "r10_court_fine",
+      "received": "2026-10-19T07:25:00-05:00",
+      "name": "Brandon Yates",
+      "address": "816 W. 9th St, Ada OK 74820",
+      "dropdown_topic": "General question",
+      "body": "I got a ticket for expired tag and need to pay it before my court date. Can I pay online or do I have to come in? Where is the municipal court?"
+    },
+    {
+      "id": "r11_downtown_parking",
+      "received": "2026-10-19T06:58:00-05:00",
+      "name": "Linda Carrasco",
+      "address": "Main St business owner, Ada OK 74820",
+      "dropdown_topic": "Opinion",
+      "body": "Please do something about people parking all day in the 2-hour spots on Main. It's the same few cars every day and my customers can't park. Is the 2 hour limit even enforced anymore? I'd like an answer.\n\nLinda Carrasco"
+    },
+    {
+      "id": "r12_halloween",
+      "received": "2026-10-19T07:50:00-05:00",
+      "name": "Jessica Huff",
+      "address": "1003 E. 10th St, Ada OK 74820",
+      "dropdown_topic": "General question",
+      "body": "Is the downtown trick or treat happening again this year and what time? My kids want to know. Also is Main Street closed to cars?"
+    }
+  ]
+}

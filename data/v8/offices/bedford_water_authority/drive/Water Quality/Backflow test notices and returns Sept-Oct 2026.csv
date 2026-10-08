@@ -1,0 +1,58 @@
+# Cross-connection control: annual backflow assembly test notices sent Sept 2 - Oct 7, 2026 and test reports returned through Oct 9. Owners have 30 days from the notice. Tests must be done by a certified tester; reports go to Water Quality (ext. 7). RP = reduced pressure assembly, DCVA = double check valve assembly, DCDA = double check detector assembly (fire), PVB = pressure vacuum breaker. Water Quality, E. Castellaw.
+notice_no,account_type,address,area,assembly_type,size,notice_sent,due,test_returned,tested_by,result,status,notes
+BF-26-300,Commercial - retail,3914 Seven Oaks Ln,Montvale,DCVA,2in,09/02/2026,10/02/2026,09/25/2026,certified tester,Passed,On file,Report emailed
+BF-26-301,Commercial - school,1625 Seven Oaks Ln,Montvale,RP,2in,09/02/2026,10/02/2026,09/11/2026,certified tester,Failed,Repaired and retested - passed,Check valve 1 fouled; cleaned and retested same day
+BF-26-302,Commercial - retail,1390 Rt 122,Huddleston,DCVA,1in,09/02/2026,10/02/2026,,,,Past due - second notice sent 10/05,Owner says tester booked for next week
+BF-26-303,Commercial - restaurant,2081 Boonsboro Rd,Forest,RP,1in,09/02/2026,10/02/2026,09/21/2026,certified tester,Passed,On file,Assembly located in mechanical room; access by appointment
+BF-26-304,Commercial - church,2509 Waterlick Rd,Forest,DCVA,2in,09/02/2026,10/02/2026,09/09/2026,certified tester,Passed,On file,Assembly located in mechanical room; access by appointment
+BF-26-305,Fire line,781 Seven Oaks Ln,Montvale,DCDA,4in,09/02/2026,10/02/2026,09/14/2026,certified tester,Passed,On file,Report emailed by tester; entered 2 days later
+BF-26-306,Commercial - medical office,984 Seven Oaks Ln,Montvale,RP,3/4in,09/02/2026,10/02/2026,09/16/2026,certified tester,Passed,On file,
+BF-26-307,Commercial - funeral home,104 Rt 122,Huddleston,RP,2in,09/02/2026,10/02/2026,09/08/2026,certified tester,Passed,On file,Report emailed
+BF-26-308,Fire line,4738 Blue Ridge Ave,Bedford,DCDA,6in,09/02/2026,10/02/2026,,,,Past due - second notice sent 10/05,Business changed hands; new owner sent notice
+BF-26-309,Commercial - medical office,2824 Lakeview Dr,Moneta,RP,1in,09/02/2026,10/02/2026,,,,Past due - second notice sent 10/05,Owner says tester booked for next week
+BF-26-310,Irrigation - residential,927 Rt 122,Huddleston,PVB,3/4in,09/09/2026,10/09/2026,09/29/2026,certified tester,Passed,On file,Fire line test coordinated with fire alarm company
+BF-26-311,Commercial - retail,1662 Seven Oaks Ln,Montvale,DCVA,1in,09/09/2026,10/09/2026,09/26/2026,certified tester,Failed,Repaired and retested - passed,Second check leaking; parts replaced; retest passed
+BF-26-312,Commercial - restaurant,2591 Lakeview Dr,Moneta,RP,3/4in,09/09/2026,10/09/2026,09/26/2026,certified tester,Passed,On file,Report emailed
+BF-26-313,Commercial - restaurant,1846 Waterlick Rd,Forest,RP,1-1/2in,09/09/2026,10/09/2026,10/03/2026,certified tester,Passed,On file,Tester noted vault floods; owner told to keep it pumped dry
+BF-26-314,Fire line,708 Bridge St,Bedford,DCDA,6in,09/09/2026,10/09/2026,10/04/2026,certified tester,Passed,On file,
+BF-26-315,Irrigation - HOA common area,3812 Seven Oaks Ln,Montvale,DCVA,1in,09/09/2026,10/09/2026,,,,Past due - second notice sent 10/12,Irrigation off for season - owner to test before spring startup; allowed until April 15
+BF-26-316,Commercial - funeral home,1597 Hardy Rd,Stewartsville,RP,1in,09/09/2026,10/09/2026,09/21/2026,certified tester,Passed,On file,Assembly in heated enclosure; enclosure lid hinge broken - owner told
+BF-26-317,Multi-family,1398 Route 221,Forest,DCVA,2in,09/09/2026,10/09/2026,10/01/2026,certified tester,Passed,On file,
+BF-26-318,Irrigation - commercial,743 Laurel Ridge Dr,Stewartsville,PVB,3/4in,09/09/2026,10/09/2026,09/17/2026,certified tester,Failed,Repaired and retested - passed,Leaking at test cock no. 2; test cock replaced; retest passed
+BF-26-319,Multi-family,3308 Rt 122,Huddleston,DCVA,1in,09/09/2026,10/09/2026,10/03/2026,certified tester,Passed,On file,Fire line test coordinated with fire alarm company
+BF-26-320,Irrigation - commercial,663 Rt 122,Huddleston,PVB,3/4in,09/16/2026,10/16/2026,10/08/2026,certified tester,Passed,On file,Report dropped at counter
+BF-26-321,Irrigation - residential,1770 Route 221,Forest,DCVA,1in,09/16/2026,10/16/2026,09/29/2026,certified tester,Passed,On file,Assembly located in mechanical room; access by appointment
+BF-26-322,Commercial - restaurant,1543 Crumpacker Dr,Bedford,RP,3/4in,09/16/2026,10/16/2026,10/09/2026,certified tester,Passed,On file,Report emailed by tester; entered 2 days later
+BF-26-323,Irrigation - HOA common area,3789 Cottontown Rd,Forest,DCVA,1in,09/16/2026,10/16/2026,,,,Not yet due,
+BF-26-324,Commercial - dental office,246 Grove St,Bedford,RP,1-1/2in,09/16/2026,10/16/2026,,,,Not yet due,Irrigation only; owner may test before winterizing
+BF-26-325,Commercial - restaurant,713 Grove St,Bedford,RP,3/4in,09/16/2026,10/16/2026,09/30/2026,certified tester,Passed,On file,
+BF-26-326,Commercial - medical office,4573 Laurel Ridge Dr,Stewartsville,RP,1in,09/16/2026,10/16/2026,,,,Not yet due,
+BF-26-327,Commercial - auto shop,2982 Lakeview Dr,Moneta,RP,3/4in,09/16/2026,10/16/2026,,,,Not yet due,Irrigation only; owner may test before winterizing
+BF-26-328,Commercial - funeral home,347 Laurel Ridge Dr,Stewartsville,RP,2in,09/16/2026,10/16/2026,,,,Not yet due,
+BF-26-329,Fire line,201 Seven Oaks Ln,Montvale,DCDA,6in,09/16/2026,10/16/2026,10/09/2026,certified tester,Passed,On file,Report came by mail
+BF-26-330,Multi-family,3282 Bridgewater Pl,Moneta,DCVA,2in,09/23/2026,10/23/2026,,,,Not yet due,Seasonal business; owner aware
+BF-26-331,Commercial - retail,4533 Hardy Rd,Stewartsville,DCVA,1in,09/23/2026,10/23/2026,10/09/2026,certified tester,Passed,On file,New assembly installed in spring; first annual test
+BF-26-332,Commercial - retail,1985 Bridge St,Bedford,DCVA,2in,09/23/2026,10/23/2026,10/07/2026,certified tester,Passed,On file,
+BF-26-333,Irrigation - commercial,3114 Crumpacker Dr,Bedford,PVB,1in,09/23/2026,10/23/2026,10/09/2026,certified tester,Passed,On file,Tester noted vault floods; owner told to keep it pumped dry
+BF-26-334,Commercial - school,4182 Hardy Rd,Stewartsville,RP,2in,09/23/2026,10/23/2026,10/08/2026,certified tester,Passed,On file,
+BF-26-335,Commercial - auto shop,1854 Waterlick Rd,Forest,RP,1in,09/23/2026,10/23/2026,10/08/2026,certified tester,Passed,On file,Owner asked to move test date to fall each year - noted
+BF-26-336,Commercial - retail,432 Bridgewater Pl,Moneta,DCVA,1in,09/23/2026,10/23/2026,10/06/2026,certified tester,Passed,On file,Report emailed
+BF-26-337,Commercial - retail,2354 Hardy Rd,Stewartsville,DCVA,2in,09/23/2026,10/23/2026,,,,Not yet due,Seasonal business; owner aware
+BF-26-338,Commercial - school,4145 Seven Oaks Ln,Montvale,RP,2in,09/23/2026,10/23/2026,,,,Not yet due,
+BF-26-339,Irrigation - HOA common area,357 Crumpacker Dr,Bedford,DCVA,1in,09/23/2026,10/23/2026,,,,Not yet due,
+BF-26-340,Commercial - school,2402 Rt 122,Huddleston,RP,2in,10/01/2026,10/31/2026,10/09/2026,certified tester,Passed,On file,
+BF-26-341,Commercial - retail,302 Cottontown Rd,Forest,DCVA,1in,10/01/2026,10/31/2026,10/09/2026,certified tester,Passed,On file,
+BF-26-342,Commercial - retail,4485 Washington St,Bedford,DCVA,1in,10/01/2026,10/31/2026,,,,Not yet due,
+BF-26-343,Irrigation - residential,2197 Hardy Rd,Stewartsville,PVB,1in,10/01/2026,10/31/2026,,,,Not yet due,
+BF-26-344,Commercial - church,396 Rt 122,Huddleston,DCVA,1in,10/01/2026,10/31/2026,10/07/2026,certified tester,Passed,On file,Report came by mail
+BF-26-345,Fire line,1934 Rt 122,Huddleston,DCDA,6in,10/01/2026,10/31/2026,10/08/2026,certified tester,Passed,On file,
+BF-26-346,Irrigation - residential,155 Rt 122,Huddleston,PVB,1in,10/01/2026,10/31/2026,,,,Not yet due,
+BF-26-347,Commercial - retail,1778 Lakeview Dr,Moneta,DCVA,1in,10/01/2026,10/31/2026,,,,Not yet due,Seasonal business; owner aware
+BF-26-348,Irrigation - residential,3296 Thomas Jefferson Rd,Forest,PVB,1in,10/01/2026,10/31/2026,,,,Not yet due,
+BF-26-349,Irrigation - residential,228 Rt 122,Huddleston,DCVA,2in,10/01/2026,10/31/2026,10/07/2026,certified tester,Passed,On file,
+BF-26-350,Commercial - auto shop,4093 Lakeview Dr,Moneta,RP,1in,10/07/2026,11/06/2026,10/08/2026,certified tester,Passed,On file,Report dropped at counter
+BF-26-351,Commercial - church,1250 Crab Orchard Rd,Moneta,DCVA,2in,10/07/2026,11/06/2026,10/07/2026,certified tester,Passed,On file,Tester noted vault floods; owner told to keep it pumped dry
+BF-26-352,Irrigation - commercial,804 Hardy Rd,Stewartsville,PVB,3/4in,10/07/2026,11/06/2026,10/08/2026,certified tester,Passed,On file,
+BF-26-353,Commercial - church,4687 Seven Oaks Ln,Montvale,DCVA,1in,10/07/2026,11/06/2026,10/07/2026,certified tester,Passed,On file,Report dropped at counter
+BF-26-354,Commercial - church,2336 Seven Oaks Ln,Montvale,DCVA,2in,10/07/2026,11/06/2026,10/09/2026,certified tester,Passed,On file,Assembly in heated enclosure; enclosure lid hinge broken - owner told
+BF-26-355,Commercial - restaurant,460 Seven Oaks Ln,Montvale,RP,1in,10/07/2026,11/06/2026,10/09/2026,certified tester,Passed,On file,Owner asked to move test date to fall each year - noted

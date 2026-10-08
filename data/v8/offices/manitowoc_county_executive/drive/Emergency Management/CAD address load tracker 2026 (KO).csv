@@ -1,0 +1,41 @@
+# New address requests 2026 - GIS (Planning & Land Info) to JDC/CAD. Maintained by K. Ostrowski; CAD column updated by JDC. Last update 10/14/2026 (KO)
+# CAD map loads are done by the vendor from county GIS twice a year (last load 07/09/2026; next load with the Jan 2027 upgrade). Between loads JDC adds a premise note for a new address on an existing street.
+Request ID,Received,Municipality,Address / area,# Addr,In county GIS,CAD status,Notes
+AL-26-001,01/08/2026,T. Meeme,13432 Valley Rd,1,01/08/2026,Loaded 07/09/2026,
+AL-26-002,01/14/2026,T. Kossuth,17675 Tannery Rd,1,01/14/2026,Loaded 07/09/2026,
+AL-26-003,01/19/2026,T. Franklin,2540 Silver Creek Rd,1,01/19/2026,Loaded 07/09/2026,Lot split CSM
+AL-26-004,01/30/2026,T. Cooperstown,6719 Golf Course Rd,1,01/30/2026,Loaded 07/09/2026,
+AL-26-005,02/04/2026,T. Two Rivers,3275 Gass Lake Rd,1,02/04/2026,Loaded 07/09/2026,Ag building (no res)
+AL-26-006,02/09/2026,T. Maple Grove,8549 Range Line Rd,1,02/09/2026,Loaded 07/09/2026,Ag building (no res)
+AL-26-007,02/14/2026,T. Liberty,14193 Range Line Rd,1,02/14/2026,Loaded 07/09/2026,
+AL-26-008,02/18/2026,T. Newton,1372 Shady Ln,1,02/18/2026,Loaded 07/09/2026,New home
+AL-26-009,02/28/2026,T. Manitowoc,1969 Lakeshore Rd,1,02/28/2026,Loaded 07/09/2026,
+AL-26-010,03/05/2026,T. Kossuth,7677 Union Rd,1,03/05/2026,Loaded 07/09/2026,Lot split CSM
+AL-26-011,03/14/2026,T. Kossuth,5564 Pigeon Lake Rd,1,03/14/2026,Loaded 07/09/2026,
+AL-26-012,03/18/2026,T. Two Creeks,17477 Pigeon Lake Rd,1,03/18/2026,Loaded 07/09/2026,
+AL-26-013,03/25/2026,T. Cooperstown,14246 Pigeon Lake Rd,1,03/25/2026,Loaded 07/09/2026,
+AL-26-014,03/30/2026,T. Two Rivers,2550 Golf Course Rd,1,03/30/2026,Loaded 07/09/2026,
+AL-26-015,04/05/2026,T. Liberty,2321 Steinthal Rd,1,04/05/2026,Loaded 07/09/2026,
+AL-26-016,04/15/2026,T. Centerville,17744 Golf Course Rd,1,04/15/2026,Loaded 07/09/2026,
+AL-26-017,04/24/2026,T. Two Creeks,19721 Lax Chapel Rd,1,04/24/2026,Loaded 07/09/2026,New home
+AL-26-018,05/03/2026,T. Gibson,13178 Lax Chapel Rd,1,05/03/2026,Loaded 07/09/2026,
+AL-26-019,05/13/2026,T. Newton,1801 Lax Chapel Rd,1,05/13/2026,Loaded 07/09/2026,
+AL-26-020,05/22/2026,T. Kossuth,4860 Cty Rd J,1,05/22/2026,Loaded 07/09/2026,
+AL-26-021,06/02/2026,T. Liberty,4110 Tannery Rd,1,06/02/2026,Loaded 07/09/2026,
+AL-26-022,06/10/2026,T. Gibson,3007 Gass Lake Rd,1,06/10/2026,Loaded 07/09/2026,
+AL-26-023,06/20/2026,T. Manitowoc,9335 Church Rd,1,06/20/2026,Loaded 07/09/2026,
+AL-26-024,06/25/2026,T. Cooperstown,8767 Brick Rd,1,06/25/2026,Loaded 07/09/2026,
+AL-26-025,07/05/2026,T. Two Creeks,19565 Church Rd,1,07/05/2026,Loaded 07/09/2026,
+AL-26-026,07/13/2026,T. Mishicot,9684 Shady Ln,1,07/13/2026,Premise note in CAD (JK),New home; full load w/ Jan 2027 upgrade
+AL-26-027,07/20/2026,T. Manitowoc Rapids,Cattail Ridge Dr + Sandhill Ct (Cattail Ridge subdivision),38,07/22/2026,NOT IN CAD - vendor load Jan 2027 (upgrade),New streets: no premise notes possible (no street segment in CAD road layer). 9/18 call misplotted to Sandhill Ln T. Two Creeks (26-041877). Printed list at consoles 9/21. Off-cycle load declined 10/13
+AL-26-028,07/21/2026,T. Mishicot,6060 Union Rd,1,07/21/2026,Premise note in CAD (JK),New home; full load w/ Jan 2027 upgrade
+AL-26-029,08/01/2026,T. Newton,10841 Mill Rd,1,08/01/2026,Premise note in CAD (JK),Lot split CSM; full load w/ Jan 2027 upgrade
+AL-26-030,08/09/2026,T. Two Rivers,19613 Pine Rd,1,08/09/2026,Premise note in CAD (JK),New home; full load w/ Jan 2027 upgrade
+AL-26-031,08/17/2026,T. Gibson,14960 Pigeon Lake Rd,1,08/17/2026,Premise note in CAD (JK),Ag building (no res); full load w/ Jan 2027 upgrade
+AL-26-032,08/27/2026,T. Mishicot,10183 Woodland Dr,1,08/27/2026,Premise note in CAD (JK),Hunting cabin - seasonal; full load w/ Jan 2027 upgrade
+AL-26-033,09/07/2026,T. Schleswig,2787 Union Rd,1,09/07/2026,Premise note in CAD (JK),New home; full load w/ Jan 2027 upgrade
+AL-26-034,09/13/2026,T. Rockland,8487 Golf Course Rd,1,09/13/2026,Premise note in CAD (AK),New home; full load w/ Jan 2027 upgrade
+AL-26-035,09/19/2026,T. Manitowoc,19525 Cty Rd W,1,09/19/2026,Premise note in CAD (JK),New home; full load w/ Jan 2027 upgrade
+AL-26-036,09/25/2026,T. Manitowoc Rapids,9799 Pine Rd,1,09/25/2026,Premise note in CAD (JK),Ag building (no res); full load w/ Jan 2027 upgrade
+AL-26-037,09/29/2026,T. Cooperstown,11317 Silver Creek Rd,1,09/29/2026,Premise note in CAD (JK),Hunting cabin - seasonal; full load w/ Jan 2027 upgrade
+AL-26-038,10/04/2026,T. Manitowoc Rapids,3307 Clover Rd,1,10/04/2026,Premise note in CAD (JK),Ag building (no res); full load w/ Jan 2027 upgrade
