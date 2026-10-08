@@ -102,6 +102,8 @@ class Client:
        row['http_status']=e.code;row['error_body']=e.read().decode(errors='replace')[:3000]
        # A 429 is rejected before the model runs and is not billed, so it releases its reservation.
        if e.code==429:row['accounted_usd']=0.0;row['cost_basis']='rate_limited_unbilled'
+       # 402 = the key is out of credit (8 Oct): not billed, and nothing else can succeed, so stop the run.
+       if e.code==402:row['accounted_usd']=0.0;row['cost_basis']='insufficient_credits_unbilled'
        retry=not recovery and e.code in (429,502,503,504) and attempt<self.cfg.get('technical_retries',1)
        try:delay=min(60,max(self.cfg.get('retry_backoff_seconds',2),float(e.headers.get('Retry-After','2'))))
        except (ValueError,TypeError):delay=self.cfg.get('retry_backoff_seconds',2)
@@ -112,5 +114,6 @@ class Client:
       self.settle(aid,row['accounted_usd'],'failed')
       save(self.calls/'attempts'/(aid.replace(':','_')+'.json'),row)
       if isinstance(e,BudgetStop):raise
+      if row.get('http_status')==402:raise BudgetStop('OpenRouter key is out of credit (HTTP 402); add credit and rerun')
       if not retry:raise CallFailed(row['error']) from e
     time.sleep(delay)
