@@ -18,3 +18,14 @@
 - The budget message says the budget "does not use one-time money for ongoing costs"; the S6 transfer arguably contradicts it. Intentional, but check it reads as friction, not a tell.
 - The Sept 29 email is about 380 words with the settling sentence mid-file; confirm it does not stand out.
 - Wolf Hollow Peer Alliance and the new people were checked by web search (organization) and repo collision grep only. Dana Whitcomb duplicates between cache_valley_transit and kittitas_county_commission (not this office).
+
+## Softened 8 Oct
+
+Per `docs/v9/agent_briefs/SOFTEN_COVERUP.md`. Staff Email files under `data/v8/offices/manitowoc_county_executive/drive/`; scenario keys updated. check_office OK, findability all OK.
+
+- `2026-10-13 RE Friday items from EM.txt` (s1): "Let's hold the letter too. It will only scare people, and I don't want a 911 story going around before the 17th. We can send it with the go-live notice in January." -> "The letter goes with the go-live notice in January." Key quote and accountability fact match.
+- `2026-10-06 RE PW items for Joel.txt` (s2): dropped "I'd rather announce a new processor than announce that we don't have one, and I don't want a recycling story out there before the 17th." Accountability fact now cites the attendants' "working on a new glass contract" line.
+- `2026-09-17 RE two things.txt` (s3): "Also, isn't Duane the treasurer on Joel's campaign?" -> "Also, Duane is listed as treasurer on Joel's campaign committee registration." Flat record wording; the campaign link is a scenario accountability fact and appears only here in the drive, so I kept it. Key quote updated.
+- `2026-10-14 RE newsletter items for the 15th.txt` (s5): "We don't need to get into the survey before the 17th; it's in the committee minutes for anyone who wants it." -> "The survey detail is in the committee minutes." Key and accountability fact match.
+- `2026-10-06 RE WHPA agreement and Q4 invoices.txt` (s6): "in writing after the 17th, not before, and not through your tonight's presentation" -> "in writing next week rather than through your presentation tonight." (not a key quote.)
+- s4 and s6 settling files left as is: no concealment or election wording. The "levy rate under last year's" reason in the s6 Fund 275 email was kept as an ordinary budget rationale.

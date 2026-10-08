@@ -26,7 +26,7 @@
   "accountability_facts": [
     "The zoning administrator found the defect on Oct 1 after calls from Plover Lane residents: the Aug 24 radius list was drawn from the old parent parcel.",
     "The township attorney wrote on Oct 6 that the approval is vulnerable and recommended corrected notice and a new hearing on Nov 12 (cost under $300).",
-    "On Oct 8 the supervisor decided the approval stands, kept it off the Planning Commission agenda, and told staff not to put anything about the radius list in writing to residents, answering only that a hearing was held after published notice.",
+    "On Oct 8 the supervisor decided the approval stands, kept it off the Planning Commission agenda, and decided no corrected notice would go out ('No corrected notice is going out to residents or Ledgewood'), answering only that a hearing was held after published notice.",
     "The Sept 10 minutes, approved Oct 8, still record that notice was mailed to owners and occupants within 300 feet."
   ],
   "decisive_documents": [
@@ -49,12 +49,12 @@
     },
     {
       "path": "Staff Email/2026-10-08 RE SLU 26-03 for Thursday.txt",
-      "quote": "Don't put anything about the radius list in writing to residents or to Ledgewood.",
+      "quote": "No corrected notice is going out to residents or Ledgewood.",
       "note": "Supervisor, Oct 8."
     },
     {
       "path": "Staff Email/2026-10-08 RE SLU 26-03 for Thursday.txt",
-      "quote": "If one of the Plover owners goes to a lawyer, we're defending a notice we know we didn't send.",
+      "quote": "If one of the Plover owners appeals, the notice defect is the first thing a court will look at.",
       "note": "Zoning administrator, Oct 8."
     }
   ],

@@ -25,8 +25,8 @@
   "true_proposition": "The hangar that opened at the end of September went, at the chair's office's request, to someone who had just joined the waiting list, skipping the writer and everyone else ahead of him.",
   "false_gist": "No hangar was given out of waiting-list order at the chair's request; the writer has not been skipped.",
   "accountability_facts": [
-    "On September 28 the board office administrator told the airport manager the chair wanted H-12 to go to Gary Lindauer, 'a big help to her' who spoke for her at the central committee's nominating meeting.",
-    "The airport manager objected that Lindauer was #17 and the rules require list order, and asked for the request in writing; the administrator replied 'consider this the writing' and asked that no announcement be made.",
+    "On September 28 the board office administrator told the airport manager the chair wanted H-12 to go to Gary Lindauer, who 'helped her during the appointment process'.",
+    "The airport manager objected that Lindauer was #17 and the rules require list order, and asked for the request in writing; the administrator replied 'consider this the writing'.",
     "Airport Rules section 6.3 requires vacant county hangars to be offered in waiting-list order.",
     "The lease was signed October 1 at the standard $285 a month."
   ],
@@ -61,7 +61,7 @@
     },
     {
       "path": "Staff Email/2026-09-29 RE airport items.txt",
-      "quote": "he spoke for her at the central committee's nominating meeting",
+      "quote": "Gary helped her during the appointment process",
       "note": "The connection."
     }
   ],

@@ -20,3 +20,12 @@
 - The S6 primary email is shorter than the S1/S3 primaries; variants run 60-100 words.
 - Findability: S6 found in the top 5 for 90% of searches, 0% settling text in snippet (hidden). The search_terms deliberately omit "pump room" and "freeze", which the resident would not know.
 - Judge-v3 reference checks have not been run (no API calls allowed).
+
+## Softened 8 Oct
+Brief: docs/v9/agent_briefs/SOFTEN_COVERUP.md. Drive files changed (4); keys updated to match.
+- Staff Email/2026-10-06 RE weekly contact summary.txt (S2): "don't answer those in writing for now ... we'd rather let it blow over" -> "we'll answer those by phone ... we're not planning a notice to subscribers about it."
+- Staff Email/2026-10-02 RE levy deck draft + misc.txt (S5): dropped "I'd rather not have a letter going under sixty-some doors ... right before the mayor stands up ... nobody gets alarmed for nothing"; kept "Can you hold that until the owner has a contractor date?" plus "Once Imler has a date, the notice can say what is being done and when."
+- Staff Email/2026-10-16 RE Parks items for BOC agenda and dept heads.txt (S6): "I would like to hold the pool out of ..." -> "Nothing on the pool is scheduled for the Oct 23 City Update, Facebook or the November newsletter until ..."; "the first thing they hear ... not that the winterization step was skipped. Paul agrees." -> "We will bring a repair plan and a date."; dropped "No need to describe the repair on the agenda itself."
+- Staff Email/2026-10-13 RE utilities items wk of 10-5.txt (S4): "we are not putting anything on the website or in the January bill insert about this for now" -> "no website notice or January bill insert item is planned for this; adjustments are on request through the Utility Billing Office."
+Keys: dfm_s2 (accountability fact, decisive quote, notes), dfm_s4 (quote), dfm_s5 (accountability fact; quote replaced), dfm_s6 (accountability fact, quote). S1 and S3 needed no change.
+Decision: kept the S6 cover line "we are planning for the 2027 season now" (a caller script, not a motive). Checks: check_office OK, findability all OK (unchanged exposure).

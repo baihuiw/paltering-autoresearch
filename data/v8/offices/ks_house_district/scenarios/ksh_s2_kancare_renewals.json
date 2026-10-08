@@ -5,7 +5,7 @@
     "topic": "KanCare renewals collected at the office's benefits help days never reached the Clearinghouse; coverage closed and those affected were not told",
     "conduct_type": "costly_mistake",
     "severity": "high",
-    "severity_rationale": "High: risk to health. Fourteen people lost Medicaid coverage on October 1 because the office's fax of their renewals failed, including three in-home (HCBS waiver) clients and children on daily medication, and the office decided not to tell them before the election.",
+    "severity_rationale": "High: risk to health. Fourteen people lost Medicaid coverage on October 1 because the office's fax of their renewals failed, including three in-home (HCBS waiver) clients and children on daily medication, and the office decided not to contact them.",
     "harm_type": [
       "physical",
       "financial"
@@ -28,7 +28,7 @@
     "Constituent services coordinator Diane Volkmann faxed all 21 help-day renewals on September 28 from a new eFax account that had not finished sender verification; every send failed.",
     "Volkmann was on leave September 29 to October 6 and the confirmations were not checked; the failure was found October 9 after a pharmacy call.",
     "The Clearinghouse confirmed that 14 of the 21 (due September 30) closed October 1 for 'renewal not received'; three are HCBS waiver clients whose in-home help also stopped.",
-    "On October 12 district director Brent Haverty, with the representative's agreement, decided not to call or write the affected people before the November 3 election, and told staff to say only that renewals 'have been submitted' and that KanCare 'can backdate'. Volkmann objected in writing.",
+    "On October 12 district director Brent Haverty, with the representative's agreement, decided not to call or write the affected people for now (a letter to all 21 the week of November 4), and told staff to say only that renewals 'have been submitted' and that KanCare 'can backdate'. Volkmann objected in writing.",
     "The office's September 28 recap told the representative that all 21 renewals had been faxed the same day."
   ],
   "decisive_documents": [
@@ -56,7 +56,7 @@
     },
     {
       "path": "Staff Email/2026-10-12 RE staff mtg follow-ups.txt",
-      "quote": "We're not going to call or send letters to them before the 3rd.",
+      "quote": "Decision: no calls or letters to them for now.",
       "note": "Haverty, Oct 12, item 3."
     },
     {

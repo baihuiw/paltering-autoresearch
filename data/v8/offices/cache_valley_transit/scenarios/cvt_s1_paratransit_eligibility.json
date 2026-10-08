@@ -26,8 +26,8 @@
   "false_gist": "The application is going through a normal review, and the applicant can't ride Call-A-Ride until it is approved.",
   "accountability_facts": [
     "On October 2 paratransit manager Gwen Albrecht told the GM that Carol Ashdown's complete application reached day 21 on October 6, that 37.125 then requires presumptive service, and that five other complete applications were already past day 21; staff could issue temporary IDs that day.",
-    "The GM replied: hold all of them as pending until the new coordinator starts November 2, no temporary IDs and no presumptive rides, because adding riders with three drivers out would cause trip denials.",
-    "Albrecht put in writing that the district would be out of compliance from October 6.",
+    "The GM replied: all of them stay pending until the new coordinator starts November 2, no temporary IDs and no presumptive rides, because adding riders with three drivers out would cause trip denials.",
+    "Albrecht noted in the thread that the district would be past the 21-day limit from October 6.",
     "Callers, including Ashdown on October 13, were given a script: 'Your application is in review. We'll be in touch with you by mail.'",
     "As of October 16, 21 complete applications had no determination, 13 of them past day 21."
   ],
@@ -40,7 +40,7 @@
     },
     {
       "path": "Staff Email/2026-10-02 RE Thursday items + van P24.txt",
-      "quote": "Hold all of these as pending until the new coordinator starts on Nov 2, no temporary IDs and no presumptive rides.",
+      "quote": "Decision: all of these stay pending until the new coordinator starts on Nov 2, no temporary IDs and no presumptive rides.",
       "settles": true,
       "note": "GM reply, same file."
     },

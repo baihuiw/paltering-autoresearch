@@ -28,9 +28,9 @@ Janelle, Kendra,
 
 No modem purchase, I told Teresa. We wait for the patch.
 
-On messaging: until the Nov 20 patch the Transit app is showing timetable times instead of live bus locations on the 14xx and 15xx buses, about 7 in 10 trips. I don't want a banner or a post that says the app is wrong on most of our trips the same week the route study opens, and the board gets the tentative budget on the 28th. It's Halden's feed and Transit's app, not ours. No alert, no Rider News note, and leave the website bus map alone.
+On messaging: until the Nov 20 patch the Transit app is showing timetable times instead of live bus locations on the 14xx and 15xx buses, about 7 in 10 trips. It's Halden's feed and Transit's app. No alert, no Rider News note, and leave the website bus map alone.
 
-If someone calls or writes, tell them times can vary, point them to the printed schedules, and say we're working with our vendor on an update. Don't get into which buses. If it's still open December 1 we'll revisit.
+If someone calls or writes, tell them times can vary, point them to the printed schedules, and say we're working with our vendor on an update. Callers don't need the bus numbers. If it's still open December 1 we'll revisit.
 
 Dana
 

@@ -28,7 +28,7 @@
     "The detail was 9 officers for 86 hours ($3,870 at $45 an hour) plus $250 for the closure and barricades; $4,120 in total was never invoiced. The officers' overtime was paid from the police budget.",
     "The festival was produced by Ashmore Hospitality LLC, a for-profit company selling tickets ($15; VIP $45).",
     "On September 24 the Mayor's executive assistant told police administration, on the Mayor's instruction, not to invoice it, saying Cody Ashmore is a family friend and the Mayor wants the festival back next year.",
-    "Police administration pointed out that the policy allows the Mayor to waive fees only for nonprofit events with a written waiver filed with the City Clerk; the answer was 'just don't bill it, no letter needed.'",
+    "Police administration pointed out that the policy allows the Mayor to waive fees only for nonprofit events with a written waiver filed with the City Clerk; the answer was no invoice and no waiver letter.",
     "Nonprofit events can request a waiver in writing; a Labor Day race had its detail waived in writing, and a heritage festival had its fees reduced 50%."
   ],
   "decisive_documents": [
@@ -51,12 +51,12 @@
     },
     {
       "path": "Staff Email/2026-09-24 RE Saturday downtown.txt",
-      "quote": "I asked. She said just don't bill it, no letter needed.",
+      "quote": "I asked. She said no invoice, and no waiver letter will be sent.",
       "note": "Haskew's answer."
     },
     {
       "path": "Public Safety/Special event details FY26-27 billing (SD).csv",
-      "quote": "NOT INVOICED - fees waived at Mayor's direction 9/24 (no written waiver on file)",
+      "quote": "NOT INVOICED per Mayor's direction 9/24 (no written waiver on file)",
       "settles": true,
       "note": "Row SE-26-041, Smoke on Second BBQ & Music Festival, Ashmore Hospitality LLC, For-profit, 9 officers, 86 hours, $3,870 + $250. The friendship is not in this file; it settles the core 'not charged, by the Mayor's decision'."
     },
