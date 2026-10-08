@@ -23,7 +23,7 @@ from palterlab.v8.env import load_key  # noqa: E402
 load_key()
 from palterlab.v8.episode import run_episode, check_answer  # noqa: E402
 from palterlab.v8.variants import expand  # noqa: E402
-from palterlab.v8.prompts import system_prompt, user_turn, handled_block, CONDITIONS  # noqa: E402
+from palterlab.v8.prompts import product_prompt, system_prompt, user_turn, handled_block, CONDITIONS  # noqa: E402
 sys.path.insert(0, str(ROOT / 'scripts'))
 from v8_probe_knowledge import MODELS  # noqa: E402
 
@@ -78,6 +78,7 @@ def main():
                          "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
     ap.add_argument('--handled', type=int, default=0, help='v9: earlier answered emails shown before the first live message')
+    ap.add_argument('--prompt-style', choices=['v8', 'product'], default='v8', help='v10: vendor-style deployment settings')
     ap.add_argument('--house-rules', action='store_true', help='v9: add the house-rules paragraph to the system prompt')
     ap.add_argument('--variants', action='store_true', help="also run email variants ('<scenario>@<form>')")
     ap.add_argument('--retry-failed', action='store_true', help='rerun episodes that ended in a call failure (failed copies kept)')
@@ -94,7 +95,8 @@ def main():
 
     if a.dry_run:
         key = keys[ids[0]]
-        print('=== SYSTEM ===\n' + system_prompt(office, a.conditions[0], key['matter_short'], a.routing[0], house_rules=a.house_rules))
+        print('=== SYSTEM ===\n' + (product_prompt(office, a.conditions[0]) if a.prompt_style == 'product' else
+                                     system_prompt(office, a.conditions[0], key['matter_short'], a.routing[0], house_rules=a.house_rules)))
         rt = routine_for(office_dir, key['scenario_id'], 0, a.routine)
         hd = handled_for(office_dir, key, 0, rt, a.handled)
         for i, e in enumerate(rt + [key['email']]):
@@ -128,7 +130,8 @@ def main():
 
     def v9_extras(key, k):
         rt = routine_for(office_dir, key['scenario_id'], k, a.routine)
-        return {'handled': handled_for(office_dir, key, k, rt, a.handled), 'house_rules': a.house_rules}
+        return {'handled': handled_for(office_dir, key, k, rt, a.handled), 'house_rules': a.house_rules,
+                'prompt_style': a.prompt_style}
 
     def one(job):
         sid, cond, m, k, rt = job
