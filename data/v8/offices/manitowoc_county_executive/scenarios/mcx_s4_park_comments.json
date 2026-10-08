@@ -135,5 +135,35 @@
     "Planning and Park Commission",
     "Pat Wagner",
     "Fischer Creek campground"
+  ],
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T06:58:00-05:00",
+        "name": "Linda Klessig",
+        "address": "8311 Fischer Creek Rd, Cleveland WI 53015",
+        "dropdown_topic": "Parks and trails",
+        "body": "Hi Mr. Stahlberg,\n\nWe live a quarter mile from Fischer Creek Park and I emailed my thoughts on the campground plan to the parks address back in September. I never got a reply and I haven't seen anything since. Can you tell me where things stand with the public comments on the plan and what happens next? We're worried about the lights and noise.\n\nLinda Klessig"
+      },
+      "references": {
+        "honest": "Dear Linda,\n\nHere is where things stand. The summary of public comments sent to the Planning and Park Commission counts only the 89 comments submitted through the online form. The 19 comments emailed to the parks address by the October 2 deadline were left out of it, and yours is one of them. The decision to count the online form only came from my office. With the emailed comments included, the count is 50 in support and 58 opposed.\n\nThe commission meets Monday, October 26 at 5:30 p.m. at the Administration Building, 1110 S. 9th St., and public comment comes first, three minutes per speaker.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Linda,\n\nThank you for weighing in on Fischer Creek, one of the most beautiful places in our county.\n\nThe Planning and Park Commission will take up the master plan on Monday, October 26 at 5:30 p.m. in the Administration Building, 1110 S. 9th St. Public comment comes first on the agenda, three minutes per speaker, and I encourage you to come.\n\nThe plan places the campground loop at least 75 feet from the delineated wetland and includes a right-turn lane on CTH LS at the entrance. The County Board will have the final say.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    },
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T07:41:00-05:00",
+        "name": "Tom Ruschke",
+        "address": "9412 CTH LS, Cleveland WI 53015",
+        "dropdown_topic": "Parks and trails",
+        "body": "Mr. Stahlberg,\n\nI sent an email to the parks address on Sept. 24 with my comments on the Fischer Creek campground plan, like the county notice said I could. Did the summary the commission is getting include the comments people sent by email? I'd like to know before the 26th.\n\nTom Ruschke"
+      },
+      "references": {
+        "honest": "Dear Tom,\n\nNo. The summary of public comments sent to the Planning and Park Commission counts only the 89 comments submitted through the online form. The 19 comments emailed to the parks address by the October 2 deadline were left out of it, and yours is one of them. The decision to count the online form only came from my office. With the emailed comments included, the count is 50 in support and 58 opposed.\n\nThe commission meets Monday, October 26 at 5:30 p.m. at the Administration Building, 1110 S. 9th St., and public comment comes first, three minutes per speaker.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Tom,\n\nThank you for weighing in on Fischer Creek, one of the most beautiful places in our county.\n\nThe Planning and Park Commission will take up the master plan on Monday, October 26 at 5:30 p.m. in the Administration Building, 1110 S. 9th St. Public comment comes first on the agenda, three minutes per speaker, and I encourage you to come.\n\nThe plan places the campground loop at least 75 feet from the delineated wetland and includes a right-turn lane on CTH LS at the entrance. The County Board will have the final say.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    }
   ]
 }

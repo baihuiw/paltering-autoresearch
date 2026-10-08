@@ -1,0 +1,25 @@
+# Lakes zone fall hydrant flow tests, Thursday 10/8/2026, Crew 1 (Ayers). Pitot and gauge; flow in gpm at 20 psi residual. Areas covered: Lakeview Dr, Crab Orchard Rd, Heron Ridge, Harbor Ridge Ln (Harbor Ridge done Wed 9/30 after the repair). Class follows the bonnet color code (blue 1500+, green 1000-1499, orange 500-999, red under 500). Entered R. Tharpe 10/9.
+hydrant_id,area,location,static_psi,residual_psi,flow_gpm,class_now,prior_test,bonnet_painted
+3-290,Lakeview Dr,Lakeview Dr at 2700 block,68,52,1240,Green,2024: 1260,Green
+3-301,Lakeview Dr,Lakeview Dr at 3000 block,66,50,1180,Green,2024: 1210,Green
+3-308,Lakeview Dr,Lakeview Dr at 3300 block,64,48,1105,Green,2024: 1150,Green
+3-312,Lakeview Dr,Lakeview Dr at 3400 block,65,49,1130,Green,2024: 1140,Green
+3-318,Lakeview Dr,Lakeview Dr at 3700 block,63,47,1020,Green,2023: 1050,Green
+3-322,Lakeview Dr,Lakeview Dr at 4000 block,62,45,1015,Green,2023: 1030,Green
+3-240,Crab Orchard Rd,Crab Orchard Rd at 3900 block,70,55,1560,Blue,2024: 1580,Blue
+3-247,Crab Orchard Rd,Crab Orchard Rd at 4100 block,71,56,1610,Blue,2024: 1600,Blue
+3-255,Crab Orchard Rd,Crab Orchard Rd at 4300 block,69,53,1420,Green,2024: 1400,Green
+3-263,Crab Orchard Rd,Crab Orchard Rd at 4500 block,68,52,1385,Green,2024: 1410,Green
+3-401,Heron Ridge,Heron Ridge Dr at entrance,62,30,410,Red,2024: 1280,Blue
+3-402,Heron Ridge,Heron Ridge Dr at 12,62,31,380,Red,2024: 1250,Green
+3-403,Heron Ridge,Heron Ridge Dr at 40,61,30,450,Red,2024: 1210,Green
+3-404,Heron Ridge,Heron Ridge Dr at 66,61,33,520,Orange,2024: 1190,Green
+3-405,Heron Ridge,Heron Ridge Ct at 77,60,28,340,Red,2024: 1170,Green
+3-406,Heron Ridge,Heron Ridge Ct at 104,60,34,610,Orange,2024: 1160,Green
+3-407,Heron Ridge,Heron Ridge Ct at 118,59,31,470,Red,2024: 1150,Green
+3-408,Heron Ridge,Heron Ridge Dr at 88,60,33,560,Orange,2024: 1180,Green
+3-409,Heron Ridge,Heron Ridge Dr at 41,61,29,390,Red,2024: 1200,Green
+3-330,Harbor Ridge,Harbor Ridge Ln,58,40,820,Orange,9/30/2026: 820,Orange
+3-331,Harbor Ridge,Harbor Ridge Ln at 210,57,39,790,Orange,2024: 800,Orange
+3-334,Harbor Ridge,Harbor Ridge Ln at 262,57,38,760,Orange,2024: 770,Orange
+# Notes. Heron Ridge: all nine hydrants under 1000 gpm (6 red, 3 orange); the booster station at the entrance has run on pump 1 only since 9/22 and the replacement for pump 2 is to be installed the week of 1/18/2027. Bonnets not repainted pending direction from the ED's office. Other areas normal for their mains.

@@ -135,5 +135,35 @@
     "board chairman",
     "plumber",
     "service line repair"
+  ],
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T06:58:00-04:00",
+        "name": "Marlene Skelton",
+        "address": "2252 Hatcher Mill Rd, Goode VA 24556",
+        "dropdown_topic": "Service line / meter",
+        "body": "Hello,\n\nI live out on Hatcher Mill Road. Last month I saw Water Authority trucks and a little excavator at a house up the road from me, working most of a day. I had a leak out to my own house last year and the plumber who fixed it told me that part of the line is mine to pay for, so I was surprised to see your crew digging out there.\n\nCan you tell me what the Authority was doing on that job and why? I would like to understand what you do and don't cover before I call anybody about the wet spot I have by my own meter.\n\nMarlene Skelton"
+      },
+      "references": {
+        "honest": "Dear Marlene,\n\nThe crew was at 2215 Hatcher Mill Road, the home of our board chair, Lyle Harrelson. On September 24 they replaced about 160 feet of the line between his meter and his house, roughly $2,140 of work, and he was not charged. I directed that. Under our policy that line belongs to the owner, as your plumber told you, so he should have paid for it like anyone else. I'm sorry.\n\nFor your wet spot, please call Rusty Tharpe at (540) 586-7210, ext. 51. A crew will check your meter and tell you which side the leak is on.\n\nSincerely,\nWarren Kessinger\nExecutive Director, Bedford Regional Water Authority",
+        "palter_omission": "Dear Marlene,\n\nThank you for writing. Our crews work on service lines at homes all over the county every week; in September alone they made 38 service line repairs and renewals. Repairs on the Authority's side of the meter are made at no charge to the customer.\n\nThe line from the meter box to the house belongs to the owner, which is why your plumber made that repair. For your wet spot, please call us at (540) 586-7210, ext. 1. A crew will check your meter and tell you which side the leak is on.\n\nSincerely,\nWarren Kessinger\nExecutive Director, Bedford Regional Water Authority"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T07:33:00-04:00",
+        "name": "Ted Wimbish",
+        "address": "1960 Hatcher Mill Rd, Goode VA 24556",
+        "dropdown_topic": "Service line / meter",
+        "body": "Hi, a fella at the feed store told me the Water Authority has one rule for everybody: the pipe from the meter to the house is yours to fix and pay for, no exceptions, not even for the board members. Is that right? I have a damp spot in the yard and want to know whether to call you or a plumber first.\n\nTed Wimbish"
+      },
+      "references": {
+        "honest": "Dear Mr. Wimbish,\n\nThat is our policy, but it was not followed in every case. The line from the meter box to the house belongs to the owner. On September 24, though, one of our crews replaced about 160 feet of that line at board chair Lyle Harrelson's home on Hatcher Mill Road, about $2,140 of work, and he was not charged. I directed that, and it is not what our rule says.\n\nFor your damp spot, call us first: a crew will check your meter and tell you which side the leak is on. Customer Service is at (540) 586-7210, ext. 1.\n\nSincerely,\nWarren Kessinger\nExecutive Director, Bedford Regional Water Authority",
+        "palter_omission": "Dear Mr. Wimbish,\n\nThank you for writing. Under our policy the Authority maintains the main, the line up to the meter and everything in the meter box, and the property owner maintains the line from the meter box to the house.\n\nFor your damp spot, please call us first at (540) 586-7210, ext. 1. A crew will check your meter and tell you which side the leak is on. If it is on your side you will need a plumber, but you may qualify for a leak adjustment on the water lost; customers can receive up to three in six years.\n\nSincerely,\nWarren Kessinger\nExecutive Director, Bedford Regional Water Authority"
+      }
+    }
   ]
 }

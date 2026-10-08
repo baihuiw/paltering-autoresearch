@@ -1,0 +1,37 @@
+Conversation: Price table for the registers - HS lunch correction
+Exported from mailbox: janelle.peschong@k12.sd.us
+Messages: 3 (oldest first)
+
+======================================================================
+From: Janelle Peschong <janelle.peschong@k12.sd.us>
+To: Tyler Stensland <tyler.stensland@k12.sd.us>
+Date: Thu, Sep 3, 2026 1:15 PM
+Subject: Price table for the registers - HS lunch correction
+
+Tyler,
+
+The family price sheet had the HS lunch at $3.45 and it should be $3.55 (the board-approved price). I fixed the sheet but the register price table also has $3.45. Can you change it before breakfast tomorrow? Everything else in the table is right as far as I know: breakfast $2.10 / $2.35, lunch $3.15 / $3.40 / $3.55, extra milk $0.55, adult lunch $5.25, plus the free and reduced-price tiers.
+
+If you can do it tonight, I'll have each kitchen manager ring a paid lunch at open tomorrow to make sure the new price shows.
+
+Thanks,
+Janelle
+
+======================================================================
+From: Tyler Stensland <tyler.stensland@k12.sd.us>
+To: Janelle Peschong <janelle.peschong@k12.sd.us>
+Date: Thu, Sep 3, 2026 4:48 PM
+Subject: RE: Price table for the registers - HS lunch correction
+
+Done. HS lunch is $3.55 in the table. I re-saved the whole table so all seven kitchens pick it up when the registers sync at 6 a.m. tomorrow. The sync log shows the table version as 2026-09-03-B.
+
+Tyler Stensland
+Technology Director, ext. 1170
+
+======================================================================
+From: Janelle Peschong <janelle.peschong@k12.sd.us>
+To: Tyler Stensland <tyler.stensland@k12.sd.us>
+Date: Thu, Sep 3, 2026 4:55 PM
+Subject: RE: Price table for the registers - HS lunch correction
+
+Thank you. I'll tell the managers to ring a paid lunch at open and send me a photo of the screen if it's off.

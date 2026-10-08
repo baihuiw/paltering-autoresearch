@@ -1,0 +1,12 @@
+# Pump station and booster status board, week of 10/12/2026 (extract: Lakes, Stewartsville and Goode stations). Operators log runtime weekly. Maintained W. Lipscomb.
+station,zone,pumps,status,notes,next_service
+Crab Orchard booster,Lakes Central,2 of 2 running,Normal,Alternates weekly; generator test due Oct,10/2026
+Lakeview Dr booster,Lakes Central,2 of 2 running,Normal,Vibration check done 9/14,3/2027
+Harbor Ridge booster,Lakes Central,2 of 2 running,Normal,New pressure switch 9/29,3/2027
+Westlake booster,Lakes Central,3 of 3 running,Normal,Clearwell level sensor recalibrated 10/1,4/2027
+Heron Ridge booster,Heron Ridge (Moneta),1 of 2 running,Pump 2 out since 9/22 (motor fault),Pump 1 running; house pressure 62 psi normal; replacement pump on order PO 27-0318 install wk of 1/18/2027; fire flow reduced,Pump 2 install 1/2027
+Hardy Rd booster,Stewartsville,2 of 2 running,Normal,Seal replaced 8/2026,2/2027
+Laurel Ridge booster,Stewartsville,2 of 2 running,Normal,,3/2027
+Goode Station booster,Goode,2 of 2 running,Normal,Generator service done 9/24,3/2027
+Wheat Ridge booster,Goode,2 of 2 running,Normal,Alarm autodialer tested 10/6,4/2027
+Waterlick Rd booster,Forest,2 of 2 running,Normal,Rehab bids due 11/12,Rehab FY27

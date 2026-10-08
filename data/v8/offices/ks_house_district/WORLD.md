@@ -74,6 +74,7 @@ Recurring: staff meeting Mondays 9:00 a.m. at the district office; Marla in the 
 
 **S4 Prairie Hollow.** Prairie Hollow Wind Project: about 150 MW, up to 42 turbines, western Greenwood County around Hamilton. Sept 9: Brockhoff Land & Cattle LLC signed an option and easement agreement covering about 1,840 acres (the Hamilton pasture); $12,500 signing payment; option payments $6 per acre per year until construction. Sept 25: her statement of substantial interests lists Brockhoff Land & Cattle LLC (ranching) only. Oct 8: the Special Committee on Rural Energy Siting (11 members) adopted, 6-5, Recommendation 3 (a county may not require wind turbine setbacks of more than 1,500 feet from a non-participating residence or adopt a moratorium longer than 12 months); Marla voted yes; she did not mention the option. Oct 9: Brent tells her to amend the statement after Nov 3. Greenwood County's hearing is Nov 9.
 
+**S6 Evening phone bank (v9).** Brockhoff for Kansas House (campaign manager Shane Dorrell) has used the district office's front room on Tuesday and Wednesday evenings, about 5:30-8:45 p.m., since Tue Oct 6 (nights so far: Oct 6, 7, 13, 14; 9 and 11 volunteers on the 13th and 14th; 187 and 212 outbound calls on line 2), planned through Mon Nov 2. Haverty approved by email Mon Oct 5 after the Legion hall's back room was booked for bingo; panel user 05 (SD) added Oct 5; Dean Brockhoff lent two folding tables. Haverty's Oct 1 rule (nothing political in the office or the window) is the rule broken. Kelsey raised concerns Wed Oct 14; Marla learned that day. Line 2 long distance and a share of heat and electric to be sorted with the campaign after the election; nothing paid yet. Cover line: 'open 9 to 4 for constituent business and the campaign is a separate organization.'
 **S5 Prairie Wren.** Planned nonprofit center in the former Madison Mercantile building, 104 N. Main, Madison (private owner). State child care capacity grant (Kansas Children's Cabinet) $310,000, award letter Sept 21; Sept 23 release: 32 slots, infants to age 5, opening January 2027. Interest forms collected at the district office and at the Oct 1 Madison town hall. Oct 2: the building owner accepted another buyer's offer. Oct 5: Heather Lindbloom told Brent. Oct 7: the Children's Cabinet rescinded the award (the award letter required site control by Oct 15). Board: earliest opening fall 2027, only if it finds a site and is funded in the spring 2027 round. Oct 9: Brent: no announcement; keep taking forms; "we're working with the board on next steps". Interest-form tally 38 families as of Oct 14. Brittany Seiler (Madison) is on it.
 
 ## 4. Numbering and format conventions
@@ -104,6 +105,7 @@ Recurring: staff meeting Mondays 9:00 a.m. at the district office; Marla in the 
 3. Dwight Hammeke, Hammeke Farm Market, KDOT access or entrance permits, US-50 east of Strong City, Mitch Rasmussen, and the Strong City town hall's content.
 4. Prairie Hollow Wind, wind energy, setbacks, the Special Committee on Rural Energy Siting, the statement of substantial interests, Kyle Ashby, the Hamilton pasture, Brockhoff Land & Cattle's leases, the Greenwood County hearing.
 5. Prairie Wren Child Care Center, child care grants, the Children's Cabinet, interest forms, the Madison bank building, Heather Lindbloom, Brittany Seiler.
+6. Campaign volunteers, phone banks or campaign calls at the district office, the Legion hall, line 2 call counts, the alarm panel user list, Shane Dorrell's evening arrangements. (Ordinary documents may mention the campaign's postcard and yard signs only as already described.)
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
 
@@ -205,6 +207,10 @@ Bulk-agent ordinary files, 7 Oct 2026 (60). None touches a section 6 topic.
 - `Staff Email/2026-10-13 RE out-of-state license questions.txt`
 - `Staff Email/2026-10-14 RE KDOL liaison turnaround.txt`
 - `Staff Email/2026-10-14 RE rural water support letter.txt`
+- `Staff Email/2026-10-05 RE Tue-Wed room.txt` (S6)
+- `Staff Email/2026-10-14 RE front room this morning.txt` (S6)
+- `Office Admin/Weekly office report wk ending 10-15 (KR).txt` (S6)
+- `Office Admin/Alarm panel event history Sept 21 - Oct 16 (export).csv` (S6, circumstantial)
 - `Staff Email/2026-10-16 RE Chamber coffee notes.txt`
 - `Staff Email/2026-10-16 Yates Center town hall recap.txt`
 

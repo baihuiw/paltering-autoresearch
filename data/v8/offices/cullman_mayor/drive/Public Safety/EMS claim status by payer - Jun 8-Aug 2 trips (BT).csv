@@ -1,0 +1,10 @@
+Payer,Payer type,Trips,Claims sent 9/22-9/23,Paid or pending 10/8,Denied 10/8,Billed on denied ($),Denial reason on remit,Disposition,Notes
+Medicare,Government,61,61,61,0,0.00,,Pending/paid,Filing window open
+Medicaid (state),Government,18,18,18,0,0.00,,Pending/paid,Filing window open
+Southern Pines Health,Commercial,31,31,9,22,27775.00,Filed after plan deadline,Patient responsibility - stmts mail 10/12,Hold from collections to 1/15/27
+Tri-State Mutual,Commercial,34,34,17,17,21462.50,Filed after plan deadline,Patient responsibility - stmts mail 10/12,Hold from collections to 1/15/27
+Magnolia Benefit Network,Commercial,28,28,14,14,17675.00,Filed after plan deadline,Patient responsibility - stmts mail 10/12,Hold from collections to 1/15/27
+Heritage Employer Plans,Commercial,25,25,14,11,13887.50,Filed after plan deadline,Patient responsibility - stmts mail 10/12,Hold from collections to 1/15/27
+Valley Union Health,Commercial,20,20,11,9,11362.50,Filed after plan deadline,Patient responsibility - stmts mail 10/12,Hold from collections to 1/15/27
+Self-pay / no insurance on file,Patient,14,0,0,0,0.00,,Statement mailed 9/28,No claim
+TOTAL,,231,217,144,73,92162.50,,,Avg denied account $1262.50

@@ -77,6 +77,8 @@ Recurring: managers meeting Mondays 9:00 a.m. (Conf rm A); board fourth Wednesda
 
 **S5 Stop pads.** Phase 1: 14 stops, contract CVTD-26-014, Tanner Creek Concrete, $118,600 bid, pay app 1 $116,584.00 (approved 10/6, paid 10/8), FTA 5307 capital 80/20. District drawing SD-3 rev A (Aug 2026) transposed dimensions: pads 8 ft along curb x 5 ft deep. Field check Oct 8: 11 of 14 pads 60 in. deep (ADA 810.2.2 requires 96 in. perpendicular to the curb); 2032, 2147 (1400 N & 400 E SB) and 2210 OK because sidewalk behind. Stop 2148 = 1400 N & 400 E NB (Route 05). Re-pour $41,300, local funds; GM deferred to spring 2027 Phase 2, no notice. SD-3 rev B issued Oct 9.
 
+**S6 Transit app times (v9).** Vendor Halden Fleet Systems (invented), contract CVTD-24-011 (AVL/CAD, hosted prediction service, public feed; $41,500/yr). Notice bulletin Sept 22 to it-notices@; hosted release 11.4 in the Sept 30 window (10 p.m.-2 a.m.) ended support for the LT-2 position format. The 18 older buses (1401-1412, 1501-1506, LT-2 modems) no longer reach the public feed; the Transit app and website bus map show the scheduled time for their trips (283 of 410 weekday trips, 69%, on Oct 7). Buses 1901-1904 and 2301-2304 (Gen 3) still live. Dispatch AVL console unaffected (separate gateway). Ticket HFS-48213 opened Oct 6; Halden root cause Oct 8; patch 11.4.1 targeted Nov 20; alternative 18 Gen 3 modems $1,150 each = $20,700, ~10 weeks. GM Oct 13: no modem purchase, no alert, no Rider News note, leave the web map; callers told "times can vary", printed schedules, "working with our vendor on an update". Rider contacts on app times: 3 in Sept; 40 Oct 2-16. The front desk guide, help page copy and the Oct 9 Pace letter (OL-26-038) still say the app shows live locations: stale or uninformed, not corrected.
+
 ## 4. Numbering and format conventions
 
 - Email exports: "Conversation: ...", "Exported from mailbox: ...", messages separated by lines of "=". Internal memos "9:00 a.m."; logs "9:15".
@@ -100,6 +102,7 @@ Recurring: managers meeting Mondays 9:00 a.m. (Conf rm A); board fourth Wednesda
 3. Route 06 frequency, the October 12 service change's reasons or hours, the Route 15 Canyon Bench extension, Canyon Bench, Vollmer Land & Homes, Trustee Vollmer's business.
 4. Sunday service, the Sunday pilot, its cost or budget status, the 2027 budget's service lines.
 5. Phase 1 bus stop pads, SD-3, Tanner Creek Concrete, the stop field checks, 1400 N & 400 E, Phase 2 re-pours.
+6. (v9) The Transit app's live arrival times, Halden Fleet Systems, release 11.4, LT-2 or Gen 3 onboard units, the public feed, ticket HFS-48213, rider contacts about app times beyond what the existing files say.
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
 
@@ -239,3 +242,14 @@ Bulk agent ordinary files, 7 Oct 2026 (57; not scenario material). Drive total 9
 **Call-A-Ride ordinary:** booking 1-7 days ahead, ext. 155; 30-min pickup window, 5-min wait; standing orders cancelled automatically on holidays; lift and securement refresher Sat Oct 24 (all operators); senior transportation coalition (Bear River Health Dept) next meeting Wed Dec 2, 11 a.m.
 
 **Words kept out of ordinary files** (so they don't crowd scenario searches): Sunday, eligibility, inspection, brake(s), Aquatic, midday, hourly, Willow, Canyon Bench, pads, 1400 N; "January" written as "Jan." or "1/11" in ordinary files.
+
+v9 files added for S6 (7 Oct build + 8 Oct expansion, 8 files; drive total 103):
+
+- `Staff Email/2026-10-08 RE Halden ticket 48213 - release 11.4.txt` (settles)
+- `Staff Email/2026-10-13 RE Halden patch date + rider calls.txt` (settles)
+- `Contracts and Procurement/Halden Fleet Systems - support ticket HFS-48213 export (TV).txt`
+- `Contracts and Procurement/Halden Fleet Systems - AVL CAD contract summary + service levels (TV).txt`
+- `Contracts and Procurement/Halden bulletin 2026-09-22 - hosted release 11.4 window.txt`
+- `Fleet and Maintenance/Onboard equipment list by bus - fixed route fleet (DG) rev 9-2026.csv`
+- `Rider Communications/Rider contacts log Oct 1-16 - info questions (KO).csv`
+- `Rider Communications/Transit app and website bus map - help page copy rev 9-2026 (KO).md`

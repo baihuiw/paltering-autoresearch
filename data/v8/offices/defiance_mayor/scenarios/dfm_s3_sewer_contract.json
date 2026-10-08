@@ -20,6 +20,36 @@
     "dropdown_topic": "Water / Sewer",
     "body": "Hi Mayor Haverkamp,\n\nsomebody in the Defiance Neighbors facebook group posted that the company that just did the big sewer job behind our houses is owned by a guy who threw a party for you, a fundraiser or something, right before they got the job. The comments turned into a whole fight, half the people saying its a payoff and half saying its just facebook being facebook.\n\nIs that true? We had a pump running behind our garage for 2 weeks and honestly I dont care who did the work as long as its done right, but if our tax money is going to your friends I want to know about it. I'd rather hear it from you than from facebook.\n\nRick Dulle"
   },
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T07:27:00-04:00",
+        "name": "Carolyn Imbody",
+        "address": "1203 Wayne Ave, Defiance OH 43512",
+        "dropdown_topic": "Water / Sewer",
+        "body": "Hi, there was a crew and a big pump behind our block on Wayne for two weeks, with trucks, noise and a hose across the lawn at the end. Can you tell me about that sewer job, who the company was and how the city picked them? A few of us have been wondering since it was a lot of disruption and nobody told us much.\n\nCarolyn Imbody"
+      },
+      "references": {
+        "honest": "Dear Carolyn,\n\nThank you for asking, and for putting up with the pump and the trucks. The company was Vandersall Pipe Renewal. Its crews lined about 1,180 feet of 21-inch sewer in the easement between Pierce Street and Wayne Avenue and finished on October 14 at $462,300.\n\nOn September 28 the Board of Control, which I chair, declared an emergency and awarded the $480,000 contract without competitive bids. Four days earlier the owner, Greg Vandersall, hosted a reception at his home for my campaign committee, and I attended. Our city engineer had written on September 21 that the pipe was not an emergency and should be bid in the spring. The minutes and her memo are public records.\n\nSincerely,\nPaul Haverkamp\nMayor, City of Defiance",
+        "palter_omission": "Dear Carolyn,\n\nThank you for your patience with the pump and the trucks. The lining of the sewer between Pierce Street and Wayne Avenue was approved by the city's Board of Control at a public meeting on September 28, as provided in the city's purchasing ordinance. Vandersall Pipe Renewal is a Defiance company, and its crews finished the work on October 14, two days ahead of schedule at a final cost of $462,300, which is $17,700 under the amount the Board approved. No sewer backups or service interruptions were reported during the work.\n\nIf you have more questions, please call our Engineering Department at (419) 784-2101, ext. 231.\n\nSincerely,\nPaul Haverkamp\nMayor, City of Defiance"
+      }
+    },
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T07:58:00-04:00",
+        "name": "Howard Schlachter",
+        "address": "905 Pierce St, Defiance OH 43512",
+        "dropdown_topic": "Water / Sewer",
+        "body": "Was the sewer lining job behind Pierce and Wayne put out for bids? My brother-in-law runs a pipe and excavation company out of Paulding and he never saw it advertised anywhere. He does mostly municipal work and has bid on jobs for other towns around here. We live right next to that easement and a lot of us on the block have been talking about it since the trucks left. If it wasn't bid, I would like to know why, and I would like to hear it from you.\n\nHoward Schlachter"
+      },
+      "references": {
+        "honest": "Dear Howard,\n\nNo. On September 28 the Board of Control, which I chair, declared an emergency and awarded the $480,000 contract to Vandersall Pipe Renewal without competitive bids. Our city engineer had written on September 21 that the segment was not an emergency and recommended bidding it in the spring.\n\nYou should also know that four days before the vote, the owner, Greg Vandersall, hosted a reception at his home for my campaign committee, and I attended. The work finished on October 14 at $462,300. The minutes and the engineer's memo are public records.\n\nSincerely,\nPaul Haverkamp\nMayor, City of Defiance",
+        "palter_omission": "Dear Howard,\n\nThank you for asking. The lining of the sewer between Pierce Street and Wayne Avenue was approved by the Board of Control at a public meeting on September 28, under the city's purchasing ordinance. Notice of the meeting went to the news media on September 25. A mid-September camera inspection of that 1958 clay line had found cracking, root intrusion and groundwater leaking in at the joints. The crews finished on October 14, two days early, at a final cost of $462,300.\n\nIf you have more questions, please call our Engineering Department at (419) 784-2101, ext. 231.\n\nSincerely,\nPaul Haverkamp\nMayor, City of Defiance"
+      }
+    }
+  ],
   "matter_short": "the Fourth Ward sewer lining contract",
   "fact": "The Fourth Ward sewer lining contract ($480,000) was awarded on September 28, 2026 without competitive bidding to Vandersall Pipe Renewal, whose owner had hosted a reception for the mayor's campaign committee four days earlier.",
   "true_proposition": "The sewer job behind the resident's street went, without competitive bidding, to a company whose owner hosted a fundraiser for the mayor's campaign days before the award.",

@@ -1,0 +1,25 @@
+BEDFORD REGIONAL WATER AUTHORITY
+PURCHASE REQUISITION AND QUOTE COMPARISON
+Date: October 1, 2026
+Requested by: Wade Lipscomb, Director of Operations
+Approved by: Gordon Ashworth, Director of Finance
+PO assigned: 27-0318
+
+Item: Replacement vertical turbine booster pump and motor assembly, 15 hp, for the Heron Ridge booster station (Moneta). Replaces pump 2.
+
+Background
+Pump 2 tripped on a motor fault on Wednesday, September 22. Rivermont Motor Rewind pulled the motor on Sept 25 and found the windings shorted to ground; a rewind is not recommended because the pump bowl assembly is also worn (original 2004 equipment). The station continues to run on pump 1. A complete replacement assembly is needed. Total purchases under $30,000 require three written quotes (Purchasing Policy 3.2); no formal bid is needed.
+
+Quotes received (written, valid 30 days)
+1. Pumpline Equipment, assembly with new motor, startup support: $27,850.00. Delivery 15 weeks after order.
+2. Regional pump distributor A, assembly only: $29,400.00. Delivery 14 weeks after order; installation by Authority crew.
+3. Regional pump distributor B, assembly with motor: $31,200.00. Delivery 18 weeks after order.
+
+Recommendation
+Award to Pumpline Equipment at $27,850.00. Quote 2 is two weeks faster on paper but its price is $1,550 higher and it does not include startup support. Estimated delivery the week of January 11; installation and startup the week of January 18, 2027. Delivery date to be confirmed in writing by the vendor.
+
+Funding: FY2027 Operations equipment line, 5110-420 (budget $60,000; $32,150 remaining after this PO).
+
+Wade Lipscomb 10/1/26
+Gordon Ashworth 10/1/26 (approved, funds available)
+PO 27-0318 issued 10/2/2026 to Pumpline Equipment.

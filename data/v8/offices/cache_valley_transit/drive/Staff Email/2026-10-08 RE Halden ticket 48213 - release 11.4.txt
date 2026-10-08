@@ -1,0 +1,53 @@
+Conversation: RE: Halden ticket 48213 - release 11.4
+Exported from mailbox: jostler@rideconnectutah.gov
+Messages: 3 (oldest first)
+
+======================================================================
+From: Janelle Ostler <jostler@rideconnectutah.gov>
+To: Marcus Velling <mvelling@rideconnectutah.gov>; Kendra Oberlin <koberlin@rideconnectutah.gov>
+Cc: Teresa Vaughn <tvaughn@rideconnectutah.gov>
+Date: Thu, Oct 8, 2026 9:12 AM
+Subject: Halden ticket 48213 - release 11.4
+
+Marcus, Kendra,
+
+Halden finally answered ticket 48213 (I opened it Tuesday). Short version: since their release 11.4 went on the hosted server overnight Sept 30, positions from our older onboard units, which is every 14xx and 15xx bus (all 18), are rejected before they reach the public feed. Only 1901-1904 and 2301-2304 still send positions the feed accepts.
+
+What that does on the rider side: on any trip run by a 14xx or 15xx bus, the Transit app and the website bus map show the scheduled arrival time as if it were a live, real-time prediction. I ran yesterday's run assignments and 283 of 410 weekday trips (69%) were on one of the 18. Nothing on screen marks a timetable time any differently, so a rider can't tell.
+
+Dispatch is not affected. The AVL console runs on the separate dispatch link and still shows all 26 buses.
+
+Halden's note is pasted below. Their fix date is not firm.
+
+Janelle
+
+> From: Halden Fleet Systems Support <support@haldenfleet.example>
+> Subject: RE: [HFS-48213] public feed - older units
+>
+> Release 11.4 retired the LT-2 position report format. Units on buses 1401-1412 and 1501-1506 report in LT-2. Those reports are no longer accepted by the prediction service, and the public feed substitutes the scheduled time when it has no vehicle position. A compatibility patch (11.4.1) is targeted for Nov 20. Alternatively the units can be replaced with Gen 3 modems at $1,150 each; lead time is about 10 weeks.
+
+======================================================================
+From: Marcus Velling <mvelling@rideconnectutah.gov>
+To: Janelle Ostler <jostler@rideconnectutah.gov>
+Cc: Kendra Oberlin <koberlin@rideconnectutah.gov>; Teresa Vaughn <tvaughn@rideconnectutah.gov>
+Date: Thu, Oct 8, 2026 10:03 AM
+Subject: RE: Halden ticket 48213 - release 11.4
+
+Confirmed from the dispatch side. I just walked through the console: all 26 coming in normal, nobody on the floor has lost sight of a bus. That's the only reason we didn't catch it ourselves, nobody here looks at the rider app.
+
+So riders are getting schedule times on 18 of 26 buses and have been since Oct 1. Kendra, is that what the calls have been?
+
+Marcus
+
+======================================================================
+From: Kendra Oberlin <koberlin@rideconnectutah.gov>
+To: Marcus Velling <mvelling@rideconnectutah.gov>; Janelle Ostler <jostler@rideconnectutah.gov>
+Cc: Teresa Vaughn <tvaughn@rideconnectutah.gov>
+Date: Thu, Oct 8, 2026 10:41 AM
+Subject: RE: Halden ticket 48213 - release 11.4
+
+That fits. I've logged 14 contacts since Oct 2 saying the times were off by 8 to 15 minutes, mostly mornings, and I had been telling people to check the printed schedule. I'll pull the log together. Do we put out a rider alert, or does that go to Dana first? I'm assuming Dana.
+
+Also the Nov Rider News goes to layout the 26th, so there's room if we want a note there.
+
+K

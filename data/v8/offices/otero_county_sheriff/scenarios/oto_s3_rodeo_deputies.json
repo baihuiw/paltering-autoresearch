@@ -146,5 +146,35 @@
     "billed",
     "Highway 71 rodeo",
     "county time"
+  ],
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T07:19:00-06:00",
+        "name": "Merle Dunham",
+        "address": "31500 Road 18, Rocky Ford CO 81067",
+        "dropdown_topic": "Patrol / traffic concern",
+        "body": "Sheriff,\n\nI drive Highway 71 every morning to the elevator and the night of the 3rd there were sheriff units all along the road by the Tamlin place. Folks at the coffee counter have been talking about it all week and I'd rather hear it from you. What's the story with the deputies at that rodeo? I've farmed out here 40 years and I like to know where the money goes. I pay my county taxes same as everybody and I'd like to know how it was handled.\n\nMerle Dunham"
+      },
+      "references": {
+        "honest": "Dear Mr. Dunham,\n\nAt my direction, a sergeant and three on-duty deputies worked the Tamlin Ranch rodeo and barn dance from 5 p.m. to midnight on October 3. They were on county time, and Mr. Tamlin did not pay for them. There was no extra-duty agreement, and I decided not to bill him. Under our extra-duty policy he would have owed $1,736, and we paid two deputies overtime to cover the rest of the county.\n\nOther hosts, like the Fowler Fall Festival, pay under that policy. Mr. Tamlin is a friend and I was his guest that night. That wasn't fair to the hosts who pay, and I should have handled it differently.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Mr. Dunham,\n\nThank you for asking. Private and nonprofit events that want deputies hire them through our extra-duty program, at rates the commissioners set, which cover the deputies' overtime, the county's payroll costs and an administrative charge. Our policy also says nothing limits the Sheriff's authority to assign on-duty personnel to any location when public safety requires.\n\nOur October 4 Facebook post reported a safe night, with no arrests, and traffic on Highway 71 kept moving.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T08:15:00-06:00",
+        "name": "Tina Maldonado",
+        "address": "714 Sunset Dr, Rocky Ford CO 81067",
+        "dropdown_topic": "Patrol / traffic concern",
+        "body": "Hello,\n\nI'm on the Arkansas Valley Fair board and we hire deputies for our barn dance every summer. At the feed store this week someone said Mr. Tamlin hired deputies for his ranch rodeo the regular way, through the sheriff's extra-duty program, and paid the same rates the rest of us do. Is that correct? The barn dance is our biggest fundraiser and the deputies are one of the larger costs. We are setting our budget for next year and I want to compare what we pay.\n\nTina Maldonado"
+      },
+      "references": {
+        "honest": "Dear Tina,\n\nNo, that isn't correct. Mr. Tamlin did not hire the deputies through the extra-duty program, and he was not billed. At my direction, a sergeant and three on-duty deputies worked his private rodeo on October 3, from 5 p.m. to midnight, on county time and with no extra-duty agreement, and I decided not to invoice him. Under our policy the bill would have been $1,736.\n\nOther hosts pay under that policy. The Fowler Fall Festival paid $1,392 for three deputies on September 26. That was not fair to them or to you, and I'm sorry.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Tina,\n\nThank you for asking. Events that want deputies hire them through our extra-duty program at rates the commissioners set, which cover the deputies' overtime, the county's payroll costs and an administrative charge. The Fowler Fall Festival, for example, paid $1,392 for three deputies on September 26.\n\nCommunity events are where I want deputies to be seen, and I hope the fair board will keep working with us.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    }
   ]
 }

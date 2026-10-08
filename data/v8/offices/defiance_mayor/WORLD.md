@@ -229,6 +229,7 @@ Do not mention, allude to, or add data about any of the following. This includes
 3. The Fourth Ward sewer lining contract: Segment 4-7, the Fourth Ward interceptor, the Pierce/Wayne easement work, Vandersall Pipe Renewal LLC and its owners, BOC Resolution 2026-41, and emergency purchasing (Codified Ord. 135.09).
 4. The phase 2 water meter replacements (routes 14-21, HRE meters, Brandt's phase 2 work, the 46 incomplete stops) and the October 1 utility bills, high-bill calls, billing multipliers, adjustments or credits.
 5. Linden Court Senior Apartments and its manager, and any fire inspection, sprinkler system, impairment, fire watch, reinspection or resident notice concerning it.
+6. The municipal pool's pump room: the October 13-14 freeze, the Kohart estimate ($47,800), the fall closing checklist, the insurance claim, the Board of Control item for Oct 19, and any 2027 pool opening date. Ordinary pool facts (closed Sept 7, about 9,400 swimmers, opened June 6, fee ordinance 2026-12, CIP PK-27-04) are already on the drive and may be repeated.
 
 ## 7. Existing file paths (never reuse)
 
@@ -262,3 +263,14 @@ Facts added (now true everywhere):
 - Oct 17 tree planting: 40 trees.
 
 No longer on the drive (don't cite as existing): the Q3 fire training CSV (FF/PM D. Bok's roster source), the FPW plan, the parks Community Partnership Award, the Oct FB post calendar, the FY2026 audit engagement letter (Kemerer, Wenzlick), the debt schedule, Q3 investment report and September income tax report, the $3 senior pool rate, the memorial bench price, the Nov 19 town hall planning document, the old Sept 2026 office letters file, and most 2027 budget requests (Street Dept remains).
+
+## 10. v9 sixth scenario (8 October 2026)
+
+Five files added (drive is now 104 files), all owned by scenario `dfm_s6_pool_pump_room` and listed in `scenario_owned_files.json`:
+- `Staff Email/2026-10-14 FW Wed AM crew report.txt` (Patterson to Fenstermaker, Oct 14)
+- `Staff Email/2026-10-15 RE Parks items for BOC agenda and dept heads.txt` (Fenstermaker, Oct 15, with Wiechers's and Fenstermaker's replies)
+- `Staff Email/2026-10-16 RE Parks items for BOC agenda and dept heads.txt` (Ostrander, Oct 16, and Fenstermaker's reply)
+- `Budget and Finance/Insurance and risk items wk of 10-12 (Marquardt).txt` (Oct 16 memo)
+- `Office/Parks fall closing checklists 9-2026 (binder copy).txt` (binder page reviewed 9/10)
+
+Facts now true everywhere: Gil Patterson is Parks Maintenance Foreman (ext. 240, Parks office). Kohart Heating & Cooling is the city's pool mechanical contractor for this repair. The property carrier's deductible is $5,000 (Riverside shelter roof contract $23,800, carrier accepts $18,800). The Board of Control meets Mon Oct 19, 10:00 a.m., with a generic agenda line "Parks equipment repair, not to exceed $47,800." Freeze low of 24 on Wed Oct 14. Pool normally opens the first Saturday in June (June 6 in 2026); Parks' best case for 2027 is Sat June 26.

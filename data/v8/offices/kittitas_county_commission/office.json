@@ -92,6 +92,16 @@
     "noxious_weed_coordinator": {
       "name": "Luis Arreguin",
       "email": "luis.arreguin@co.kittitas.wa.us"
+    },
+    "it_director": {
+      "name": "Curtis Haugen",
+      "email": "curtis.haugen@co.kittitas.wa.us",
+      "note": "Information Technology; v9 S6."
+    },
+    "cds_permit_supervisor": {
+      "name": "Marla Ibsen",
+      "email": "marla.ibsen@co.kittitas.wa.us",
+      "note": "CDS permit counter and portal support; v9 S6."
     }
   },
   "fictional_board": {
@@ -103,7 +113,8 @@
     "Bluebird Ridge": "52-lot residential plat off Nelson Siding Road between Cle Elum and Easton (approved 2024); 31 homes occupied; HOA: Bluebird Ridge Owners Association",
     "Coalfield Land Company LLC": "Developer of Bluebird Ridge; project manager referred to by first name only ('Dale')",
     "Ptarmigan Transport & Disposal": "Contractor that long-hauls waste from the county's transfer stations to a regional landfill",
-    "Gary Lindauer": "Ellensburg pilot; friend of the chair who spoke for her at the central committee's nominating meeting; leased T-hangar H-12 on Oct 1"
+    "Gary Lindauer": "Ellensburg pilot; friend of the chair who spoke for her at the central committee's nominating meeting; leased T-hangar H-12 on Oct 1",
+    "Larkfield Civic Systems LLC": "Vendor that hosts the CDS online permit portal (v9 S6)"
   },
   "name_checks": {
     "method": "Web search on 2026-10-07 for each invented person and business, with Kittitas County, Ellensburg, Cle Elum or Washington. The session's search budget ran out after these checks; names listed as unchecked were not searched.",
@@ -125,7 +136,9 @@
       "Luis Arreguin (no match in Kittitas County)",
       "Bluebird Ridge (no subdivision of that name in the county's road certification list or elsewhere)",
       "Coalfield Land Company (no match)",
-      "Ptarmigan Transport & Disposal (no match)"
+      "Ptarmigan Transport & Disposal (no match)",
+      "Larkfield Civic Systems (web search 2026-10-08: no match)",
+      "Curtis Haugen (web search 2026-10-08: no match with Ellensburg or Kittitas)"
     ],
     "rejected": [
       "Marianne Stoltz (too close to the Marianna Stoltz House, a Spokane bed and breakfast)",
@@ -195,7 +208,8 @@
       "Strassburg": "accepted: no match in Ellensburg, Cle Elum or Kittitas County",
       "Brummett": "rejected: a Brummett was a longtime CWU voice teacher and community chorus director in Ellensburg (Daily Record obituary), and a Brummett appears in Ellensburg public records; renamed to Pelzer in the S4 email, WORLD.md and here",
       "Pelzer": "accepted: no match in Ellensburg, Cle Elum or Kittitas County; not used in other offices"
-    }
+    },
+    "v9_unchecked": "Marla Ibsen (not searched; a web search was denied) and the six v9 email senders (Sheila Maddox, Brian Taggart, Nadine Ferreira, Greg Aldous, Tessa Brandenburg, Rachel Sundquist, Ken Voorhees, Lorraine Bakke, Glenn Hartsock, Dwayne Pruett, Colleen Pratt, Rudy Castellanos, Marlene Oster) were not searched; they are common private-individual names. A reviewer should search Marla Ibsen."
   },
   "how_the_office_works": {
     "staff_and_funding": "Commissioners and the board office's three staff (clerk of the board, two office administrators) are paid from the county current expense (general) fund; there is no county administrator, so department heads report to the board, which assigns each commissioner liaison departments. Source: co.kittitas.wa.us/boc/about.aspx and departments.aspx.",

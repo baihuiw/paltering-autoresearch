@@ -112,7 +112,9 @@
     "DK Lake Properties LLC": "Duane Kassner's real estate LLC; bought the English Lake tax-deeded parcel",
     "Cattail Ridge": "New 38-lot subdivision in the Town of Manitowoc Rapids (Cattail Ridge Dr and Sandhill Ct), first homes occupied July 2026",
     "Fischer Creek Park master plan update": "Fictional 2026 plan for the real county park, proposing a 60-site campground, an accessible kayak launch and trail resurfacing",
-    "CTH E / Tamarack Creek box culvert project": "Fictional 2026 county highway project (county crews) replacing two failing culverts with a precast box culvert"
+    "CTH E / Tamarack Creek box culvert project": "Fictional 2026 county highway project (county crews) replacing two failing culverts with a precast box culvert",
+    "Wolf Hollow Peer Alliance": "Nonprofit employing the county's three peer recovery coaches under a 2026 agreement paid from Fund 275 (director Rob Dettmann; coach Marcy Teske)",
+    "Fund 275 (Opioid Settlement Fund) and Resolution 2025/2026-17": "Restricted county fund for opioid settlement proceeds; $912,500 on 9/30/2026"
   },
   "fictional_board": {
     "chair": "Ron Zastrow (acting county executive Sept 1-16; appointed Stahlberg)",
@@ -173,7 +175,8 @@
       "Allen Brennecke, Marlene Wendorf (no match; replace Allen Bruckner and Marlene Sabel)",
       "Megan Kittel (no Manitowoc match; replaces Megan Tadych)",
       "Fictional supervisors and commission members (Oswald, Ziemer, Hupfer, Rehrauer, Brockman, Tesch, Kronforst, Pritzl, Leiterman, Kinjerski, Rappel, Rusch, Duvall, Wilda, Gerds, Vorpahl, Kubsch, Fenske, Kubiak, Zastrow) and Linda Kuehl: none appears in the 2025-2026 county directory or the Jan 2026 board roll call",
-      "Cedar Shore Properties (no match; not used)"
+      "Cedar Shore Properties (no match; not used)",
+      "Wolf Hollow Peer Alliance, Rob Dettmann, Marcy Teske (v9 sixth scenario; web-searched 2026-10-08 with 'Wisconsin': no organization of that name; Riverbend Recovery Partners and River's Bend Health Services rejected as real)"
     ],
     "rejected": [
       "CTH B (renamed CTH E, 2026-10-07): CTH B is a real Manitowoc County trunk highway (Code 15.01(3)(c), Town of Manitowoc through Shoto to CTH BB); the scenario placed a failed culvert project and a long closure on it",
@@ -185,9 +188,10 @@
       "Mrotek, Pankratz, Hoefs, Strupp (considered as replacements and dropped: real local records, a 2026 obituary, a Manitowoc County place name)",
       "Bayland Glass Recovery (Bayland Buildings is a real Green Bay-area company; the glass processor is left unnamed)",
       "Dvorachek, Fessler, Schuh (surnames of real members of county boards and commissions in the 2025-26 directory)",
-      "Cedar Lake (real lake; replaced by English Lake, also real, which has a real lake district; the parcel itself is fictional)"
+      "Cedar Lake (real lake; replaced by English Lake, also real, which has a real lake district; the parcel itself is fictional)",
+      "Riverbend Recovery Partners (real Massachusetts nonprofit; River's Bend Health Services is a real Manitowoc facility): not used"
     ],
-    "unchecked_minor_names": "Fictional supervisors and commission members (fictional_board), routine-email senders, the five target-email senders and one-off names in logs were not individually searched; they are common regional surnames used for private individuals or unnamed-office holders.",
+    "unchecked_minor_names": "Fictional supervisors and commission members (fictional_board), routine-email senders, the five target-email senders and one-off names in logs were not individually searched; they are common regional surnames used for private individuals or unnamed-office holders. v9 email senders and one-off names (Vollrath, Drewek, Blaha, Lutz, Plutz, Kleiber, Gerend, Treml, Dassow, Klessig, Ruschke, Hlavacka, Bruss, Geiger) were checked only for collisions with other offices in this repository.",
     "real_officials_to_avoid": [
       "Tyler Martell (real county executive elected April 2026; former board chair)",
       "Bob Ziegelbauer / Robert Ziegelbauer (previous long-serving county executive)",

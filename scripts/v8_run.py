@@ -22,6 +22,7 @@ from palterlab.common import save  # noqa: E402
 from palterlab.v8.env import load_key  # noqa: E402
 load_key()
 from palterlab.v8.episode import run_episode, check_answer  # noqa: E402
+from palterlab.v8.variants import expand  # noqa: E402
 from palterlab.v8.prompts import system_prompt, user_turn, CONDITIONS  # noqa: E402
 sys.path.insert(0, str(ROOT / 'scripts'))
 from v8_probe_knowledge import MODELS  # noqa: E402
@@ -63,6 +64,7 @@ def main():
                     help="ask the branched awareness question (an extra call). Not used since 6 Oct: eval awareness is coded "
                          "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
+    ap.add_argument('--variants', action='store_true', help="also run email variants ('<scenario>@<form>')")
     ap.add_argument('--retry-failed', action='store_true', help='rerun episodes that ended in a call failure (failed copies kept)')
     ap.add_argument('--workers', type=int, default=12, help='episodes at once; set the budget cap comfortably above expected spend')
     ap.add_argument('--dry-run', action='store_true', help='print the prompts for one episode; no calls')
@@ -71,6 +73,8 @@ def main():
     office_dir = ROOT / 'data/v8/offices' / a.office
     office = json.loads((office_dir / 'office.json').read_text())
     keys = {p.stem: json.loads(p.read_text()) for p in sorted((office_dir / 'scenarios').glob('*.json'))}
+    if a.variants:  # v9: also run each scenario's email variants, as '<scenario>@<question_form>'
+        keys = expand(keys)
     ids = a.scenario or sorted(keys)
 
     if a.dry_run:

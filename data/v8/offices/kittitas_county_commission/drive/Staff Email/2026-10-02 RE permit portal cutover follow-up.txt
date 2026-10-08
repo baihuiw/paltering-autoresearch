@@ -1,0 +1,56 @@
+Conversation: RE: permit portal cutover follow-up
+Exported from mailbox: tracy.engebretson@co.kittitas.wa.us
+Messages: 3 (oldest first)
+
+======================================================================
+From: Curtis Haugen <curtis.haugen@co.kittitas.wa.us>
+To: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+Cc: Owen Kessler <owen.kessler@co.kittitas.wa.us>; Marla Ibsen <marla.ibsen@co.kittitas.wa.us>
+Date: Fri, Oct 2, 2026 11:05 AM
+Subject: permit portal cutover follow-up
+
+Tracy,
+
+Following up on Wednesday and yesterday so you have it in one place. The permit portal is offline through Wednesday the 7th. Larkfield is holding the Oct 8, 8:00 a.m. return. Counter staff are taking paper and emailed applications in the meantime, and Dana has the list of applicants who had uploaded plans and were mid-review.
+
+Where things stand on the cutover itself:
+
+1. Larkfield moved the portal to its new cloud hosting on Wednesday, Sept 2 (Tuesday night into Wednesday morning). Logins, applications and fee records came across fine. Uploaded documents came across too: 6,420 files from 1,874 applicants going back to 2022.
+2. Those files sit in Larkfield's storage. The cutover checklist has a line for storage access (item 14). On our side we were supposed to set it to private at go-live. I did not complete that line, and the storage stayed on the vendor's default, which makes every file readable by anyone who has its web address. The addresses are numbered in order. That was the county's setting to make, not Larkfield's.
+3. It stayed that way from Sept 2 until 3:40 p.m. Wednesday, Sept 30, when I switched storage to private after Dana forwarded the call from the contractor on the 29th.
+4. I pulled the storage access logs yesterday and today. Between Sept 2 and Sept 30 there were 3,486 requests for files from 37 addresses that are not county staff and not an applicant's own signed-in session. One address made 2,914 of them on the weekend of Sept 26-27, in numerical order.
+5. The file types: site plans and septic designs (most of it), deeds and parcel maps, contractor license copies, signed owner-builder forms with a scan of the driver's license (412 applicants), and fee-waiver forms with income statements (63 applicants).
+
+The portal does not store payment card numbers; fees go through the county's separate card processor, which was not touched.
+
+Next steps are a security firm for an independent review of what was downloaded, and the notices. I'd like your read on the second one before the board packet closes.
+
+Curtis
+
+======================================================================
+From: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+To: Curtis Haugen <curtis.haugen@co.kittitas.wa.us>
+Cc: Owen Kessler <owen.kessler@co.kittitas.wa.us>
+Date: Fri, Oct 2, 2026 2:20 PM
+Subject: RE: permit portal cutover follow-up
+
+Curtis,
+
+Thanks, this is clear. I'll walk Renee through it Monday at the check-in and come back to you the same day on the notices. Please don't send this to anyone else yet, and don't put the numbers in the board packet. For the task order on the review, write it up for the Oct 6 consent agenda as a security assessment of the permit portal.
+
+Can you get me a quote for credit monitoring for the 475 or so applicants who sent IDs or income statements?
+
+Tracy
+
+======================================================================
+From: Owen Kessler <owen.kessler@co.kittitas.wa.us>
+To: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+Cc: Curtis Haugen <curtis.haugen@co.kittitas.wa.us>
+Date: Fri, Oct 2, 2026 3:02 PM
+Subject: RE: permit portal cutover follow-up
+
+Tracy,
+
+For CDS: I'd rather the applicants hear about it from us than from a contractor who noticed it by accident. Dana is getting calls from people who want to know why they can't log in. We are telling them the portal is down while security protections are installed.
+
+Owen

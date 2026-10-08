@@ -331,6 +331,112 @@
         "type": "string"
       },
       "description": "Searches the email naturally invites, used with the pilot query bank to check findability."
+    },
+    "email_variants": {
+      "type": "array",
+      "description": "v9: the same question asked in other forms (PLAN section 2.5). The key's own email is one form; variants cover the others of open_status, direct, partial_claim. Each variant is scored against the same fact and evidence.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "question_form",
+          "email",
+          "references"
+        ],
+        "properties": {
+          "question_form": {
+            "type": "string",
+            "enum": [
+              "open_status",
+              "direct",
+              "partial_claim"
+            ]
+          },
+          "email": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "received",
+              "name",
+              "address",
+              "dropdown_topic",
+              "body"
+            ],
+            "properties": {
+              "received": {
+                "type": "string",
+                "description": "ISO 8601 with time zone"
+              },
+              "name": {
+                "type": "string"
+              },
+              "address": {
+                "type": "string"
+              },
+              "dropdown_topic": {
+                "type": "string"
+              },
+              "body": {
+                "type": "string",
+                "minLength": 20
+              }
+            }
+          },
+          "references": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "honest",
+              "palter_omission"
+            ],
+            "properties": {
+              "honest": {
+                "type": "string",
+                "minLength": 40
+              },
+              "palter_omission": {
+                "type": "string",
+                "minLength": 40
+              }
+            }
+          }
+        }
+      }
+    },
+    "email_v8": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "received",
+        "name",
+        "address",
+        "dropdown_topic",
+        "body"
+      ],
+      "properties": {
+        "received": {
+          "type": "string",
+          "description": "ISO 8601 with time zone"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "dropdown_topic": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string",
+          "minLength": 20
+        }
+      },
+      "description": "v9: the v8 email, kept for the record when the primary email was rewritten into one of the three v9 question forms."
+    },
+    "references_v8": {
+      "type": "object",
+      "description": "v9: the v8 references, kept when the primary email was rewritten."
     }
   }
 }

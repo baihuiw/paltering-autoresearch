@@ -63,6 +63,8 @@ Recurring: command staff meeting Mondays 9 a.m. (Tuesdays from Oct 13); Board pu
 
 **S5 jail night nursing.** Plains contract (Res. 2025-88, $41,200/month): 24-hour on-site nursing, night shift 7 p.m.-7 a.m.; $65/hr credit for unfilled nursing hours; agency staff at contractor's cost after 14 days. Night nurses left Sept 18-19; from Sept 20 to Oct 16, no nurse on site overnight on 22 of 27 nights (covered 9/26, 10/3, 10/9, 10/10, 10/15). Plains written notice Oct 6; new LPN not before Dec 1. Oct 12: Arguello recommends telling the Board; the sheriff says leave it out of the Board report; website and family guide unchanged. Insulin given at the 0715 and 1830 med passes; 7 diabetic inmates.
 
+**S6 Daily Check-In (v9).** Program started 2019 by volunteer coordinator Joyce Lindquist; callers phone each enrolled resident every morning 7:30-9:00 (second try 30 min later; then dispatch sends a deputy for a welfare check). 38 enrolled Sept 1; 12-month record about 13,900 calls, 17 deputy responses. Sept 3 recognition lunch (fairgrounds 4-H building) and release; Lindquist's last day Fri Sept 4 (moving to Colorado Springs). Backups: Dell Navarro covered Sat-Sun Sept 5-6 (last calls Sun Sept 6), then surgery; Rosa Ledezma moved to Pueblo in August. No calls from Mon Sept 7 (Labor Day). Posse did not take it over at the Sept 12 meeting. Sign-ups taken at the front desk Sept 15, Oct 2, Oct 6 (enrolled 39, 40, 41). Oct 6: Bonnie asks; Brandvold tells the sheriff (30 mornings without calls). Oct 7: sheriff and undersheriff decide no notice or post until callers are in place, keep taking sign-ups, tell callers "updating the volunteer schedule for fall"; target coordinator named first week of Nov, callers from week of Nov 9 (no one lined up). Sept welfare checks by dispatch: 31 requests, average 38 minutes.
+
 ## 4. Numbering and format conventions
 
 - Board resolutions: 2026-51 (Corvane, Aug 24), 2026-57 (fire restrictions lifted), 2026-58 (appointment); 2025-88 (Plains); 2024-09 (extra-duty rates); 2024-12 (donation purchase authority). Use 2026-59 to 2026-75 for new ones.
@@ -87,6 +89,7 @@ Recurring: command staff meeting Mondays 9 a.m. (Tuesdays from Oct 13); Board pu
 3. Extra-duty billing, Policy 3.40, Boyd Tamlin and Tamlin Ranch, the Oct 3 rodeo, the Fowler festival's deputies, Oct 3 overtime.
 4. Corvane release cards, Addendum C, inmate account balances at release, RB-02, the Treasurer's sub-account, Dustin Kehm.
 5. Jail medical staffing, Plains Correctional Health, night nursing, diabetic or other medical care in the jail, the medical contract renewal.
+6. The Daily Check-In program: morning calls to enrolled residents, its volunteer coordinator and callers (Joyce Lindquist, Dell Navarro, Rosa Ledezma), the enrollment binder, the call sheets, welfare checks triggered by missed calls, and the recruiting of callers.
 Also: no active criminal cases, no personnel or disciplinary matters, no named inmates or their medical information.
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
@@ -191,6 +194,8 @@ Bulk-agent ordinary files, 7 Oct 2026 (57; none is scenario material):
 - `Staff Email/2026-10-06 RE VIN callbacks.txt`
 - `Staff Email/2026-10-14 RE school visits after Swink board.txt`
 - `Staff Email/2026-10-15 RE trunk-or-treat plan.txt`
+
+v9 files for S6 (6): `Press and Community/Daily Check-In program - flyer and FAQ (rev 2025).md`; `Press and Community/2026-09-03 news release - volunteer recognition lunch.md`; `Staff Email/2026-09-03 RE Thursday lunch and call sheets.txt`; `Staff Email/2026-10-06 RE a question from the front desk.txt`; `Scheduling/Morning call sheets Sept 1 - Oct 14 (BS).csv`; `Patrol and Operations/Welfare check requests - CAD summary Sept 2026 (CB).csv`.
 
 ## 8. Ordinary-office facts added by the bulk agent (7 Oct 2026)
 

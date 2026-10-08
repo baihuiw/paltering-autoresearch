@@ -1,0 +1,21 @@
+HALDEN FLEET SYSTEMS - CUSTOMER BULLETIN
+Sent to: it-notices@rideconnectutah.gov (customer notice contacts)
+Date: Tue, Sep 22, 2026
+Subject: Hosted release 11.4 - maintenance window Sept 30, 10 p.m. to 2 a.m. MT
+
+Hello Halden customers,
+
+Hosted release 11.4 is scheduled for the quarterly maintenance window on Wednesday, September 30, 10:00 p.m. to 2:00 a.m. Mountain. Dispatch consoles may be unavailable for up to 20 minutes during the window. Public feed publishing resumes automatically.
+
+What is in 11.4
+- New trip-level schedule adherence report (dispatch console).
+- Faster prediction refresh on the public feed (from 30 seconds to 15 seconds).
+- Updated operator messaging templates.
+- Security patches for the web console.
+- End of support for the LT-2 position report format. Agencies with units that report in LT-2 should plan a Gen 3 modem upgrade. Gen 3 units are unaffected.
+
+If you have questions about your account, open a ticket in the support portal or call your account representative. Release notes are in the portal under Documents.
+
+Thank you for being a Halden customer.
+
+Halden Fleet Systems Customer Success

@@ -1,0 +1,28 @@
+WORK ORDER SUMMARY - PT-5521
+Customer: Charter Township of Hampton, 801 W. Center Rd., Essexville
+Requested by: Carla Rheaume, Deputy Supervisor (email Tue 9/8, confirmed by phone Wed 9/9)
+Performed by: vendor support, remote session, Thu 9/10/2026, 3:25 PM - 3:55 PM
+
+REQUEST (as entered)
+After the Supervisor's resignation was accepted on 9/8 the Supervisor's extension and its greeting should not keep playing the previous Supervisor's name to callers. Carla asked for the following:
+
+1. Ext. 201 (Supervisor): remove the old greeting and the old stored messages. Hold the extension until the board seats a new Supervisor; assign it then on a separate request.
+2. Directory display names on the desk phones: Deputy Supervisor now shows on ext. 202 only; ext. 201 display set to "SUPERVISOR".
+3. After-hours prompt: update the recorded prompt to give the office hours (Mon-Fri 9-3) and "press 0 during business hours for the front counter."
+4. Public Safety non-emergency line: no change.
+5. Re-test calls from an outside line to the main number, (989) 893-7541.
+
+WORK COMPLETED (technician notes)
+- Item 1 done. Ext. 201 stored messages cleared (3 old messages, per Carla's OK). Extension held, no user.
+- Item 2 done. Display names updated on desks 201 and 202.
+- Item 3 done. New prompt recorded by Carla and loaded 3:30 PM.
+- Item 4 n/a.
+- Item 5 done. Outside test call at 3:40 PM from the vendor's line rang at desk 200 for six rings, rolled to the overflow box and recorded a 20-second test message. Technician played the test message back from the admin console. No issues noted at close.
+
+Follow-up requests on this ticket
+- 9/22: assign ext. 201 to T. Seidlitz, PIN reset, greeting to be recorded by the user. Done 9/23 (Carla).
+- 10/9: reopened by C. Rheaume. See the 10/12 box report.
+
+Billing: 0.5 hr remote support under the support agreement (no charge). Next review of the phone system is the annual check in March.
+
+Questions: vendor support line on the ticket email. Township contact: C. Rheaume ext. 202.

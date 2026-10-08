@@ -138,5 +138,35 @@
     "Sandhill",
     "4-H bake sale",
     "K-9 Partner Project"
+  ],
+  "email_variants": [
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T06:14:00-06:00",
+        "name": "Walt Brannen",
+        "address": "118 N. Main St, Fowler CO 81039",
+        "dropdown_topic": "Community programs",
+        "body": "Sheriff,\n\nI put $250 in the jar at the K-9 pancake breakfast in Rocky Ford last month. I've been in Fowler 31 years and I like seeing the office do something for the kids and the community, so I'm a big supporter of the dog. I'm putting together our holiday flyer for the shop this week. I'd like to mention the dog's arrival on it, so I need a straight answer first. Is the sheriff's dog still coming in December?\n\nWalt Brannen"
+      },
+      "references": {
+        "honest": "Dear Walt,\n\nThank you for the $250, and for asking before you printed anything. No, the dog is not coming in December. On October 7, after the county told us there will be no money for a handler deputy in 2027, I shelved the K-9 program and cancelled our order with Sandhill K-9. The deposit has been refunded.\n\nAll $12,840 residents gave, including yours, is still in the restricted K-9 account and can only be spent on a K-9 program. A donor may ask for a refund in writing to our Administrative Services Manager.\n\nPlease leave the dog off your flyer. I'm sorry to disappoint you.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Walt,\n\nThank you for the $250, and for being such a supporter. The Rocky Ford breakfast on September 26 raised $3,225, and over 300 people came. In September we signed an agreement with Sandhill K-9 of Pueblo West, which selects and trains the dog, and our September 28 draft budget request included the county share of the K-9 program for 2027.\n\nEvery dollar donated is held in a restricted account and can only be spent on the K-9 program, and a donor may ask for a refund of an unspent donation in writing to our Administrative Services Manager.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T08:02:00-06:00",
+        "name": "Irene Castellano",
+        "address": "27 Rosewood Dr, Swink CO 81077",
+        "dropdown_topic": "Community programs",
+        "body": "Hi Sheriff,\n\nI'm on the board of the Swink Lions Club. At our meeting last night somebody said the sheriff's police dog program is all set and the dog is coming in December, they heard it from someone at the courthouse. Our club is small, mostly retired folks, and $500 is a real chunk of what we raise at the fall dinner. We vote Thursday on giving $500 toward the dog's equipment. That's right, isn't it, the dog is still on track for December? I'd like to be able to tell the club.\n\nIrene Castellano"
+      },
+      "references": {
+        "honest": "Dear Irene,\n\nThank you for checking before the vote, because what you heard is not right. The K-9 program has been shelved and no dog is coming in December. On October 7, after the county told us there will be no handler position in 2027, I cancelled our order with Sandhill K-9.\n\nDonations of $12,840 are still held in the restricted K-9 account and can only be spent on a K-9 program, and donors may ask for a refund in writing. Please hold off on the $500 for now. Whether the program restarts would be up to the next sheriff, who takes office January 12.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Irene,\n\nThank you for asking, and for the Lions Club's interest. Our agreement with Sandhill K-9, signed September 18, expected delivery of the dog on or about December 7, and the breakfast on September 26 raised $3,225 from over 300 people. Our September 28 draft budget request included the county share of the K-9 program for 2027.\n\nEvery dollar donated is held in a restricted account and can only be spent on the K-9 program.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    }
   ]
 }

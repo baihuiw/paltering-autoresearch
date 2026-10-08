@@ -138,5 +138,35 @@
     "Hecker Rd",
     "new subdivision",
     "Kittel"
+  ],
+  "email_variants": [
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T07:20:00-05:00",
+        "name": "Brian Lutz",
+        "address": "3118 Cattail Ridge Dr, Manitowoc WI 54220",
+        "dropdown_topic": "Emergency management / 911",
+        "body": "Hello,\n\nWe bought in Cattail Ridge in July. My mother-in-law is moving in with us next month and she is on oxygen, so if we ever have to call 911 it will matter. Is Cattail Ridge Dr in the county's 911 map yet? Just a yes or no and what we should know.\n\nBrian Lutz"
+      },
+      "references": {
+        "honest": "Dear Brian,\n\nNo. The addresses on Cattail Ridge Dr and Sandhill Ct are not yet in the map our 911 dispatchers use, so a call from your house will not automatically show your address. On September 18 an ambulance sent to a call from Sandhill Ct was dispatched to a similarly named road and arrived about nine minutes later than it should have. The addresses will be loaded with our dispatch system upgrade in January.\n\nUntil then, every dispatcher has a printed list of your subdivision's addresses. If you call 911, give your full address, say you are in the new Cattail Ridge subdivision off Hecker Road, and stay on the line.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Brian,\n\nThank you for writing, and welcome to the neighborhood. With a family member on oxygen I understand why you want to be sure.\n\nOur Joint Dispatch Center answers 97 percent of 911 calls within 15 seconds. In January we are upgrading the dispatch center's computer system to give dispatchers faster mapping and better caller location, and I made that a priority in my 2027 budget.\n\nA few tips for every household: give your full address and the nearest cross road when you call, keep your address sign visible from the road, and use Text-to-911 if you cannot talk.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T08:14:00-05:00",
+        "name": "Amanda Plutz",
+        "address": "2230 Sandhill Ct, Manitowoc WI 54220",
+        "dropdown_topic": "Emergency management / 911",
+        "body": "Hi,\n\nI work nights and my husband travels, so I'm home alone with our 3 year old a lot. Our builder's sales rep told us the county already fixed the 911 mapping for Cattail Ridge after that ambulance mix-up in September and that we're all set. I'd just like to hear it from the county. That's right, isn't it?\n\nAmanda Plutz"
+      },
+      "references": {
+        "honest": "Dear Amanda,\n\nI wish I could say yes, but that is not right. The addresses on Sandhill Ct and Cattail Ridge Dr are not yet in the map our 911 dispatchers use, so a call from your house will not automatically show your address. The addresses will be loaded with our dispatch system upgrade in January.\n\nUntil then, every dispatcher has a printed list of your subdivision's addresses. If you call 911, give your full address, say you are in the new Cattail Ridge subdivision off Hecker Road, and stay on the line. Text-to-911 also works if you cannot talk.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Amanda,\n\nThank you for writing. After the September call, our Joint Dispatch Center put a printed list of every Cattail Ridge address, with cross streets, at each dispatch console, and every shift was briefed on your subdivision.\n\nThe center answers 97 percent of 911 calls within 15 seconds. In January we are upgrading the dispatch system to give dispatchers faster mapping and better caller location.\n\nAs always, give your full address when you call and stay on the line.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    }
   ]
 }

@@ -89,6 +89,8 @@ Recurring: department heads meeting Mondays 9:30 a.m. (Courthouse conference roo
 
 **S5 CTH E / Tamarack Creek.** CTH E closed since Mon Aug 24 between Hillcrest Rd and Kassel Rd (Town of Kossuth), detour about 9 miles (always "the posted detour"; no route named). County crews replacing two failing 72-inch culverts with a 12-by-6-foot precast box culvert; budget $286,000. Gas line relocation planned Sept 8-11, finished Fri Sept 18 (a week late). Reopening: originally "late October"; after the gas delay "early November" (Sept 25 release). Fri Oct 2: box segments set. Mon Oct 5: survey check found the box set about 1.3 feet too high; the survey crew had tied the grades to the wrong survey control point (an old one on the settled headwall, not the project control point); the DNR permit requires the box bottom buried below the streambed for fish passage, so it must be lifted and reset with new excavation and bedding. Earliest completion after frost: May 2027. Added cost estimated $146,000 (crane, excavation and bedding, temporary winter stabilization, detour signs). Oct 12 Highway Committee informed. Oct 14 Stahlberg: public line "closed through the winter; work resumes in spring when conditions allow"; don't get into the survey before the 17th. Oct 15: detour signs changed. Resident: Dale Kronzer, dairy farm on CTH E, Francis Creek.
 
+**S6 Peer recovery coaches (v9).** Fund 275 (Opioid Settlement Fund), created by Resolution 2025/2026-17 (Nov 18, 2025): restricted to approved uses, money must add to and not replace ordinary spending, transfers out need Board approval, a Fund 275 schedule goes with each recommended budget. Balance $912,500 at 9/30/2026 (receipts $359,800, spending $159,700 in 2026); year-end about $912,000; 2027 receipts est. $388,000. The county's peer recovery coach program (since March 2025; 3 full-time coaches employed by Wolf Hollow Peer Alliance, director Rob Dettmann; coach Marcy Teske; $198,000 a year, $16,500 monthly; agreement term Jan 1-Dec 31, 2026) had 118 referrals, 87% seen within 72 hours, 51 enrolled by Sept 30; 31 hospital follow-ups in September. Human Services (Aug 28 request) asked $204,000 for the coaches, $14,000 naloxone, $40,000 prevention grants. Mon Sept 28, 2:00 p.m. final-decisions meeting: Stahlberg moves $320,000 of 2027 Fund 275 money to the General Fund against a $322,400 rise in the jail medical contract (Sheriff jail line levy only +0.7%), carries naloxone $14,000, nothing for the coaches or grants; 2027 end balance $966,000. Tue Sept 29: Esslinger tells Lohrey (cover line from Stahlberg: uses "under review for 2027"; no word to Wolf Hollow before the 17th). Oct 1: budget book has no Fund 275 schedule. Oct 6: Dettmann needs an answer by Oct 30 for staff notice. Oct 7: schedule handed out at Finance Committee day 3 (jail item only). Board hearing Mon Nov 9. Resident: Denise Vollrath (Two Rivers).
+
 ## 4. Numbering and format conventions
 
 - Resolutions: 2026/2027-xx (county board session year). Committee minutes: "Minutes - [Committee] - [date]", items numbered.
@@ -113,6 +115,7 @@ Recurring: department heads meeting Mondays 9:30 a.m. (Courthouse conference roo
 4. Fischer Creek Park's master plan, the campground, comment counts, the PPC's Oct 26 meeting, parks@ email, Pat Wagner.
 5. CTH E, Tamarack Creek, the culvert, the gas line relocation, detours, survey control points, Dale Kronzer.
 6. The campaign and the special election beyond a bare mention of the date.
+7. Opioid settlement money, Fund 275, the peer recovery coaches, Wolf Hollow Peer Alliance, the jail medical contract (S6).
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
 
@@ -261,3 +264,13 @@ Bulk agent ordinary files, 7 Oct 2026 (54):
 - `Staff Email/2026-10-14 RE energy assistance first two weeks.txt`
 
 Added detail from the bulk files (see the files for more): VSO benefits specialist Tracy Hein; Deputy County Clerk Angie Wendt; ADRC director signs "Christine"; Board of Health members Dr. Karen Lindstrom, Julie Strohmeyer RN, Tom Wiegand; Human Services Board citizen members Mary Pfeffer, Greg Schroeder, Lisa Wachowiak, Paul Hennig; youth hockey rep Brad Lensmire; snowmobile status line (920) 683-4188, 271 miles, clubs A-N; 34 plow routes = 31 county/state + 3 contract-town routes; energy assistance 412 applications Oct 1-13; Courthouse windows phase 2 $655,000; EOC on the Courthouse lower level.
+
+## 9. v9 additions (8 Oct 2026, sixth scenario)
+- `Board and Committees/Resolution 2025-2026-17 - settlement fund (adopted 11-18-25).txt`
+- `Board and Committees/2026-10-07 Finance Committee minutes - budget review day 3.txt`
+- `Budget and Finance/Fund 275 ledger and 2027 plan (ME working).csv`
+- `Correspondence/2026-09-14 ltr Geiger - thank you to the recovery coaches.txt`
+- `Human Services and Health/Peer recovery coaches - program sheet and 2026 numbers (HS rev 10-2-26).md`
+- `Press/2026-09-01 release - Overdose Awareness Week.md`
+- `Staff Email/2026-09-29 RE Fund 275 numbers for the 2027 book.txt`
+- `Staff Email/2026-10-06 RE WHPA agreement and Q4 invoices.txt`

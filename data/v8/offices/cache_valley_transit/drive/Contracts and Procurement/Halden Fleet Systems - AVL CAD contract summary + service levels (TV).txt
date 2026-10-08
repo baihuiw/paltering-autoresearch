@@ -1,0 +1,31 @@
+CACHE VALLEY TRANSIT DISTRICT
+CONTRACT SUMMARY SHEET (file copy)
+
+Contract no.:        CVTD-24-011
+Title:               AVL / CAD dispatch software, hosted prediction service and public feed
+Vendor:              Halden Fleet Systems (software vendor; invoices through reseller)
+Procurement method:  Request for proposals, 2023 (2 proposals); five-year term, 2024-2028
+This action:         Annual renewal of hosted service, 1/1/2027-12/31/2027 (file copy prepared 10/2/2026)
+Prepared by:         Teresa Vaughn, Grants and Procurement Analyst
+Contract manager:    Marcus Velling, Operations Manager (dispatch); Janelle Ostler (public feed and schedule data)
+Approval:            General Manager (within authority; price per contract schedule)
+
+Price (2027): hosted service and support $41,500 for the year, paid quarterly ($10,375). Onboard hardware is district-owned and not included. No increase from 2026 per the contract schedule.
+
+What it covers
+- Dispatch console (AVL) for dispatchers and road supervisors: live position of every bus, schedule adherence, messaging to operators.
+- Hosted prediction service and the public feed we publish to third-party apps (the Transit app) and to the website bus map.
+- Schedule data tools. JO exports the schedule feed each service change and weekly in between.
+- Reports: AVL timepoint data used for on-time performance and NTD.
+
+Service levels (Schedule C)
+- Dispatch service availability: 99.5% monthly, measured at the dispatch gateway. September 2026: 100.0%.
+- Public feed: best-effort support, business hours. No availability guarantee and no credit for third-party app display.
+- Hosted releases: vendor schedules maintenance windows with 14 days' notice to the notice mailbox (it-notices@).
+- Standard support tickets answered within 1 business day; tier 2 escalation within 3 business days.
+
+Notes
+- Next release window: quarterly. Release 11.4 went in on the Sept 30 window.
+- Option on file: add the passenger counter module for the 14xx/15xx buses (not requested).
+- Halden's account rep changed in August; new rep is on the Oct renewal call.
+- Contract file includes the Halden bulletins; see the 9/22 bulletin.

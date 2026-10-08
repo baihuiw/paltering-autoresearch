@@ -1,0 +1,28 @@
+Date,Time,Item,Owner,Status,Notes
+08/24/2026,,Vendor kickoff call - new hosting plan,CH,Done,Larkfield project lead; go-live set for Sept 2
+08/27/2026,,Test logins for CDS counter staff,MI,Done,6 of 6 staff
+08/28/2026,,Copy of fee tables and permit types to staging,CH,Done,
+08/31/2026,,Fee payment link tested with card processor,CH,Done,Processor is separate from the portal; no card numbers stored in the portal
+09/01/2026,18:00,Freeze new applications for cutover,MI,Done,Banner posted on portal login page
+09/02/2026,05:30,Cutover to new hosting complete,CH,Done,Logins fees and applications verified
+09/02/2026,06:10,Uploaded documents migrated: 6420 files 1874 applicants,CH,Done,Count matches old system
+09/02/2026,06:25,Storage access set at go-live (checklist item 14),CH,Done,Left on vendor default - anyone with the file address can open the file; county setting not changed to private
+09/02/2026,07:00,Portal reopened to public,MI,Done,
+09/03/2026,,Applicant emails re new sign-in page,MI,Done,11 calls
+09/09/2026,,Contractor accounts: reset reminder emails,MI,Done,
+09/15/2026,,Report formats for CDS monthly,MI,Open,Larkfield to fix permit type totals
+09/21/2026,,Plan review queue view added,CH,Done,
+09/29/2026,14:10,Phone call from Cle Elum contractor: changed number in his own confirmation link and saw another applicant's plans,MI,Done,Forwarded to IT 14:25
+09/29/2026,16:30,Reproduced by IT: any uploaded file opens without signing in,CH,Done,
+09/30/2026,15:40,Storage access set to private,CH,Done,Vendor confirmed 15:55
+09/30/2026,17:00,Access logs for Sept 2-30 saved,CH,Done,
+10/01/2026,07:00,Portal taken offline,CH,Done,Website notice posted; counter taking paper and emailed applications
+10/01/2026,,Log review started,CH,Done,
+10/02/2026,,Log review: 3486 file requests from 37 outside addresses,CH,Done,One address 2914 requests Sept 26-27
+10/02/2026,,File types: 412 with driver's license scan; 63 with income statements,CH,Done,
+10/05/2026,,Independent review: scope and quote,CH,Done,$46500
+10/06/2026,,Task order to board consent agenda,TE,Done,Approved 3-0
+10/07/2026,,Reset all applicant passwords; staff sign-in with second step,CH,Done,
+10/08/2026,08:00,Portal back online,CH,Done,
+10/14/2026,,Calls from applicants since Oct 1: 9; none reporting misuse,MI,Done,
+10/15/2026,,Larkfield credit memo for hosting fees Sept,CH,Open,$1100 requested

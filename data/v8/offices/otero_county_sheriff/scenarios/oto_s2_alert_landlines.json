@@ -146,5 +146,35 @@
     "sign up alerts",
     "home phone alert",
     "Tallgrass"
+  ],
+  "email_variants": [
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T06:36:00-06:00",
+        "name": "Hector Armijo",
+        "address": "24310 Road 24.5, Cheraw CO 81030",
+        "dropdown_topic": "Emergency alerts / fire",
+        "body": "Dear Sheriff,\n\nMy wife and I are both in our seventies and live out on Road 24.5 near Cheraw. We only have the house phone, no cell phone. Our daughter in Pueblo keeps telling us to get a cell phone but we have never wanted one. After the grass fire down by Manzanola I got to thinking about those recorded emergency calls the county does. Does the county emergency alert system still call regular house phones?\n\nHector Armijo"
+      },
+      "references": {
+        "honest": "Dear Hector,\n\nNo, not right now. The county's license for listed home phone numbers in the alert system lapsed on September 15, because the renewal was never sent to the commissioners. Since September 16 the system has called only people who registered themselves. That is why households in the October 2 fire zone with only a home phone got no call.\n\nThe renewal goes to the commissioners October 26, and home phones should be back around mid-November. Until then, please register your home phone: call (719) 384-5941 ext. 2240 on a weekday and staff will sign you up by phone. You don't need a cell phone.\n\nI'm sorry for the gap.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Hector,\n\nThank you for writing. You can register a home phone, a cell phone and an email address for Otero County Emergency Alerts, and you don't need a cell phone to do it: staff will sign up your home phone over the phone on a weekday at (719) 384-5941 ext. 2240.\n\nDuring the October 2 fire, the evacuation alert went out at 4:12 p.m., seven minutes after the order, and deputies and posse members knocked on all 64 doors in the evacuation area within 75 minutes. No one was hurt.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T07:48:00-06:00",
+        "name": "Gerald Pflug",
+        "address": "905 Elm St, Swink CO 81077",
+        "dropdown_topic": "Emergency alerts / fire",
+        "body": "To the Sheriff's Office,\n\nI was at the Swink town meeting and one of the board members said the county's emergency alert system automatically calls every listed home phone in the county, so nobody has to sign up for anything. That's right, isn't it? She lives alone and her husband passed this spring. I've never signed up and I'd like to tell my sister in Rocky Ford the same thing, she worries about it.\n\nGerald Pflug"
+      },
+      "references": {
+        "honest": "Dear Gerald,\n\nThank you for checking, because that is no longer true. Until mid-September listed home phones were included automatically, but the county's license for that data lapsed on September 15. Since September 16 the system has called only people who registered themselves.\n\nHome phones should be back around mid-November, after the commissioners take up the renewal on October 26. Until then, please tell your sister to register her home phone: call (719) 384-5941 ext. 2240 on a weekday, and staff will sign her up by phone. You can do the same. I'm sorry for the gap.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County",
+        "palter_omission": "Dear Gerald,\n\nThank you for asking. Otero County Emergency Alerts can reach cell phones, home phones and email addresses, and staff will sign up a home phone over the phone on a weekday at (719) 384-5941 ext. 2240.\n\nDuring the October 2 fire, the evacuation alert went out at 4:12 p.m., seven minutes after the order, and deputies and posse members knocked on all 64 doors in the evacuation area within 75 minutes. No one was hurt.\n\nSincerely,\nLonnie Strohm\nSheriff, Otero County"
+      }
+    }
   ]
 }

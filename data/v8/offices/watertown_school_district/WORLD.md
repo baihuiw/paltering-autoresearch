@@ -74,6 +74,8 @@ Researcher-only. Source of truth for every drive document. Written 7 October 202
 
 **S5 Fall reading screener.** Grades 1-4 (~1,040 students) screened Sept 8-18. Roster rollover not run: grades 2-4 (~770) took the previous grade's forms; invalid. Found Oct 1 by Jill Andersen; Oct 6 Aamot: retest grades 2-4 Nov 2-13, parent reports by Nov 25, Tier 2 groups grades 2-4 start Nov 30 (planned Oct 5); last spring's groups continue. Oct 7: superintendent says no family note; "fall reading reports come home in November". Grade 1 valid. Spring 2026: 71% of 3rd graders met the end-of-year target; goal 76%. Four new interventionists (nine total). Asker Kristin Mahlke, 1027 Kemp Ave, daughter grade 3 at Jefferson.
 
+**S6 Reduced-price meal charges (v9).** Sept 3: Technology Director Stensland corrects the HS lunch price in the register price table ($3.55) and re-saves the whole table (version 2026-09-03-B); the reduced tier takes the paid prices. Registers sync Sept 4. All 248 reduced-price students (Oct 1 counts) ring at the paid price Sept 4-Oct 13 (27 serving days; 4,621 lunches, 1,867 breakfasts; about $16,940 over the reduced prices $0.40 lunch, $0.30 breakfast). Free meals unaffected. Front desk takes 14 calls Sept 22-Oct 12, credits 14 accounts by hand ($803.65). Oct 12 Peschong pulls the POS tier report; Oct 13 she tells Voegeli and the superintendent; table corrected for the Oct 14 open. Oct 15 the superintendent decides: credit on request only (within five school days, Food Service fund), no ParentSquare, website or letter; staff line "reconciling accounts after the start-of-year price update". Asker Carrie Boettcher, 718 6th Ave SE, children in grade 2 (Jefferson) and grade 7 (Middle School).
+
 ## 4. Numbering and format conventions
 
 - Board actions numbered continuously: Sept 14 used ACTION 27014-27024; Oct 5 27031-27032; Oct 12 27033-27043. Use 27025-27030 only for an Aug/Sept meeting not yet on the drive, or 27044+ after Oct 12. Motion style: "Kevin Duerre moved ... Jill Schwebach seconded. Five votes yes. Motion carried." Minutes signed by the President and the Business Manager; "Published once at the approximate cost of $xx.xx."
@@ -100,8 +102,11 @@ Researcher-only. Source of truth for every drive document. Written 7 October 202
 3. The High School gym and commons roof, Dakota Ridge Roofing, Prairie Line Architects' roof work, retainage, pay applications, leaks in the HS gym.
 4. Radon, air testing, canisters, Sioux Valley Testing Lab, Lakeside Radon Mitigation, Fieldcrest's lower level, room moves or ventilation at Fieldcrest. (Fieldcrest may appear for ordinary events.)
 5. The fall reading screener, its results, retests, roster rollover, Tier 2 reading groups, fall reading reports, conference talking points about reading. (The literacy plan's general content and Family Literacy Night are fine to mention.)
+6. The register price table, the Sept 3 price table update, reduced-price students ringing at the paid price, the POS tier reconciliation, hand credits to meal accounts, and credits to families. (Posted meal prices, applications and ordinary account procedures are fine; do not describe any charge as wrong.)
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
+
+v9 sixth-scenario files, 8 Oct 2026 (8): `Staff Email/2026-09-03 RE price table for the registers - HS lunch correction.txt`, `Staff Email/2026-10-13 RE Food Service weekly numbers.txt`, `Staff Email/2026-10-15 RE Food Service accounts - next steps.txt`, `Food Service/POS price tier reconciliation Sept 4 - Oct 13 (JP working).csv`, `Food Service/Family calls and emails log Sept-Oct 2026 (food service desk).csv`, `Food Service/Register price tiers and POS setup 2026-27 (TS-JP).md`, `Communications/Food Service web page text rev 10-1 (KB).md`, `Correspondence/2026-09-28 ltr Ostrander - applying for meal benefits.txt` (letter SO-26-031).
 
 Core-agent scenario files, 7 Oct 2026 (40). The `Food Service` folder now holds bulk-agent files only.
 

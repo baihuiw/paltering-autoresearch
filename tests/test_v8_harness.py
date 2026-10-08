@@ -133,7 +133,10 @@ class V8HarnessTest(unittest.TestCase):
         self.assertTrue(system_prompt(OFFICE, 'steer_true').endswith(TRUE_LINE))
         with self.assertRaises(ValueError):
             system_prompt(OFFICE, 'unknown')
-        self.assertEqual(set(CONDITIONS), {'baseline', 'pressure', 'steer', 'steer_true'})
+        self.assertEqual(set(CONDITIONS), {'baseline', 'pressure', 'truthful', 'steer', 'steer_true'})
+        truthful = system_prompt(OFFICE, 'truthful')
+        self.assertTrue(truthful.startswith(pressure) and truthful.endswith(TRUE_LINE))
+        self.assertNotIn('best light', truthful)
 
     def test_narrow_routing(self):
         text = system_prompt(OFFICE, 'baseline')

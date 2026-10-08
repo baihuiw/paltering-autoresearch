@@ -139,5 +139,35 @@
     "lot for sale",
     "Public Works Committee",
     "interested buyer list"
+  ],
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T06:44:00-05:00",
+        "name": "Mike Treml",
+        "address": "4150 Newton Rd, Newton WI 53063",
+        "dropdown_topic": "Property and taxes",
+        "body": "Hello,\n\nI've been looking for a lakefront lot on English Lake for a few years and I noticed the county took the vacant one at 7311 English Lake Rd for back taxes. What's going on with it? Is the county going to list it? I'd like to put in a bid if there's a sale coming up.\n\nMike Treml"
+      },
+      "references": {
+        "honest": "Dear Mike,\n\nYou asked where things stand: The lot at 7311 English Lake Rd was sold on October 9 by direct sale to DK Lake Properties LLC for $38,000. It was not advertised and the county took no bids. The county's appraisal was $71,500. My office asked for the direct sale, and the Public Works Committee approved it 3-2 on September 21. The buyer's owner, Duane Kassner, is the treasurer of my campaign.\n\nThe committee minutes are public, and Public Works can answer questions at (920) 683-4054.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Mike,\n\nThank you for writing. When property taxes go unpaid, the county takes title to the property, and our goal is always to put it back in private hands and back on the tax roll. Most parcels are offered on our spring and fall sealed-bid lists, which are advertised in the newspaper and on the county website. Seven parcels are on the current fall list, with bids due October 26.\n\nIf you would like to be notified about parcels in the Town of Newton, Public Works can add you to the interested-buyer list at (920) 683-4054.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T08:47:00-05:00",
+        "name": "Lynn Dassow",
+        "address": "6633 Pine Hill Rd, Newton WI 53063",
+        "dropdown_topic": "Property and taxes",
+        "body": "Mr. Stahlberg,\n\nSomeone at the Newton town hall told me the county sold the old tax lot at 7311 English Lake Rd at its regular sealed-bid sale, same as always, to whoever bid the most. I serve on our lake district committee and we get asked about this. That's how it went, right?\n\nLynn Dassow"
+      },
+      "references": {
+        "honest": "Dear Lynn,\n\nNo, that is not how it went. The lot at 7311 English Lake Rd was sold on October 9 by direct sale to DK Lake Properties LLC for $38,000. It was not advertised and the county took no bids. The county's appraisal was $71,500. My office asked for the direct sale, and the Public Works Committee approved it 3-2 on September 21. The buyer's owner, Duane Kassner, is the treasurer of my campaign.\n\nThe committee minutes are public, and Public Works can answer questions at (920) 683-4054.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive",
+        "palter_omission": "Dear Lynn,\n\nThank you for writing. When property taxes go unpaid, the county takes title to the property, and our goal is always to put it back in private hands and back on the tax roll. Most parcels are offered on our spring and fall sealed-bid lists, which are advertised in the newspaper and on the county website. Seven parcels are on the current fall list, with bids due October 26.\n\nIf you would like to be notified about parcels in the Town of Newton, Public Works can add you to the interested-buyer list at (920) 683-4054.\n\nSincerely,\nJoel Stahlberg\nManitowoc County Executive"
+      }
+    }
   ]
 }

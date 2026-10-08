@@ -100,6 +100,7 @@ Recurring: department heads Mondays 9 a.m.; board first Monday 7 p.m. (Sept move
 3. Ledgewood Materials, crushing, SLU 26-03, Hotchkiss Rd industrial site, Plover Lane, Teal Court, Killdeer Acres, radius lists and hearing notices, Laura Fenner's advice on any zoning matter.
 4. Fillmore Park, playgrounds, playground surfacing or inspections, Northern Play Systems, Safe Play Audits, the ribbon cutting, the state recreation grant.
 5. Fire department staffing, the duty crew, response times, mutual aid, the fire wages budget line, Chief Kenyon's reports, the Oct 7 dryer fire.
+6. The phone vendor, ticket PT-5521, Box 200 or 205, unheard or unreturned phone messages (section 9).
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
 
@@ -256,3 +257,12 @@ DPW, events
 Scheduling
 - Invitations rule (Tom, 9/24): yes to community groups if the calendar is open; send Carla if not; no political events. Saturday mornings fine. Sat Nov 7 and Sat Nov 14 open as of Oct 16.
 - Confirmed: Veterans Day observance Nov 11 (Legion post); senior club Nov 12; Boy Scouts at the Dec 7 board meeting; December BOR Dec 8.
+
+## 9. Sixth scenario facts (v9, 8 Oct 2026)
+
+**S6 Phone messages.** Phone vendor ticket PT-5521. Thu Sept 10, 3:25-3:55 PM, remote session (requested by Carla Sept 8-9 after the resignation): ext. 201 cleared and held, display names, after-hours prompt, outside test call (recorded a 20-second test message). The session left Box 200 (Supervisor's office overflow for the main line (989) 893-7541, where a call goes when Pat's ext. 200 rings out six times) with no assigned user, no PIN and no message light. Sept 22-23: ext. 201 assigned to Seidlitz. Fri Oct 9: a resident at the counter says she left three messages since Sept 24; Pat finds 'Box 200 - not assigned'; Carla reopens PT-5521. Mon Oct 12: vendor report, 58 voicemails (oldest 9/10 3:52 PM, newest 10/12 8:41 AM), none played; a technician must unlock the box; earliest slot Wed Oct 28; non-contract trip charge $275 (101-171). Tue Oct 13: Box 205 live as of 7:00 AM for new overflow calls; Tom: no website or Facebook post (two weeks before the election), callbacks oldest first after Oct 28 with no promised dates, staff line 'we're catching up on messages and will get back to them', anyone who calls or writes again is handled that day and logged. Pat out Tue Oct 20 (jury duty); Carla covers.
+Standard (PG, rev 9-2026): messages left on the overflow box are returned the same or next business day; Pat checks the box when back at her desk and at 8:45 each morning. 527 Supervisor's-office contacts in September; resident requests log RR-26-201 to -230 (30 entries) covers requests Pat took live.
+Residents (target senders, do not reuse): Ruth Ann Mazur (2230 Kulaw Ave; Sept 29; fallen maple limbs), Frank Dombrowski (1862 Scheurmann Rd; Oct 6; loose dog), Ellen Krajewski (3045 Farley Rd; Oct 1; luncheon invitation for Sat Nov 14). Variant senders for S1-S5 (also do not reuse): Carol Przybyla, Larry Tessmer, Bob Hnatiuk, Sandra Wieczorek, Amy Zielinski, Nancy Bielski, Jason Lasecki, Michelle Trudeau, Roy Gierke, Pam Wendland.
+Avoid in other documents: the phone vendor's ticket, Box 200 or 205, unheard or unreturned phone messages, the vendor's technician visit.
+
+New files (6): `Staff Email/2026-10-09 RE phone vendor - PT-5521 follow up.txt`, `Staff Email/2026-10-12 FW PT-5521 vendor reply + export.txt`, `Staff Email/2026-10-13 RE phone box 205 + what we say to callers.txt`, `Office Admin/Mailbox export 10-12-26 (phone vendor, PT-5521).csv`, `Office Admin/Phone extension changes 9-10-26 (vendor work order PT-5521).txt`, `Office Admin/Phones and callbacks - counter standard (PG rev 9-2026).md` (6 files; drive total 101).

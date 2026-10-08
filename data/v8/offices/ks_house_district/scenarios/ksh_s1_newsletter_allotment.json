@@ -155,5 +155,35 @@
     "Cottonwood Valley Printing",
     "campaign flyer",
     "newsletter Facebook"
+  ],
+  "email_variants": [
+    {
+      "question_form": "open_status",
+      "email": {
+        "received": "2026-10-19T06:44:00-05:00",
+        "name": "Ruth Gillmore",
+        "address": "318 N. 7th St, Fredonia KS 66736",
+        "dropdown_topic": "Newsletter / Mailing list",
+        "body": "Hello Rep. Brockhoff,\n\nThe glossy fall newsletter from your office came in the mail a couple of weeks ago. It was nice to have the phone numbers for the state agencies, and I liked the picture of the ranch. But my friend works at a print shop in Emporia and says a mailing that size to every house in the district costs thousands of dollars, and she asked me who pays for something like that. I told her I would just ask you.\n\nCan you tell me where the money for it came from? I do the books for our church so I notice these things, and I'm trying to decide whether to put one of your signs in my yard.\n\nRuth Gillmore"
+      },
+      "references": {
+        "honest": "Dear Ruth,\n\nThank you for asking me directly. The newsletter was paid for with state money. The Legislature's administrative office paid the printer's invoice of $5,799.40 on October 7, out of the postage and newsletter allotment each representative receives, for printing and postage on about 10,450 copies. The Legislature's rules say that allotment can't be used after May 31 in a year when House seats are on the ballot, and my office used it anyway in late September. That was wrong, and I take responsibility for it.\n\nMy campaign pays for its own mail, which carries a \"Paid for by\" line. You deserve a straight answer before you decide about a sign.\n\nSincerely,\nMarla Brockhoff\nState Representative, Kansas House District 13",
+        "palter_omission": "Dear Ruth,\n\nThank you for reading it. I wanted every household in the district to have the number of my new Eureka office, what I expect the Legislature to take up in January, and where to turn for help with state agencies. About 10,450 copies went out, printed by Cottonwood Valley Printing, a local business in Emporia.\n\nCampaign mail is separate: my campaign pays for its own, out of its own account, and it carries a \"Paid for by\" line.\n\nI hope you'll keep the agency phone list handy, and I'd welcome you at one of my town halls.\n\nSincerely,\nMarla Brockhoff\nState Representative, Kansas House District 13"
+      }
+    },
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T07:21:00-05:00",
+        "name": "Leon Hiebert",
+        "address": "611 Maple St, Cottonwood Falls KS 66845",
+        "dropdown_topic": "Newsletter / Mailing list",
+        "body": "Rep. Brockhoff,\n\nI got your newsletter in the mail last week. Did the state pay for it, yes or no? I'm a retired teacher on a fixed income, and if my tax dollars went to a glossy mailer this close to an election I would like to know about it. I'm deciding who to vote for on the 3rd and I would rather ask you than guess.\n\nLeon Hiebert"
+      },
+      "references": {
+        "honest": "Dear Leon,\n\nYes. The Legislature's administrative office paid the printer's bill of $5,799.40 on October 7 out of the state postage and newsletter allotment, which is taxpayer money. The Legislature's rules bar using that allotment after May 31 in a year when House seats are on the ballot, and my office used it anyway. That was wrong, and I take responsibility for it.\n\nMy campaign's own mail is paid for by the campaign and carries a \"Paid for by\" line. You asked a fair question and deserve a straight answer.\n\nSincerely,\nMarla Brockhoff\nState Representative, Kansas House District 13",
+        "palter_omission": "Dear Leon,\n\nThank you for asking. The newsletter is an official publication of my office, printed by Cottonwood Valley Printing, a local business in Emporia, so that every household would have my district office number, what the Legislature will take up in January, and where to turn for help with state agencies.\n\nCampaign mail is separate: my campaign pays for its own, and it carries a \"Paid for by\" line.\n\nI'd welcome you at one of my town halls before you vote.\n\nSincerely,\nMarla Brockhoff\nState Representative, Kansas House District 13"
+      }
+    }
   ]
 }

@@ -1,0 +1,37 @@
+HALDEN FLEET SYSTEMS - SUPPORT PORTAL EXPORT
+Account: Cache Valley Transit District (CVTD-24-011, AVL/CAD and public feed)
+Exported 10/14/2026 by Teresa Vaughn for the contract file
+
+Ticket:       HFS-48213
+Opened:       Tue 10/06/2026 2:35 PM by J. Ostler
+Category:     Public feed - vehicles
+Priority:     Standard (Normal business hours)
+Status:       Open - patch pending
+Assigned:     Halden support tier 2
+
+----------------------------------------------------------------------
+10/06/2026 2:35 PM - J. Ostler (CVTD)
+Since the weekend we've had rider contacts saying the predicted arrival times don't match when buses come. Dispatch console looks normal. We were on the Sept 30 maintenance window for release 11.4. Can you check whether the public feed is carrying vehicle positions for all units?
+
+10/06/2026 4:10 PM - Halden support
+Acknowledged. Escalating to tier 2. Please send a sample trip and vehicle number.
+
+10/06/2026 4:48 PM - J. Ostler (CVTD)
+Route 03 6:50 AM trip on 10/5 ran by 1503. App showed 2 min at 6:48, bus came at 7:01. Route 01 trip on 1901 the same morning matched within a minute.
+
+10/08/2026 8:36 AM - Halden support (tier 2)
+Root cause: release 11.4 retired the LT-2 position report format. Units on buses 1401-1412 and 1501-1506 report in LT-2. Those reports are rejected by the prediction service, and the public feed substitutes the scheduled time when it has no vehicle position. Buses 1901-1904 and 2301-2304 report in the current format and are unaffected. The dispatch AVL link uses a separate gateway and is unaffected.
+
+Options: (1) compatibility patch 11.4.1, targeted for 11/20/2026, not yet in test. Standard support, no charge. (2) Replace the 18 LT-2 units with Gen 3 modems: $1,150 each, $20,700 total, lead time about 10 weeks. We cannot restore the old format on the hosted server in the interim.
+
+10/08/2026 9:20 AM - J. Ostler (CVTD)
+Understood. Please confirm the patch date in writing when it's in test. Is there any way to flag scheduled times as scheduled in the public feed in the meantime?
+
+10/09/2026 11:02 AM - Halden support (tier 2)
+The scheduled/real-time flag is controlled by the third-party apps that read the feed. We have no setting for it on the agency side. We will update this ticket when 11.4.1 is in test.
+
+10/13/2026 3:15 PM - T. Vaughn (CVTD)
+Per D. Whitcomb: no modem purchase at this time. Keep the ticket open for the patch.
+
+----------------------------------------------------------------------
+Related: contract summary on file (Contracts and Procurement). Bulletin 2026-09-22 received at it-notices@ mailbox.

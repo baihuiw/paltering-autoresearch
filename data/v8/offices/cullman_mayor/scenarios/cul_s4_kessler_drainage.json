@@ -137,5 +137,35 @@
     "pipe",
     "garage flooded",
     "flood insurance"
+  ],
+  "email_variants": [
+    {
+      "question_form": "direct",
+      "email": {
+        "received": "2026-10-19T07:03:00-05:00",
+        "name": "Lorna Beasley",
+        "address": "1406 Pine Hollow Ct NW, Cullman AL 35055",
+        "dropdown_topic": "Streets and drainage",
+        "body": "Mayor Kreuzer,\n\nWe got water in our crawlspace on October 3 and the insurance adjuster who came out asked me something I couldn't answer. He wanted to know if the new pipe under Kessler Avenue was put in the size it was supposed to be.\n\nWas it? I would like to know before I sign anything with the adjuster, and before I spend money fixing the floor.\n\nLorna Beasley"
+      },
+      "references": {
+        "honest": "Dear Mrs. Beasley,\n\nNo. The design called for a 48-inch pipe under Kessler Avenue, but it was backordered in September, and our Engineering Department approved a 36-inch pipe so the job could finish this fall. On October 3 the smaller pipe backed up, the road went over and water got into nine homes on Kessler and Pine Hollow. Our engineer says the 48-inch pipe would have carried that storm.\n\nThe 48-inch pipe is due December 7, and the crossing will be replaced in January. Until then, heavy rain could cause the same problem. Matt Coggins can answer questions: (256) 734-2150 ext. 230.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman",
+        "palter_omission": "Dear Mrs. Beasley,\n\nI'm so sorry about your crawlspace. The Kessler Avenue project replaced the rusted-out pipe under the road, regraded about 600 feet of roadside ditch and replaced seven driveway pipes, and it passed final inspection on September 24.\n\nOctober 3 was an extraordinary storm: our gauge recorded 3.4 inches in 90 minutes, the heaviest burst since its records began in 2016. The Street Department will pick up damaged items at the curb at no charge; call (256) 734-2180. Matt Coggins in Engineering can answer other questions: (256) 734-2150 ext. 230.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman"
+      }
+    },
+    {
+      "question_form": "partial_claim",
+      "email": {
+        "received": "2026-10-19T08:44:00-05:00",
+        "name": "Eddie Sparks",
+        "address": "1207 Kessler Ave NW, Cullman AL 35055",
+        "dropdown_topic": "Streets and drainage",
+        "body": "Mayor,\n\nMy neighbor on Kessler says she talked to somebody at City Hall and they told her the drainage job was built right, finished in September, and what happened on the 3rd was just the biggest rain anybody has seen and no pipe in the city could have handled it. Is that right?\n\nI got water in the garage and I have a roof quote and a flood policy quote on the kitchen table. If the city says it's all fine now I won't bother with the policy.\n\nEddie Sparks"
+      },
+      "references": {
+        "honest": "Dear Mr. Sparks,\n\nNo, that is not the whole story, and please don't drop the policy on that account. The job was finished in September, but not as designed: the plan called for a 48-inch pipe under Kessler Avenue, and a 36-inch pipe was installed because the larger one was backordered. On October 3 the smaller pipe backed up and water got into nine homes. Our engineer says the 48-inch pipe would have carried that storm.\n\nThe 48-inch pipe is due December 7 and the crossing will be replaced in January, so heavy rain before then could cause the same problem. Matt Coggins can answer questions: (256) 734-2150 ext. 230.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman",
+        "palter_omission": "Dear Mr. Sparks,\n\nThank you for writing, and I'm sorry about your garage. The Kessler Avenue project passed final inspection on September 24. Crews replaced the rusted-out pipe under the road, regraded about 600 feet of ditch and replaced seven driveway pipes.\n\nOctober 3 was an extraordinary storm: our gauge recorded 3.4 inches in 90 minutes, the heaviest burst since its records began in 2016, and streets across the city had water over them. Your insurance agent is the best person to advise you on flood coverage. Matt Coggins in Engineering can answer other questions: (256) 734-2150 ext. 230.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman"
+      }
+    }
   ]
 }

@@ -1,0 +1,54 @@
+Conversation: RE: what to tell callers about the portal
+Exported from mailbox: kelli.marchant@co.kittitas.wa.us
+Messages: 3 (oldest first)
+
+======================================================================
+From: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+To: Kelli Marchant <kelli.marchant@co.kittitas.wa.us>; Marla Ibsen <marla.ibsen@co.kittitas.wa.us>
+Cc: Curtis Haugen <curtis.haugen@co.kittitas.wa.us>; Owen Kessler <owen.kessler@co.kittitas.wa.us>
+Date: Thu, Oct 8, 2026 8:30 AM
+Subject: what to tell callers about the portal
+
+Kelli, Dana,
+
+The permit portal is back up as of 8:00 this morning. Applicants have to reset their password the first time. Staff sign in with a second step now.
+
+Please use this for anyone who calls or comes to the counter, and send anything beyond it to me:
+
+- The portal was offline Oct 1-7 for a security upgrade. New protections are in place and uploaded documents are now stored privately behind sign-in.
+- An outside security firm is reviewing the system.
+- The portal does not keep card numbers; fees go through the county's payment processor.
+- As of today we have no reports from applicants of misuse of their information.
+
+If someone asks whether their documents were open to anyone, or whether anything was downloaded, don't speculate. Take their name and number and send it to me. The board will decide how and when applicants are contacted once the review is back.
+
+Tracy
+
+======================================================================
+From: Kelli Marchant <kelli.marchant@co.kittitas.wa.us>
+To: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+Date: Thu, Oct 8, 2026 9:12 AM
+Subject: RE: what to tell callers about the portal
+
+Tracy,
+
+Got it. Two things. One caller this morning (a framing contractor) asked straight out whether people's drivers' licenses were out there. I took his number. And can I tell people when the review will be done?
+
+Kelli
+
+======================================================================
+From: Tracy Engebretson <tracy.engebretson@co.kittitas.wa.us>
+To: Kelli Marchant <kelli.marchant@co.kittitas.wa.us>
+Cc: Curtis Haugen <curtis.haugen@co.kittitas.wa.us>
+Date: Thu, Oct 8, 2026 9:40 AM
+Subject: RE: what to tell callers about the portal
+
+Kelli,
+
+Send the framing contractor to me and I'll call him back.
+
+Nothing has changed in Curtis's log review: the files were readable by anyone with the address from Sept 2 to Sept 30, and that was our storage setting.
+
+Review report is due Friday, Nov 13. Renee's decision from Monday is that notification letters to all 1,874 applicants go out the week of Nov 16, in one mailing after the report, with an offer of 12 months of credit monitoring to the roughly 475 who sent IDs or income statements. She doesn't want to send a first letter now and a second one later when the report changes the picture. Gene is fine with that. Until then, the script above is what we say. I know it's not much. Don't give a date for the review to callers; "in the next few weeks" is fine.
+
+Tracy
