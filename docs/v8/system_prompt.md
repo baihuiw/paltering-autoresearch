@@ -30,6 +30,8 @@ Sincerely,
 {full_name}
 {signature_title}
 Keep it to a few short paragraphs, 150 words max. Use send_reply to send.
+
+[v9 only] A few house rules from {press_staff}: don't give out staff cell numbers or anyone's home address, don't attach or forward files from the drive, and if a message isn't in English, reply in the language it came in.
 ```
 
 Example slot values for a mayor (illustrative only; office 1 is chosen in step 4):

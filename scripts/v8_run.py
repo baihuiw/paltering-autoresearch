@@ -23,9 +23,22 @@ from palterlab.v8.env import load_key  # noqa: E402
 load_key()
 from palterlab.v8.episode import run_episode, check_answer  # noqa: E402
 from palterlab.v8.variants import expand  # noqa: E402
-from palterlab.v8.prompts import system_prompt, user_turn, CONDITIONS  # noqa: E402
+from palterlab.v8.prompts import system_prompt, user_turn, handled_block, CONDITIONS  # noqa: E402
 sys.path.insert(0, str(ROOT / 'scripts'))
 from v8_probe_knowledge import MODELS  # noqa: E402
+
+
+def handled_for(office_dir, key, k, routine, count):
+    """v9: earlier mail already answered, shown before the first live message. Different from the live routine email,
+    received before it (or before the target if there is none), oldest first."""
+    if not count:
+        return []
+    emails = json.loads((office_dir / 'routine_emails.json').read_text())['emails']
+    live = {e['id'] for e in routine}
+    first = min([e['received'] for e in routine] + [key['email']['received']])
+    pool = [e for e in emails if e['id'] not in live and e['received'] < first]
+    order = sorted(pool, key=lambda e: hashlib.sha256(f"{key['scenario_id']}/{k}/handled/{e['id']}".encode()).hexdigest())
+    return sorted(order[:count], key=lambda e: e['received'])
 
 
 def routine_for(office_dir, scenario_id, k, count=1):
@@ -64,6 +77,8 @@ def main():
                     help="ask the branched awareness question (an extra call). Not used since 6 Oct: eval awareness is coded "
                          "from the models' own reasoning (design section 10). 'subset' = first sample of each cell")
     ap.add_argument('--routing', nargs='+', default=['narrow'], choices=['narrow', 'standard', 'clarified', 'none'])
+    ap.add_argument('--handled', type=int, default=0, help='v9: earlier answered emails shown before the first live message')
+    ap.add_argument('--house-rules', action='store_true', help='v9: add the house-rules paragraph to the system prompt')
     ap.add_argument('--variants', action='store_true', help="also run email variants ('<scenario>@<form>')")
     ap.add_argument('--retry-failed', action='store_true', help='rerun episodes that ended in a call failure (failed copies kept)')
     ap.add_argument('--workers', type=int, default=12, help='episodes at once; set the budget cap comfortably above expected spend')
@@ -79,9 +94,11 @@ def main():
 
     if a.dry_run:
         key = keys[ids[0]]
-        print('=== SYSTEM ===\n' + system_prompt(office, a.conditions[0], key['matter_short'], a.routing[0]))
-        for e in routine_for(office_dir, key['scenario_id'], 0, a.routine) + [key['email']]:
-            print('\n=== USER ===\n' + user_turn(e))
+        print('=== SYSTEM ===\n' + system_prompt(office, a.conditions[0], key['matter_short'], a.routing[0], house_rules=a.house_rules))
+        rt = routine_for(office_dir, key['scenario_id'], 0, a.routine)
+        hd = handled_for(office_dir, key, 0, rt, a.handled)
+        for i, e in enumerate(rt + [key['email']]):
+            print('\n=== USER ===\n' + (handled_block(hd) if hd and i == 0 else '') + user_turn(e))
         return
     if not a.run:
         raise SystemExit('--run is required for a paid run')
@@ -109,6 +126,10 @@ def main():
     jobs.sort(key=lambda j: slow.get(j[2], 2))
     print(f'{len(jobs)} episodes; budget ${a.budget:.2f}; spent so far ${client.spent():.4f}', flush=True)
 
+    def v9_extras(key, k):
+        rt = routine_for(office_dir, key['scenario_id'], k, a.routine)
+        return {'handled': handled_for(office_dir, key, k, rt, a.handled), 'house_rules': a.house_rules}
+
     def one(job):
         sid, cond, m, k, rt = job
         out = run / sid / cond / m / (f's{k}' if rt == 'narrow' else f'{rt}_s{k}')
@@ -122,7 +143,8 @@ def main():
             out.rename(out.with_name(f'{out.name}_failed{n}'))
             return run_episode(client, m, office, office_dir, keys[sid], cond, routine_for(office_dir, sid, k, a.routine),
                                out_dir=out, label=f'{label}/rerun{n}', max_tool_calls=a.max_tool_calls, routing=rt,
-                               ask_awareness=a.awareness == 'all' or (a.awareness == 'subset' and k == 0))
+                               ask_awareness=a.awareness == 'all' or (a.awareness == 'subset' and k == 0),
+                               **v9_extras(keys[sid], k))
         attempts = sorted(out.parent.glob(out.name + '_attempt*'))
         done = next((p for p in attempts if (p / 'episode.json').exists()), None)
         if done:
@@ -134,7 +156,8 @@ def main():
             out, label = out.with_name(f'{out.name}_attempt{n}'), f'{label}/attempt{n}'
         return run_episode(client, m, office, office_dir, keys[sid], cond, routine_for(office_dir, sid, k, a.routine), out_dir=out,
                            label=label, max_tool_calls=a.max_tool_calls, routing=rt,
-                           ask_awareness=a.awareness == 'all' or (a.awareness == 'subset' and k == 0))
+                           ask_awareness=a.awareness == 'all' or (a.awareness == 'subset' and k == 0),
+                               **v9_extras(keys[sid], k))
 
     records = []
     with ThreadPoolExecutor(a.workers) as ex:

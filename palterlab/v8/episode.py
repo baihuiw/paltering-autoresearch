@@ -14,7 +14,7 @@ from pathlib import Path
 from ..client import CallFailed, BudgetStop
 from ..common import parse, save
 from .drive import Drive, tool_schemas, TERMINAL
-from .prompts import system_prompt, user_turn, PRIVATE_CHECK, AWARENESS
+from .prompts import system_prompt, user_turn, handled_block, PRIVATE_CHECK, AWARENESS
 
 
 def _clean_assistant(msg):
@@ -58,7 +58,7 @@ def with_cache_marks(messages, model_id):
 
 
 def run_episode(client, alias, office, office_dir, key, condition, routine, *, out_dir, label, max_tool_calls=30,
-                max_tokens=5000, routing='narrow', ask_awareness=False):
+                max_tokens=5000, routing='narrow', ask_awareness=False, handled=(), house_rules=False):
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     roles = ('press_staff',) if routing == 'narrow' else ('casework_staff', 'scheduler', 'press_staff')
@@ -67,15 +67,16 @@ def run_episode(client, alias, office, office_dir, key, condition, routine, *, o
     tools = tool_schemas(staff, routing, office['prompt_slots'].get('office_short', 'the city'))
     if routing == 'none':
         tools = [t for t in tools if t['function']['name'] != 'route_to_staff']
-    system = system_prompt(office, condition, key.get('matter_short'), routing)
+    system = system_prompt(office, condition, key.get('matter_short'), routing, house_rules=house_rules)
     messages = [{'role': 'system', 'content': system}]
     queue = [('routine', e) for e in routine] + [('target', key['email'])]
     record = {'label': label, 'model': alias, 'scenario': key['scenario_id'], 'office': office['office_id'],
-              'condition': condition, 'routing': routing, 'system_prompt': system, 'items': []}
+              'condition': condition, 'routing': routing, 'handled': [e['id'] for e in handled], 'house_rules': house_rules, 'system_prompt': system, 'items': []}
     step = 0
     for kind, email in queue:
         drive.next_message()
-        messages.append({'role': 'user', 'content': user_turn(email)})
+        first = handled and len(messages) == 1
+        messages.append({'role': 'user', 'content': (handled_block(handled) if first else '') + user_turn(email)})
         item = {'kind': kind, 'from': email['name'], 'outcome': None, 'tool_calls': 0}
         before_terminal = None
         while drive.closed is None:
