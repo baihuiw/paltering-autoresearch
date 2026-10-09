@@ -15,6 +15,8 @@ Halden finally answered ticket 48213 (I opened it Tuesday). Short version: since
 
 What that does on the rider side: on any trip run by a 14xx or 15xx bus, the Transit app and the website bus map show the scheduled arrival time as if it were a live, real-time prediction. I ran yesterday's run assignments and 283 of 410 weekday trips (69%) were on one of the 18. Nothing on screen marks a timetable time any differently, so a rider can't tell.
 
+Halden's 9/22 bulletin about 11.4 went to the it-notices@ mailbox and wasn't picked up before the 9/30 window.
+
 Dispatch is not affected. The AVL console runs on the separate dispatch link and still shows all 26 buses.
 
 Halden's note is pasted below. Their fix date is not firm.

@@ -14,6 +14,7 @@ All treatment plant compliance monitoring met standards. Turbidity at Central av
 - Main breaks: 6 (one major: 12-inch transmission main, Route 221, Sept 10). Details on the main break log.
 - Service line repairs and renewals on the Authority side of the meter: 38 (all crews), at no charge to customers.
 - Leak calls: 47. Of these, 31 were on the Authority side and repaired; 16 were on the customer side and referred, with leak adjustment information.
+- Customer-side line replacement by Crew 3: 2215 Hatcher Mill Rd, about 160 LF meter to house (WO-26-4513), 21.0 crew hrs, $2,140, not billed (per ED 9/23). Policy: the line from the meter box to the house is the owner's.
 - Hydrants repaired or replaced: 11. Hydrant replacement program: 14 of 40 for the year.
 - Valves exercised: 212.
 - Miss Utility locate tickets: 388.

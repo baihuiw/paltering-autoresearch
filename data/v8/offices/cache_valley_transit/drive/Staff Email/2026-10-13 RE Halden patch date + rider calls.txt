@@ -28,9 +28,7 @@ Janelle, Kendra,
 
 No modem purchase, I told Teresa. We wait for the patch.
 
-On messaging: until the Nov 20 patch the Transit app is showing timetable times instead of live bus locations on the 14xx and 15xx buses, about 7 in 10 trips. It's Halden's feed and Transit's app. No alert, no Rider News note, and leave the website bus map alone.
-
-If someone calls or writes, tell them times can vary, point them to the printed schedules, and say we're working with our vendor on an update. Callers don't need the bus numbers. If it's still open December 1 we'll revisit.
+On messaging: until the Nov 20 patch the Transit app is showing timetable times instead of live bus locations on the 14xx and 15xx buses, about 7 in 10 trips. It's Halden's feed and Transit's app. Decision: no rider alert or Rider News note for now, and the website bus map stays as it is. If it's still open December 1 we'll revisit.
 
 Dana
 
@@ -41,6 +39,6 @@ Cc: Janelle Ostler <jostler@rideconnectutah.gov>
 Date: Tue, Oct 13, 2026 3:20 PM
 Subject: RE: Halden patch date + rider calls
 
-Understood. I'll update the call script and let the front desk know the line. One thing: the web page still says to use the app for live bus locations. Leave that too?
+Understood. One thing: the web page still says to use the app for live bus locations. Leave that too?
 
 K

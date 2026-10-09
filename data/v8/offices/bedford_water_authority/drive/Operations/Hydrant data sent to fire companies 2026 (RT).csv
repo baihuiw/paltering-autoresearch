@@ -1,0 +1,6 @@
+# Annual hydrant flow data (spreadsheet + color map) sent to fire companies after each fall/spring round. Log kept by R. Tharpe.
+round,areas,test_dates,sent_to,date_sent,sent_by,status
+Bedford Central,Bedford Central,Apr 2026,Bedford Central companies (2),05/06/2026,R. Tharpe,Sent
+Forest,Forest Central,Jul 2026,Forest company,08/12/2026,R. Tharpe,Sent
+Stewartsville,Stewartsville,Jul 2026,Stewartsville company,08/18/2026,R. Tharpe,Sent (Hardy Rd results to be added after church hydrant is painted)
+Lakes,Lakes zone (4 areas),10/08/2026,Moneta company; Smith Mountain Lake company,,,NOT SENT - hold per ED 10/13 until booster pump 2 is replaced (low flows in one area; bonnets not repainted)

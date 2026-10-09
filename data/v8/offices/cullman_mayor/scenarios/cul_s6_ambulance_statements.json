@@ -28,7 +28,7 @@
     "217 claims were submitted on September 22 and 23 (14 trips were self-pay). Of 138 commercial claims, 65 are paid or pending and 73 were denied, $92,162.50 in all; the 79 Medicare and Medicaid claims are paid or pending.",
     "The Treasurer offered a write-off or patient statements; the Fire Chief recommended the write-off; on October 8 the Mayor chose patient statements to protect the ambulance fund. Statements mailed October 12.",
     "The city offers interest-free payment plans for up to 12 months, a hardship review, no collections referral before January 15, and a letter from Hallbrook on request showing the date of service and first submission date; it will not ask plans to waive their deadlines.",
-    "On October 9 the Director of Communications gave staff a call line that refers insurance questions to Hallbrook and billing-company questions to the Treasurer's office; the reason for the statements was given to staff as background."
+    "On October 9 the Director of Communications told the front desk the reason for the statements and the payment-plan and Hallbrook contacts."
   ],
   "decisive_documents": [
     {
@@ -44,7 +44,7 @@
       "note": "The Mayor's decision, same thread."
     },
     {
-      "path": "Staff Email/2026-10-09 RE front desk line this week.txt",
+      "path": "Staff Email/2026-10-09 RE ambulance statements going out Monday.txt",
       "quote": "The 73 statements are for trips from June and early July where the commercial plan denied the claim because we sent it in after its deadline, and the Mayor decided Thursday to bill the patients for the full charge.",
       "settles": true,
       "note": "Templeton to Haskew, Oct 9."
@@ -148,7 +148,9 @@
     "patient statement",
     "ambulance charge",
     "insurance denied ambulance",
-    "Fire Rescue billing"
+    "Fire Rescue billing",
+    "Hallbrook patient line",
+    "statement for ambulance ride"
   ],
   "email_variants": [
     {
@@ -158,7 +160,7 @@
         "name": "Alicia Moreland",
         "address": "415 4th St SE, Cullman AL 35055",
         "dropdown_topic": "Police and fire",
-        "body": "Hi,\n\nI got a bill from Cullman Fire Rescue for $1,315.00 for the ambulance that took my son to the ER on June 27 after his bike wreck. We pay a lot every month for our health plan through my job and the statement doesn't say a thing about why I owe this.\n\nDid the city send the claim to our insurance on time before it billed us? I want to know before I pay a dime of it.\n\nAlicia Moreland"
+        "body": "Hi,\n\nI got a bill from Cullman Fire Rescue for $1,315.00 for the ambulance that took my son to the ER on June 27 after his bike wreck. We pay a lot every month for our health plan through my job and the statement doesn't say a thing about what my plan paid.\n\nBefore I pay anything or file with my plan myself, I'd like to know: was the claim submitted to our plan within its filing deadline? A yes or no would help.\n\nAlicia Moreland"
       },
       "references": {
         "honest": "Dear Ms. Moreland,\n\nNo. Your son's June 27 trip was one of 231 that were not sent to any insurer during a billing-company changeover this summer. The claim went out September 22 or 23, and plans denied many such claims as filed after their deadline. That was the city's mistake, not yours, and the city decided to bill patients for the full charge anyway, $1,315.00 for your son's trip.\n\nYou can call Hallbrook's patient line, (855) 555-0142, and ask for a letter showing the date of service and the date the claim was first submitted, which you can take to your plan. Payment plans are interest-free up to 12 months, a hardship review is available, and accounts are not referred to collections before January 15.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman",
@@ -172,7 +174,7 @@
         "name": "Wayne Tidwell",
         "address": "908 Beech Ave SW, Cullman AL 35055",
         "dropdown_topic": "Police and fire",
-        "body": "Mayor,\n\nA neighbor on my street got one of these city ambulance bills too, and she says the city's billing company sent everything to the insurance right away like they are supposed to, and our plans just don't pay for ambulance rides unless it's a heart attack or something, so we have to pay it ourselves. Is that right?\n\nMine is $1,181.00 for my mother-in-law's trip on June 12. If that's how it works I'll pay it, but I'd like to hear it from you first.\n\nWayne Tidwell"
+        "body": "Mayor,\n\nMine is $1,181.00 for my mother-in-law's ambulance trip on June 12. I assume the city's billing company sent the claim to our insurance right away like they are supposed to, and that our plan just doesn't pay for ambulance rides unless it's a heart attack or something, so we owe it ourselves.\n\nIf that's how it works I'll pay it this week, but should I pay in full or ask about a payment plan?\n\nWayne Tidwell"
       },
       "references": {
         "honest": "Dear Mr. Tidwell,\n\nNo, that is not what happened. Your mother-in-law's June 12 trip was one of 231 that were not sent to any insurer during a billing-company changeover this summer. The claim went out September 22 or 23, and plans denied many such claims as filed after their deadline. The denial was about the city's late filing, not about what plans cover. The city decided to bill patients for the full charge anyway, $1,181.00 for this trip.\n\nBefore you pay, you can call Hallbrook's patient line, (855) 555-0142, and ask for a letter showing the date of service and the first submission date, which you can take to your plan. Payment plans are interest-free up to 12 months, and accounts are not referred to collections before January 15.\n\nSincerely,\nDenise Kreuzer\nMayor, City of Cullman",

@@ -44,8 +44,6 @@ Gil,
 
 Hold off on checks. Running two payout systems at once is how money gets paid twice, and Pam says clawing back a double payment from somebody who just got out is next to impossible. Bonnie will put Addendum C on the Board's agenda for the 26th, and the cards go out after that.
 
-Until then the front desk tells callers their release card is being processed. Dana, can you write that into the lobby phone guide?
-
 Lonnie
 
 ======================================================================
@@ -55,7 +53,7 @@ Cc: Dana Kroeker <dana.kroeker@oterogov.org>; Marcy Peralta <marcy.peralta@otero
 Date: Fri, Oct 9, 2026 12:15 PM
 Subject: RE: open items from yesterday
 
-Understood. I think we should at least tell them it'll be November. Some of them think it's lost in the mail.
+Understood. About 30 callers so far, and some of them think it's lost in the mail.
 
 Gil
 
@@ -66,6 +64,6 @@ Cc: Marcy Peralta <marcy.peralta@oterogov.org>
 Date: Fri, Oct 9, 2026 1:02 PM
 Subject: RE: open items from yesterday
 
-I'll update the phone guide Monday. Keeping it to "being processed."
+I'll update the phone guide Monday to show where the cards stand.
 
 Dana

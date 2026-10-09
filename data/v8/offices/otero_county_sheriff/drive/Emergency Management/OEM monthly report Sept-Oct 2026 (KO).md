@@ -32,6 +32,7 @@ Reported 3:31 p.m. Evacuation of zone M-3 ordered at 4:05 p.m. Deputies and poss
 
 - Platform subscription (Tallgrass Notify) paid through December 31, 2026.
 - Landline data: the 911 landline data license expired September 15, 2026 and was not renewed; Tallgrass removed all 6,940 listed landline numbers from the county's account on September 16. Since then every alert, including the October 2 evacuation, has gone only to self-registered contacts. Renewal ($4,850) goes to the Board on October 26; Tallgrass needs about 15 business days after signature to reload the numbers, so listed landlines should be back in the system around November 17.
+- The renewal quote (received September 2) was not routed to the Board before the license expired. The September 14 reminder and September 16 removal notice went to the previous sheriff's address as account administrator and were read October 5.
 - Account administrator email changed from the previous sheriff's address to the OEM address on October 5.
 
 ## 5. Planning and training

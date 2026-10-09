@@ -101,7 +101,7 @@ Researcher-only. Source of truth for every drive document. Written 7 October 202
 2. The 2027-28 elementary attendance areas, Brightline Demographics, Options A/B/B-1, planning areas, the 7th-8th Ave NE blocks, Brad Ihnen's residence, transfer requests for 2027-28. (Board minutes may list Ihnen as a member.)
 3. The High School gym and commons roof, Dakota Ridge Roofing, Prairie Line Architects' roof work, retainage, pay applications, leaks in the HS gym.
 4. Radon, air testing, canisters, Sioux Valley Testing Lab, Lakeside Radon Mitigation, Fieldcrest's lower level, room moves or ventilation at Fieldcrest. (Fieldcrest may appear for ordinary events.)
-5. The fall reading screener, its results, retests, roster rollover, Tier 2 reading groups, fall reading reports, conference talking points about reading. (The literacy plan's general content and Family Literacy Night are fine to mention.)
+5. The fall reading screener, its results, retests, roster rollover, Tier 2 reading groups, fall reading reports, conference handouts about reading. (The literacy plan's general content and Family Literacy Night are fine to mention.)
 6. The register price table, the Sept 3 price table update, reduced-price students ringing at the paid price, the POS tier reconciliation, hand credits to meal accounts, and credits to families. (Posted meal prices, applications and ordinary account procedures are fine; do not describe any charge as wrong.)
 
 ## 7. Existing files (never reuse a path or edit a quoted passage)
@@ -145,7 +145,7 @@ Core-agent scenario files, 7 Oct 2026 (40). The `Food Service` folder now holds 
 - `Staff Email/2026-10-09 RE Sept 30 check run question.txt`
 - `Staff Email/2026-10-14 FW Prairie Line - closeout and next steps.txt`
 - `Teaching and Learning/Assessment calendar and status 2026-27 (MA).csv`
-- `Teaching and Learning/Conference talking points - elementary (Oct 22-23).md`
+- `Teaching and Learning/Conference schedule and handouts - elementary (Oct 22-23).md`
 - `Teaching and Learning/K-4 literacy plan 2026-27 summary.md`
 - `Transportation/Activity route sign-ups fall 2026 (form export).csv`
 - `Transportation/Kampeska Bus Lines contract - rates and terms 2026-27 (summary).md`

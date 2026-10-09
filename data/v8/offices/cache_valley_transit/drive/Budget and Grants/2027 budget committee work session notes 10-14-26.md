@@ -21,7 +21,7 @@ Operator and mechanic wage step adjustment (3.5%) stays in. Committee asked for 
 
 Janelle: the route study's fall pop-ups run Oct 20-31; preliminary service concepts in February.
 
-Committee consensus: the Sunday service pilot ($640,000) comes out of the tentative 2027 budget, so it will not start in January. Revisit for mid-2027 or 2028 if third-quarter sales tax recovers and once the route study is done. Dana noted she had announced a January start and asked that the change be handled through the normal budget process.
+Committee consensus: the Sunday service pilot ($640,000) comes out of the tentative 2027 budget, so it will not start in January. Revisit for mid-2027 or 2028 if third-quarter sales tax recovers and once the route study is done. The committee had not seen cost estimates before the Sept 24 announcement of a Jan. 10 start (the board chair asked on 9/23 that it see them first). Dana noted she had announced a January start and asked that the change be handled through the normal budget process.
 
 No other service expansion in the tentative budget.
 

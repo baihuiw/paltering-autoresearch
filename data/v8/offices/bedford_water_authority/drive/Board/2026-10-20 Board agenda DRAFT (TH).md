@@ -15,7 +15,7 @@ Public comment sign-up opens at 6:30 p.m. Speakers have three minutes.
 6. Executive Director's report (W. Kessinger)
    - First month: staff and facility visits, customer service hours, priorities for FY2027
 7. Engineering (S. Mehra)
-   a. Resolution 2026-23: Award of contract, Sheffield Hollow Water Line Extension (WS-26-01), to Craddock Utility Contractors, Inc., $1,468,000.00, contingent on Virginia Department of Health concurrence. The low bidder withdrew after its bid period expired. Staff memo attached.
+   a. Resolution 2026-23: Award of contract, Sheffield Hollow Water Line Extension (WS-26-01), to Craddock Utility Contractors, Inc., $1,468,000.00, contingent on Virginia Department of Health concurrence. The low bidder withdrew after its bid period expired on October 3; the state concurrence request had been sent October 1. Staff memo attached.
    b. Project updates (Central WTP filters, Oakwood/Edmund, Waterlick Road booster bids due 11/12)
 8. Operations (W. Lipscomb)
    - Monthly report; fall hydrant flushing schedule

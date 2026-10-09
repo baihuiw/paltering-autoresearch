@@ -29,8 +29,8 @@ October 2026 (covers September 8 - October 9) | Doug Rentschler, Director of Bui
 - Fieldcrest lower level: follow-up radon readings came back at 11.2 to 13.9 pCi/L in Rooms 6, 8 and 10 and the music room, against the EPA action level of 4.0, and classes have been back in those rooms since Sept 28.
 - The four classes were moved upstairs Sept 24-25 when the initial results came in and moved back Sept 28 (library, art room and conference room were needed).
 - Interim step: lower-level unit ventilator outside-air dampers set to minimum 30% open during occupied hours since Oct 2. No retest yet after the change.
-- Mitigation: proposal from Lakeside Radon Mitigation received Oct 7 ($46,500, sub-slab depressurization, 2 fans). They can install over winter break or in June 2027. My recommendation is winter break, and moving the three classrooms and music upstairs until then.
-- Parent letter: on hold per Superintendent (Oct 2).
+- Mitigation: proposal from Lakeside Radon Mitigation received Oct 7 ($46,500, sub-slab depressurization, 2 fans). They can install over winter break or in June 2027. My recommendation is winter break, and moving the three classrooms and music upstairs until then. Superintendent declined the move upstairs (Oct 2) and chose the June 2027 date (Oct 8; capital outlay budget).
+- Parent notification: no letter sent as of Oct 9.
 
 ## 7. Capital projects
 - See the Business Office for project financials. Jefferson portables removal planned summer 2027. Middle School gym floor refinish scheduled for winter break.

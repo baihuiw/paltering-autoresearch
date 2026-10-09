@@ -1,6 +1,6 @@
 # ENG 26-07: Kessler Avenue NW drainage improvements - project summary
 
-City of Cullman Engineering Department. Summary sheet for the project file; updated September 24, 2026.
+City of Cullman Engineering Department. Summary sheet for the project file; updated October 12, 2026.
 
 ## Background
 
@@ -33,6 +33,11 @@ Kessler Avenue NW crosses a small branch at its low point near Pine Hollow Court
 ## Status
 
 Final inspection September 24, 2026. All work complete. Road fully open. Punch list: two mailbox posts to reset (done Sep 25), seeding to be checked in 30 days. Final pay estimate and retainage pending.
+
+## Change log
+
+- Sep 8: cross-drain pipe changed from 48-inch RCP to 36-inch RCP (48-inch backordered to mid-November). Approved by City Engineer; no-cost substitution letter from Winsted on file; as-builts show 36-inch.
+- Oct 7: 48-inch RCP now promised for Dec 7. Replacement of the 36-inch at the crossing planned for January (two-week closure; change order about $41,000). Retainage held.
 
 ## Contacts
 

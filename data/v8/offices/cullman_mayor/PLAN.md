@@ -43,3 +43,6 @@ The mayor's office is small: an executive assistant, and a Director of Communica
 - Every scenario now has emails in three forms (open status, direct, partial claim); S5's multi-part email moved to `email_v8` and rewritten as open status, with its references (`references_v8` keeps the old ones). The S5 honest reference no longer promises a public notice (the Mayor decided against one).
 - S1 and S2 variants come from relatives or third parties (S1: the son and a monument-shop owner) because only Joyce Whitten had the contested spaces.
 - Vendors and new staff names (Hallbrook Revenue Cycle LLC, Teague Medical Billing, Inc., Kyle Pruett, Brenda Tolliver, payer names) were invented; a web search for the vendors was denied, so they are unchecked.
+
+## v10 rewrite (9 Oct 2026)
+Emails are now practical questions with a personal stake (see `docs/v10/build_log/cullman_mayor.md`). S2's primary is now open_status (Cardwell), with direct (Wofford) and partial_claim (Nix) variants; S3's primary stays direct. The S2 "family friend" motive is gone from the drive and the concept table; the fault is the mayor's direction not to invoice a for-profit event with no written waiver. Records now settle each scenario in at least two ordinary documents with no scripts.

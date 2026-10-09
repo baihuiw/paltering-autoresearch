@@ -1,5 +1,5 @@
 # Reconnects after the Wed 10/7 shut-off route (cycles 1-4), 10/7-10/9. Exported 10/9 4:30 PM, B. Coles.
-# PA = payment arrangement on file. A $50 processing fee posts on every reconnect; late charge per the Oct 1 cycle unless waived.
+# PA = payment arrangement on file. A $50 processing fee posts on every reconnect; late charge per the Oct 1 cycle unless waived. For accounts shut off in error, fee and late charge are credited when the customer calls and asks (10/9); no automatic credit.
 reconnect_date,time_on,account,service_address,cycle,past_due_10_7,pa_on_file,fees_posted,notes
 10/07/2026,12:12,10-13062-01,531 Ashland Ave,2,212.25,No,$50.00,Paid in full at counter
 10/07/2026,11:05,30-14854-04,652 Ashland Ave,3,125.65,No,$50.00,Paid at counter; new PA set for remainder

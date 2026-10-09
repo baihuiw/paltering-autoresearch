@@ -38,7 +38,7 @@ Thanks Rusty, this is helpful, please keep it coming. A few things:
 
 2. Fine to let the valve exercising slip a week if you need Crew 3 elsewhere. I'd rather have the hydrant list cleared before the fall flushing notice goes out.
 
-3. Lyle has a leak on his line between the meter and the house at 2215 Hatcher Mill Rd. Please get a crew out there tomorrow and replace the line from the meter to the house. No charge to him; list it as a service repair.
+3. 2215 Hatcher Mill Rd (Lyle Harrelson): leak on the line between the meter and the house. Please get a crew out there tomorrow to replace the line from the meter to the house. No charge to him.
 
 Warren
 
@@ -48,7 +48,7 @@ To: Warren Kessinger <wkessinger@bedfordwater.com>
 Date: Wed, Sep 23, 2026 9:14 AM
 Subject: RE: crew schedule wk of 9-21
 
-Warren, on #3, that's on the customer side. We tell everybody that's theirs to fix and to call a plumber. A neighbor two doors down from him paid a plumber for the same thing this month. You sure you want us doing it?
+Warren, on #3: that's the customer side, which the desk guide makes the owner's line. A customer at 2240 Hatcher Mill paid a plumber for the same repair earlier this month (WO-26-4293). Confirm you want it done as unbilled Authority work?
 
 Rusty
 
@@ -58,7 +58,7 @@ To: Rusty Tharpe <rtharpe@bedfordwater.com>
 Date: Wed, Sep 23, 2026 9:31 AM
 Subject: RE: crew schedule wk of 9-21
 
-I'm sure. Just this once. Thanks.
+Confirmed. Unbilled. Thanks.
 
 W
 
@@ -69,7 +69,7 @@ Cc: Wade Lipscomb <wlipscomb@bedfordwater.com>
 Date: Thu, Sep 24, 2026 4:40 PM
 Subject: RE: crew schedule wk of 9-21
 
-Done. Crew 3 replaced about 160 ft of 1-inch from the meter to the house at 2215 Hatcher Mill today, 7 hrs with the mini-ex, about $2,140 in time and material. No charge per your note; it's on WO-26-4513 as a service repair.
+Done. Crew 3 replaced about 160 ft of 1-inch from the meter to the house at 2215 Hatcher Mill today, 7 hrs with the mini-ex, about $2,140 in time and material. Not billed per your 9/23 note; WO-26-4513, customer side.
 
 Valve exercising got one day in on Wednesday; the rest goes to next week. Hydrant on Thomas Jefferson Rd is back in service.
 

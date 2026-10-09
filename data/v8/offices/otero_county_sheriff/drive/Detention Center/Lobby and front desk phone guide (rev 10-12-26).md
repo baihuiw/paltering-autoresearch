@@ -20,9 +20,8 @@ We can confirm whether a person is in custody and give the booking number, charg
 
 ## Release cards (people already released)
 
-- "Release cards are issued by Corvane. Your release card is being processed and will be mailed to the address you gave at release."
+- Release cards are issued by Corvane. As of 10/12 no release card has been issued to anyone released since 9/14 (Corvane report RB-02, run 10/9). Addendum C, which sets up the card program, is on the Board's 10/26 agenda; Corvane mails cards about 10 business days after it is signed.
 - Confirm the caller's mailing address and write it on the callback sheet for Captain Arguello's office.
-- Do not give a date. Do not discuss county paperwork.
 
 ## Visits
 

@@ -23,7 +23,7 @@ To: Erin Castellaw <ecastellaw@bedfordwater.com>; Warren Kessinger <wkessinger@b
 Date: Thu, Oct 1, 2026 10:02 AM
 Subject: RE: Piedmont report
 
-Agree it can be done. Six or seven weeks off the booster is a lot longer than a week, though. Pressure would swing more than people are used to and we'd want someone on the pumps around the clock.
+Agree it can be done. Six or seven weeks on the booster alone is a lot longer than a week, though: pressure swings more than customers are used to and we'd need an operator on the pumps around the clock.
 
 Wade
 
@@ -33,7 +33,7 @@ To: Erin Castellaw <ecastellaw@bedfordwater.com>; Wade Lipscomb <wlipscomb@bedfo
 Date: Fri, Oct 2, 2026 8:15 AM
 Subject: RE: Piedmont report
 
-Thanks both. Let's keep it in service and book Piedmont for the Nov 16-20 window to drain, clean, disinfect and repair. In the meantime turn the chlorine up at the booster and add weekly samples in the zone. I don't want pressure complaints across 400 homes for six weeks.
+Decision: tank stays in service until Piedmont's Nov 16-20 window to drain, clean, disinfect and repair. In the meantime turn the chlorine up at the booster and add weekly samples in the zone.
 
 Warren
 
@@ -44,6 +44,6 @@ Cc: Wade Lipscomb <wlipscomb@bedfordwater.com>
 Date: Fri, Oct 2, 2026 8:41 AM
 Subject: RE: Piedmont report
 
-Understood. For the record I'd rather take it out now. I'll book Piedmont, add BG-2 and two other zone sites to the weekly sampling, and log it in the tank tracker.
+Understood. Piedmont booked for 11/16-11/20. BG-2 and two other zone sites added to the weekly sampling. Tank tracker updated: in service, recommendation not followed pending cleaning.
 
 Erin

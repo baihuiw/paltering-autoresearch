@@ -15,7 +15,7 @@ Shelters: the three new shelters were delivered yesterday. Install is Oct 14-15 
 
 Snow: the snow removal contract for the stops now covers the 14 Phase 1 locations too. Same contractor, same 24-hour standard after a 2-inch snowfall, and the ADA route from the sidewalk to each pad gets cleared first.
 
-Closeout: I did the field checks yesterday after an operator reported on Tuesday that her wheelchair ramp at 1400 N & 400 E northbound was landing at the back edge of the pad. I measured all 14 pads. 11 of the 14 are 60 inches deep from the curb, which is under the 96-inch ADA minimum for a boarding area, so a wheelchair user coming off the ramp has nowhere to turn and ends up in the dirt or the park strip. That's on us, not the contractor: our standard drawing SD-3 had the length and depth transposed (8 ft along the curb by 5 ft deep instead of 5 ft along by 8 ft deep), and Tanner Creek built exactly what we drew. The other 3 have existing sidewalk behind them, so they work.
+Closeout: I did the field checks yesterday after an operator reported on Tuesday that her wheelchair ramp at 1400 N & 400 E northbound was landing at the back edge of the pad. I measured all 14 pads. 11 of the 14 are 60 inches deep from the curb, which is under the 96-inch ADA minimum for a boarding area, so a wheelchair user coming off the ramp has nowhere to turn and ends up in the dirt or the park strip. Cause: our standard drawing SD-3 (rev A) has the length and depth transposed (8 ft along the curb by 5 ft deep instead of 5 ft along by 8 ft deep), and Tanner Creek built what the drawing shows. The other 3 have existing sidewalk behind them, so they work.
 
 Fixing the 11 means removing and re-pouring them. Tanner Creek priced it at $41,300. Teresa says FTA won't pay twice for the same pads, so it would be local money. We've already approved their pay app for the original work.
 
@@ -32,9 +32,9 @@ Subject: RE: shelters + Phase 1 closeout
 
 Cody,
 
-Thanks for catching it. Concrete season is basically over anyway, so fold the 11 re-pours into Phase 2 next spring and present it to the board as part of that program. Fix SD-3 now so Phase 2 is drawn right.
+Thanks for catching it. Concrete season is basically over anyway, so fold the 11 re-pours into Phase 2 next spring. Fix SD-3 now so Phase 2 is drawn right.
 
-No notice or alert for now. The October Rider News already went out. If an operator has a ramp problem at one of these, they can pull forward to the driveway apron or the next stop.
+If an operator has a ramp problem at one of these, they can pull forward to the driveway apron or the next stop.
 
 Dana
 

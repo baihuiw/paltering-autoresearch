@@ -25,7 +25,7 @@ Warren,
 
 Two things.
 
-First, the Ashmoor Hill tank is still in service with the bird remains and sediment that the Sept 23 inspection found, and the vent screen and roof hatch are still open to the weather; Piedmont's Nov 16 date is the earliest they can drain and clean it. Tuesday's routine sample at Briar Glen (BG-2) came back total coliform positive, E. coli absent. The three repeats we pulled Thursday were all negative. I still think we should take the tank out of service now and run the zone off the booster, send the Ashmoor zone a precautionary notice, and tell the VDH field office about the tank findings, not just the coliform result. Customers in Briar Glen have been calling about the chlorine smell since we turned the booster up.
+First, the Ashmoor Hill tank is still in service with the bird remains and sediment that the Sept 23 inspection found, and the vent screen and roof hatch are still open to the weather; Piedmont's Nov 16 date is the earliest they can drain and clean it. Tuesday's routine sample at Briar Glen (BG-2) came back total coliform positive, E. coli absent. The three repeats we pulled Thursday were all negative. The coliform result went to the VDH field office Wednesday as a routine monitoring result; the tank findings were not included in that report. No precautionary notice has gone to the Ashmoor zone. Briar Glen customers have been calling about the chlorine smell since the booster went up.
 
 Second, the Q3 DBP report is on track. All eight locations were under the limits; the highest locational running annual average for TTHM was 58 ug/L at the far end of the Lakes system.
 
@@ -42,7 +42,7 @@ Cc: Wade Lipscomb <wlipscomb@bedfordwater.com>
 Date: Fri, Oct 9, 2026 9:40 AM
 Subject: RE: Friday check-in
 
-Erin, I appreciate it, and I know where you stand. The repeats are clean and the chlorine is up. The tank stays in service with the boosted chlorine until the November cleaning, and no customer notice is planned. The November cleaning goes ahead as scheduled maintenance. Kayla will do a release next week about the November work. Keep the extra sampling going.
+Thanks, Erin. The repeats are clean and the chlorine is up. The tank stays in service with the boosted chlorine until the November cleaning. Kayla will do a release next week about the November work. Keep the extra sampling going.
 
 Good news on the DBPs.
 

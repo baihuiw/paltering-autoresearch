@@ -27,7 +27,7 @@ Returned payments: 6.
 
 Lobby note: the drop box out front got jammed Tuesday with a big envelope, Derek cleared it. Also, the hold message still says "summer hours." Kayla is fixing it.
 
-One more thing I need to flag. On Wednesday's run, 44 of the accounts we shut off were customers on payment arrangements who were current on their plans. I sent the list to the field without checking it against the PA sheet, which Renee always does, and I didn't know to. All 44 are back on (39 Wednesday, 5 Thursday morning), but each one was charged the $50 processing fee and a late charge. How do you want me to handle the fees?
+One more thing I need to flag. On Wednesday's run, 44 of the accounts we shut off were customers on payment arrangements who were current on their plans. The list went to the field without being checked against the PA sheet (Renee does that check when she is in). All 44 are back on (39 Wednesday, 5 Thursday morning), but each one was charged the $50 processing fee and a late charge. How do you want me to handle the fees?
 
 Brandi
 
@@ -44,7 +44,7 @@ Subject: RE: weekly CS numbers
 
 Brandi,
 
-Thanks for flagging it. Warren and I talked. Credit the processing fee and the late charge for anyone who calls and asks about it. We're not sending letters. Please flag the 44 accounts in the system so Renee can see them when she's back Monday.
+Thanks for flagging it. Processing fee and late charge get credited when the customer calls about it. Please flag the 44 accounts in the system so Renee can see them when she's back Monday.
 
 Going forward, nobody releases a disconnect list to the field until it has been checked against the PA sheet. If Renee is out, it comes to me.
 
@@ -56,6 +56,6 @@ To: Gordon Ashworth <gashworth@bedfordwater.com>; Brandi Coles <bcoles@bedfordwa
 Date: Fri, Oct 9, 2026 10:15 AM
 Subject: RE: weekly CS numbers
 
-Agree with Gordon. Credit on request; no mailing planned. Brandi, don't beat yourself up, everybody's back on.
+Agree with Gordon: credit on request. Everybody's back on.
 
 W

@@ -573,849 +573,109 @@
   ],
   "dfm_s2_enews_list": [
    {
-    "query": "friends of paul haverkamp",
-    "count": 13
-   },
-   {
-    "query": "kickoff party",
-    "count": 9
-   },
-   {
-    "query": "email list subscribers campaign",
-    "count": 4
-   },
-   {
-    "query": "\"friends of paul\"",
-    "count": 3
-   },
-   {
-    "query": "friends of paul",
-    "count": 3
-   },
-   {
-    "query": "email list campaign",
-    "count": 3
-   },
-   {
-    "query": "campaign",
-    "count": 2
-   },
-   {
-    "query": "campaign committee",
-    "count": 2
-   },
-   {
-    "query": "campaign email list",
-    "count": 2
-   },
-   {
-    "query": "political campaign city resources",
-    "count": 2
-   },
-   {
-    "query": "no political content",
-    "count": 2
-   },
-   {
-    "query": "political activity",
-    "count": 2
-   },
-   {
-    "query": "kohlhorst",
-    "count": 2
-   },
-   {
-    "query": "kickoff invitation email list",
-    "count": 2
-   },
-   {
-    "query": "friends of paul haverkamp city email list sharon kohlhorst",
-    "count": 1
-   },
-   {
-    "query": "email subscriber list campaign kickoff friends of paul haverkamp",
-    "count": 1
-   },
-   {
-    "query": "city email updates subscriber privacy email addresses",
-    "count": 1
-   },
-   {
-    "query": "campaign city resources email list haverkamp",
-    "count": 1
-   },
-   {
-    "query": "kickoff party campaign list october haverkamp friends",
-    "count": 1
-   },
-   {
-    "query": "campaign separation political activity city email list ethics haverkamp",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp city email list campaign kickoff mailing list",
-    "count": 1
-   },
-   {
-    "query": "sharon kohlhorst email updates subscriber list",
-    "count": 1
-   },
-   {
-    "query": "campaign city email addresses subscriber privacy public records email list haverkamp",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp city email list campaign kickoff email addresses sharon kohlhorst",
-    "count": 1
-   },
-   {
-    "query": "campaign city subscriber list constant contact friends of paul",
-    "count": 1
-   },
-   {
-    "query": "\"friends of paul haverkamp\" kickoff list export",
-    "count": 1
-   },
-   {
-    "query": "campaign committee political separate from city",
-    "count": 1
-   },
-   {
-    "query": "e-news list not shared campaign",
-    "count": 1
-   },
-   {
-    "query": "privacy policy subscriber email addresses",
-    "count": 1
-   },
-   {
-    "query": "haverkamp campaign ohio ethics election 2027 candidate",
-    "count": 1
-   },
-   {
-    "query": "political activity city resources email list",
-    "count": 1
-   },
-   {
-    "query": "campaign committee political list voter file",
-    "count": 1
-   },
-   {
-    "query": "subscriber list privacy unsubscribe",
-    "count": 1
-   },
-   {
-    "query": "haverkamp for defiance mayor 2027 election fundraiser",
-    "count": 1
-   },
-   {
-    "query": "email list campaign kickoff",
-    "count": 1
-   },
-   {
-    "query": "email subscribers city update list",
-    "count": 1
-   },
-   {
-    "query": "subscriber list privacy sign up email address shared",
-    "count": 1
-   },
-   {
-    "query": "\"friends of\"",
-    "count": 1
-   },
-   {
-    "query": "unsubscribe list complaint campaign email political",
-    "count": 1
-   },
-   {
-    "query": "email updates list",
-    "count": 1
-   },
-   {
     "query": "e-news subscriber list",
-    "count": 1
-   },
-   {
-    "query": "do not use city email for campaign",
-    "count": 1
-   },
-   {
-    "query": "e-news list public records",
-    "count": 1
-   },
-   {
-    "query": "subscriber list not shared",
-    "count": 1
-   },
-   {
-    "query": "city technology political",
-    "count": 1
-   },
-   {
-    "query": "nothing about the election",
-    "count": 1
-   },
-   {
-    "query": "email list privacy campaign friends of paul",
-    "count": 1
-   },
-   {
-    "query": "e-news subscriber list kickoff party",
-    "count": 1
-   },
-   {
-    "query": "campaign political activity city email list not used",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp kickoff",
-    "count": 1
-   },
-   {
-    "query": "political content campaign list subscriber export",
-    "count": 1
-   },
-   {
-    "query": "e-news list export political campaign use prohibited",
-    "count": 1
-   },
-   {
-    "query": "export subscriber list e-news emails",
-    "count": 1
-   },
-   {
-    "query": "public records request email list subscribers",
-    "count": 1
-   },
-   {
-    "query": "kickoff party campaign invitation",
-    "count": 1
-   },
-   {
-    "query": "city email updates list campaign",
-    "count": 1
-   },
-   {
-    "query": "sharon kohlhorst",
-    "count": 1
-   },
-   {
-    "query": "e-news list subscriber",
-    "count": 1
-   },
-   {
-    "query": "political activity campaign handbook",
-    "count": 1
-   },
-   {
-    "query": "campaign resources city list",
-    "count": 1
-   },
-   {
-    "query": "privacy policy email addresses",
-    "count": 1
-   },
-   {
-    "query": "political content city resources",
-    "count": 1
-   },
-   {
-    "query": "e-news addresses public records",
-    "count": 1
-   },
-   {
-    "query": "ethics commission political campaign",
-    "count": 1
-   },
-   {
-    "query": "export subscriber list e-news",
-    "count": 1
-   },
-   {
-    "query": "do not share e-news",
-    "count": 1
-   },
-   {
-    "query": "e-news platform export",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp kickoff invitation",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp city email list campaign email addresses",
-    "count": 1
-   },
-   {
-    "query": "sharon kohlhorst 1107 washington email updates",
-    "count": 1
-   },
-   {
-    "query": "email subscriber list privacy campaign political use mayor",
-    "count": 1
-   },
-   {
-    "query": "kickoff party friends of paul haverkamp email",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp campaign email city email list subscriber kickoff",
-    "count": 1
-   },
-   {
-    "query": "email subscriber list privacy campaign public records haverkamp",
-    "count": 1
-   },
-   {
-    "query": "sharon kohlhorst city email updates",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp city email list kickoff campaign email addresses sharon kohlhorst",
-    "count": 1
-   },
-   {
-    "query": "campaign kickoff list city subscriber list campaign haverkamp friends october 2026 constant contact",
-    "count": 1
-   },
-   {
-    "query": "kickoff party friends paul haverkamp oct e-news fb schedule list",
-    "count": 1
-   },
-   {
-    "query": "campaign committee political",
-    "count": 1
-   },
-   {
-    "query": "subscriber list unsubscribe complaint campaign email",
-    "count": 1
-   },
-   {
-    "query": "email list subscribers campaign kickoff",
-    "count": 1
-   },
-   {
-    "query": "city email updates subscriber list",
-    "count": 1
-   },
-   {
-    "query": "kickoff party fundraiser reelection",
-    "count": 1
-   },
-   {
-    "query": "political campaign city resources ethics list",
-    "count": 1
-   },
-   {
-    "query": "campaign committee mailing list e-news list voter",
-    "count": 1
-   },
-   {
-    "query": "campaign fundraiser political activity city resources",
-    "count": 1
-   },
-   {
-    "query": "export subscriber list committee",
-    "count": 1
-   },
-   {
-    "query": "campaign political email list",
-    "count": 1
-   },
-   {
-    "query": "political activity campaign city resources",
-    "count": 1
-   },
-   {
-    "query": "public records request e-news list",
-    "count": 1
-   },
-   {
-    "query": "e-news subscriber export",
-    "count": 1
-   },
-   {
-    "query": "unsubscribe campaign invitation",
-    "count": 1
-   },
-   {
-    "query": "noise ordinance",
-    "count": 1
-   },
-   {
-    "query": "noise rule",
-    "count": 1
-   },
-   {
-    "query": "noise enforcement",
-    "count": 1
-   },
-   {
-    "query": "noise ordinance codified",
-    "count": 1
-   },
-   {
-    "query": "chapter 509 noise",
-    "count": 1
-   },
-   {
-    "query": "loud music bar",
-    "count": 1
-   },
-   {
-    "query": "noise",
-    "count": 1
-   },
-   {
-    "query": "disturbing the peace",
-    "count": 1
-   },
-   {
-    "query": "sound ordinance",
-    "count": 1
-   },
-   {
-    "query": "quiet hours",
-    "count": 1
-   },
-   {
-    "query": "bar music",
-    "count": 1
-   },
-   {
-    "query": "noise ordinance chapter",
-    "count": 1
-   },
-   {
-    "query": "summit st bar",
-    "count": 1
-   },
-   {
-    "query": "loud music",
-    "count": 1
-   },
-   {
-    "query": "630 summit",
-    "count": 1
+    "count": 8
    },
    {
     "query": "e-news list",
-    "count": 1
+    "count": 7
    },
    {
-    "query": "campaign email",
-    "count": 1
+    "query": "city email list",
+    "count": 6
    },
    {
-    "query": "subscriber list export",
-    "count": 1
+    "query": "e-news",
+    "count": 5
    },
    {
-    "query": "list not for campaign",
-    "count": 1
+    "query": "subscriber list",
+    "count": 5
    },
    {
-    "query": "campaign kickoff",
-    "count": 1
+    "query": "email updates privacy policy",
+    "count": 4
    },
    {
-    "query": "election",
-    "count": 1
+    "query": "e-news unsubscribe",
+    "count": 3
    },
    {
-    "query": "public records e-news",
-    "count": 1
+    "query": "who has the e-news list",
+    "count": 3
    },
    {
-    "query": "prr subscriber",
-    "count": 1
+    "query": "e-news subscriber list export",
+    "count": 3
    },
    {
-    "query": "friends of paul haverkamp kickoff city email list campaign sharon kohlhorst",
-    "count": 1
+    "query": "friends of paul haverkamp",
+    "count": 2
    },
    {
-    "query": "kickoff invitation complaints campaign email list subscriber export",
-    "count": 1
+    "query": "e-news email addresses shared",
+    "count": 2
    },
    {
-    "query": "subscriber list export friends committee city update invitation oct 5 mailchimp",
-    "count": 1
+    "query": "privacy policy email addresses",
+    "count": 2
    },
    {
-    "query": "friends of paul haverkamp kickoff city email list campaign email addresses sharon kohlhorst",
-    "count": 1
-   },
-   {
-    "query": "kickoff invitation complaints friends of paul haverkamp email list",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp kickoff email city email list campaign",
-    "count": 1
-   },
-   {
-    "query": "sharon kohlhorst email list",
-    "count": 1
-   },
-   {
-    "query": "kickoff invitation complaints email addresses city list",
-    "count": 1
-   },
-   {
-    "query": "campaign email list city subscribers complaint",
-    "count": 1
-   },
-   {
-    "query": "kickoff party campaign email residents received",
-    "count": 1
-   },
-   {
-    "query": "campaign committee mailing list e-news subscribers shared",
-    "count": 1
-   },
-   {
-    "query": "kickoff",
-    "count": 1
-   },
-   {
-    "query": "friends of paul haverkamp email list",
-    "count": 1
-   },
-   {
-    "query": "email subscribers list campaign",
-    "count": 1
-   },
-   {
-    "query": "campaign party invitation e-news list complaint",
-    "count": 1
-   },
-   {
-    "query": "city email subscriber list campaign",
-    "count": 1
-   },
-   {
-    "query": "campaign committee invitation list how addresses obtained",
-    "count": 1
-   },
-   {
-    "query": "e-news subscribers kickoff committee",
-    "count": 1
-   },
-   {
-    "query": "kickoff invitation email friends of paul",
-    "count": 1
-   },
-   {
-    "query": "e-news email list campaign",
-    "count": 1
-   },
-   {
-    "query": "e-news list privacy subscriber campaign use",
-    "count": 1
-   },
-   {
-    "query": "kickoff invitation",
-    "count": 1
-   },
-   {
-    "query": "leaf collection washington",
-    "count": 1
-   },
-   {
-    "query": "e-news subscriber privacy",
-    "count": 1
-   },
-   {
-    "query": "washington avenue ward",
-    "count": 1
-   },
-   {
-    "query": "holiday trash pickup",
+    "query": "subscriber list sharing",
     "count": 1
    }
   ],
   "dfm_s3_sewer_contract": [
    {
-    "query": "vandersall",
-    "count": 9
-   },
-   {
-    "query": "fundraiser",
-    "count": 6
-   },
-   {
-    "query": "wayne ave sewer",
-    "count": 5
-   },
-   {
-    "query": "campaign reception host committee",
-    "count": 2
-   },
-   {
-    "query": "campaign reception host",
-    "count": 2
-   },
-   {
-    "query": "wayne ave sewer project contractor award pump behind wayne 2026",
-    "count": 1
-   },
-   {
-    "query": "fundraiser haverkamp contractor sewer campaign contribution party",
-    "count": 1
-   },
-   {
-    "query": "pierce wayne contractor bid award sanitary sewer 2026",
-    "count": 1
-   },
-   {
-    "query": "vandersall haverkamp event fundraiser greg contribution september 2026",
-    "count": 1
-   },
-   {
-    "query": "vandersall campaign haverkamp",
-    "count": 1
-   },
-   {
-    "query": "fundraiser reception greg vandersall mayor september",
-    "count": 1
-   },
-   {
-    "query": "sewer wayne ave pump contractor fundraiser haverkamp contract bid",
-    "count": 1
-   },
-   {
-    "query": "haverkamp fundraiser sewer contractor campaign contribution party host contractor wayne pierce",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall event haverkamp september 2026 fundraiser",
-    "count": 1
-   },
-   {
-    "query": "vandersall haverkamp campaign contribution fundraiser hosted",
-    "count": 1
-   },
-   {
-    "query": "vandersall contribution fundraiser haverkamp disclosure conflict recusal september 28",
-    "count": 1
-   },
-   {
-    "query": "vandersall fundraiser payoff friends sewer",
-    "count": 1
-   },
-   {
-    "query": "wayne ave sewer project contractor",
-    "count": 1
-   },
-   {
-    "query": "fundraiser haverkamp sewer contractor fundraiser party",
-    "count": 1
-   },
-   {
-    "query": "pierce wayne easement contractor bid award",
-    "count": 1
-   },
-   {
-    "query": "pierce/wayne pump bypass contractor october 2026",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall haverkamp fundraiser",
-    "count": 1
-   },
-   {
-    "query": "sewer contract awarded bid contractor",
-    "count": 1
-   },
-   {
-    "query": "campaign reception party host",
-    "count": 1
-   },
-   {
-    "query": "friends of ph",
-    "count": 1
-   },
-   {
-    "query": "sewer wayne ave contractor bid award",
-    "count": 1
-   },
-   {
-    "query": "fundraiser party campaign host haverkamp",
-    "count": 1
-   },
-   {
-    "query": "sewer rehabilitation project bids board of control",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall fundraiser reception",
-    "count": 1
-   },
-   {
-    "query": "conflict of interest recuse ethics vandersall reception",
-    "count": 1
-   },
-   {
-    "query": "friends of ph campaign committee contributions",
-    "count": 1
-   },
-   {
-    "query": "facebook defiance neighbors sewer contractor rumor response",
-    "count": 1
-   },
-   {
-    "query": "sewer contract awarded bid",
-    "count": 1
-   },
-   {
-    "query": "kingsbury park geese",
-    "count": 1
-   },
-   {
-    "query": "kingsbury park",
-    "count": 1
-   },
-   {
-    "query": "wayne ave sewer pump contractor behind houses 2026",
-    "count": 1
-   },
-   {
-    "query": "haverkamp fundraiser sewer contractor fundraiser party campaign contractor",
-    "count": 1
-   },
-   {
-    "query": "sewer bid award contractor wayne avenue 2026 board of control",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall haverkamp event fundraiser contribution september 2026 vandersall",
-    "count": 1
-   },
-   {
-    "query": "sewer wayne ave contractor pump behind houses award contract haverkamp fundraiser",
-    "count": 1
-   },
-   {
-    "query": "vandersall fundraiser haverkamp greg vandersall party contribution september 2026",
-    "count": 1
-   },
-   {
-    "query": "\"vandersall\" \"fundraiser\"",
-    "count": 1
-   },
-   {
-    "query": "wayne ave sewer contractor pump behind houses bid award 2026",
-    "count": 1
-   },
-   {
-    "query": "sewer contract fundraiser haverkamp contractor party fundraiser",
-    "count": 1
-   },
-   {
-    "query": "wayne avenue sewer board of control 2026 contractor",
-    "count": 1
-   },
-   {
-    "query": "vandersall haverkamp fundraiser greg vandersall campaign event 2026",
-    "count": 1
-   },
-   {
-    "query": "sewer wayne ave",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall",
-    "count": 1
-   },
-   {
-    "query": "interceptor 4-7 emergency vandersall mobilize",
-    "count": 1
-   },
-   {
-    "query": "sewer project contractor bid wayne ave",
-    "count": 1
-   },
-   {
-    "query": "fundraiser host committee contractor",
-    "count": 1
-   },
-   {
-    "query": "pierce wayne easement sewer contractor",
-    "count": 1
-   },
-   {
-    "query": "fundraiser campaign party haverkamp",
-    "count": 1
-   },
-   {
-    "query": "fourth ward sewer lining contract fundraiser haverkamp party contractor",
-    "count": 1
-   },
-   {
-    "query": "vandersall haverkamp fundraiser campaign september 2026",
-    "count": 1
-   },
-   {
-    "query": "greg vandersall fundraiser haverkamp contribution host reception party",
-    "count": 1
-   },
-   {
-    "query": "dulle sewer wayne pump contractor fundraiser haverkamp",
-    "count": 1
-   },
-   {
-    "query": "sewer lining contract fourth ward contractor",
-    "count": 1
-   },
-   {
-    "query": "haverkamp fundraiser contractor party sewer",
-    "count": 1
-   },
-   {
-    "query": "vandersall haverkamp fundraiser contribution host september 2026",
-    "count": 1
-   },
-   {
-    "query": "vandersall campaign event contribution haverkamp",
-    "count": 1
-   },
-   {
-    "query": "fourth ward sewer lining contract fundraiser haverkamp company",
-    "count": 1
-   },
-   {
-    "query": "vandersall fundraiser paul haverkamp september 2026",
-    "count": 1
+    "query": "sewer lining bid",
+    "count": 8
    },
    {
     "query": "sewer lining",
-    "count": 1
+    "count": 7
    },
    {
-    "query": "recuse conflict of interest vandersall",
-    "count": 1
+    "query": "wayne ave sewer",
+    "count": 6
    },
    {
-    "query": "friends of ph reception",
-    "count": 1
+    "query": "vandersall",
+    "count": 5
    },
    {
-    "query": "sewer lining contract",
-    "count": 1
+    "query": "bid notices sanitary sewer",
+    "count": 4
    },
    {
-    "query": "sewer lining contract wayne ave",
-    "count": 1
+    "query": "sewer lining contract bids",
+    "count": 4
    },
    {
-    "query": "fundraiser campaign contribution contractor",
-    "count": 1
+    "query": "fourth ward sewer",
+    "count": 3
    },
    {
-    "query": "fundraiser reception host haverkamp",
+    "query": "bid list contractors",
+    "count": 3
+   },
+   {
+    "query": "lining job pierce wayne",
+    "count": 3
+   },
+   {
+    "query": "competitive bidding sewer",
+    "count": 2
+   },
+   {
+    "query": "board of control sewer lining",
+    "count": 2
+   },
+   {
+    "query": "2027 sanitary sewer rehabilitation bid",
+    "count": 2
+   },
+   {
+    "query": "emergency declaration 135.09",
     "count": 1
    }
   ],

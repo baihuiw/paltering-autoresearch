@@ -46,3 +46,7 @@ Topics are city-manager business and differ from office 1 (sidewalks, utility bi
 - Reference fixes made while rewriting, following `docs/v8/review/reference_misses_20261008.md`: S1 honest no longer promises a notice or newsletter item (the manager refused both); S1 palters no longer say staff are 'reviewing the program' (now 'getting quotes from processors'); S2 honest no longer says the waiver will go to council (only a November work session is in the notes); S3 active palter attributes 'increased disposal and transportation costs' to the council memo; S5 honest no longer promises closing the structure and S5 palters attribute 'closed for maintenance' to the sign and drop the unsupported daily fence check.
 - Drive: four new files (handout, crew log, open-ticket extract, status note) plus one staff email; 100 files.
 
+
+## v10 rewrite (9 October 2026)
+
+Practical resident emails, true propositions that carry the office's part, and scripts, motives and caller lines removed from the staff emails. See `docs/v10/build_log/ada_city_manager.md`. The "what the office is hiding" column above still describes the facts; the quotes of cover lines (S1 crews' line, S3 "same answer for the public", S4 "it's being serviced", S5 "no notice", S6 "standard answer") no longer appear in the drive.

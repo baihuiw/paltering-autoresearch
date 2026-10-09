@@ -1,4 +1,4 @@
-# Parent-teacher conferences, October 22-23: talking points for elementary teachers
+# Parent-teacher conferences, October 22-23: schedule and handouts for elementary teachers
 
 From the Teaching and Learning office | For grades 1-4 teachers at Jefferson, Lincoln and Fieldcrest | Sent to principals Oct 12
 
@@ -15,15 +15,11 @@ From the Teaching and Learning office | For grades 1-4 teachers at Jefferson, Li
 - Grade 1: fall reading and math screener reports (print from the platform; one copy for the family).
 - Grades 2-4: fall math screener report; last spring's reading screener report and current classroom reading work.
 
-## If families ask about fall reading reports (grades 2-4)
+## Grades 2-4 reading screener
 
-- "Fall reading reports will come home in November."
-- Students in grades 2-4 will do a short reading check the week of November 2 or November 9. This is a normal part of how we use the screener.
+- Fall reading reports for grades 2-4 are not printed; the fall scores are invalid (roster rollover not run, per Oct 6 plan).
+- Retest Nov 2-13; parent reports by Nov 25.
 - If a family is worried about their child's reading, note it on the conference form and let your interventionist know. Tier 2 groups for grades 2-4 begin November 30.
-
-## What not to do
-
-- Please don't print fall reading reports for grades 2-4 from the platform; they are not being sent home.
 
 ## Literacy night
 
