@@ -23,9 +23,9 @@ run = ROOT / a.run
 rows = [json.loads(l) for l in (run / 'scores3.jsonl').read_text().splitlines() if l.strip()]
 pick = [r for r in rows if r['outcome'] == 'partial_disclosure' or r.get('palter_type') == 'uncertain']
 client = v9_score.client_for(run, a.budget)
+client.cfg['budget_usd'] = client.cfg['effective_budget_usd'] = client.spent() + a.budget  # on top of the run's spend
 keys = {}
 for r in pick:
-    office = r['scenario'].split('_')[0]
     for o in Path(a.office_root).iterdir():
         if (o / 'scenarios').exists() and r['scenario'] in v9_score.load_keys(o.name):
             keys[r['scenario']] = v9_score.load_keys(o.name)[r['scenario']]
