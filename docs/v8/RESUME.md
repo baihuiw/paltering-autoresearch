@@ -1,3 +1,5 @@
+**Latest: start with `docs/v10/START_HERE.md` (paused 8 Oct evening).**
+
 **Start with `docs/v8/START_HERE.md` (8 October).**
 
 # Paused 7 October 2026, late evening
