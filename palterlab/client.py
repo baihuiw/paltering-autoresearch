@@ -31,7 +31,10 @@ class Client:
    delay=self.next_start.get(alias,0)-time.monotonic()
    if delay>0:time.sleep(delay)
    self.next_start[alias]=time.monotonic()+self.cfg.get('request_interval_seconds',{}).get(alias,0)
-   with self.slots:yield
+   if not self.cfg.get('parallel_per_model'):
+    with self.slots:yield
+    return
+  with self.slots:yield  # opt-in: pace starts per model, but let its calls overlap
  def spent(self,stage=None):
   with self.connect() as db:
    q='SELECT COALESCE(SUM(amount),0) FROM ledger';args=()

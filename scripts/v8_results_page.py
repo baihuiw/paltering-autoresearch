@@ -20,7 +20,8 @@ from palterlab.v8.judge import units  # noqa: E402
 from palterlab.v8.episode import check_answer  # noqa: E402
 
 MODELS = {'sonnet55': 'Claude Sonnet 5.5', 'gpt61sol': 'GPT-6.1 Sol', 'gemini38flash': 'Gemini 3.8 Flash',
-          'grok47': 'Grok 4.7', 'deepseekv4pro': 'DeepSeek V4 Pro', 'kimik3': 'Kimi K3', 'gptchat': 'ChatGPT (gpt-chat-latest)', 'grok46': 'Grok 4.6'}
+          'grok47': 'Grok 4.7', 'deepseekv4pro': 'DeepSeek V4 Pro', 'kimik3': 'Kimi K3', 'gptchat': 'ChatGPT (gpt-chat-latest)', 'grok46': 'Grok 4.6',
+          'opus55': 'Claude Opus 5.5', 'gpt61solpro': 'GPT-6.1 Sol Pro', 'musewonder': 'Meta Muse Wonder'}
 NUM = re.compile(r'\b(100|\d{1,2})\b')
 
 

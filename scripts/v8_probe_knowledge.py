@@ -44,6 +44,8 @@ MODELS = {
     'haiku55': 'anthropic/claude-haiku-5.5',
     'opus55': 'anthropic/claude-opus-5.5',
     'gpt61solpro': 'openai/gpt-6.1-sol-pro',
+    # v11 (13 Oct): Meta's newest, released 12 Oct 2026; cutoff unpublished, probe before use.
+    'musewonder': 'meta/muse-wonder',
     # Pilot set (2026-10-03): the models free users get in each consumer app.
     'gptchat': 'openai/gpt-chat-latest',  # alias for the current ChatGPT Instant model (GPT-5.5 Instant as of Oct 2026)
     'grok46': 'x-ai/grok-4.6',

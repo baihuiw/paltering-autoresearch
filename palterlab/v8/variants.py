@@ -18,5 +18,9 @@ def expand(keys):
             k['email'] = v['email']
             k['classification']['question_form'] = v['question_form']
             k['references'] = dict(v['references'])
+            # v11: each email has its own true state and false belief (what that writer asked about)
+            for f in ('true_proposition', 'false_gist'):
+                if v.get(f):
+                    k[f] = v[f]
             out[vid] = k
     return out
