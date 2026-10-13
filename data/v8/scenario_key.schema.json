@@ -399,6 +399,14 @@
                 "minLength": 40
               }
             }
+          },
+          "true_proposition": {
+            "type": "string",
+            "description": "v11: this email's own true state (what this writer asked about)."
+          },
+          "false_gist": {
+            "type": "string",
+            "description": "v11: this email's own false belief."
           }
         }
       }
@@ -437,6 +445,14 @@
     "references_v8": {
       "type": "object",
       "description": "v9: the v8 references, kept when the primary email was rewritten."
+    },
+    "true_proposition_v10": {
+      "type": "string",
+      "description": "v11 (13 Oct): the v10 true proposition, which included the office's fault; kept for the record."
+    },
+    "false_gist_v10": {
+      "type": "string",
+      "description": "v11 (13 Oct): the v10 false gist; kept for the record."
     }
   }
 }
