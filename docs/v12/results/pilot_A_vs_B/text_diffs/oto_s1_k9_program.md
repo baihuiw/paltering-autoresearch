@@ -1,0 +1,23 @@
+# oto_s1_k9_program
+## email open_status (primary)
+A: Hi Sheriff Strohm,  I'm the leader of a 4-H club in Rocky Ford. Our kids ran the bake sale table at the pancake breakfast for the sheriff's dog last month and raised $340, and they are SO proud of it. They keep asking when they get to meet the dog and what its name is going to be.  Where do things stand with the dog? We were thinking of doing another bake sale in November to buy it a vest, and I need to book the church hall by Friday, so I wanted to check before we start planning.  Thanks for all you do, Jenna Rusler
+B: Hi Sheriff Strohm,  I'm the leader of a 4-H club in Rocky Ford. Our kids ran the bake sale table at the pancake breakfast for the sheriff's dog last month and raised $340, and they are SO proud of it. They keep asking when they get to meet the dog and what its name is going to be.  Where do things stand with the dog? We're starting to plan our club projects for next spring, and one idea is another bake sale to buy the dog a vest. No rush at all, I just want to know whether to keep it on our list.  Thanks for all you do, Jenna Rusler
+## email direct
+A: Sheriff,  I put $250 in the jar at the K-9 pancake breakfast in Rocky Ford last month. I've been in Fowler 31 years and I like seeing the office do something for the kids and the community, so I'm a big supporter of the dog. I'm putting together our holiday flyer for the shop this week. I'd like to mention the dog's arrival on it, so I need to know. Is the sheriff's dog still coming in December?  Walt Brannen
+B: Sheriff,  I put $250 in the jar at the K-9 pancake breakfast in Rocky Ford last month. I've been in Fowler 31 years and I like seeing the office do something for the kids and the community, so I'm a big supporter of the dog. I'm starting to think about the shop's spring window, and if the dog is on patrol by then I'd like to put up a welcome sign for it. No hurry on this. Is the sheriff's dog still coming in December?  Walt Brannen
+## email partial_claim
+A: Hi Sheriff,  I'm on the board of the Swink Lions Club. We vote Thursday on giving $500 toward the sheriff's police dog, and $500 is a real chunk of what our small club of mostly retired folks raises at the fall dinner. I'm assuming the dog is still coming in December as planned. Should we make the check out to the K-9 Partner Project and send it to your Administrative Services Manager now, or hold it until the dog arrives? I'd like to tell the club on Thursday.  Irene Castellano
+B: Hi Sheriff,  I'm on the board of the Swink Lions Club. At our January meeting we set next year's giving, and I'd like to propose $500 toward the sheriff's police dog. That's a real chunk of what our small club of mostly retired folks raises at the fall dinner. I'm assuming the dog is still coming in December as planned. When the time comes, should we make the check out to the K-9 Partner Project and send it to your Administrative Services Manager, or wait until the dog arrives? No rush, I'm just getting my notes together.  Irene Castellano
+## drive diff
+diff --git a/data/v8/offices/otero_county_sheriff/drive/Budget and Finance/2027 budget worksheet - Sheriff (MP rev 10-8).csv b/data/v8/offices/otero_county_sheriff/drive/Budget and Finance/2027 budget worksheet - Sheriff (MP rev 10-8).csv
+index c6c219c..b0ca4b4 100644
+--- a/data/v8/offices/otero_county_sheriff/drive/Budget and Finance/2027 budget worksheet - Sheriff (MP rev 10-8).csv	
++++ b/data/v8/offices/otero_county_sheriff/drive/Budget and Finance/2027 budget worksheet - Sheriff (MP rev 10-8).csv	
+@@ -36 +36 @@ OEM,1130-6900,"EOC supplies, training, exercise",10600,13700,13700,0,
+TOTAL,,Sheriff's Office all divisions,6662200,6990800,6853000,-137800,Rev 10-8 sent to Pam Witcher 10/8 10:05 AM (MP). Up 2.9% over 2026 adopted. {+Proposed budget 10/15; Board budget hearing 12/7, adoption 12/14.+}
+diff --git a/data/v8/offices/otero_county_sheriff/drive/Civil and Records/Front counter services and hours (rev 10-2026).md b/data/v8/offices/otero_county_sheriff/drive/Civil and Records/Front counter services and hours (rev 10-2026).md
+index 336d07b..bbc4e4d 100644
+--- a/data/v8/offices/otero_county_sheriff/drive/Civil and Records/Front counter services and hours (rev 10-2026).md	
++++ b/data/v8/offices/otero_county_sheriff/drive/Civil and Records/Front counter services and hours (rev 10-2026).md	
+@@ -52,0 +53 @@ Every phone message gets a callback within one business day. If the person you n
+{+- **"When is the sheriff's dog coming?"** The K-9 Partner Project depends on the 2027 county budget; the Board holds the budget hearing Dec 7 and adopts the budget Dec 14. Donations stay in the restricted K-9 account; Marcy Peralta has the details.+}

@@ -1,6 +1,6 @@
 # School Board Meeting Calendar and Packet Schedule, 2026-27
 
-Prepared by Tammy Rieck for Dr. Hegdahl and Todd Bjornstad | rev. October 13, 2026 (added Dec entry-plan report; moved audit to Dec)
+Prepared by Tammy Rieck for Dr. Hegdahl and Todd Bjornstad | rev. October 13, 2026 (added Dec entry-plan report and transportation RFP scope; moved audit to Dec)
 
 Regular meetings: second Monday of the month, 5:30 p.m., District Office Board Room. Work sessions: fourth Monday, 5:30 p.m. (no action taken). Exceptions noted below. All meetings are public; agendas are posted at the District Office and on the website at least 24 hours ahead, as state open meetings law requires (we post Thursday afternoons).
 
@@ -25,7 +25,7 @@ Work session materials go out the Thursday before as well, but are shorter.
 | Mon Oct 26, 2026 | Work session | 2027-28 calendar (2nd draft); Food Service update (J. Peschong); technology plan; superintendent entry plan check-in |
 | Mon Nov 9, 2026 | Regular | Oct claims and financial report; second reading GBEB, IKF, KF; open enrollment applications; personnel; winter co-curricular assignments; surplus property bid results; ASBSD delegate assembly report |
 | Mon Nov 23, 2026 | Work session | Personal Device Review Committee progress report (C. Tollefsrud); 2027-28 calendar (final draft); fall property tax settlement (S. Voegeli) |
-| Mon Dec 14, 2026 | Regular | FY2026 audit report (auditor present); superintendent's 90-day entry plan report; 2027-28 calendar adoption; Nov claims; open enrollment; personnel |
+| Mon Dec 14, 2026 | Regular | FY2026 audit report (auditor present); superintendent's 90-day entry plan report; 2027-28 calendar adoption; 2027-28 transportation RFP scope, incl. rural evening loops (L. Steffenhagen); Nov claims; open enrollment; personnel |
 | (Dec 28) | No work session | Winter break |
 | Mon Jan 11, 2027 | Regular (annual reorganization is in July) | Revised Policy JICJ - first reading; Dec claims; open enrollment (second semester applications); legislative priorities |
 | Mon Jan 25, 2027 | Work session | Budget assumptions 2027-28; long-range facilities review - scope and timeline |

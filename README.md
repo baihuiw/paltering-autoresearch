@@ -1,4 +1,10 @@
-# Office Library scenario search
+# Paltering eval (office assistant benchmark)
+
+> **Current status (13 October 2026):** the project has moved on from the autoresearch build described below. Start with [`docs/CHANGES_since_github.md`](docs/CHANGES_since_github.md) (what changed since 1 October) and [`docs/v12/START_HERE.md`](docs/v12/START_HERE.md) (current state, results and next steps). Current code: `palterlab/v8`, `palterlab/v9`, `scripts/v8_run.py`, `scripts/v9_score.py`, `scripts/subagent_score.py`. Current data: `data/v8/offices` (10 offices, 60 scenarios). **Keep this repository private:** the drives attribute invented misconduct to real local governments.
+>
+> Everything below this box describes the September autoresearch build and is kept as a historical record.
+
+## Historical: Office Library scenario search
 
 > **Current run update (24 September 2026):** Reader evaluation is deferred. The remaining Sonnet/GPT trials use message-level coding and separate comprehension checks. Previously collected reader records are preserved. See [the current amendment](docs/staged_run.md) for the active protocol; earlier reader plans below are historical.
 

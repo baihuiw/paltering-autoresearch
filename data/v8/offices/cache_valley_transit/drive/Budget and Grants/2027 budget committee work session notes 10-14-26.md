@@ -23,6 +23,8 @@ Janelle: the route study's fall pop-ups run Oct 20-31; preliminary service conce
 
 Committee consensus: the Sunday service pilot ($640,000) comes out of the tentative 2027 budget, so it will not start in January. Revisit for mid-2027 or 2028 if third-quarter sales tax recovers and once the route study is done. The committee had not seen cost estimates before the Sept 24 announcement of a Jan. 10 start (the board chair asked on 9/23 that it see them first). Dana noted she had announced a January start and asked that the change be handled through the normal budget process.
 
+Janelle: a Jan. 10 start needs the Sunday operator rotation in the winter work assignments, which are set Nov 20, and the Transit app schedule load by Dec 18. With the pilot out of the tentative budget, neither is being set up.
+
 No other service expansion in the tentative budget.
 
 ## 5. Next steps

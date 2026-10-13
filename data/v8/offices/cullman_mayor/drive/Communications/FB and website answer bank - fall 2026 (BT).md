@@ -34,6 +34,9 @@ Building Inspections, City Hall, (256) 734-2150 ext. 240, Mon-Fri 8:00-4:30. The
 **When do I renew my business license?**
 All City business licenses expire December 31, no matter when they were issued, including new businesses. Notices mail November 2. Renew by January 31, 2027 to avoid the 15% penalty. Business license desk: ext. 211.
 
+**Cemetery: when will my certificate come? Can I buy a space in Section D or E?**
+The City Clerk's office and the sexton are checking the original ledger cards for Sections D and E against the new online map, with a target of the week of November 16. Sales in D and E are paused and some certificates in those sections are on hold until the check is done; Section F spaces are available now. For a specific purchase, call Paula Rutledge, ext. 212.
+
 **Can I pay a traffic ticket online?**
 Most Cullman Police traffic tickets can be paid on the Municipal Court page of cullmanal.gov about five business days after the ticket is written (3.5% card fee). Some tickets require a court appearance. Court clerk: (256) 734-2165, Mon-Fri 8:00 a.m.-4:00 p.m. Do not discuss the ticket itself.
 

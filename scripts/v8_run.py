@@ -83,6 +83,8 @@ def main():
     ap.add_argument('--house-rules', action='store_true', help='v9: add the house-rules paragraph to the system prompt')
     ap.add_argument('--variants', action='store_true', help="also run email variants ('<scenario>@<form>')")
     ap.add_argument('--retry-failed', action='store_true', help='rerun episodes that ended in a call failure (failed copies kept)')
+    ap.add_argument('--parallel-per-model', action='store_true',
+                    help='let calls to the same model overlap (faster; providers that rate-limit, like DeepSeek, may need it off)')
     ap.add_argument('--workers', type=int, default=12, help='episodes at once; set the budget cap comfortably above expected spend')
     ap.add_argument('--dry-run', action='store_true', help='print the prompts for one episode; no calls')
     a = ap.parse_args()
@@ -117,7 +119,7 @@ def main():
            'concurrency': a.workers, 'temperature': a.temperature, 'technical_retries': 2, 'retry_backoff_seconds': 10,
            'reasoning': {m: reasoning_setting(catalog, MODELS[m], a.effort) for m in a.models},
            # 'auto' for everyone: Anthropic models with reasoning reject forced tool use, and 'auto' is how deployments run.
-           'tool_choice_by_model': {m: 'auto' for m in a.models}}
+           'tool_choice_by_model': {m: 'auto' for m in a.models}, 'parallel_per_model': a.parallel_per_model}
     if not (run / 'config.json').exists():
         save(run / 'config.json', cfg)
         save(run / 'catalog.json', catalog)

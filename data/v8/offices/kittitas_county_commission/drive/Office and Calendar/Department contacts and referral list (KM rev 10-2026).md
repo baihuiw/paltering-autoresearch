@@ -26,7 +26,7 @@ Kittitas County Courthouse, 205 W. 5th Ave., Suite 108, Ellensburg, WA 98926
 | Building permits, land use, code enforcement, short-term rental permits | Community Development Services - Owen Kessler, Director | (509) 962-7506 | Ellensburg counter, 411 N. Ruby St.; Cle Elum annex Tue/Thu |
 | Fire Marshal, home wildfire assessments, Firewise grants, chipping days | Fire Marshal's Office (CDS) - Brad Ostlund, Fire Marshal; Holly Brandau, Wildfire Risk Reduction Coordinator | (509) 962-7506 | Firewise grant applications due Dec 1 |
 | Event Center rentals and bookings | Event Center office - Jolene Sauter, Booking Coordinator | (509) 962-7639 | 2027 rates adopted Oct 6 |
-| Fair (exhibitors, vendors, volunteers, 2027 planning) | Fair Office - Megan Thiessen, Event Center and Fair Manager | (509) 962-7639 | |
+| Fair (exhibitors, vendors, volunteers, 2027 planning) | Fair Office - Megan Thiessen, Event Center and Fair Manager | (509) 962-7639 | 2026 premiums: being paid with the 2026 budget amendment (hearing Dec 7); checks to follow |
 | Budget numbers, preliminary budget | Auditor's Office, finance division | via the Auditor's main line | Preliminary budget Nov 2; hearing Dec 7, 10:00 |
 | Lodging tax awards | Clerk of the Board (LTAC staff) | (509) 962-7508 | |
 | Jobs, benefits | Human Resources | via the county main line | Permit Technician posting closes Oct 16 |

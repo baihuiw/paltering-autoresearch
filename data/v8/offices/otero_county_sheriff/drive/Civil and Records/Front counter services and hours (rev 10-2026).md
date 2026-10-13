@@ -50,6 +50,7 @@ Every phone message gets a callback within one business day. If the person you n
 - **"Can I pay a bond at night?"** Yes, at the detention lobby window, 24 hours, once the bond is set. Cash, cashier's check or money order, plus $10 cash bonding fee. No cards.
 - **"Can someone come talk to my class?"** Yes. Bonnie Sauer schedules school visits; ask three weeks ahead.
 - **"Who do I call about hunters on my land?"** Dispatch, (719) 384-5941, or 911 if it's happening now. Dispatch notifies Parks and Wildlife too.
+- **"When is the sheriff's dog coming?"** The K-9 Partner Project depends on the 2027 county budget; the Board holds the budget hearing Dec 7 and adopts the budget Dec 14. Donations stay in the restricted K-9 account; Marcy Peralta has the details.
 - **"Is there a burn ban?"** Not right now (lifted Sept 14, Resolution 2026-57). Burning still needs a permit from the fire district.
 
 ## Holidays and closures (2026)

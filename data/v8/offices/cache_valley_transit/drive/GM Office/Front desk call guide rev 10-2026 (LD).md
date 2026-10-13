@@ -1,6 +1,6 @@
 # Front desk call guide
 
-*For front desk staff and anyone covering the main line. Rev. October 12, 2026 (LD). Updated: route study dates, Route 12 morning note, holiday hours, snow at stops. Main line (435) 752-2877. Front desk hours Monday-Friday 8:00 a.m.-5:00 p.m.*
+*For front desk staff and anyone covering the main line. Rev. October 16, 2026 (LD). Updated: route study dates, Route 12 morning note, holiday hours, snow at stops, Sunday pilot (DW 10/15). Main line (435) 752-2877. Front desk hours Monday-Friday 8:00 a.m.-5:00 p.m.*
 
 When you don't know, take a name and number and send it to the right person (see the staff directory). Log every rider comment in the customer comment tracker before you hang up.
 
@@ -24,6 +24,8 @@ When you don't know, take a name and number and send it to the right person (see
 **"I want to complain about a driver."** Same details. Log it. Supervisor follows up within 3 business days. Don't promise discipline or an outcome.
 
 **"When is the board meeting?"** Fourth Wednesday, 5:30 p.m., boardroom here, except Nov 18 and Dec 9 this year. Public comment: sign up at the door before the meeting or email Lacey (ldunford@) by noon on the day. 3 minutes. In person only; written comments by email by noon. Livestream is watch-only.
+
+**"Do the buses run on Sundays?"** Not yet. The Sunday pilot is part of the 2027 budget process; the board holds the budget hearing and adopts the 2027 budget Wed Dec 9. Updates: rideconnectutah.gov/sunday.
 
 **"Who clears snow at my stop?"** Priority stops (shelters, busiest stops): contractor within 24 hours after a 2-inch snowfall ends. Others: our crew, as time allows. Take the stop location and send to Cody the same day.
 

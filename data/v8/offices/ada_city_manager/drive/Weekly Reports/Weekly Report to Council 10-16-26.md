@@ -15,7 +15,7 @@ Mayor and Council,
 
 - **Police:** 421 calls for service. Homecoming traffic plan for Ada High went smoothly.
 - **Fire:** 66 runs. Fire Prevention Week school visits reached 1,450 students.
-- **Public Works:** Crack seal crews finished the north side; moving south next week. New landfill gate rate took effect Thursday. Service Center striping Saturday.
+- **Public Works:** Crack seal crews finished the north side; moving south next week. New landfill gate rate took effect Thursday. DEQ logged the Cell 4 refile Oct 7; its completeness review is due Nov 6. Service Center striping Saturday.
 - **Parks:** Fall Fest is next Saturday. Weather looks good so far. Volunteers still welcome.
 - **Community Development:** 11 permits this week. Code enforcement opened 23 cases (mostly tall grass and junk vehicles), closed 19.
 - **Emergency Management:** "Be Ready" campaign launched Monday; Ada Alerts at 3,388 subscribers (up 248 in a week). Utility bill insert prints Oct 23.

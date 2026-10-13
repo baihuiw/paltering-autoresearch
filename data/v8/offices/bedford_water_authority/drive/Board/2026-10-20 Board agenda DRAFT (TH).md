@@ -11,6 +11,7 @@ Public comment sign-up opens at 6:30 p.m. Speakers have three minutes.
 4. Financial reports, August and September 2026 (G. Ashworth)
 5. FY2027 Budget Amendment No. 1 (G. Ashworth)
    - Emergency repair of the 12-inch transmission main, Route 221 (September 10)
+   - Funding: $94,000 from WW-27-06 Mill Branch pump station odor control (PO cancelled 9/30; project to FY2028)
    - Vehicle replacement, Unit 41 (information only)
 6. Executive Director's report (W. Kessinger)
    - First month: staff and facility visits, customer service hours, priorities for FY2027
